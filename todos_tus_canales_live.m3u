@@ -1,0 +1,582 @@
+﻿#EXTM3U
+#EXTINF:-1,CL: 13C HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14878.ts
+#EXTINF:-1,CL: 13C
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/47.ts
+#EXTINF:-1,CL: Canal 13
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9752.ts
+#EXTINF:-1,CL: Canal 13 *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14872.ts
+#EXTINF:-1,CL: Canal 13 Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3.ts
+#EXTINF:-1,CL: Canal 13 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/4.ts
+#EXTINF:-1,CL: El Gourmet HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9106.ts
+#EXTINF:-1,CL: History HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/12184.ts
+#EXTINF:-1,CL: La Red
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9758.ts
+#EXTINF:-1,CL: La Red *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14869.ts
+#EXTINF:-1,CL: La Red **
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14870.ts
+#EXTINF:-1,CL: La Red HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/10.ts
+#EXTINF:-1,CL: Mega
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7469.ts
+#EXTINF:-1,CL: Mega *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14868.ts
+#EXTINF:-1,CL: Mega Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/1.ts
+#EXTINF:-1,CL: Mega Full HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14867.ts
+#EXTINF:-1,CL: Mega HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2.ts
+#EXTINF:-1,CL: NTV Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/10500.ts
+#EXTINF:-1,CL: NTV HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/10501.ts
+#EXTINF:-1,CL: Space HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9709.ts
+#EXTINF:-1,CL: Teletrak HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8680.ts
+#EXTINF:-1,CL: TNT HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/56.ts
+#EXTINF:-1,CL: TV + HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14875.ts
+#EXTINF:-1,CL: TV +
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts
+#EXTINF:-1,CL: TV + HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/12.ts
+#EXTINF:-1,CL: TV Senado
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8725.ts
+#EXTINF:-1,CL: TVN
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9050.ts
+#EXTINF:-1,CL: TVN *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9755.ts
+#EXTINF:-1,CL: TVN **
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9756.ts
+#EXTINF:-1,CL: TVN Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7.ts
+#EXTINF:-1,CL: TVN HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8.ts
+#EXTINF:-1,CL: UCV
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14893.ts
+#EXTINF:-1,CL: UCV HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13455.ts
+#EXTINF:-1,CL: Via X
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13888.ts
+#EXTINF:-1,24 Horas HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2110.ts
+#EXTINF:-1,24 Horas *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13502.ts
+#EXTINF:-1,24 Horas HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2109.ts
+#EXTINF:-1,CNN Chile
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13494.ts
+#EXTINF:-1,CNN Chile *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13495.ts
+#EXTINF:-1,CNN Chile HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7464.ts
+#EXTINF:-1,T13 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts
+#EXTINF:-1,Al Jazeera
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14031.ts
+#EXTINF:-1,Al Jazeera HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14032.ts
+#EXTINF:-1,CL: ESPN 2 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/32.ts
+#EXTINF:-1,CL: ESPN 3 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/33.ts
+#EXTINF:-1,CL: ESPN Extra
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13891.ts
+#EXTINF:-1,CL: ESPN HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/31.ts
+#EXTINF:-1,ESPN 2 Argentina
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11649.ts
+#EXTINF:-1,ESPN 2 Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13568.ts
+#EXTINF:-1,ESPN 2 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3477.ts
+#EXTINF:-1,ESPN 2 PerÃº
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11702.ts
+#EXTINF:-1,ESPN 2 Sur HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13506.ts
+#EXTINF:-1,ESPN 3 Argentina
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11604.ts
+#EXTINF:-1,ESPN 3 Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13569.ts
+#EXTINF:-1,ESPN 3 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3480.ts
+#EXTINF:-1,ESPN 3 PerÃº
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11662.ts
+#EXTINF:-1,ESPN 3 Sur HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13507.ts
+#EXTINF:-1,ESPN Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13567.ts
+#EXTINF:-1,ESPN HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3474.ts
+#EXTINF:-1,ESPN Premium ARG HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9678.ts
+#EXTINF:-1,ESPN Sur HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13505.ts
+#EXTINF:-1,Golf Channel Latinoamerica HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/1656.ts
+#EXTINF:-1,TNT Sports *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/18.ts
+#EXTINF:-1,TNT Sports Premium HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14881.ts
+#EXTINF:-1,TNT Sports ****
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14883.ts
+#EXTINF:-1,TNT Sports 3 **
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14887.ts
+#EXTINF:-1,TNT Sports Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/16.ts
+#EXTINF:-1,TNT Sports HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/17.ts
+#EXTINF:-1,TNT Sports HD ARG **
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13885.ts
+#EXTINF:-1,TNT Sports HD ARG ***
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13886.ts
+#EXTINF:-1,TyC Sports HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6859.ts
+#EXTINF:-1,TyC Sports HD **
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13515.ts
+#EXTINF:-1,TyC Sports HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9485.ts
+#EXTINF:-1,Animal Planet
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13835.ts
+#EXTINF:-1,Animal Planet *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13831.ts
+#EXTINF:-1,Animal Planet **
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13834.ts
+#EXTINF:-1,Animal Planet Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13036.ts
+#EXTINF:-1,Animal Planet Full HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13832.ts
+#EXTINF:-1,Animal Planet HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8887.ts
+#EXTINF:-1,Animal Planet HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13833.ts
+#EXTINF:-1,Discovery Channel
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13828.ts
+#EXTINF:-1,Discovery Channel *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13830.ts
+#EXTINF:-1,Discovery Channel **
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6023.ts
+#EXTINF:-1,Discovery Channel ***
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13829.ts
+#EXTINF:-1,Discovery Channel Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/105.ts
+#EXTINF:-1,Discovery Channel HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/123.ts
+#EXTINF:-1,Discovery Home and Health
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13827.ts
+#EXTINF:-1,Discovery Home and Health *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13826.ts
+#EXTINF:-1,Discovery Home and Health **
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14939.ts
+#EXTINF:-1,Discovery Home and Health Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/109.ts
+#EXTINF:-1,Discovery Home and Health HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/119.ts
+#EXTINF:-1,Discovery Science
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13825.ts
+#EXTINF:-1,Discovery Science *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6025.ts
+#EXTINF:-1,Discovery Science **
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13623.ts
+#EXTINF:-1,Discovery Science HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13622.ts
+#EXTINF:-1,Discovery Science HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14866.ts
+#EXTINF:-1,Discovery Theater Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/110.ts
+#EXTINF:-1,Discovery Theater HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/118.ts
+#EXTINF:-1,Discovery TLC
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13435.ts
+#EXTINF:-1,Discovery TLC *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3314.ts
+#EXTINF:-1,Discovery TLC Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/111.ts
+#EXTINF:-1,Discovery TLC HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/117.ts
+#EXTINF:-1,Discovery Turbo
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5975.ts
+#EXTINF:-1,Discovery Turbo Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/268.ts
+#EXTINF:-1,Discovery Turbo Full HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14852.ts
+#EXTINF:-1,Discovery Turbo HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14853.ts
+#EXTINF:-1,Discovery World
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3334.ts
+#EXTINF:-1,Discovery World *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13621.ts
+#EXTINF:-1,Discovery World Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/112.ts
+#EXTINF:-1,Discovery World HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/116.ts
+#EXTINF:-1,Food Network Full HD 
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13375.ts
+#EXTINF:-1,Food Network HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3336.ts
+#EXTINF:-1,H2
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8867.ts
+#EXTINF:-1,H2 *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13824.ts
+#EXTINF:-1,H2 **
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6029.ts
+#EXTINF:-1,H2 Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8866.ts
+#EXTINF:-1,History Channel Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5893.ts
+#EXTINF:-1,History Channel HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9530.ts
+#EXTINF:-1,History Channel HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9531.ts
+#EXTINF:-1,Investigation Discovery
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3368.ts
+#EXTINF:-1,Investigation Discovery Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13031.ts
+#EXTINF:-1,Investigation Discovery HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/138.ts
+#EXTINF:-1,A&E
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3369.ts
+#EXTINF:-1,A&E Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/92.ts
+#EXTINF:-1,A&E HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/126.ts
+#EXTINF:-1,A&E HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13496.ts
+#EXTINF:-1,AMC
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13377.ts
+#EXTINF:-1,AMC Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9523.ts
+#EXTINF:-1,AMC HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9524.ts
+#EXTINF:-1,AMC HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3382.ts
+#EXTINF:-1,AXN
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/234.ts
+#EXTINF:-1,AXN *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14857.ts
+#EXTINF:-1,AXN Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/103.ts
+#EXTINF:-1,AXN HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/125.ts
+#EXTINF:-1,Cinemax
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13883.ts
+#EXTINF:-1,Cinemax Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13882.ts
+#EXTINF:-1,Cinemax Full HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/260.ts
+#EXTINF:-1,Comedy Central
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3377.ts
+#EXTINF:-1,Comedy Central Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/108.ts
+#EXTINF:-1,Comedy Central Full HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/120.ts
+#EXTINF:-1,E!
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13894.ts
+#EXTINF:-1,E! Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/236.ts
+#EXTINF:-1,El Gourmet Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3376.ts
+#EXTINF:-1,Europa Europa Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13476.ts
+#EXTINF:-1,Europa Europa HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13478.ts
+#EXTINF:-1,Food Network Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13034.ts
+#EXTINF:-1,Golden Edge
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13629.ts
+#EXTINF:-1,Golden Edge Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13628.ts
+#EXTINF:-1,Golden Plus Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3313.ts
+#EXTINF:-1,Golden Plus HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3358.ts
+#EXTINF:-1,Golden Plus HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13625.ts
+#EXTINF:-1,Golden Premier
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13627.ts
+#EXTINF:-1,Golden Premier Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5887.ts
+#EXTINF:-1,Golden Premier HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13626.ts
+#EXTINF:-1,HBO 2
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5888.ts
+#EXTINF:-1,HBO 2 Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/60.ts
+#EXTINF:-1,Lifetime Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/262.ts
+#EXTINF:-1,Lifetime Full HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13033.ts
+#EXTINF:-1,Space
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13484.ts
+#EXTINF:-1,Space *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/255.ts
+#EXTINF:-1,Space Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/98.ts
+#EXTINF:-1,Space HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/133.ts
+#EXTINF:-1,Studio Universal
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13376.ts
+#EXTINF:-1,Studio Universal Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/254.ts
+#EXTINF:-1,Studio Universal HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5916.ts
+#EXTINF:-1,Studio Universal HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14861.ts
+#EXTINF:-1,TNT
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13436.ts
+#EXTINF:-1,TNT Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/93.ts
+#EXTINF:-1,TNT Full HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14855.ts
+#EXTINF:-1,TNT HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/134.ts
+#EXTINF:-1,TNT HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3371.ts
+#EXTINF:-1,TNT Series
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13437.ts
+#EXTINF:-1,TNT Series Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/94.ts
+#EXTINF:-1,TNT Series Full HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14856.ts
+#EXTINF:-1,TNT Series HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/132.ts
+#EXTINF:-1,TNT Series HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3324.ts
+#EXTINF:-1,Warner Channel
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13893.ts
+#EXTINF:-1,Warner Channel *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5943.ts
+#EXTINF:-1,Warner Channel Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3375.ts
+#EXTINF:-1,Warner Channel HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/131.ts
+#EXTINF:-1,Cartoon Network
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3307.ts
+#EXTINF:-1,Cartoon Network *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14935.ts
+#EXTINF:-1,Cartoon Network Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9528.ts
+#EXTINF:-1,Cartoon Network HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9529.ts
+#EXTINF:-1,Cartoonito
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9029.ts
+#EXTINF:-1,Cartoonito Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/245.ts
+#EXTINF:-1,Cartoonito HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5851.ts
+#EXTINF:-1,Discovery Kids
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/104.ts
+#EXTINF:-1,Discovery Kids *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13493.ts
+#EXTINF:-1,Discovery Kids Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9028.ts
+#EXTINF:-1,Discovery Kids Full HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/124.ts
+#EXTINF:-1,Discovery Kids HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/266.ts
+#EXTINF:-1,Antena 3 Internacional
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8257.ts
+#EXTINF:-1,Arirang
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8658.ts
+#EXTINF:-1,Arirang HD 
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8657.ts
+#EXTINF:-1,Telemundo Internacional
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13851.ts
+#EXTINF:-1,Telemundo Internacional HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13850.ts
+#EXTINF:-1,AR: C5N
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/1514.ts
+#EXTINF:-1,AR: Telefe HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/1522.ts
+#EXTINF:-1,AR: Telefe HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/1524.ts
+#EXTINF:-1,AR: Telefe HD **
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13736.ts
+#EXTINF:-1,ARG: AXN
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14530.ts
+#EXTINF:-1,AR: C5N HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14568.ts
+#EXTINF:-1,ARG: TNT
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14622.ts
+#EXTINF:-1,CA: AMC
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13751.ts
+#EXTINF:-1,CA: Discovery Science
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11471.ts
+#EXTINF:-1,CA: E!
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11555.ts
+#EXTINF:-1,CA: FOOD NETWORK
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13772.ts
+#EXTINF:-1,CA: GOLF CHANNEL
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13775.ts
+#EXTINF:-1,CA: HBO 2
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13757.ts
+#EXTINF:-1,CA: LIFETIME
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13759.ts
+#EXTINF:-1,CA: LOVE NATURE
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13792.ts
+#EXTINF:-1,CA: TLC
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13764.ts
+#EXTINF:-1,ES: 24 HORAS
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7845.ts
+#EXTINF:-1,ES: Antena 3 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8234.ts
+#EXTINF:-1,ES: AXN Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8218.ts
+#EXTINF:-1,ES: AXN White Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8214.ts
+#EXTINF:-1,ES: Comedy Central
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8230.ts
+#EXTINF:-1,ES: Disney Channel
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8191.ts
+#EXTINF:-1,USA: Animal Planet
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8997.ts
+#EXTINF:-1,USA: BBC World News
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8993.ts
+#EXTINF:-1,USA: Cinemax HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5488.ts
+#EXTINF:-1,USA: Cinemax More Max
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13728.ts
+#EXTINF:-1,USA: E! Entertainment
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7240.ts
+#EXTINF:-1,USA: ESPN Deportes
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5493.ts
+#EXTINF:-1,USA: ESPN News
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5487.ts
+#EXTINF:-1,USA: Food Network
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5494.ts
+#EXTINF:-1,USA: History
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7291.ts
+#EXTINF:-1,USA: MTV Classic
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7305.ts
+#EXTINF:-1,USA: MTV HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7303.ts
+#EXTINF:-1,USA: MTV Live
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7306.ts
+#EXTINF:-1,USA: TCM
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7307.ts
+#EXTINF:-1,USA: Telemundo Chicago
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7373.ts
+#EXTINF:-1,USA: Telemundo Las Vegas
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7391.ts
+#EXTINF:-1,USA: Telemundo Los Angeles
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7358.ts
+#EXTINF:-1,USA: TLC
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5533.ts
+#EXTINF:-1,USA: TNT
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5520.ts
+#EXTINF:-1,USA: Univision
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7375.ts
+#EXTINF:-1,USA: Univision *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7374.ts
+#EXTINF:-1,USA: Univision Miami
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7377.ts
+#EXTINF:-1,USA: USA Network
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7385.ts
+#EXTINF:-1,MTV 00s Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3350.ts
+#EXTINF:-1,MTV 80s
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13858.ts
+#EXTINF:-1,MTV Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3343.ts
+#EXTINF:-1,MTV Hits
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5904.ts
+#EXTINF:-1,MTV Live Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3348.ts
+#EXTINF:-1,Radio Bio Bio ConcepciÃ³n
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8695.ts
+#EXTINF:-1,Radio Bio Bio Los Ãngeles
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8696.ts
+#EXTINF:-1,Radio Bio Bio Osorno
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8698.ts
+#EXTINF:-1,Radio Bio Bio Puerto Montt
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8700.ts
+#EXTINF:-1,Radio Bio Bio Santiago
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8693.ts
+#EXTINF:-1,Radio Bio Bio Temuco
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8697.ts
+#EXTINF:-1,Radio Bio Bio Valdivia
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8699.ts
+#EXTINF:-1,Radio Bio Bio ValparaÃ­so
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8694.ts
+#EXTINF:-1,BR: A&E
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15071.ts
+#EXTINF:-1,BR: AMC
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15073.ts
+#EXTINF:-1,BR: AXN
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15075.ts
+#EXTINF:-1,BR: Cinemax
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15083.ts
+#EXTINF:-1,BR: Comedy Central
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15086.ts
+#EXTINF:-1,BR: Discovery Channel
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15088.ts
+#EXTINF:-1,BR: Discovery H&H
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15089.ts
+#EXTINF:-1,BR: Discovery Kids
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15090.ts
+#EXTINF:-1,BR: Discovery Turbo
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15093.ts
+#EXTINF:-1,BR: Discovery World
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15094.ts
+#EXTINF:-1,BR: Disney Channel
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15095.ts
+#EXTINF:-1,BR: E!
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15097.ts
+#EXTINF:-1,BR: ESPN Extra
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15099.ts
+#EXTINF:-1,BR: Food Network
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15102.ts
+#EXTINF:-1,BR: H2
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15113.ts
+#EXTINF:-1,BR: HBO 2
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15114.ts
+#EXTINF:-1,BR: Lifetime
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15125.ts
+#EXTINF:-1,BR: Nickelodeon
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15132.ts
+#EXTINF:-1,BR: Space
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15146.ts
+#EXTINF:-1,BR: Studio Universal
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15151.ts
+#EXTINF:-1,BR: TCM
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15154.ts
+#EXTINF:-1,BR: TLC
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15161.ts
+#EXTINF:-1,BR: TNT
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15162.ts
+#EXTINF:-1,BR: TNT Series
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15163.ts
+#EXTINF:-1,BR: Tooncast
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15164.ts
+#EXTINF:-1,BR: Zoomoo
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15169.ts
+#EXTINF:-1,BR: ESPN Brasil
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15171.ts
+#EXTINF:-1,TNT Sports HD **
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15174.ts
+#EXTINF:-1,TNT Full HD **
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15188.ts
+#EXTINF:-1,Disney Channel
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15683.ts
+#EXTINF:-1,Disney Channel HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15684.ts
+#EXTINF:-1,Disney Channel HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15685.ts
+#EXTINF:-1,CL: TV + 2
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15711.ts
+#EXTINF:-1,TNT Sports HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15718.ts
+#EXTINF:-1,BR: Animal Planet
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15719.ts
+#EXTINF:-1,Love Nature
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15835.ts
+
