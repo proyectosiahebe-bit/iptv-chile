@@ -10,12 +10,16 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2109.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9049.ts
 #EXTINF:-1,CHV Noticias
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8
+#EXTINF:-1,CL: Canal 13
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9752.ts
+#EXTINF:-1,CL: Mega
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7469.ts
+#EXTINF:-1,Mega 2
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TEt5SkFaYVhieWRWRFNsa3FJZVprdz0
 #EXTINF:-1,CL: NTV
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/10501.ts
 #EXTINF:-1,CL: TV +
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts
-#EXTINF:-1,CL: TV Senado
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8725.ts
 #EXTINF:-1,TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1,CL: UCV
@@ -29,14 +33,62 @@ http://45.162.193.35/ZONALATINA/index.m3u8
 # DEPORTES
 # ═══════════════════════════════════════════════════
 
+#EXTINF:-1,CDO
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/36.ts
+#EXTINF:-1,CDO 2
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/37.ts
+#EXTINF:-1,CDO HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15338.ts
+#EXTINF:-1,CL: ESPN
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/31.ts
+#EXTINF:-1,CL: ESPN 2
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/32.ts
+#EXTINF:-1,CL: ESPN 3
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/33.ts
+#EXTINF:-1,CL: ESPN Extra
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13891.ts
+#EXTINF:-1,ESPN
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3474.ts
+#EXTINF:-1,ESPN 2
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3477.ts
+#EXTINF:-1,ESPN 2 Argentina
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11649.ts
 #EXTINF:-1,ESPN 2 Peru
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11702.ts
+#EXTINF:-1,ESPN 2 Sur
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13506.ts
+#EXTINF:-1,ESPN 3
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3480.ts
+#EXTINF:-1,ESPN 3 Argentina
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11604.ts
 #EXTINF:-1,ESPN 3 Peru
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11662.ts
+#EXTINF:-1,ESPN 3 Sur
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13507.ts
+#EXTINF:-1,ESPN Deportes
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5493.ts
+#EXTINF:-1,ESPN News
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5487.ts
+#EXTINF:-1,ESPN Premium ARG
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9678.ts
+#EXTINF:-1,ESPN Sur
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13505.ts
+#EXTINF:-1,Fox Sports HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3486.ts
+#EXTINF:-1,Fox Sports 2 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3489.ts
+#EXTINF:-1,Fox Sports 3 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3492.ts
+#EXTINF:-1,TNT Sports
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/18.ts
 #EXTINF:-1,TNT Sports 3
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14887.ts
+#EXTINF:-1,TNT Sports HD ARG
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13885.ts
 #EXTINF:-1,TNT Sports Premium
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14881.ts
+#EXTINF:-1,TyC Sports
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6859.ts
 
 # ═══════════════════════════════════════════════════
 # PELICULAS
@@ -44,10 +96,28 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14881.ts
 
 #EXTINF:-1,AMC
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13377.ts
+#EXTINF:-1,Cinecanal HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/121.ts
 #EXTINF:-1,Cinemax
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13883.ts
 #EXTINF:-1,Golden Edge
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13629.ts
+#EXTINF:-1,HBO
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5890.ts
+#EXTINF:-1,HBO 2
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5888.ts
+#EXTINF:-1,HBO Family
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13865.ts
+#EXTINF:-1,HBO Mundi
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6011.ts
+#EXTINF:-1,HBO Plus
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13871.ts
+#EXTINF:-1,HBO Pop
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13874.ts
+#EXTINF:-1,HBO Signature
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13876.ts
+#EXTINF:-1,HBO Xtreme
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13879.ts
 #EXTINF:-1,Studio Universal
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13376.ts
 
@@ -78,6 +148,12 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13893.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9029.ts
 #EXTINF:-1,Discovery Kids
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/104.ts
+#EXTINF:-1,Disney Channel
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15683.ts
+#EXTINF:-1,Disney Channel HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15684.ts
+#EXTINF:-1,Disney Jr HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8986.ts
 
 # ═══════════════════════════════════════════════════
 # DOCUMENTALES / ESTILO DE VIDA
@@ -110,6 +186,16 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15835.ts
 
 #EXTINF:-1,MTV 80s
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13858.ts
+#EXTINF:-1,MTV Latino
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Q2pXQ1M4ekR6QXFpV2xoV01ZaElLMD0
+#EXTINF:-1,MTV FHD (MX)
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TjA2OG45eEdLTWdFSlRyMllYK2xRZz0
+#EXTINF:-1,MTV Live (MX)
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S1pzWFh2T0tRZVJtbG50Y1NKV2ZSYz0
+#EXTINF:-1,MTV Hits (MX)
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TVNONXVqazBpQ1EzM3JWNEtzV0Nvdz0
+#EXTINF:-1,VH1 Classic (MX)
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SG9hYXJ0UUw4czJMRGd5WWJlZ3hDRT0
 
 # ═══════════════════════════════════════════════════
 # INTERNACIONALES
@@ -127,9 +213,11 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8234.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13478.ts
 
 # ═══════════════════════════════════════════════════
-# TELETRAK + RADIO BIO BIO
+# TELETRAK + RADIO BIO BIO + TV SENADO
 # ═══════════════════════════════════════════════════
 
+#EXTINF:-1,CL: TV Senado
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8725.ts
 #EXTINF:-1,CL: Teletrak
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8680.ts
 #EXTINF:-1,Radio Bio Bio Concepcion
