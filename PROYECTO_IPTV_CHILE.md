@@ -33,9 +33,9 @@ https://raw.githubusercontent.com/proyectosiahebe-bit/iptv-chile/main/todos_tus_
 - m3u.cl: `https://m3u.cl/lista/CL.m3u`
 - Usadas para: CHV Noticias (rudo.video), TVN3 (mdstrm), Zona Latina
 
-## Canales por categoria (138 total)
+## Canales por categoria (158 total)
 
-### NACIONALES (31)
+### NACIONALES (47)
 | Canal | Fuente | URL |
 |-------|--------|-----|
 | 24 Horas | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2109.ts |
@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/proyectosiahebe-bit/iptv-chile/main/todos_tus_
 | T13 | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts |
 | Zona Latina | iptv-org | http://45.162.193.35/ZONALATINA/index.m3u8 |
 
-### DEPORTES (29)
+### DEPORTES (30)
 - CDO, CDO 2, CDO HD (iptv.wtf)
 - CL: ESPN, ESPN 2, ESPN 3, ESPN Extra (iptv.wtf)
 - ESPN, ESPN 2, ESPN 3 (general) + variantes Argentina/Peru/Sur (iptv.wtf)
@@ -73,7 +73,7 @@ https://raw.githubusercontent.com/proyectosiahebe-bit/iptv-chile/main/todos_tus_
 ### DOCUMENTALES / ESTILO DE VIDA (12)
 - A&E, Animal Planet, Discovery Home and Health, Discovery Science, Discovery TLC, Discovery Turbo, Food Network, H2, Investigation Discovery, Love Nature (iptv.wtf)
 
-### MUSICA (9)
+### MUSICA (12)
 - MTV 80s (iptv.wtf)
 - MTV Latino, MTV FHD (MX), MTV Live (MX), MTV Hits (MX), VH1 Classic (MX) (jumangis)
 
@@ -83,6 +83,13 @@ https://raw.githubusercontent.com/proyectosiahebe-bit/iptv-chile/main/todos_tus_
 ### TELETRAK + RADIO BIO BIO + TV SENADO (al final, 10)
 - CL: TV Senado, CL: Teletrak (iptv.wtf)
 - Radio Bio Bio: Concepcion, Los Angeles, Osorno, Puerto Montt, Santiago, Temuco, Valdivia, Valparaiso (iptv.wtf)
+
+## Canales agregados desde m3u.cl (20, 2026-08-27)
+Casi todos con señal real (solo Meganoticias queda 401 por token):
+- **NACIONALES:** Bio Bio TV (rudo), La Red (circa), TV+ (rudo), TV Chile (mdstrm), TVN (intersurtv), NTV (mdstrm), TVN 24 Horas (mdstrm), Mega (dps), Meganoticias (401), CHV (rudo), Canal 13 (dps), 13 Internacional, 13 popup, T13 (rudo), T13 Radio, CNN Chile
+- **DEPORTES:** CHV Deportes (rudo)
+- **MUSICA:** Retro Plus TV, Retro Plus TV Senal 2, Retro Plus TV Senal 3 (cdnz)
+- Ya estaban (mismo URL): TVN3, CHV Noticias, 13 go
 
 ## Canales agregados desde iptv-org (42, 2026-08-27)
 Pedidos por el usuario. Incluidos en la playlist aunque muchos NO tienen seÃ±al (se agregaron todos por pedido explicito):
@@ -107,6 +114,7 @@ Get-Content "jumangis.m3u" | Where-Object { $_ -match "^#EXTINF" -and $_ -match 
 ## Historial de cambios
 | Fecha | Canales | Cambios |
 |-------|---------|---------|
+| 2026-08-27 | 158 | Agregados 20 de m3u.cl (Bio Bio, La Red, CHV, CNN, Mega dps, Retro Plus, etc.), casi todos con señal |
 | 2026-08-27 | 138 | Agregados 42 canales de iptv-org (13C/13 Festival/13 Kids/DIsney/Nick/Cinecanal Pacific/etc.), pedidos por usuario |
 | 2026-08-27 | 96 | Agregados Mega, Canal 13, Mega 2, ESPN/FOX/CDO/TNT, HBO/Cinecanal, Disney, MTV/VH1; TV Senado al final |
 | 2026-08-27 | 52 | Seleccion inversa conservando 52 canales |

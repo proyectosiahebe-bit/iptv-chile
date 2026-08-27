@@ -88,6 +88,54 @@ http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8
 #EXTINF:-1,T13 En Vivo
 https://redirector.dps.live/hls/t13/playlist.m3u8
 
+#EXTINF:-1,Bio Bio TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+
+#EXTINF:-1,La Red
+https://live.getcirca.run/3969875408/ts:abr.m3u8
+
+#EXTINF:-1,TV+ (rudo)
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+
+#EXTINF:-1,TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF:-1,TVN
+https://iptv2.intersurtv.cl/TVN/index.m3u8
+
+#EXTINF:-1,NTV (mdstrm)
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+
+#EXTINF:-1,TVN 24 Horas
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+
+#EXTINF:-1,Mega (dps)
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1,Meganoticias
+https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+
+#EXTINF:-1,CHV (rudo)
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+
+#EXTINF:-1,Canal 13 (dps)
+https://redirector.dps.live/hls/13cl/playlist.m3u8
+
+#EXTINF:-1,13 Internacional
+https://redirector.dps.live/hls/13intav/playlist.m3u8
+
+#EXTINF:-1,T13 (rudo)
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
+#EXTINF:-1,T13 Radio
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
+
+#EXTINF:-1,CNN Chile
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1,Canal 13 popup
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13popup/13popup.smil/playlist.m3u8
+
 # DEPORTES
 # ═══════════════════════════════════════════════════
 
@@ -152,6 +200,9 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6859.ts
 
 #EXTINF:-1,CDO
 http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8
+
+#EXTINF:-1,CHV Deportes
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
 
 # PELICULAS
 # ═══════════════════════════════════════════════════
@@ -330,6 +381,16 @@ https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 
 #EXTINF:-1,FM Plus TV
 https://v2.tustreaming.cl/fmplus/index.m3u8
+
+
+#EXTINF:-1,Retro Plus TV
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+
+#EXTINF:-1,Retro Plus TV Senal 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+
+#EXTINF:-1,Retro Plus TV Senal 3
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 
 # INTERNACIONALES
 # ═══════════════════════════════════════════════════
