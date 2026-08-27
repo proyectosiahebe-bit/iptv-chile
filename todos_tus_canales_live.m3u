@@ -1,104 +1,98 @@
 ﻿#EXTM3U
 
-# ═══════════════════════════════════════════════════
+# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 # NACIONALES (Chile)
-# ═══════════════════════════════════════════════════
+# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
-#EXTINF:-1,24 Horas
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2109.ts
-#EXTINF:-1,CHV Noticias
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8
-#EXTINF:-1,CL: NTV
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/10501.ts
-#EXTINF:-1,CL: TV +
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts
-#EXTINF:-1,TVN3
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1,CL: UCV
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14893.ts
-#EXTINF:-1,T13
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts
-#EXTINF:-1,Zona Latina
-http://45.162.193.35/ZONALATINA/index.m3u8
+#EXTINF:-1,1 RETRO PLUS 3
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 
-# ═══════════════════════════════════════════════════
+#EXTINF:-1,2 FM PLUS
+https://v2.tustreaming.cl/fmplus/index.m3u8
 
-#EXTINF:-1,T13 En Vivo
-https://redirector.dps.live/hls/t13/playlist.m3u8
-
-#EXTINF:-1,TV+ (rudo)
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
-
-#EXTINF:-1,TV Chile
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-
-#EXTINF:-1,NTV (mdstrm)
-https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
-
-#EXTINF:-1,TVN 24 Horas
-https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
-
-#EXTINF:-1,Mega (dps)
-https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-
-#EXTINF:-1,CHV (rudo)
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
-
-#EXTINF:-1,Canal 13 (dps)
-https://redirector.dps.live/hls/13cl/playlist.m3u8
-
-#EXTINF:-1,T13 (rudo)
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-
-#EXTINF:-1,T13 Radio
-https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
-
-#EXTINF:-1,CNN Chile
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
-
-#EXTINF:-1,Bio Bio TV (rudo)
+#EXTINF:-1,3 BIO BIO TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 
-#EXTINF:-1,Bio Bio TV (tlink)
-http://cdn1tlinkgo.tlink.cl/biobiotv/mono.m3u8
-
-#EXTINF:-1,La Red (circa)
+#EXTINF:-1,4 LA RED
 https://live.getcirca.run/3969875408/ts:abr.m3u8
 
-#EXTINF:-1,La Red (tlink)
-http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8
+#EXTINF:-1,5 TV+
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
 
-#EXTINF:-1,Mega 2 (jumangis)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TEt5SkFaYVhieWRWRFNsa3FJZVprdz0
+#EXTINF:-1,6 TV CHILE
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
-#EXTINF:-1,Mega 2 (org)
-http://15.204.246.24:8080/Mega2HD/index.m3u8
-
-#EXTINF:-1,TVN (intersur)
+#EXTINF:-1,7 TVN
 https://iptv2.intersurtv.cl/TVN/index.m3u8
 
-#EXTINF:-1,TVN (org)
-http://15.204.246.24:8080/TVNHD/index.m3u8
+#EXTINF:-1,8 NTV
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 
-#EXTINF:-1,Meganoticias Ahora (tlink)
-http://cdn1tlinkgo.tlink.cl/meganoticias/mono.m3u8
+#EXTINF:-1,9 TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
-#EXTINF:-1,Meganoticias (mdstrm)
-https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+#EXTINF:-1,10 TVN 24 HORAS
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+
+#EXTINF:-1,11 MEGA
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1,12 CHV
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+
+#EXTINF:-1,13 CHV NOTICIAS
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8
+
+#EXTINF:-1,14 T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
+#EXTINF:-1,15 CNN CHILE
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1,16 UCV
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14893.ts
+
+#EXTINF:-1,17 24 HORAS
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2109.ts
+
+#EXTINF:-1,18 NTV (iptv.wtf)
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/10501.ts
+
+#EXTINF:-1,19 TV+ (iptv.wtf)
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts
+
+#EXTINF:-1,20 T13 (iptv.wtf)
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts
+
+#EXTINF:-1,21 ZONA LATINA
+http://45.162.193.35/ZONALATINA/index.m3u8
+
+#EXTINF:-1,22 T13 EN VIVO
+https://redirector.dps.live/hls/t13/playlist.m3u8
+
+#EXTINF:-1,23 T13 RADIO
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
+
+#EXTINF:-1,24 CANAL 13 (dps)
+https://redirector.dps.live/hls/13cl/playlist.m3u8
+
+#EXTINF:-1,25 MEGA 2 (jumangis)
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TEt5SkFaYVhieWRWRFNsa3FJZVprdz0
 
 # PELICULAS
-# ═══════════════════════════════════════════════════
+# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
 #EXTINF:-1,AMC
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13377.ts
+
 #EXTINF:-1,Cinemax
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13883.ts
+
 #EXTINF:-1,Golden Edge
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13629.ts
+
 #EXTINF:-1,Studio Universal
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13376.ts
-
-# ═══════════════════════════════════════════════════
 
 #EXTINF:-1,Cinecanal Pacific
 http://138.121.15.230:9002/CINECANAL/index.m3u8
@@ -107,24 +101,28 @@ http://138.121.15.230:9002/CINECANAL/index.m3u8
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 
 # SERIES / ENTRETENIMIENTO
-# ═══════════════════════════════════════════════════
+# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
 #EXTINF:-1,AXN
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/234.ts
+
 #EXTINF:-1,Comedy Central
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3377.ts
+
 #EXTINF:-1,E!
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13894.ts
+
 #EXTINF:-1,Space
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13484.ts
+
 #EXTINF:-1,TNT
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13436.ts
+
 #EXTINF:-1,TNT Series
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13437.ts
+
 #EXTINF:-1,Warner Channel
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13893.ts
-
-# ═══════════════════════════════════════════════════
 
 #EXTINF:-1,13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
@@ -136,39 +134,34 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 
 # DEPORTES
-# ═══════════════════════════════════════════════════
+# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
 #EXTINF:-1,ESPN 2 Peru
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11702.ts
+
 #EXTINF:-1,ESPN 3 Peru
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11662.ts
+
 #EXTINF:-1,TNT Sports 3
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14887.ts
+
 #EXTINF:-1,TNT Sports HD ARG
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13885.ts
+
 #EXTINF:-1,TNT Sports Premium
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14881.ts
-
-# ═══════════════════════════════════════════════════
 
 #EXTINF:-1,CHV Deportes
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
 
-#EXTINF:-1,CDO (iptv.wtf)
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/36.ts
-
-#EXTINF:-1,CDO (tlink)
-http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8
-
 # INFANTILES
-# ═══════════════════════════════════════════════════
+# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
 #EXTINF:-1,Cartoonito
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9029.ts
+
 #EXTINF:-1,Discovery Kids
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/104.ts
-
-# ═══════════════════════════════════════════════════
 
 #EXTINF:-1,13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
@@ -180,51 +173,55 @@ http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 http://177.234.249.178:8888/NICK-JR/index.m3u8
 
 # DOCUMENTALES / ESTILO DE VIDA
-# ═══════════════════════════════════════════════════
+# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
 #EXTINF:-1,A&E
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3369.ts
+
 #EXTINF:-1,Animal Planet
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13835.ts
+
 #EXTINF:-1,Discovery Home and Health
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13827.ts
+
 #EXTINF:-1,Discovery Science
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13825.ts
+
 #EXTINF:-1,Discovery TLC
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13435.ts
+
 #EXTINF:-1,Discovery Turbo
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5975.ts
+
 #EXTINF:-1,Food Network
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3336.ts
+
 #EXTINF:-1,H2
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8867.ts
+
 #EXTINF:-1,Investigation Discovery
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3368.ts
+
 #EXTINF:-1,Love Nature
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15835.ts
-
-# ═══════════════════════════════════════════════════
 
 #EXTINF:-1,13C
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
 # MUSICA
-# ═══════════════════════════════════════════════════
+# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
 #EXTINF:-1,MTV 80s
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13858.ts
+
 #EXTINF:-1,MTV Live (MX)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S1pzWFh2T0tRZVJtbG50Y1NKV2ZSYz0
+
 #EXTINF:-1,VH1 Classic (MX)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SG9hYXJ0UUw4czJMRGd5WWJlZ3hDRT0
 
-# ═══════════════════════════════════════════════════
-
 #EXTINF:-1,13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-
-#EXTINF:-1,FM Plus TV
-https://v2.tustreaming.cl/fmplus/index.m3u8
 
 #EXTINF:-1,Retro Plus TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
@@ -232,45 +229,55 @@ https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1,Retro Plus TV Senal 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 
-#EXTINF:-1,Retro Plus TV Senal 3
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
-
 # INTERNACIONALES
-# ═══════════════════════════════════════════════════
+# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
 #EXTINF:-1,AR: Telefe
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/1522.ts
+
 #EXTINF:-1,Arirang
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8658.ts
+
 #EXTINF:-1,Arirang HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8657.ts
+
 #EXTINF:-1,ES: Antena 3
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8234.ts
+
 #EXTINF:-1,Europa Europa
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13478.ts
 
-# ═══════════════════════════════════════════════════
+# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 # TELETRAK + RADIO BIO BIO + TV SENADO
-# ═══════════════════════════════════════════════════
+# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
 #EXTINF:-1,CL: TV Senado
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8725.ts
+
 #EXTINF:-1,CL: Teletrak
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8680.ts
+
 #EXTINF:-1,Radio Bio Bio Concepcion
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8695.ts
+
 #EXTINF:-1,Radio Bio Bio Los Angeles
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8696.ts
+
 #EXTINF:-1,Radio Bio Bio Osorno
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8698.ts
+
 #EXTINF:-1,Radio Bio Bio Puerto Montt
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8700.ts
+
 #EXTINF:-1,Radio Bio Bio Santiago
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8693.ts
+
 #EXTINF:-1,Radio Bio Bio Temuco
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8697.ts
+
 #EXTINF:-1,Radio Bio Bio Valdivia
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8699.ts
+
 #EXTINF:-1,Radio Bio Bio Valparaiso
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8694.ts
 
