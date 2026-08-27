@@ -13,17 +13,12 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9752.ts
 #EXTINF:-1,CL: CHV
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9049.ts
 #EXTINF:-1,CHV Noticias
-http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8
 #EXTINF:-1,CL: La Red
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9758.ts
 #EXTINF:-1,CL: Mega
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7469.ts
-#EXTINF:-1,Mega 2
-http://15.204.246.24:8080/Mega2HD/index.m3u8
-#EXTINF:-1,Meganoticias
-http://cdn1tlinkgo.tlink.cl/meganoticias/mono.m3u8
-#EXTINF:-1,Megatiempo
-http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8
+
 #EXTINF:-1,CL: NTV
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/10501.ts
 #EXTINF:-1,CL: TV +
@@ -37,13 +32,12 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8680.ts
 #EXTINF:-1,CL: TVN
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9050.ts
 #EXTINF:-1,TVN3
-http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1,CL: UCV
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14893.ts
 #EXTINF:-1,CL: Via X
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13888.ts
-#EXTINF:-1,13Rec
-http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8
+
 #EXTINF:-1,CNN Chile
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13494.ts
 #EXTINF:-1,Radio Bio Bio Concepcion
