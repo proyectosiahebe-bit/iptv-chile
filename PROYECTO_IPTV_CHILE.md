@@ -1,4 +1,4 @@
-# Proyecto IPTV Chile
+﻿# Proyecto IPTV Chile
 
 Playlist M3U de canales chilenos y latinoamericanos.
 
@@ -33,9 +33,9 @@ https://raw.githubusercontent.com/proyectosiahebe-bit/iptv-chile/main/todos_tus_
 - m3u.cl: `https://m3u.cl/lista/CL.m3u`
 - Usadas para: CHV Noticias (rudo.video), TVN3 (mdstrm), Zona Latina
 
-## Canales por categoria (96 total)
+## Canales por categoria (138 total)
 
-### NACIONALES (12)
+### NACIONALES (31)
 | Canal | Fuente | URL |
 |-------|--------|-----|
 | 24 Horas | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2109.ts |
@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/proyectosiahebe-bit/iptv-chile/main/todos_tus_
 | T13 | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts |
 | Zona Latina | iptv-org | http://45.162.193.35/ZONALATINA/index.m3u8 |
 
-### DEPORTES (30)
+### DEPORTES (29)
 - CDO, CDO 2, CDO HD (iptv.wtf)
 - CL: ESPN, ESPN 2, ESPN 3, ESPN Extra (iptv.wtf)
 - ESPN, ESPN 2, ESPN 3 (general) + variantes Argentina/Peru/Sur (iptv.wtf)
@@ -59,21 +59,21 @@ https://raw.githubusercontent.com/proyectosiahebe-bit/iptv-chile/main/todos_tus_
 - Fox Sports HD, Fox Sports 2 HD, Fox Sports 3 HD (iptv.wtf)
 - TNT Sports, TNT Sports 3, TNT Sports HD ARG, TNT Sports Premium, TyC Sports (iptv.wtf)
 
-### PELICULAS (13)
+### PELICULAS (16)
 - AMC, Cinecanal HD, Cinemax, Golden Edge, Studio Universal (iptv.wtf)
 - HBO, HBO 2, HBO Family, HBO Mundi, HBO Plus, HBO Pop, HBO Signature, HBO Xtreme (iptv.wtf)
 
-### SERIES / ENTRETENIMIENTO (7)
+### SERIES / ENTRETENIMIENTO (13)
 - AXN, Comedy Central, E!, Space, TNT, TNT Series, Warner Channel (iptv.wtf)
 
-### INFANTILES (5)
+### INFANTILES (13)
 - Cartoonito, Discovery Kids (iptv.wtf)
 - Disney Channel, Disney Channel HD, Disney Jr HD (iptv.wtf)
 
-### DOCUMENTALES / ESTILO DE VIDA (10)
+### DOCUMENTALES / ESTILO DE VIDA (12)
 - A&E, Animal Planet, Discovery Home and Health, Discovery Science, Discovery TLC, Discovery Turbo, Food Network, H2, Investigation Discovery, Love Nature (iptv.wtf)
 
-### MUSICA (6)
+### MUSICA (9)
 - MTV 80s (iptv.wtf)
 - MTV Latino, MTV FHD (MX), MTV Live (MX), MTV Hits (MX), VH1 Classic (MX) (jumangis)
 
@@ -84,8 +84,14 @@ https://raw.githubusercontent.com/proyectosiahebe-bit/iptv-chile/main/todos_tus_
 - CL: TV Senado, CL: Teletrak (iptv.wtf)
 - Radio Bio Bio: Concepcion, Los Angeles, Osorno, Puerto Montt, Santiago, Temuco, Valdivia, Valparaiso (iptv.wtf)
 
-## Canales NO disponibles (sin señal)
-- Meganoticias, Megatiempo, 13Rec/Rec13: no existen con señal jugable en ninguna fuente (tlink/dps muertos, pirostv Meganoticias protegida 401, no estan en iptv.wtf ni jumangis). Solo en YouTube en vivo (no jugable directo en M3U).
+## Canales agregados desde iptv-org (42, 2026-08-27)
+Pedidos por el usuario. Incluidos en la playlist aunque muchos NO tienen seÃ±al (se agregaron todos por pedido explicito):
+- **Con seÃ±al real (funcionan):** 13C, 13 Entretencion, 13 Festival, 13 Humor, 13 Kids, 13 Prime, 13 Realities, 13 Teleseries (dpsgo), Cinecanal Pacific, Disney Channel Panregional, Disney Jr HD, Nick Jr, TV Chile (mdstrm)
+- **Sin seÃ±al (tlink muerto / 403 / stub):** 13Rec, 24 Horas(org), AXN(org), Bio Bio TV, Canal 13(org), CHV Noticias(org), CDO, ChileVision, Comedy Central(org), Disney Channel(org), E!(org), ETC TV, FM Plus TV, La Red, Mega(org), Mega 2, Mega Ficcion, Meganoticias Ahora, Megatiempo, MTV Latin America, Nickelodeon(org), Telemundo Internacional, TVN, TVN3(org), TVR, UCV TV(org), Via X, Disney Jr(org)
+- **Cert SSL (probar en app):** T13 En Vivo, TV+ (org)
+
+## Canales sin seÃ±al (resumen)
+- Meganoticias/Megatiempo/13Rec solo en CDN tlink muerto o HTTP 401/403 (protegidos). Se incluyeron de todas formas por pedido del usuario.
 
 ## Como actualizar - Scripts de busqueda
 ```powershell
@@ -101,6 +107,7 @@ Get-Content "jumangis.m3u" | Where-Object { $_ -match "^#EXTINF" -and $_ -match 
 ## Historial de cambios
 | Fecha | Canales | Cambios |
 |-------|---------|---------|
+| 2026-08-27 | 138 | Agregados 42 canales de iptv-org (13C/13 Festival/13 Kids/DIsney/Nick/Cinecanal Pacific/etc.), pedidos por usuario |
 | 2026-08-27 | 96 | Agregados Mega, Canal 13, Mega 2, ESPN/FOX/CDO/TNT, HBO/Cinecanal, Disney, MTV/VH1; TV Senado al final |
 | 2026-08-27 | 52 | Seleccion inversa conservando 52 canales |
 | 2026-08-27 | 66 | Seleccion de 66 canales |

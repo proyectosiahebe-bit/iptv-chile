@@ -30,6 +30,64 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts
 http://45.162.193.35/ZONALATINA/index.m3u8
 
 # ═══════════════════════════════════════════════════
+
+#EXTINF:-1,24 Horas (org)
+http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8
+
+#EXTINF:-1,Bio Bio TV
+http://cdn1tlinkgo.tlink.cl/biobiotv/mono.m3u8
+
+#EXTINF:-1,Canal 13 (org)
+http://15.204.246.24:8080/Canal13HD/index.m3u8
+
+#EXTINF:-1,CHV Noticias (org)
+http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8
+
+#EXTINF:-1,ChileVision
+http://15.204.246.24:8080/CHVHD/index.m3u8
+
+#EXTINF:-1,La Red
+http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8
+
+#EXTINF:-1,Mega (org)
+http://15.204.246.24:8080/MEGAHD/index.m3u8
+
+#EXTINF:-1,Mega 2
+http://15.204.246.24:8080/Mega2HD/index.m3u8
+
+#EXTINF:-1,Meganoticias Ahora
+http://cdn1tlinkgo.tlink.cl/meganoticias/mono.m3u8
+
+#EXTINF:-1,Megatiempo
+http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8
+
+#EXTINF:-1,TVN
+http://15.204.246.24:8080/TVNHD/index.m3u8
+
+#EXTINF:-1,TVN3 (org)
+http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8
+
+#EXTINF:-1,TVR
+http://cdn1tlinkgo.tlink.cl/tvr/mono.m3u8
+
+#EXTINF:-1,UCV TV (org)
+http://cdn1tlinkgo.tlink.cl/ucvhd/mono.m3u8
+
+#EXTINF:-1,Via X
+http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8
+
+#EXTINF:-1,TV+ (org)
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+
+#EXTINF:-1,13Rec
+http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8
+
+#EXTINF:-1,Mega Ficcion
+http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8
+
+#EXTINF:-1,T13 En Vivo
+https://redirector.dps.live/hls/t13/playlist.m3u8
+
 # DEPORTES
 # ═══════════════════════════════════════════════════
 
@@ -91,6 +149,10 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14881.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6859.ts
 
 # ═══════════════════════════════════════════════════
+
+#EXTINF:-1,CDO
+http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8
+
 # PELICULAS
 # ═══════════════════════════════════════════════════
 
@@ -122,6 +184,16 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13879.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13376.ts
 
 # ═══════════════════════════════════════════════════
+
+#EXTINF:-1,AXN (org)
+https://cdn1tlinkgo.tlink.cl/axnhd/index.m3u8
+
+#EXTINF:-1,Cinecanal Pacific
+http://138.121.15.230:9002/CINECANAL/index.m3u8
+
+#EXTINF:-1,Telemundo Internacional
+http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+
 # SERIES / ENTRETENIMIENTO
 # ═══════════════════════════════════════════════════
 
@@ -141,6 +213,25 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13437.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13893.ts
 
 # ═══════════════════════════════════════════════════
+
+#EXTINF:-1,13 Entretencion
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+
+#EXTINF:-1,13 Realities
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+
+#EXTINF:-1,13 Teleseries
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+#EXTINF:-1,Comedy Central (org)
+http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
+
+#EXTINF:-1,E! (org)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+
+#EXTINF:-1,MTV Latin America
+http://15.204.246.24:8080/MTVHD/index.m3u8
+
 # INFANTILES
 # ═══════════════════════════════════════════════════
 
@@ -156,6 +247,31 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15684.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8986.ts
 
 # ═══════════════════════════════════════════════════
+
+#EXTINF:-1,13 Kids
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+
+#EXTINF:-1,Disney Channel (org)
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+
+#EXTINF:-1,Disney Channel Panregional
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+
+#EXTINF:-1,Disney Jr (org)
+http://45.185.163.75:8000/play/a016/index.m3u8
+
+#EXTINF:-1,Disney Jr HD (org)
+http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
+
+#EXTINF:-1,Nick Jr
+http://177.234.249.178:8888/NICK-JR/index.m3u8
+
+#EXTINF:-1,Nickelodeon (org)
+http://15.204.246.24:8080/NickHD/index.m3u8
+
+#EXTINF:-1,ETC TV
+http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8
+
 # DOCUMENTALES / ESTILO DE VIDA
 # ═══════════════════════════════════════════════════
 
@@ -181,6 +297,13 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3368.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15835.ts
 
 # ═══════════════════════════════════════════════════
+
+#EXTINF:-1,13C
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
+#EXTINF:-1,13 Prime
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+
 # MUSICA
 # ═══════════════════════════════════════════════════
 
@@ -198,6 +321,16 @@ http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TVNONXVqazBpQ1EzM3JWNEtzV
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SG9hYXJ0UUw4czJMRGd5WWJlZ3hDRT0
 
 # ═══════════════════════════════════════════════════
+
+#EXTINF:-1,13 Festival
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+
+#EXTINF:-1,13 Humor
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+
+#EXTINF:-1,FM Plus TV
+https://v2.tustreaming.cl/fmplus/index.m3u8
+
 # INTERNACIONALES
 # ═══════════════════════════════════════════════════
 
@@ -236,3 +369,4 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8697.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8699.ts
 #EXTINF:-1,Radio Bio Bio Valparaiso
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8694.ts
+
