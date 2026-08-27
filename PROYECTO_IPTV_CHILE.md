@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/proyectosiahebe-bit/iptv-chile/main/todos_tus_
 - m3u.cl: `https://m3u.cl/lista/CL.m3u`
 - Usadas para: CHV Noticias (rudo.video), TVN3 (mdstrm), Zona Latina
 
-## Canales por categoria (158 total)
+## Canales por categoria (80 total)
 
 ### NACIONALES (47)
 | Canal | Fuente | URL |
@@ -114,6 +114,7 @@ Get-Content "jumangis.m3u" | Where-Object { $_ -match "^#EXTINF" -and $_ -match 
 ## Historial de cambios
 | Fecha | Canales | Cambios |
 |-------|---------|---------|
+| 2026-08-27 | 80 | Eliminados 78 por pedido: CL CHV/Canal13/Mega, Bio Bio, La Red, Mega 2, HBO, ESPN (solo quedan Peru), CDO, Fox, TNT Sports, todos (org) excepto E!, etc. |
 | 2026-08-27 | 158 | Movida categoria DEPORTES despues de SERIES/ENTRETENIMIENTO |
 | 2026-08-27 | 158 | Agregados 20 de m3u.cl (Bio Bio, La Red, CHV, CNN, Mega dps, Retro Plus, etc.), casi todos con señal |
 | 2026-08-27 | 138 | Agregados 42 canales de iptv-org (13C/13 Festival/13 Kids/DIsney/Nick/Cinecanal Pacific/etc.), pedidos por usuario |
