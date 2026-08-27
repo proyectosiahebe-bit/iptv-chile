@@ -56,6 +56,36 @@ https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
 #EXTINF:-1,CNN Chile
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
 
+#EXTINF:-1,Bio Bio TV (rudo)
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+
+#EXTINF:-1,Bio Bio TV (tlink)
+http://cdn1tlinkgo.tlink.cl/biobiotv/mono.m3u8
+
+#EXTINF:-1,La Red (circa)
+https://live.getcirca.run/3969875408/ts:abr.m3u8
+
+#EXTINF:-1,La Red (tlink)
+http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8
+
+#EXTINF:-1,Mega 2 (jumangis)
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TEt5SkFaYVhieWRWRFNsa3FJZVprdz0
+
+#EXTINF:-1,Mega 2 (org)
+http://15.204.246.24:8080/Mega2HD/index.m3u8
+
+#EXTINF:-1,TVN (intersur)
+https://iptv2.intersurtv.cl/TVN/index.m3u8
+
+#EXTINF:-1,TVN (org)
+http://15.204.246.24:8080/TVNHD/index.m3u8
+
+#EXTINF:-1,Meganoticias Ahora (tlink)
+http://cdn1tlinkgo.tlink.cl/meganoticias/mono.m3u8
+
+#EXTINF:-1,Meganoticias (mdstrm)
+https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+
 # PELICULAS
 # ═══════════════════════════════════════════════════
 
@@ -123,6 +153,12 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14881.ts
 
 #EXTINF:-1,CHV Deportes
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
+
+#EXTINF:-1,CDO (iptv.wtf)
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/36.ts
+
+#EXTINF:-1,CDO (tlink)
+http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8
 
 # INFANTILES
 # ═══════════════════════════════════════════════════
