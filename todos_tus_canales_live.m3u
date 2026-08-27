@@ -136,74 +136,6 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 #EXTINF:-1,Canal 13 popup
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13popup/13popup.smil/playlist.m3u8
 
-# DEPORTES
-# ═══════════════════════════════════════════════════
-
-#EXTINF:-1,CDO
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/36.ts
-#EXTINF:-1,CDO 2
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/37.ts
-#EXTINF:-1,CDO HD
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15338.ts
-#EXTINF:-1,CL: ESPN
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/31.ts
-#EXTINF:-1,CL: ESPN 2
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/32.ts
-#EXTINF:-1,CL: ESPN 3
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/33.ts
-#EXTINF:-1,CL: ESPN Extra
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13891.ts
-#EXTINF:-1,ESPN
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3474.ts
-#EXTINF:-1,ESPN 2
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3477.ts
-#EXTINF:-1,ESPN 2 Argentina
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11649.ts
-#EXTINF:-1,ESPN 2 Peru
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11702.ts
-#EXTINF:-1,ESPN 2 Sur
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13506.ts
-#EXTINF:-1,ESPN 3
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3480.ts
-#EXTINF:-1,ESPN 3 Argentina
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11604.ts
-#EXTINF:-1,ESPN 3 Peru
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11662.ts
-#EXTINF:-1,ESPN 3 Sur
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13507.ts
-#EXTINF:-1,ESPN Deportes
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5493.ts
-#EXTINF:-1,ESPN News
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5487.ts
-#EXTINF:-1,ESPN Premium ARG
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9678.ts
-#EXTINF:-1,ESPN Sur
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13505.ts
-#EXTINF:-1,Fox Sports HD
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3486.ts
-#EXTINF:-1,Fox Sports 2 HD
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3489.ts
-#EXTINF:-1,Fox Sports 3 HD
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3492.ts
-#EXTINF:-1,TNT Sports
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/18.ts
-#EXTINF:-1,TNT Sports 3
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14887.ts
-#EXTINF:-1,TNT Sports HD ARG
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13885.ts
-#EXTINF:-1,TNT Sports Premium
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14881.ts
-#EXTINF:-1,TyC Sports
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6859.ts
-
-# ═══════════════════════════════════════════════════
-
-#EXTINF:-1,CDO
-http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8
-
-#EXTINF:-1,CHV Deportes
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
-
 # PELICULAS
 # ═══════════════════════════════════════════════════
 
@@ -282,6 +214,74 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 
 #EXTINF:-1,MTV Latin America
 http://15.204.246.24:8080/MTVHD/index.m3u8
+
+# DEPORTES
+# ═══════════════════════════════════════════════════
+
+#EXTINF:-1,CDO
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/36.ts
+#EXTINF:-1,CDO 2
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/37.ts
+#EXTINF:-1,CDO HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15338.ts
+#EXTINF:-1,CL: ESPN
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/31.ts
+#EXTINF:-1,CL: ESPN 2
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/32.ts
+#EXTINF:-1,CL: ESPN 3
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/33.ts
+#EXTINF:-1,CL: ESPN Extra
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13891.ts
+#EXTINF:-1,ESPN
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3474.ts
+#EXTINF:-1,ESPN 2
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3477.ts
+#EXTINF:-1,ESPN 2 Argentina
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11649.ts
+#EXTINF:-1,ESPN 2 Peru
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11702.ts
+#EXTINF:-1,ESPN 2 Sur
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13506.ts
+#EXTINF:-1,ESPN 3
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3480.ts
+#EXTINF:-1,ESPN 3 Argentina
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11604.ts
+#EXTINF:-1,ESPN 3 Peru
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11662.ts
+#EXTINF:-1,ESPN 3 Sur
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13507.ts
+#EXTINF:-1,ESPN Deportes
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5493.ts
+#EXTINF:-1,ESPN News
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5487.ts
+#EXTINF:-1,ESPN Premium ARG
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9678.ts
+#EXTINF:-1,ESPN Sur
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13505.ts
+#EXTINF:-1,Fox Sports HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3486.ts
+#EXTINF:-1,Fox Sports 2 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3489.ts
+#EXTINF:-1,Fox Sports 3 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3492.ts
+#EXTINF:-1,TNT Sports
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/18.ts
+#EXTINF:-1,TNT Sports 3
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14887.ts
+#EXTINF:-1,TNT Sports HD ARG
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13885.ts
+#EXTINF:-1,TNT Sports Premium
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14881.ts
+#EXTINF:-1,TyC Sports
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6859.ts
+
+# ═══════════════════════════════════════════════════
+
+#EXTINF:-1,CDO
+http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8
+
+#EXTINF:-1,CHV Deportes
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
 
 # INFANTILES
 # ═══════════════════════════════════════════════════
@@ -381,7 +381,6 @@ https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 
 #EXTINF:-1,FM Plus TV
 https://v2.tustreaming.cl/fmplus/index.m3u8
-
 
 #EXTINF:-1,Retro Plus TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
