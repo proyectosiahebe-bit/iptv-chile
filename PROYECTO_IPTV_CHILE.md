@@ -16,123 +16,96 @@ https://raw.githubusercontent.com/proyectosiahebe-bit/iptv-chile/main/todos_tus_
 - **Formato:** `.ts` (transport stream)
 - **Requiere:** Suscripcion
 
-### 2. iptv-org (complementaria)
-- **URL:** `https://iptv-org.github.io/iptv/countries/cl.m3u`
-- **Tipo:** M3U publico
-- **Canales:** ~200 chilenos (señal abierta)
-- **Formato:** `.m3u8` (HLS)
-- **Requiere:** Ninguno (gratuito)
+### 2. jumangis.cloud (secundaria para canales que faltan)
+- **URL base:** `http://jumangis.cloud:2082/get.php?username=Margarito&password=tXBU2WnnL8&type=m3u`
+- **Tipo:** Xtream API / M3U
+- **Canales:** ~84,500 (incluye VOD y en vivo)
+- **Fuente de:** Mega 2, MTV/VH1 latino
+- **Nota:** demora en cargar (redirecciona por CDN multiple)
 
-### 3. m3u.cl (complementaria)
-- **URL:** `https://m3u.cl/lista/CL.m3u`
-- **Tipo:** M3U publico
-- **Canales:** ~300+ chilenos
-- **Formato:** `.m3u8` (HLS)
-- **Requiere:** Ninguno (gratuito)
+### 3. pirostv.lat (revision)
+- **URL base:** `http://pirostv.lat:8080/live/Nestrive/Polopolo321$/`
+- **Tipo:** Xtream
+- **Nota:** Meganoticias quedo protegida (401), no usable
 
-## Canales por categoria (actualizado)
+### 4. iptv-org / m3u.cl (complementarias)
+- iptv-org: `https://iptv-org.github.io/iptv/countries/cl.m3u`
+- m3u.cl: `https://m3u.cl/lista/CL.m3u`
+- Usadas para: CHV Noticias (rudo.video), TVN3 (mdstrm), Zona Latina
 
-### NACIONALES (27 canales)
+## Canales por categoria (96 total)
+
+### NACIONALES (12)
 | Canal | Fuente | URL |
 |-------|--------|-----|
 | 24 Horas | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2109.ts |
-| CL: 13C | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/47.ts |
-| CL: Canal 13 | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9752.ts |
 | CL: CHV | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9049.ts |
-| CHV Noticias | m3u.cl | https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8 |
-| CL: La Red | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9758.ts |
+| CHV Noticias | rudo.video | https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8 |
+| CL: Canal 13 | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9752.ts |
 | CL: Mega | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7469.ts |
-
+| Mega 2 | jumangis | http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TEt5SkFaYVhieWRWRFNsa3FJZVprdz0 |
 | CL: NTV | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/10501.ts |
 | CL: TV + | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts |
-| CL: TV + 2 | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15711.ts |
-| CL: TV Senado | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8725.ts |
-| CL: Teletrak | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8680.ts |
-| CL: TVN | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9050.ts |
-| TVN3 | iptv-org | https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8 |
+| TVN3 | mdstrm | https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8 |
 | CL: UCV | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14893.ts |
-| CL: Via X | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13888.ts |
-
-| CNN Chile | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13494.ts |
-| Radio Bio Bio (8 ciudades) | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8693-8700.ts |
 | T13 | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts |
 | Zona Latina | iptv-org | http://45.162.193.35/ZONALATINA/index.m3u8 |
 
-### DEPORTES (21 canales)
+### DEPORTES (30)
+- CDO, CDO 2, CDO HD (iptv.wtf)
 - CL: ESPN, ESPN 2, ESPN 3, ESPN Extra (iptv.wtf)
-- ESPN, ESPN 2/3 Argentina/Peru/Sur (iptv.wtf)
-- ESPN Deportes, News, Premium ARG, Sur (iptv.wtf)
-- TNT Sports, TNT Sports 3, HD ARG, Premium (iptv.wtf)
-- TyC Sports (iptv.wtf)
+- ESPN, ESPN 2, ESPN 3 (general) + variantes Argentina/Peru/Sur (iptv.wtf)
+- ESPN Deportes, ESPN News, ESPN Premium ARG, ESPN Sur (iptv.wtf)
+- Fox Sports HD, Fox Sports 2 HD, Fox Sports 3 HD (iptv.wtf)
+- TNT Sports, TNT Sports 3, TNT Sports HD ARG, TNT Sports Premium, TyC Sports (iptv.wtf)
 
-### NOTICIAS (4 canales)
-- Al Jazeera, AR: C5N, BBC World News, ES: 24 HORAS (iptv.wtf)
+### PELICULAS (13)
+- AMC, Cinecanal HD, Cinemax, Golden Edge, Studio Universal (iptv.wtf)
+- HBO, HBO 2, HBO Family, HBO Mundi, HBO Plus, HBO Pop, HBO Signature, HBO Xtreme (iptv.wtf)
 
-### PELICULAS (7 canales)
-- AMC, Cinemax, Golden Edge/Plus/Premier, HBO 2, Studio Universal (iptv.wtf)
+### SERIES / ENTRETENIMIENTO (7)
+- AXN, Comedy Central, E!, Space, TNT, TNT Series, Warner Channel (iptv.wtf)
 
-### SERIES / ENTRETENIMIENTO (14 canales)
-- AXN (ARG, ES, ES White), TNT (ARG, CL, BR), Space (CL, BR)
-- Comedy Central (general, ES), E!, Warner Channel
+### INFANTILES (5)
+- Cartoonito, Discovery Kids (iptv.wtf)
+- Disney Channel, Disney Channel HD, Disney Jr HD (iptv.wtf)
 
-### INFANTILES (5 canales)
-- Cartoon Network, Cartoonito, Discovery Kids, Disney Channel, ES: Disney Channel
+### DOCUMENTALES / ESTILO DE VIDA (10)
+- A&E, Animal Planet, Discovery Home and Health, Discovery Science, Discovery TLC, Discovery Turbo, Food Network, H2, Investigation Discovery, Love Nature (iptv.wtf)
 
-### DOCUMENTALES / ESTILO DE VIDA (18 canales)
-- A&E, Animal Planet, Discovery (Channel, H&H, Science, Theater, TLC, Turbo, World)
-- El Gourmet, Food Network, H2, History Channel, Investigation Discovery
-- Lifetime, Love Nature, CL: El Gourmet, CL: History
+### MUSICA (6)
+- MTV 80s (iptv.wtf)
+- MTV Latino, MTV FHD (MX), MTV Live (MX), MTV Hits (MX), VH1 Classic (MX) (jumangis)
 
-### MUSICA (5 canales)
-- MTV, MTV 00s, MTV 80s, MTV Hits, MTV Live
+### INTERNACIONALES (5)
+- AR: Telefe, Arirang, Arirang HD, ES: Antena 3, Europa Europa (iptv.wtf)
 
-### INTERNACIONALES (7 canales)
-- Antena 3 Internacional, AR: Telefe, Arirang (SD/HD)
-- ES: Antena 3, Europa Europa, Telemundo Internacional
+### TELETRAK + RADIO BIO BIO + TV SENADO (al final, 10)
+- CL: TV Senado, CL: Teletrak (iptv.wtf)
+- Radio Bio Bio: Concepcion, Los Angeles, Osorno, Puerto Montt, Santiago, Temuco, Valdivia, Valparaiso (iptv.wtf)
 
-## Total: 109 canales
+## Canales NO disponibles (sin señal)
+- Meganoticias, Megatiempo, 13Rec/Rec13: no existen con señal jugable en ninguna fuente (tlink/dps muertos, pirostv Meganoticias protegida 401, no estan en iptv.wtf ni jumangis). Solo en YouTube en vivo (no jugable directo en M3U).
 
-## Como actualizar
-
-### Para agregar un canal nuevo:
-1. Buscar la URL del canal en una de las 3 fuentes
-2. Agregar la entrada `#EXTINF:-1,Nombre del Canal` seguida de la URL
-3. Colocar en la categoria correspondiente
-4. Commit y push a GitHub
-
-### Para cambiar la fuente de un canal:
-1. Buscar alternativa en iptv-org o m3u.cl
-2. Reemplazar la URL manteniendo el nombre
-3. Commit y push
-
-### Scripts de busqueda:
+## Como actualizar - Scripts de busqueda
 ```powershell
 # Buscar canal en iptv.wtf
 $lines = Get-Content "iptv_wtf_real.m3u"
 $lines | Where-Object { $_ -match "^#EXTINF" -and $_ -match "NombreCanal" }
 
-# Buscar canal en iptv-org
-# Usar webfetch con la URL del pais
-
-# Buscar canal en m3u.cl
-# Usar webfetch con la URL del pais
+# Buscar en jumangis (descargar primero)
+Invoke-WebRequest "http://jumangis.cloud:2082/get.php?username=Margarito&password=tXBU2WnnL8&type=m3u" -OutFile "jumangis.m3u"
+Get-Content "jumangis.m3u" | Where-Object { $_ -match "^#EXTINF" -and $_ -match "NombreCanal" }
 ```
 
 ## Historial de cambios
-
 | Fecha | Canales | Cambios |
 |-------|---------|---------|
+| 2026-08-27 | 96 | Agregados Mega, Canal 13, Mega 2, ESPN/FOX/CDO/TNT, HBO/Cinecanal, Disney, MTV/VH1; TV Senado al final |
+| 2026-08-27 | 52 | Seleccion inversa conservando 52 canales |
+| 2026-08-27 | 66 | Seleccion de 66 canales |
 | 2026-08-26 | 109 | Eliminados Mega 2/13Rec/Meganoticias/Megatiempo (URLs rotas), corregidos TVN3 y CHV Noticias |
 | 2026-08-26 | 113 | Eliminados USA/CA/BR, agregados TVN3/Mega2/CHV Noticias/13Rec/Meganoticias/Megatiempo/Zona Latina |
 | 2026-08-26 | 157 | Reorganizado por categorias, agregado CHV |
 | 2026-08-26 | 186 | Eliminadas variantes duplicadas (HD/Full HD) |
 | 2026-08-26 | 290 | Playlist inicial con todos los canales de iptv.wtf |
-
-## Canales no disponibles en iptv.wtf
-Estos canales se obtienen de fuentes externas (probadas y funcionando):
-- TVN3: https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-- CHV Noticias: https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8
-- Zona Latina: http://45.162.193.35/ZONALATINA/index.m3u8
-
-### Canales no disponibles (URLs no funcionales)
-- Mega 2, 13Rec, Meganoticias, Megatiempo: las URLs de iptv-org/cl.m3u y m3u.cl no responden o retornan 403/timeout
