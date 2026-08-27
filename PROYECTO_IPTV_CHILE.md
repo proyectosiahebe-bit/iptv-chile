@@ -32,29 +32,27 @@ https://raw.githubusercontent.com/proyectosiahebe-bit/iptv-chile/main/todos_tus_
 
 ## Canales por categoria (actualizado)
 
-### NACIONALES (31 canales)
+### NACIONALES (27 canales)
 | Canal | Fuente | URL |
 |-------|--------|-----|
 | 24 Horas | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2109.ts |
 | CL: 13C | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/47.ts |
 | CL: Canal 13 | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9752.ts |
 | CL: CHV | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9049.ts |
-| CHV Noticias | iptv-org | http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8 |
+| CHV Noticias | m3u.cl | https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8 |
 | CL: La Red | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9758.ts |
 | CL: Mega | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7469.ts |
-| Mega 2 | iptv-org | http://15.204.246.24:8080/Mega2HD/index.m3u8 |
-| Meganoticias | iptv-org | http://cdn1tlinkgo.tlink.cl/meganoticias/mono.m3u8 |
-| Megatiempo | iptv-org | http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8 |
+
 | CL: NTV | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/10501.ts |
 | CL: TV + | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts |
 | CL: TV + 2 | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15711.ts |
 | CL: TV Senado | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8725.ts |
 | CL: Teletrak | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8680.ts |
 | CL: TVN | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9050.ts |
-| TVN3 | iptv-org | http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8 |
+| TVN3 | iptv-org | https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8 |
 | CL: UCV | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14893.ts |
 | CL: Via X | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13888.ts |
-| 13Rec | iptv-org | http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8 |
+
 | CNN Chile | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13494.ts |
 | Radio Bio Bio (8 ciudades) | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8693-8700.ts |
 | T13 | iptv.wtf | http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts |
@@ -92,7 +90,7 @@ https://raw.githubusercontent.com/proyectosiahebe-bit/iptv-chile/main/todos_tus_
 - Antena 3 Internacional, AR: Telefe, Arirang (SD/HD)
 - ES: Antena 3, Europa Europa, Telemundo Internacional
 
-## Total: 113 canales
+## Total: 109 canales
 
 ## Como actualizar
 
@@ -124,17 +122,17 @@ $lines | Where-Object { $_ -match "^#EXTINF" -and $_ -match "NombreCanal" }
 
 | Fecha | Canales | Cambios |
 |-------|---------|---------|
+| 2026-08-26 | 109 | Eliminados Mega 2/13Rec/Meganoticias/Megatiempo (URLs rotas), corregidos TVN3 y CHV Noticias |
 | 2026-08-26 | 113 | Eliminados USA/CA/BR, agregados TVN3/Mega2/CHV Noticias/13Rec/Meganoticias/Megatiempo/Zona Latina |
 | 2026-08-26 | 157 | Reorganizado por categorias, agregado CHV |
 | 2026-08-26 | 186 | Eliminadas variantes duplicadas (HD/Full HD) |
 | 2026-08-26 | 290 | Playlist inicial con todos los canales de iptv.wtf |
 
 ## Canales no disponibles en iptv.wtf
-Estos canales se obtienen de fuentes externas:
-- TVN3: iptv-org
-- Mega 2: iptv-org
-- CHV Noticias: iptv-org
-- 13Rec: iptv-org
-- Meganoticias: iptv-org
-- Megatiempo: iptv-org
-- Zona Latina: iptv-org
+Estos canales se obtienen de fuentes externas (probadas y funcionando):
+- TVN3: https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+- CHV Noticias: https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8
+- Zona Latina: http://45.162.193.35/ZONALATINA/index.m3u8
+
+### Canales no disponibles (URLs no funcionales)
+- Mega 2, 13Rec, Meganoticias, Megatiempo: las URLs de iptv-org/cl.m3u y m3u.cl no responden o retornan 403/timeout
