@@ -1,371 +1,535 @@
 #EXTM3U
-#EXTINF:-1,001 13Rec
-http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8
-#EXTINF:-1,002 Mega 2
-http://15.204.246.24:8080/Mega2HD/index.m3u8
-#EXTINF:-1,003 Megatiempo
-http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8
-#EXTINF:-1,004 TVR
-https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:-1,005 Via X
-http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8
-#EXTINF:-1,006 ETC TV
-http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8
-#EXTINF:-1,007 Mega Ficcion
-http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8
-#EXTINF:-1,008 ESPN FHD New
-http://38.224.175.2:8000/play/a02d/index.m3u8
-#EXTINF:-1,009 ESPN FHD
-http://181.13.252.102:8000/play/a05a/index.m3u8
-#EXTINF:-1,010 ESPN 2 FHD New
-http://38.226.210.46:8000/play/a05p/index.m3u8
-#EXTINF:-1,011 ESPN 2 FHD
-http://181.13.252.102:8000/play/a059/index.m3u8
-#EXTINF:-1,012 ESPN 3 FHD New
-http://38.226.210.46:8000/play/a037/index.m3u8
-#EXTINF:-1,013 ESPN 3 FHD
-http://181.13.252.102:8000/play/a05b/index.m3u8
-#EXTINF:-1,014 ESPN Premium FHD CL New
-http://38.224.175.2:8000/play/a05g/index.m3u8
-#EXTINF:-1,015 ESPN Premium FHD CL New
-http://38.226.210.46:8000/play/a05q/index.m3u8
-#EXTINF:-1,016 ESPN Premium FHD CL
-http://8.243.126.131:8000/play/a053/index.m3u8
-#EXTINF:-1,017 ESPN Premium FHD CL
-http://8.243.126.131:8000/play/a0ku/index.m3u8
-#EXTINF:-1,018 Dsports FHD New
-http://38.224.175.2:8000/play/a0l4/index.m3u8
-#EXTINF:-1,019 Dsports FHD New
-http://38.226.210.46:8000/play/A008/index.m3u8
-#EXTINF:-1,020 ESPN (1080p)
-http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1,021 ESPN 3 (1080p)
-http://190.83.2.182:8090/ESPN3/index.m3u8
-#EXTINF:-1,022 ESPN 4 (1080p)
-http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1,023 ESPN Deportes HD (720p)
-http://168.228.44.241:9998/play/a0dz/index.m3u8
-#EXTINF:-1,024 ESPNews (720p)
-http://41.205.93.154/ESPNNEWS/index.m3u8
-#EXTINF:-1,025 ESPNU (720p)
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1,026 ESPNU HD (720p)
-http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
-#EXTINF:-1,027 CL: ESPN 2 HD
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/32.ts
-#EXTINF:-1,028 CL: ESPN 3 HD
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/33.ts
-#EXTINF:-1,029 CL: ESPN Extra
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13891.ts
-#EXTINF:-1,030 CL: ESPN HD
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/31.ts
-#EXTINF:-1,031 ESPN 2 Argentina
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11649.ts
-#EXTINF:-1,032 ESPN 2 Full HD
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13568.ts
-#EXTINF:-1,033 ESPN 2 HD
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3477.ts
-#EXTINF:-1,034 ESPN 2 PerÃº
+#EXTINF:-1,1 RETRO PLUS 3
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+#EXTINF:-1,2 FM PLUS
+https://v2.tustreaming.cl/fmplus/index.m3u8
+#EXTINF:-1,3 BIO BIO TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1,4 LA RED
+https://live.getcirca.run/3969875408/ts:abr.m3u8
+#EXTINF:-1,5 TV+
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+#EXTINF:-1,6 TV CHILE
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1,7 TVN
+https://iptv2.intersurtv.cl/TVN/index.m3u8
+#EXTINF:-1,8 NTV
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+#EXTINF:-1,9 TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1,10 TVN 24 HORAS
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+#EXTINF:-1,11 MEGA
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1,12 CHV
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+#EXTINF:-1,13 CHV NOTICIAS
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8
+#EXTINF:-1,14 T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1,15 CNN CHILE
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1,16 UCV
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14893.ts
+#EXTINF:-1,17 24 HORAS
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2109.ts
+#EXTINF:-1,18 NTV (iptv.wtf)
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/10501.ts
+#EXTINF:-1,19 TV+ (iptv.wtf)
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts
+#EXTINF:-1,20 T13 (iptv.wtf)
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts
+#EXTINF:-1,21 ZONA LATINA
+http://45.162.193.35/ZONALATINA/index.m3u8
+#EXTINF:-1,22 T13 EN VIVO
+https://redirector.dps.live/hls/t13/playlist.m3u8
+#EXTINF:-1,23 T13 RADIO
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
+#EXTINF:-1,24 CANAL 13 (dps)
+https://redirector.dps.live/hls/13cl/playlist.m3u8
+#EXTINF:-1,25 MEGA 2 (jumangis)
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TEt5SkFaYVhieWRWRFNsa3FJZVprdz0
+#EXTINF:-1,26 AMC
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13377.ts
+#EXTINF:-1,27 Cinemax
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13883.ts
+#EXTINF:-1,28 Golden Edge
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13629.ts
+#EXTINF:-1,29 Studio Universal
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13376.ts
+#EXTINF:-1,30 Cinecanal Pacific
+http://138.121.15.230:9002/CINECANAL/index.m3u8
+#EXTINF:-1,31 Telemundo Internacional
+http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+#EXTINF:-1,32 AXN
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/234.ts
+#EXTINF:-1,33 Comedy Central
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3377.ts
+#EXTINF:-1,34 E!
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13894.ts
+#EXTINF:-1,35 Space
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13484.ts
+#EXTINF:-1,36 TNT
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13436.ts
+#EXTINF:-1,37 TNT Series
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13437.ts
+#EXTINF:-1,38 Warner Channel
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13893.ts
+#EXTINF:-1,39 Realities
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1,40 Teleseries
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1,41 E! (org)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+#EXTINF:-1,42 ESPN 2 Peru
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11702.ts
-#EXTINF:-1,035 ESPN 2 Sur HD
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13506.ts
-#EXTINF:-1,036 ESPN 3 Argentina
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11604.ts
-#EXTINF:-1,037 ESPN 3 Full HD
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13569.ts
-#EXTINF:-1,038 ESPN 3 HD
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3480.ts
-#EXTINF:-1,039 ESPN 3 PerÃº
+#EXTINF:-1,43 ESPN 3 Peru
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11662.ts
-#EXTINF:-1,040 ESPN 3 Sur HD
+#EXTINF:-1,44 TNT Sports 3
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14887.ts
+#EXTINF:-1,45 TNT Sports HD ARG
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13885.ts
+#EXTINF:-1,46 TNT Sports Premium
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14881.ts
+#EXTINF:-1,47 CHV Deportes
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
+#EXTINF:-1,48 Cartoonito
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9029.ts
+#EXTINF:-1,49 Discovery Kids
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/104.ts
+#EXTINF:-1,50 Kids
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1,51 Disney Channel Panregional
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:-1,52 Nick Jr
+http://177.234.249.178:8888/NICK-JR/index.m3u8
+#EXTINF:-1,53 A&E
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3369.ts
+#EXTINF:-1,54 Animal Planet
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13835.ts
+#EXTINF:-1,55 Discovery Home and Health
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13827.ts
+#EXTINF:-1,56 Discovery Science
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13825.ts
+#EXTINF:-1,57 Discovery TLC
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13435.ts
+#EXTINF:-1,58 Discovery Turbo
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5975.ts
+#EXTINF:-1,59 Food Network
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3336.ts
+#EXTINF:-1,60 H2
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8867.ts
+#EXTINF:-1,61 Investigation Discovery
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3368.ts
+#EXTINF:-1,62 Love Nature
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15835.ts
+#EXTINF:-1,63 13C
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1,64 MTV 80s
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13858.ts
+#EXTINF:-1,65 MTV Live (MX)
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S1pzWFh2T0tRZVJtbG50Y1NKV2ZSYz0
+#EXTINF:-1,66 VH1 Classic (MX)
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SG9hYXJ0UUw4czJMRGd5WWJlZ3hDRT0
+#EXTINF:-1,67 Festival
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1,68 Retro Plus TV
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:-1,69 Retro Plus TV Senal 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+#EXTINF:-1,70 AR: Telefe
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/1522.ts
+#EXTINF:-1,71 Arirang
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8658.ts
+#EXTINF:-1,72 Arirang HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8657.ts
+#EXTINF:-1,73 ES: Antena 3
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8234.ts
+#EXTINF:-1,74 Europa Europa
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13478.ts
+#EXTINF:-1,75 CL: TV Senado
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8725.ts
+#EXTINF:-1,76 CL: Teletrak
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8680.ts
+#EXTINF:-1,77 Radio Bio Bio Concepcion
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8695.ts
+#EXTINF:-1,78 Radio Bio Bio Los Angeles
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8696.ts
+#EXTINF:-1,79 Radio Bio Bio Osorno
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8698.ts
+#EXTINF:-1,80 Radio Bio Bio Puerto Montt
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8700.ts
+#EXTINF:-1,81 Radio Bio Bio Santiago
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8693.ts
+#EXTINF:-1,82 Radio Bio Bio Temuco
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8697.ts
+#EXTINF:-1,83 Radio Bio Bio Valdivia
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8699.ts
+#EXTINF:-1,84 Radio Bio Bio Valparaiso
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8694.ts
+#EXTINF:-1,85 13Rec
+http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8
+#EXTINF:-1,86 Mega 2
+http://15.204.246.24:8080/Mega2HD/index.m3u8
+#EXTINF:-1,87 Megatiempo
+http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8
+#EXTINF:-1,88 TVR
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1,89 Via X
+http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8
+#EXTINF:-1,90 ETC TV
+http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8
+#EXTINF:-1,91 Mega Ficcion
+http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8
+#EXTINF:-1,92 ESPN FHD New
+http://38.224.175.2:8000/play/a02d/index.m3u8
+#EXTINF:-1,93 ESPN FHD
+http://181.13.252.102:8000/play/a05a/index.m3u8
+#EXTINF:-1,94 ESPN 2 FHD New
+http://38.226.210.46:8000/play/a05p/index.m3u8
+#EXTINF:-1,95 ESPN 2 FHD
+http://181.13.252.102:8000/play/a059/index.m3u8
+#EXTINF:-1,96 ESPN 3 FHD New
+http://38.226.210.46:8000/play/a037/index.m3u8
+#EXTINF:-1,97 ESPN 3 FHD
+http://181.13.252.102:8000/play/a05b/index.m3u8
+#EXTINF:-1,98 ESPN Premium FHD CL New
+http://38.224.175.2:8000/play/a05g/index.m3u8
+#EXTINF:-1,99 ESPN Premium FHD CL New
+http://38.226.210.46:8000/play/a05q/index.m3u8
+#EXTINF:-1,100 ESPN Premium FHD CL
+http://8.243.126.131:8000/play/a053/index.m3u8
+#EXTINF:-1,101 ESPN Premium FHD CL
+http://8.243.126.131:8000/play/a0ku/index.m3u8
+#EXTINF:-1,102 Dsports FHD New
+http://38.224.175.2:8000/play/a0l4/index.m3u8
+#EXTINF:-1,103 Dsports FHD New
+http://38.226.210.46:8000/play/A008/index.m3u8
+#EXTINF:-1,104 ESPN (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1,105 ESPN 3 (1080p)
+http://190.83.2.182:8090/ESPN3/index.m3u8
+#EXTINF:-1,106 ESPN 4 (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1,107 ESPN Deportes HD (720p)
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+#EXTINF:-1,108 ESPNews (720p)
+http://41.205.93.154/ESPNNEWS/index.m3u8
+#EXTINF:-1,109 ESPNU (720p)
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1,110 ESPNU HD (720p)
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1,111 CL: ESPN 2 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/32.ts
+#EXTINF:-1,112 CL: ESPN 3 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/33.ts
+#EXTINF:-1,113 CL: ESPN Extra
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13891.ts
+#EXTINF:-1,114 CL: ESPN HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/31.ts
+#EXTINF:-1,115 ESPN 2 Argentina
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11649.ts
+#EXTINF:-1,116 ESPN 2 Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13568.ts
+#EXTINF:-1,117 ESPN 2 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3477.ts
+#EXTINF:-1,118 ESPN 2 Sur HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13506.ts
+#EXTINF:-1,119 ESPN 3 Argentina
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11604.ts
+#EXTINF:-1,120 ESPN 3 Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13569.ts
+#EXTINF:-1,121 ESPN 3 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3480.ts
+#EXTINF:-1,122 ESPN 3 Sur HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13507.ts
-#EXTINF:-1,041 ESPN Full HD
+#EXTINF:-1,123 ESPN Full HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13567.ts
-#EXTINF:-1,042 ESPN HD
+#EXTINF:-1,124 ESPN HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3474.ts
-#EXTINF:-1,043 ESPN Premium ARG HD
+#EXTINF:-1,125 ESPN Premium ARG HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9678.ts
-#EXTINF:-1,044 ESPN Sur HD
+#EXTINF:-1,126 ESPN Sur HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13505.ts
-#EXTINF:-1,045 HBO
+#EXTINF:-1,127 HBO
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5890.ts
-#EXTINF:-1,046 HBO *
+#EXTINF:-1,128 HBO *
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13862.ts
-#EXTINF:-1,047 HBO 2
+#EXTINF:-1,129 HBO 2
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5888.ts
-#EXTINF:-1,048 HBO 2 Full HD
+#EXTINF:-1,130 HBO 2 Full HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/60.ts
-#EXTINF:-1,049 HBO Family
+#EXTINF:-1,131 HBO Family
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13865.ts
-#EXTINF:-1,050 HBO Family Full HD
+#EXTINF:-1,132 HBO Family Full HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/62.ts
-#EXTINF:-1,051 HBO Family Full HD *
+#EXTINF:-1,133 HBO Family Full HD *
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13864.ts
-#EXTINF:-1,052 HBO Family Full HD *
+#EXTINF:-1,134 HBO Family Full HD *
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13867.ts
-#EXTINF:-1,053 HBO Family HD
+#EXTINF:-1,135 HBO Family HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/67.ts
-#EXTINF:-1,054 HBO Family HD *
+#EXTINF:-1,136 HBO Family HD *
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13866.ts
-#EXTINF:-1,055 HBO Full HD
+#EXTINF:-1,137 HBO Full HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/59.ts
-#EXTINF:-1,056 HBO Full HD *
+#EXTINF:-1,138 HBO Full HD *
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13860.ts
-#EXTINF:-1,057 HBO Mundi
+#EXTINF:-1,139 HBO Mundi
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6011.ts
-#EXTINF:-1,058 HBO Mundi *
+#EXTINF:-1,140 HBO Mundi *
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8151.ts
-#EXTINF:-1,059 HBO Mundi **
+#EXTINF:-1,141 HBO Mundi **
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13869.ts
-#EXTINF:-1,060 HBO Mundi HD
+#EXTINF:-1,142 HBO Mundi HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13868.ts
-#EXTINF:-1,061 HBO Plus
+#EXTINF:-1,143 HBO Plus
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13871.ts
-#EXTINF:-1,062 HBO Plus *
+#EXTINF:-1,144 HBO Plus *
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13872.ts
-#EXTINF:-1,063 HBO Plus **
+#EXTINF:-1,145 HBO Plus **
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13873.ts
-#EXTINF:-1,064 HBO Plus Full HD
+#EXTINF:-1,146 HBO Plus Full HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/61.ts
-#EXTINF:-1,065 HBO Plus Full HD *
+#EXTINF:-1,147 HBO Plus Full HD *
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13870.ts
-#EXTINF:-1,066 HBO Plus HD
+#EXTINF:-1,148 HBO Plus HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/66.ts
-#EXTINF:-1,067 HBO Pop
+#EXTINF:-1,149 HBO Pop
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13874.ts
-#EXTINF:-1,068 HBO Pop *
+#EXTINF:-1,150 HBO Pop *
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13875.ts
-#EXTINF:-1,069 HBO Pop Full HD
+#EXTINF:-1,151 HBO Pop Full HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6110.ts
-#EXTINF:-1,070 HBO Pop HD
+#EXTINF:-1,152 HBO Pop HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8141.ts
-#EXTINF:-1,071 HBO Signature
+#EXTINF:-1,153 HBO Signature
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13876.ts
-#EXTINF:-1,072 HBO Signature Full HD
+#EXTINF:-1,154 HBO Signature Full HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/63.ts
-#EXTINF:-1,073 HBO Signature HD
+#EXTINF:-1,155 HBO Signature HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5892.ts
-#EXTINF:-1,074 HBO Signature HD *
+#EXTINF:-1,156 HBO Signature HD *
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13877.ts
-#EXTINF:-1,075 HBO Xtreme
+#EXTINF:-1,157 HBO Xtreme
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13879.ts
-#EXTINF:-1,076 HBO Xtreme *
+#EXTINF:-1,158 HBO Xtreme *
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13880.ts
-#EXTINF:-1,077 HBO Xtreme Full HD
+#EXTINF:-1,159 HBO Xtreme Full HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13878.ts
-#EXTINF:-1,078 HBO Xtreme HD
+#EXTINF:-1,160 HBO Xtreme HD
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5900.ts
-#EXTINF:-1,079 CA: HBO
+#EXTINF:-1,161 CA: HBO
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13756.ts
-#EXTINF:-1,080 CA: HBO 2
+#EXTINF:-1,162 CA: HBO 2
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13757.ts
-#EXTINF:-1,081 USA: ESPN Deportes
+#EXTINF:-1,163 USA: ESPN Deportes
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5493.ts
-#EXTINF:-1,082 USA: ESPN News
+#EXTINF:-1,164 USA: ESPN News
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5487.ts
-#EXTINF:-1,083 USA: HBO
+#EXTINF:-1,165 USA: HBO
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6042.ts
-#EXTINF:-1,084 ESPN 1 CHILE
+#EXTINF:-1,166 ESPN 1 CHILE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QkIzQVBiUVh2RThieGJBaGVrK21nST0
-#EXTINF:-1,085 ESPN 2 CHILE
+#EXTINF:-1,167 ESPN 2 CHILE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SnNjdzVQVVUza0tNeC9WK0ticFhYOD0
-#EXTINF:-1,086 ESPN 3 CHILE
+#EXTINF:-1,168 ESPN 3 CHILE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S1NRN1BFN1A4b25kR0RJN1ZyOVhwZz0
-#EXTINF:-1,087 ESPN 4 CHILE
+#EXTINF:-1,169 ESPN 4 CHILE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T00xQmtxN1ZlTWdaV3h2Y1VGYVpCYz0
-#EXTINF:-1,088 ESPN 5 CHILE
+#EXTINF:-1,170 ESPN 5 CHILE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Qm9jWTczMmFKT0FzbUd5b1B2VGpKYz0
-#EXTINF:-1,089 ESPN 6 CHILE
+#EXTINF:-1,171 ESPN 6 CHILE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QzdyeFhQMXB2R2FOTk53SlA1V1ZyMD0
-#EXTINF:-1,090 ESPN 7 CHILE
+#EXTINF:-1,172 ESPN 7 CHILE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S1puYi9pSnVHQlU3VGlRVVdaa1ZBST0
-#EXTINF:-1,091 ESPN PREMIUM
+#EXTINF:-1,173 ESPN PREMIUM
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RS9GVEcwUmt6azF5aURSNmt1Qkpydz0
-#EXTINF:-1,092 Cine TV: HBO 2 Full HD
+#EXTINF:-1,174 Cine TV: HBO 2 Full HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RXRvd0Z4YmlVeUk2VnVnajc3dGgyWT0
-#EXTINF:-1,093 Cine TV: HBO Family Full HD
+#EXTINF:-1,175 Cine TV: HBO Family Full HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S3RycGRrVzBiTGVTVEZnV3lMTGFCZz0
-#EXTINF:-1,094 Cine TV: HBO Full HD
+#EXTINF:-1,176 Cine TV: HBO Full HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RGd4alRpZ1I3WnFwRDhmWVpiWlZvaz0
-#EXTINF:-1,095 Cine TV: HBO MUNDI Full HD @
+#EXTINF:-1,177 Cine TV: HBO MUNDI Full HD @
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RGFLRHZkVFVOTnlGWWtNYUtod0JCTT0
-#EXTINF:-1,096 Cine TV: HBO Plus Full HD
+#EXTINF:-1,178 Cine TV: HBO Plus Full HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R2s4eTBzRk9qazRwTFRRT3JkdXpXST0
-#EXTINF:-1,097 Cine TV: HBO Pop Full HD
+#EXTINF:-1,179 Cine TV: HBO Pop Full HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TE1LVE1CYVdQSytQS09XYjBiczRKdz0
-#EXTINF:-1,098 Cine TV: HBO Signature Full HD
+#EXTINF:-1,180 Cine TV: HBO Signature Full HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RzhnS0p6WTh5a2s0cnN4MU01ZEFzYz0
-#EXTINF:-1,099 HBO XTREME HD
+#EXTINF:-1,181 HBO XTREME HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TXdZVWhwRDZZR1lkaVBWOFg4MGVmYz0
-#EXTINF:-1,100 Cine TV: HBO
+#EXTINF:-1,182 Cine TV: HBO
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SEd5UFFrZkx0VVJyYU81QWY1bG00dz0
-#EXTINF:-1,101 Cine TV: HBO Signature
+#EXTINF:-1,183 Cine TV: HBO Signature
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RGxLT0V1R3lkZzBiWnpPeDhLYnZ3Zz0
-#EXTINF:-1,102 Cine TV: HBO Xtreme
+#EXTINF:-1,184 Cine TV: HBO Xtreme
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RFJRVHNsTVFHYVMzV0JvVHBua0FTTT0
-#EXTINF:-1,103 HBO MUNDI
+#EXTINF:-1,185 HBO MUNDI
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TE0xOFhBUlpveWlJc3BTWWR2cUcvcz0
-#EXTINF:-1,104 Cine TV: HBO Family HD @
+#EXTINF:-1,186 Cine TV: HBO Family HD @
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UHZsV2hSdkE5UFQ0SWVyQnFYekhZaz0
-#EXTINF:-1,105 ESPN + ARGENTINA HD
+#EXTINF:-1,187 ESPN + ARGENTINA HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TXI4TGU2T0xSSWlYVUl5T2w4NjJEWT0
-#EXTINF:-1,106 ESPN 2 ARGENTINA HD
+#EXTINF:-1,188 ESPN 2 ARGENTINA HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Q1N5VjA4NE93c0tvRnMvbE9RTzNodz0
-#EXTINF:-1,107 ESPN 2 CHILE HD
+#EXTINF:-1,189 ESPN 2 CHILE HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RUlTeTdiU2lyeC9RVDBSUTd1OHVsOD0
-#EXTINF:-1,108 ESPN 2 COLOMBIA HD @
+#EXTINF:-1,190 ESPN 2 COLOMBIA HD @
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SS9UK0g1eC9PVlVCcG5XeHJ2RkZxRT0
-#EXTINF:-1,109 ESPN 2 MEXICO HD @
+#EXTINF:-1,191 ESPN 2 MEXICO HD @
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SGFXODVDYlR5dlRCVHRFTDNTZDVWQT0
-#EXTINF:-1,110 ESPN 3 CHILE HD
+#EXTINF:-1,192 ESPN 3 CHILE HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SkMzNnVXY3FLeHVYc0JvYktPaU5uWT0
-#EXTINF:-1,111 ESPN 3 COLOMBIA HD
+#EXTINF:-1,193 ESPN 3 COLOMBIA HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QWw2VUxWWXN4N2Vwb1QyRlVGRnQvST0
-#EXTINF:-1,112 ESPN 3 HD @
+#EXTINF:-1,194 ESPN 3 HD @
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R2NtWnJxbTBuT3FSVEY5dHVMajluND0
-#EXTINF:-1,113 ESPN 3 MEXICO HD @
+#EXTINF:-1,195 ESPN 3 MEXICO HD @
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S2djWUpNVi9CUTZQNUVva0RrU2IxTT0
-#EXTINF:-1,114 ESPN 4 (MX)
+#EXTINF:-1,196 ESPN 4 (MX)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6THZGeFNsc1d0UVFWVnRacG1SUXh3TT0
-#EXTINF:-1,115 Espn 4 HD @
+#EXTINF:-1,197 Espn 4 HD @
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6STlmY296cm1IWk5QQkNqRVBvTE4xaz0
-#EXTINF:-1,116 ESPN 5 FHD
+#EXTINF:-1,198 ESPN 5 FHD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R3VuK3VoOG1KY0hCWElyOEhaQ0xLTT0
-#EXTINF:-1,117 ESPN 5 HD
+#EXTINF:-1,199 ESPN 5 HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RlJrQnZ6RXhSWWhTTG5oT09wMHMwOD0
-#EXTINF:-1,118 ESPN 6
+#EXTINF:-1,200 ESPN 6
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T3RwS0FrL2NvdU5xbjhiSVN4TERFbz0
-#EXTINF:-1,119 ESPN 6 HD
+#EXTINF:-1,201 ESPN 6 HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SnpzRnIxOUFCeXFteXIxd3NwYXJuQT0
-#EXTINF:-1,120 ESPN 7
+#EXTINF:-1,202 ESPN 7
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UFVmQm12d3JuVi9qb2l2N3FSdW5vND0
-#EXTINF:-1,121 ESPN 7 FHD
+#EXTINF:-1,203 ESPN 7 FHD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RlZMYXBGeE1KMm9TeGIzaUJHT3V0ST0
-#EXTINF:-1,122 ESPN ARGENTINA HD
+#EXTINF:-1,204 ESPN ARGENTINA HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T1MxSnZtL0hwZ0RDWlBaaHZMUFUxUT0
-#EXTINF:-1,123 ESPN COLOMBIA HD @
+#EXTINF:-1,205 ESPN COLOMBIA HD @
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RnF3WWlua3ZQSWNtcVBoTWJkWU5zaz0
-#EXTINF:-1,124 ESPN EXTRA
+#EXTINF:-1,206 ESPN EXTRA
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RlZ2SFNOUGkxZ3VjYXpkTVRLQmpUVT0
-#EXTINF:-1,125 ESPN MEXICO HD
+#EXTINF:-1,207 ESPN MEXICO HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TTI4RHo4T1E1dGpQYlZTN2h4cnMyQT0
-#EXTINF:-1,126 ESPN PREMIUM
+#EXTINF:-1,208 ESPN PREMIUM
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TERWN2xzSXViTG1wQ0N6MWVNYVpGWT0
-#EXTINF:-1,127 ESPN PREMIUM  ARGENTINA HD
+#EXTINF:-1,209 ESPN PREMIUM  ARGENTINA HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R0h5OVFDZTN5NTdYcHg5YjBuc1hSaz0
-#EXTINF:-1,128 ESPN 2 COLOMBIA
+#EXTINF:-1,210 ESPN 2 COLOMBIA
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QUxWZGFSU3JNM3RzaHZZM0R2cmJ1az0
-#EXTINF:-1,129 ESPN 3 COLOMBIA
+#EXTINF:-1,211 ESPN 3 COLOMBIA
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Q0hzNzV6SUpsVjZVcSthWlNEcVNRST0
-#EXTINF:-1,130 ESPN 4 COLOMBIA
+#EXTINF:-1,212 ESPN 4 COLOMBIA
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R0oySHlOZEl0aEZvUmF5TXIvWVhnZz0
-#EXTINF:-1,131 ESPN 5 COLOMBIA
+#EXTINF:-1,213 ESPN 5 COLOMBIA
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SDI1bEUxeEhVYW82a3V0dzZLdWRmUT0
-#EXTINF:-1,132 ESPN 6 COLOMBIA
+#EXTINF:-1,214 ESPN 6 COLOMBIA
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QVZ4bjVtNVNWbXU5b2gzU21vcENsVT0
-#EXTINF:-1,133 ESPN 7 COLOMBIA
+#EXTINF:-1,215 ESPN 7 COLOMBIA
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SWxTOG5xMmZUYUMwMmJaTEo5YlVzZz0
-#EXTINF:-1,134 ESPN COLOMBIA
+#EXTINF:-1,216 ESPN COLOMBIA
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RVljZzF2WFVWd0JlaGRvdWdQbE02TT0
-#EXTINF:-1,135 HBO Max Avances
+#EXTINF:-1,217 HBO Max Avances
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RW9FN25TZGJybFdVMFJFWVArbi84UT0
-#EXTINF:-1,136 HBO 2 WEST @
+#EXTINF:-1,218 HBO 2 WEST @
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SEtCenhPTnRZMWgrM2h2S0ZIMFNIdz0
-#EXTINF:-1,137 HBO COMEDY WEST
+#EXTINF:-1,219 HBO COMEDY WEST
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6THdEaTE1Zmp3a3JQOXZNckNKcUQ0RT0
-#EXTINF:-1,138 HBO FAMILY WEST
+#EXTINF:-1,220 HBO FAMILY WEST
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TjRrZXNLWHZKdmJXaFREMjdnclIwQT0
-#EXTINF:-1,139 HBO SIGNATURE WEST
+#EXTINF:-1,221 HBO SIGNATURE WEST
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TFJ0WW1QSS9Da2k0d05uRGJwTVhCYz0
-#EXTINF:-1,140 HBO ZONE WEST
+#EXTINF:-1,222 HBO ZONE WEST
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TW43bUxzdjZsa2hEakpTQnN5NTJHbz0
-#EXTINF:-1,141 Dance FM
+#EXTINF:-1,223 Dance FM
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
-#EXTINF:-1,142 Genial TV
+#EXTINF:-1,224 Genial TV
 https://v1.tustreaming.cl/genialtv/index.m3u8
-#EXTINF:-1,143 La Clave
+#EXTINF:-1,225 La Clave
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
-#EXTINF:-1,144 La Granja TV
+#EXTINF:-1,226 La Granja TV
 https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
-#EXTINF:-1,145 La Melinkana TV
+#EXTINF:-1,227 La Melinkana TV
 https://v1.tustreaming.cl/melinkana/index.m3u8
-#EXTINF:-1,146 LaMix TV
+#EXTINF:-1,228 LaMix TV
 https://lbgo.bozztv.com/ssh101/ssh101/lamixtv/playlist.m3u8
-#EXTINF:-1,147 M Music TV
+#EXTINF:-1,229 M Music TV
 https://cloudpro.servidoresdestream.com:8081/8036/index.m3u8
-#EXTINF:-1,148 Maqui TV
+#EXTINF:-1,230 Maqui TV
 https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8
-#EXTINF:-1,149 Mundo de la Musica TV
+#EXTINF:-1,231 Mundo de la Musica TV
 https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
-#EXTINF:-1,150 Music PUQ
+#EXTINF:-1,232 Music PUQ
 https://vdochile.com:3131/live/redupxprlive.m3u8
-#EXTINF:-1,151 Onda Fiesta
+#EXTINF:-1,233 Onda Fiesta
 https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8
-#EXTINF:-1,152 Pauta
+#EXTINF:-1,234 Pauta
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8
-#EXTINF:-1,153 Portal FoxMix
+#EXTINF:-1,235 Portal FoxMix
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1,154 Retromusica Television
+#EXTINF:-1,236 Retromusica Television
 https://vdochile.com:3864/stream/play.m3u8
-#EXTINF:-1,155 Rewind TV
+#EXTINF:-1,237 Rewind TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:-1,156 Sabor TV
+#EXTINF:-1,238 Sabor TV
 https://v1.tustreaming.cl/sabortv/index.m3u8
-#EXTINF:-1,157 Sensacion Costa
+#EXTINF:-1,239 Sensacion Costa
 https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
-#EXTINF:-1,158 VClassicTV Tropical
+#EXTINF:-1,240 VClassicTV Tropical
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
-#EXTINF:-1,159 Vivo TV
+#EXTINF:-1,241 Vivo TV
 https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8
-#EXTINF:-1,160 13 Teleseries
+#EXTINF:-1,242 13 Teleseries
 https://redirector.dps.live/hls/13t/playlist.m3u8
-#EXTINF:-1,161 Star Channel
+#EXTINF:-1,243 Star Channel
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
-#EXTINF:-1,162 Docu.
+#EXTINF:-1,244 Docu.
 http://45.162.193.35/DOCU/index.m3u8
-#EXTINF:-1,163 FunBox
+#EXTINF:-1,245 FunBox
 http://186.148.196.100:8000/play/a00d
-#EXTINF:-1,164 ADN TV
+#EXTINF:-1,246 ADN TV
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
-#EXTINF:-1,165 Atacama Noticias
+#EXTINF:-1,247 Atacama Noticias
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-#EXTINF:-1,166 Contivision
+#EXTINF:-1,248 Contivision
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
-#EXTINF:-1,167 El Centro TV
+#EXTINF:-1,249 El Centro TV
 https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8
-#EXTINF:-1,168 NCTV
+#EXTINF:-1,250 NCTV
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
-#EXTINF:-1,169 Opinionsur
+#EXTINF:-1,251 Opinionsur
 https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
-#EXTINF:-1,170 Puranoticia TV
+#EXTINF:-1,252 Puranoticia TV
 https://pnt.janusmedia.tv/hls/pnt.m3u8
-#EXTINF:-1,171 Telecanal Santa Cruz
+#EXTINF:-1,253 Telecanal Santa Cruz
 https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
-#EXTINF:-1,172 Turno
+#EXTINF:-1,254 Turno
 https://redirector.dps.live/hls/turno/playlist.m3u8
-#EXTINF:-1,173 BR: HBO 2 FHD
+#EXTINF:-1,255 BR: HBO 2 FHD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RjBqSk8rL3VSaS9UZjJZbCtuWjc4WT0
-#EXTINF:-1,174 BR: HBO FAMILY HD
+#EXTINF:-1,256 BR: HBO FAMILY HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QWM3dUhPMTdBa01WRFB5RnJLaDRDdz0
-#EXTINF:-1,175 BR: HBO HD
+#EXTINF:-1,257 BR: HBO HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QUNxUzkyMWxSM256ZjdKNHhrT1lmZz0
-#EXTINF:-1,176 BR: HBO MUNDI HD
+#EXTINF:-1,258 BR: HBO MUNDI HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TXB1S3ZjY05mTHp2SE9HL1laejAzMD0
-#EXTINF:-1,177 BR: HBO PLUS HD
+#EXTINF:-1,259 BR: HBO PLUS HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QmdlQUVBamZlSEFReGFsanNrak5iRT0
-#EXTINF:-1,178 BR: HBO POP HD
+#EXTINF:-1,260 BR: HBO POP HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TmpFN1lHVHo2WEgvQTFpOXlyWmxBND0
-#EXTINF:-1,179 BR: HBO SIGNATURE HD
+#EXTINF:-1,261 BR: HBO SIGNATURE HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Tmt4ZlllRlowWWQ4WWhjSDloMisvND0
-#EXTINF:-1,180 BR: HBO XTREME HD
+#EXTINF:-1,262 BR: HBO XTREME HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RFhES3Zabkc4c1hXS21MRGd0MDVlcz0
-#EXTINF:-1,181 CA: HBO 2 HD
+#EXTINF:-1,263 CA: HBO 2 HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Rk11bjIxQlFtOEkyL1lhUTJVR3UxUT0
-#EXTINF:-1,182 CA: HBO HD
+#EXTINF:-1,264 CA: HBO HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QkQ0TkRiZDBkZksrUmFCYkJpODFvQT0
-#EXTINF:-1,183 US: HBO 2
+#EXTINF:-1,265 US: HBO 2
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UGw1L0Fqdk1YQzNpRGJsT3FIcCtLVT0
-#EXTINF:-1,184 US: HBO PLUS
+#EXTINF:-1,266 US: HBO PLUS
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TnV4eWliLzBuZzhuVVFQVG56U2RQQT0
-#EXTINF:-1,185 US: HBO ZONE @
+#EXTINF:-1,267 US: HBO ZONE @
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Q0lQajN3NlFJSXZyeTRMUTVVamVhQT0
