@@ -1,1052 +1,281 @@
 #EXTM3U
-
-# ========================================================================
-# SECCION 1: PLAYLIST PRINCIPAL (original, 84 canales)
-# ========================================================================
-
-# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-# NACIONALES (Chile)
-# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-
-#EXTINF:-1,1 RETRO PLUS 3
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
-
-#EXTINF:-1,2 FM PLUS
-https://v2.tustreaming.cl/fmplus/index.m3u8
-
-#EXTINF:-1,3 BIO BIO TV
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
-
-#EXTINF:-1,4 LA RED
-https://live.getcirca.run/3969875408/ts:abr.m3u8
-
-#EXTINF:-1,5 TV+
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
-
-#EXTINF:-1,6 TV CHILE
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-
-#EXTINF:-1,7 TVN
-https://iptv2.intersurtv.cl/TVN/index.m3u8
-
-#EXTINF:-1,8 NTV
-https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
-
-#EXTINF:-1,9 TVN3
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-
-#EXTINF:-1,10 TVN 24 HORAS
-https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
-
-#EXTINF:-1,11 MEGA
-https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-
-#EXTINF:-1,12 CHV
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
-
-#EXTINF:-1,13 CHV NOTICIAS
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8
-
-#EXTINF:-1,14 T13
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-
-#EXTINF:-1,15 CNN CHILE
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
-
-#EXTINF:-1,16 UCV
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14893.ts
-
-#EXTINF:-1,17 24 HORAS
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2109.ts
-
-#EXTINF:-1,18 NTV (iptv.wtf)
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/10501.ts
-
-#EXTINF:-1,19 TV+ (iptv.wtf)
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts
-
-#EXTINF:-1,20 T13 (iptv.wtf)
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts
-
-#EXTINF:-1,21 ZONA LATINA
-http://45.162.193.35/ZONALATINA/index.m3u8
-
-#EXTINF:-1,22 T13 EN VIVO
-https://redirector.dps.live/hls/t13/playlist.m3u8
-
-#EXTINF:-1,23 T13 RADIO
-https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
-
-#EXTINF:-1,24 CANAL 13 (dps)
-https://redirector.dps.live/hls/13cl/playlist.m3u8
-
-#EXTINF:-1,25 MEGA 2 (jumangis)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TEt5SkFaYVhieWRWRFNsa3FJZVprdz0
-
-# PELICULAS
-# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-
-#EXTINF:-1,AMC
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13377.ts
-
-#EXTINF:-1,Cinemax
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13883.ts
-
-#EXTINF:-1,Golden Edge
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13629.ts
-
-#EXTINF:-1,Studio Universal
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13376.ts
-
-#EXTINF:-1,Cinecanal Pacific
-http://138.121.15.230:9002/CINECANAL/index.m3u8
-
-#EXTINF:-1,Telemundo Internacional
-http://138.121.15.230:9002/TELEMUNDO/index.m3u8
-
-# SERIES / ENTRETENIMIENTO
-# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-
-#EXTINF:-1,AXN
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/234.ts
-
-#EXTINF:-1,Comedy Central
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3377.ts
-
-#EXTINF:-1,E!
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13894.ts
-
-#EXTINF:-1,Space
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13484.ts
-
-#EXTINF:-1,TNT
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13436.ts
-
-#EXTINF:-1,TNT Series
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13437.ts
-
-#EXTINF:-1,Warner Channel
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13893.ts
-
-#EXTINF:-1,13 Realities
-https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-
-#EXTINF:-1,13 Teleseries
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-
-#EXTINF:-1,E! (org)
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
-
-# DEPORTES
-# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-
-#EXTINF:-1,ESPN 2 Peru
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11702.ts
-
-#EXTINF:-1,ESPN 3 Peru
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11662.ts
-
-#EXTINF:-1,TNT Sports 3
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14887.ts
-
-#EXTINF:-1,TNT Sports HD ARG
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13885.ts
-
-#EXTINF:-1,TNT Sports Premium
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14881.ts
-
-#EXTINF:-1,CHV Deportes
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
-
-# INFANTILES
-# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-
-#EXTINF:-1,Cartoonito
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9029.ts
-
-#EXTINF:-1,Discovery Kids
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/104.ts
-
-#EXTINF:-1,13 Kids
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-
-#EXTINF:-1,Disney Channel Panregional
-http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
-
-#EXTINF:-1,Nick Jr
-http://177.234.249.178:8888/NICK-JR/index.m3u8
-
-# DOCUMENTALES / ESTILO DE VIDA
-# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-
-#EXTINF:-1,A&E
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3369.ts
-
-#EXTINF:-1,Animal Planet
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13835.ts
-
-#EXTINF:-1,Discovery Home and Health
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13827.ts
-
-#EXTINF:-1,Discovery Science
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13825.ts
-
-#EXTINF:-1,Discovery TLC
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13435.ts
-
-#EXTINF:-1,Discovery Turbo
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5975.ts
-
-#EXTINF:-1,Food Network
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3336.ts
-
-#EXTINF:-1,H2
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8867.ts
-
-#EXTINF:-1,Investigation Discovery
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3368.ts
-
-#EXTINF:-1,Love Nature
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15835.ts
-
-#EXTINF:-1,13C
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-
-# MUSICA
-# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-
-#EXTINF:-1,MTV 80s
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13858.ts
-
-#EXTINF:-1,MTV Live (MX)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S1pzWFh2T0tRZVJtbG50Y1NKV2ZSYz0
-
-#EXTINF:-1,VH1 Classic (MX)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SG9hYXJ0UUw4czJMRGd5WWJlZ3hDRT0
-
-#EXTINF:-1,13 Festival
-https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-
-#EXTINF:-1,Retro Plus TV
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-
-#EXTINF:-1,Retro Plus TV Senal 2
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
-
-# INTERNACIONALES
-# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-
-#EXTINF:-1,AR: Telefe
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/1522.ts
-
-#EXTINF:-1,Arirang
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8658.ts
-
-#EXTINF:-1,Arirang HD
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8657.ts
-
-#EXTINF:-1,ES: Antena 3
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8234.ts
-
-#EXTINF:-1,Europa Europa
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13478.ts
-
-# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-# TELETRAK + RADIO BIO BIO + TV SENADO
-# â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-
-#EXTINF:-1,CL: TV Senado
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8725.ts
-
-#EXTINF:-1,CL: Teletrak
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8680.ts
-
-#EXTINF:-1,Radio Bio Bio Concepcion
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8695.ts
-
-#EXTINF:-1,Radio Bio Bio Los Angeles
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8696.ts
-
-#EXTINF:-1,Radio Bio Bio Osorno
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8698.ts
-
-#EXTINF:-1,Radio Bio Bio Puerto Montt
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8700.ts
-
-#EXTINF:-1,Radio Bio Bio Santiago
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8693.ts
-
-#EXTINF:-1,Radio Bio Bio Temuco
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8697.ts
-
-#EXTINF:-1,Radio Bio Bio Valdivia
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8699.ts
-
-#EXTINF:-1,Radio Bio Bio Valparaiso
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8694.ts
-
-
-# ========================================================================
-# SECCION 2: CANALES ADICIONALES VERIFICADOS (288)
-# ========================================================================
-
-# --- Nacionales ---
-#EXTINF:-1 group-title="Nacionales",13 Entretención
-https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1 group-title="Nacionales",13 Humor
-https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
-#EXTINF:-1 group-title="Nacionales",13 Prime
-https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
-#EXTINF:-1 group-title="Nacionales",15.1 BPB
-https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Abajo e la linea TV
-https://5ff3d9babae13.streamlock.net/ynfpncxxjg/ynfpncxxjg/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",ADA TV
-https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Alegria Cristiana
-https://vdochile.com:3182/hybrid/play.m3u8
-#EXTINF:-1 group-title="Nacionales",Alternativa TV
-https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",AM Canal
-https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8
-#EXTINF:-1 group-title="Nacionales",América TV Chile
-https://v2.tustreaming.cl:/radioamericatv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Arab TV
-https://video03.logicahost.com.br/arabtvchile/arabtvchile/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",ARTV
-http://45.162.193.35/ARTV/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Atacama TV (Copiapó)
-https://v2.tustreaming.cl/atacamatv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Aysen TV
-https://v1.tustreaming.cl/aysentv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Bombi TV
-https://tv.arkeo.cl:1936/bombitv/bombitv/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Cadena-RTV
-https://stmv4.voxtvhd.com.br/cadenartv/cadenartv/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",CalbucoNet
-https://videostream.chileservidores.com:8081/chiloe5/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Caldera Vision
-https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Camara de Diputados
-https://tls-cl.cdnz.cl/streamdiptudadosa/live/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Campo Abierto TV
-https://v2.tustreaming.cl/catvlive/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Canal 1 Nuble
-https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Canal 11 TV Aysen
-https://v2.tustreaming.cl/canal11aysen/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Canal 30 Loncomilla
-https://v1.tustreaming.cl/canal30loncomilla/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Canal 5 Puerto Montt
-https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Canal Chilote
-https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Canal Claro
-https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
-#EXTINF:-1 group-title="Nacionales",Canal del Sur
-https://oracle.streaminghd.cl/canal-del-sur/canal-del-sur/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Canal Latino 54
-https://videostream.chileservidores.com:8081/latina/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Canal Local
-https://v2.tustreaming.cl/canallocalcl/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Canal Survision Alerce
-https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
-#EXTINF:-1 group-title="Nacionales",Cappissima Multimedial TV
-https://oracle.streaminghd.cl/cappissima/cappissima/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Caracola TV
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Carolina TV
-https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
-#EXTINF:-1 group-title="Nacionales",Chile Channel
-https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Chile Informa
-http://45.225.95.154:8081/mcg/chileinforma/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Chiloe Red 25
-https://v2.tustreaming.cl/chiloered/index.m3u8
-#EXTINF:-1 group-title="Nacionales",China Channel
-https://v2.tustreaming.cl/chinachannel/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Click TV (Coronel)
-https://v2.tustreaming.cl/clicktv/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Club TV
-https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Concepcion TV
-https://stream.blserver.cl/hls/ctv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Corcubio TV
-http://45.225.95.154:8081/mcg/corcubio/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Coyhaique TV
-https://v2.tustreaming.cl/coyhaiquetv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Cultura Online
-https://streaming.bitsur.cl:3399/live/vdo532live.m3u8
-#EXTINF:-1 group-title="Nacionales",DCH TV
-https://v2.tustreaming.cl/dchtv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",DJ Loncho TV
-https://lbgo.bozztv.com/ssh101/ssh101/djlonchotv/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Docevision
-https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Dodo TV
-https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
-#EXTINF:-1 group-title="Nacionales",EGM TV
-https://vdochile.com:3922/live/egm20live.m3u8
-#EXTINF:-1 group-title="Nacionales",El 3 de Conce
-https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",El Canal Feliz
-http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",El Conquistador Concepcion
-https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8
-#EXTINF:-1 group-title="Nacionales",El Conquistador La Serena
-https://v4.tustreaming.cl:443/elcqlaserena/index.m3u8
-#EXTINF:-1 group-title="Nacionales",El Radar
-https://video.ipstream.cl:3459/hybrid/play.m3u8
-#EXTINF:-1 group-title="Nacionales",Emocion TV
-https://v1.tustreaming.cl/emociontv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",En Linea Maule
-https://v2.tustreaming.cl/enlineamauletv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Enfoque Digital TV
-https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Enlace BPB
-https://v1.tustreaming.cl/enlacebpbtv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",EPA! TV
-https://live-evg10.tv360.bitel.com.pe/bitel/epatv/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Estacion Limache TV
-https://v4.tustreaming.cl/limachemovil/index.m3u8
-#EXTINF:-1 group-title="Nacionales",EstaciónTV
-https://tv.arkeo.cl:1936/estaciontv/estaciontv/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Eternal Metal
-https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Factor 80
-https://5ff3d9babae13.streamlock.net:443/mjtdyftskj/mjtdyftskj/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Fortaleza TV
-https://multimedia.fortalezatv.cl/video/video.m3u8
-#EXTINF:-1 group-title="Nacionales",Frecuencia 7 TV
-https://v2.tustreaming.cl/frecuencia7/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Frecuencia Cultural
-https://v2.tustreaming.cl/frecuenciacultural/index.m3u8
-#EXTINF:-1 group-title="Nacionales",FutGO
-https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8
-#EXTINF:-1 group-title="Nacionales",Gobierno de Chile
-https://mdstrm.com/live-stream-playlist/6239f6d008e7ac488826f237.m3u8
-#EXTINF:-1 group-title="Nacionales",Gracia TV
-https://v4.tustreaming.cl/graciatv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Grupo Libra TV
-https://v2.tustreaming.cl/libratv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Guns n Roses Fans
-https://stmv6.voxtvhd.com.br/gunsrosesfans/gunsrosesfans/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",GVision
-https://videostream.chileservidores.com:8081/tome/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Iquique TV
-https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
-#EXTINF:-1 group-title="Nacionales",ISA TV
-https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Islita TV
-https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Juntos TV
-https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
-#EXTINF:-1 group-title="Nacionales",La Chilena TV
-https://vdochile.com:3134/stream/play.m3u8
-#EXTINF:-1 group-title="Nacionales",La Comarca TV
-https://v2.tustreaming.cl/lcomarcatv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",La Popular TV
-https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",La Tercera TV
-https://mdstrm.com/live-stream-playlist/67eae6c131b63199bfc77253.m3u8
-#EXTINF:-1 group-title="Nacionales",Lila TV Pencahue
-https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Longino TV
-https://coping-applaud-quit.ngrok-free.dev/hls/stream.m3u8
-#EXTINF:-1 group-title="Nacionales",Madero TV
-https://v1.tustreaming.cl/maderoantofagasta/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Maray TV
-https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Marga Marga TV
-https://v1.tustreaming.cl/margamargatv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Maule Vision
-https://v2.tustreaming.cl/maulevisiontv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Milodon TV
-https://video3.servidordevideo.net:3585/live/upbsfzhdlive.m3u8
-#EXTINF:-1 group-title="Nacionales",MTNA TV
-https://live.mtna.tv/hls/mtna/mtna.m3u8
-#EXTINF:-1 group-title="Nacionales",Mundos Lacustres TV
-https://video.ipstream.cl:3710/hybrid/play.m3u8
-#EXTINF:-1 group-title="Nacionales",Nacimiento TV
-https://tv.arkeo.cl:1936/evatelevision/evatelevision/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Nada Es Imposible TV
-https://vdochile.com:3194/live/mvqutymylive.m3u8
-#EXTINF:-1 group-title="Nacionales",Nativa TV
-https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",NG Channel
-https://vdochile.com:3222/live/ngchalive.m3u8
-#EXTINF:-1 group-title="Nacionales",Nina TV
-https://tv1.ninatv.cl/hls/stream.m3u8
-#EXTINF:-1 group-title="Nacionales",Odisea TV
-https://v2.tustreaming.cl/odiseatv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Oli TV
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Pichilemu TV
-https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Pirque TV
-https://eu1.servers10.com:8081/laureltv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",PlanetaTV
-https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Plenitud Juvenil
-https://live20.bozztv.com/giatvplayout7/giatv-209259/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Nacionales",Plenitud TV
-https://live20.bozztv.com/giatvplayout7/giatv-208727/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Nacionales",Plenitud TV 2
-https://live20.bozztv.com/giatvplayout7/giatv-212033/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Poesia TV
-https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Polar TV
-https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8
-#EXTINF:-1 group-title="Nacionales",Preludio TV
-https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Preludio TV Señal 2
-https://tv.arkeo.cl:1936/preludio2/preludio2/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Primitivos TV
-https://5eaccbab48461.streamlock.net:1936/heqhvtgebg/heqhvtgebg/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Providencia Television
-https://v2.tustreaming.cl/providenciatv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Pudahuel TV
-https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Puerta Norte
-https://panel.tvstream.cl:1936/8030/8030/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Qultura
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Raices Arabes TV
-https://tv.arkeo.cl:1936/raicesarabestv/raicesarabestv/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Red Vision Television
-https://tls-cl.cdnz.cl/livertv/live/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Restaurando Vidas TV
-https://v4.tustreaming.cl/restaurandovida/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Rial TV
-https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Ritmo Top Latino
-https://5ff3d9babae13.streamlock.net/vzzfdajnnf/vzzfdajnnf/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Ritmo TV
-https://tv.arkeo.cl:1936/ritmofm/ritmofm/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Ritoque TV
-https://streaming.purum.cl/ritoquetv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",RLOTV
-https://stmv7.voxtvhd.com.br/catto5860/catto5860/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Rocco TV
-https://5ff3d9babae13.streamlock.net/wympnqeqts/wympnqeqts/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",RTC Television
-https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",RTV
-https://origin-us.streaminghd.cl/rtv/rtv/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",RTV Nuble
-https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Ruidos FM
-https://tv1.ruidosfm.cl/ruidosfm/stream.m3u8
-#EXTINF:-1 group-title="Nacionales",Ruidos TV
-https://tv1.ruidosfm.cl/ruidostv/stream.m3u8
-#EXTINF:-1 group-title="Nacionales",San Nicolas TV
-https://v4.tustreaming.cl/sannicolastv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Santa Cruz HD
-https://origin-us.streaminghd.cl/santacruz/santacruz/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Sextavision
-https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",ShowtimeTV
-https://stmv7.voxtvhd.com.br/showtimetv/showtimetv/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Solo TV
-https://sproxy.solotv.cl/hls/live/fhd.m3u8
-#EXTINF:-1 group-title="Nacionales",SoloBáilalo
-https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",SoloTV
-https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8
-#EXTINF:-1 group-title="Nacionales",Surena TV
-https://vs20.live.opencaster.com/surenatv_187f915a/index.m3u8
-#EXTINF:-1 group-title="Nacionales",SurTV
-https://surtv-2.mddsoluciones.cl/play/ZZZ-M3U-CL:79W62zMmFSbBFoIE/live/surtvweb/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Suyai TV
-https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8
-#EXTINF:-1 group-title="Nacionales",Televida
-https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",TeleZeta Tropical
-https://stream.telezeta.cl/live/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Temuco TV
-https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8
-#EXTINF:-1 group-title="Nacionales",Tendencias Prime
-https://v4.tustreaming.cl/tendenciastv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Tevex
-https://v2.tustreaming.cl/tevex/index.m3u8
-#EXTINF:-1 group-title="Nacionales",TNE
-https://v2.tustreaming.cl/tnetv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Tributo Valentina
-https://vdochile.com:3795/hybrid/play.m3u8
-#EXTINF:-1 group-title="Nacionales",Turismo Travel TV
-https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",TuTV
-https://vdochile.com:3775/hybrid/play.m3u8
-#EXTINF:-1 group-title="Nacionales",TV Costa
-https://tvcosta.gleeze.com/memfs/39cef946-1aac-4418-8df8-6d8ff6d0a680.m3u8
-#EXTINF:-1 group-title="Nacionales",TV Elqui
-https://panel.tvstream.cl:1936/campu/campu/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",TV Lascabras.net
-https://vivo.solumedia.com:19360/lascabrastv/lascabrastv.m3u8
-#EXTINF:-1 group-title="Nacionales",TV Quinta Region
-https://stmv7.voxtvhd.com.br/tvquintaregion/tvquintaregion/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",TV Usach
-https://stv4.janus.cl/playlist/stream.m3u8
-#EXTINF:-1 group-title="Nacionales",TV Valdivia
-https://5eaccbab48461.streamlock.net:1936/8206/8206/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",TV vconline.cl
-https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",TV5 Linares
-https://v1.tustreaming.cl/tv5linares/index.m3u8
-#EXTINF:-1 group-title="Nacionales",TVO San Vicente
-https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",TVR
+#EXTINF:-1,001 13Rec
+http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8
+#EXTINF:-1,002 Mega 2
+http://15.204.246.24:8080/Mega2HD/index.m3u8
+#EXTINF:-1,003 Megatiempo
+http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8
+#EXTINF:-1,004 TVR
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",TVU Concepción
-https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",U Chile TV
-https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",UCV
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",UCV 2
-https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",UFROTV
-https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
-#EXTINF:-1 group-title="Nacionales",UMAG TV 2
-https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",UMAGTV
-https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Uniregion TV
-https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Universidad Autónoma Temuco (UATV)
-https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Urban Pro DJ
-https://vdochile.com:3115/hybrid/play.m3u8
-#EXTINF:-1 group-title="Nacionales",UTalcaTV
-https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",UTV
-https://v2.tustreaming.cl/utv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",V Classic TV
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Verso TV
-https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Vida Nueva TV
-https://stmv7.voxtvhd.com.br/vidanueva/vidanueva/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Vida TV
-https://player.netv.cl/vidatv/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Vision Plus TV
-https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Vision TV
-https://tv.arkeo.cl:1936/8044/8044/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",VLTV
-https://andromeda2.trapemn.tv:1936/regionales/vltv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Voces del Fuego
-https://stmv2.voxtvhd.com.br/vocesdelfuego/vocesdelfuego/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",VTV Quillota
-https://unlimited1-cl-isp.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",VTV Valle de Aconcagua
-https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales",Wapp
-https://stream.wapptv.cl/video/index.m3u8
-#EXTINF:-1 group-title="Nacionales",Zona Play TV
-https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
-#EXTINF:-1 group-title="Nacionales",MEGA FHD CL
-http://38.224.175.2:8000/play/a02t/index.m3u8
-
-# --- Deportes ---
-#EXTINF:-1 group-title="Deportes",CRTV
-https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",Turf Movil
-https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
-#EXTINF:-1 group-title="Deportes",Valparaiso Sporting
-https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",Teletrak TV
-https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",TNT Sports FHD CL New
-http://38.224.175.2:8000/play/a0rb/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN FHD New
+#EXTINF:-1,005 Via X
+http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8
+#EXTINF:-1,006 ETC TV
+http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8
+#EXTINF:-1,007 Mega Ficcion
+http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8
+#EXTINF:-1,008 ESPN FHD New
 http://38.224.175.2:8000/play/a02d/index.m3u8
-
-# --- Radio ---
-#EXTINF:-1 group-title="Radio",AE Radio TV
-https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Autonoma Radio
-https://wifispeed.trapemn.tv:1936/radios/autonoma-radio/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Centaury Radio HD
-https://ccp.centaurychile.com/centaury/stream.m3u8
-#EXTINF:-1 group-title="Radio",Ciudadano Radio
-https://oracle.streaminghd.cl/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8
-#EXTINF:-1 group-title="Radio",ClickRadio.cl
-https://live20.bozztv.com/akamaissh101/ssh101/clickradiolive/playlist.m3u8
-#EXTINF:-1 group-title="Radio",CRadio.cl
-https://tls-cl.cdnz.cl/cradio/live/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Escuchame Radio
-https://Stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Fortaleza Radio
-https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8
-#EXTINF:-1 group-title="Radio",HD Radio
-https://streaming.bitsur.cl:3029/live/hdradiolive.m3u8
-#EXTINF:-1 group-title="Radio",Interradio TV
-https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Mas Radio TV
-https://iptv.intersurtv.cl/intersur_mauletv/index.fmp4.m3u8
-#EXTINF:-1 group-title="Radio",Mi Radio TV
-https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Onda Radio TV
-https://tv.arkeo.cl:1936/ondaradiotv/ondaradiotv/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Patagonia Radio TV
-https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio 7 Tazas de Molina
-https://5ff3d9babae13.streamlock.net:443/krjrtsstzv/krjrtsstzv/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio Agricultura
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio Agricultura 2
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio America TV
-https://v2.tustreaming.cl/americamovil/index.m3u8
-#EXTINF:-1 group-title="Radio",Radio Amiga Vallenar
-https://5eaccbab48461.streamlock.net:1936/8176/8176/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio Ancoa TV
-https://v2.tustreaming.cl/radioancoatv/index.m3u8
-#EXTINF:-1 group-title="Radio",Radio Armonia TV
-https://v2.tustreaming.cl/armoniamovil/index.m3u8
-#EXTINF:-1 group-title="Radio",Radio Bienvenida FM
-https://panel.tvstream.cl:1936/8012/8012/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio Bohemia TV
-https://portalstream.cl:8080/bohemia1.m3u8
-#EXTINF:-1 group-title="Radio",Radio Camila TV
-https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio Chiloe
-https://videostream.chileservidores.com:8081/chiloe1/index.m3u8
-#EXTINF:-1 group-title="Radio",Radio Contacto 90.7 FM
-https://unlimited1-cl-isp.dps.live/interactivatv/interactivatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio Duna
-https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
-#EXTINF:-1 group-title="Radio",Radio El Sembrador
-https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio Fantasia
-https://srt.servilive.com/live/fantasiachile-pf556.m3u8
-#EXTINF:-1 group-title="Radio",Radio Fantasia TV
-https://v2.tustreaming.cl/fantasiatv/index.m3u8
-#EXTINF:-1 group-title="Radio",Radio Favorita
-https://freya.mivideo.pro/favoritatv2/index.m3u8
-#EXTINF:-1 group-title="Radio",Radio Fin Del Mundo TV
-https://live20.bozztv.com/akamaissh101/ssh101/rfdmtv/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio Frecuencia Uno
-https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
-#EXTINF:-1 group-title="Radio",Radio Imagen 106.5
-https://panel.tvstream.cl:1936/8066/8066/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio Infinita
-https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8
-#EXTINF:-1 group-title="Radio",Radio La Señal
-https://5ff3d9babae13.streamlock.net:443/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio La Serena TV
-https://5ff3d9babae13.streamlock.net/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio Labrar Noticias
-https://183.bozztv.com/giatv/giatv-labrarnoticias/labrarnoticias/chunks.m3u8
-#EXTINF:-1 group-title="Radio",Radio Labrar TV
-https://183.bozztv.com/giatv/giatv-radiolabrartv/radiolabrartv/chunks.m3u8
-#EXTINF:-1 group-title="Radio",Radio Las Nieves
-https://v2.tustreaming.cl/rln/index.m3u8
-#EXTINF:-1 group-title="Radio",Radio Mágica TV
-https://stmv1.voxtvhd.com.br/radiomagicatv/radiomagicatv/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio Mia 89.3 Fm
-https://tv.telselec.cl:3856/live/radiomialive.m3u8
-#EXTINF:-1 group-title="Radio",Radio Nuble
-https://tv.telselec.cl:3376/live/nublefmlive.m3u8
-#EXTINF:-1 group-title="Radio",Radio Panoramica
-https://v2.tustreaming.cl/alingeproducciones/index.m3u8
-#EXTINF:-1 group-title="Radio",Radio Polar
-https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e_output_0.m3u8
-#EXTINF:-1 group-title="Radio",Radio Presidente Ibañez
-https://ibanez.servercl.com/hls/live.m3u8
-#EXTINF:-1 group-title="Radio",Radio Pudahuel
-https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio Rancagua FM
-https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio Ritmo
-https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio Romantica
-https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8
-#EXTINF:-1 group-title="Radio",Radio Rosa FM
-https://tv.arkeo.cl:1936/rosafm/rosafm/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio Suyai TV
-https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
-#EXTINF:-1 group-title="Radio",Radio UNIACC
-https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio Universal
-https://videostream.chileservidores.com:8081/universal/index.m3u8
-#EXTINF:-1 group-title="Radio",Radio USACH
-https://rusach2.janus.cl/playlist/stream.m3u8
-#EXTINF:-1 group-title="Radio",Radio Via 7 TV
-https://tv.arkeo.cl:1936/radiovia7tv/radiovia7tv/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio Via Libre
-https://live20.bozztv.com/akamaissh101/ssh101/vialibretv/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Radio Vida Curico
-https://v2.tustreaming.cl/radiovidacurico/index.m3u8
-#EXTINF:-1 group-title="Radio",Radio Zona
-https://tv.telselec.cl:3780/live/jesuslive.m3u8
-#EXTINF:-1 group-title="Radio",Radio Zona 90.3
-https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
-#EXTINF:-1 group-title="Radio",Recuerdos Retro Radio TV
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Soberania Radio
-https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Suyai Radio
-https://trun.suyaitv.cl/memfs/d0835165-7fb4-4982-8336-84a7f4522908.m3u8
-#EXTINF:-1 group-title="Radio",Teleangol Radio
-https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
-#EXTINF:-1 group-title="Radio",Top New Radio
-https://5ff3d9babae13.streamlock.net:443/dxwdsmgesp/dxwdsmgesp/playlist.m3u8
-
-# --- Música ---
-#EXTINF:-1 group-title="Música",Dance FM
-https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
-#EXTINF:-1 group-title="Música",Genial TV
-https://v1.tustreaming.cl/genialtv/index.m3u8
-#EXTINF:-1 group-title="Música",La Clave
-https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Música",La Granja TV
-https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
-#EXTINF:-1 group-title="Música",La Melinkana TV
-https://v1.tustreaming.cl/melinkana/index.m3u8
-#EXTINF:-1 group-title="Música",LaMix TV
-https://lbgo.bozztv.com/ssh101/ssh101/lamixtv/playlist.m3u8
-#EXTINF:-1 group-title="Música",M Music TV
-https://cloudpro.servidoresdestream.com:8081/8036/index.m3u8
-#EXTINF:-1 group-title="Música",Maqui TV
-https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8
-#EXTINF:-1 group-title="Música",Mundo de la Musica TV
-https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
-#EXTINF:-1 group-title="Música",Music PUQ
-https://vdochile.com:3131/live/redupxprlive.m3u8
-#EXTINF:-1 group-title="Música",Onda Fiesta
-https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8
-#EXTINF:-1 group-title="Música",Pauta
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Música",Portal FoxMix
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 group-title="Música",Retromusica Television
-https://vdochile.com:3864/stream/play.m3u8
-#EXTINF:-1 group-title="Música",Rewind TV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:-1 group-title="Música",Sabor TV
-https://v1.tustreaming.cl/sabortv/index.m3u8
-#EXTINF:-1 group-title="Música",Sensacion Costa
-https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
-#EXTINF:-1 group-title="Música",VClassicTV Tropical
-https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
-#EXTINF:-1 group-title="Música",Vivo TV
-https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8
-
-# --- Noticias Internacionales ---
-#EXTINF:-1 group-title="Noticias Internacionales",ADN TV
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Noticias Internacionales",Atacama Noticias
-https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-#EXTINF:-1 group-title="Noticias Internacionales",Contivision
-https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
-#EXTINF:-1 group-title="Noticias Internacionales",El Centro TV
-https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8
-#EXTINF:-1 group-title="Noticias Internacionales",NCTV
-https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Noticias Internacionales",Opinionsur
-https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
-#EXTINF:-1 group-title="Noticias Internacionales",Puranoticia TV
-https://pnt.janusmedia.tv/hls/pnt.m3u8
-#EXTINF:-1 group-title="Noticias Internacionales",Telecanal Santa Cruz
-https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
-#EXTINF:-1 group-title="Noticias Internacionales",Turno
-https://redirector.dps.live/hls/turno/playlist.m3u8
-
-# --- Noticias ---
-#EXTINF:-1 group-title="Noticias",CHV Noticias
-https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
-
-# --- Series ---
-#EXTINF:-1 group-title="Series",13 Teleseries
-https://redirector.dps.live/hls/13t/playlist.m3u8
-
-# --- Películas/Cine ---
-#EXTINF:-1 group-title="Películas/Cine",Star Channel
-http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
-
-# --- Documentales ---
-#EXTINF:-1 group-title="Documentales",Docu.
-http://45.162.193.35/DOCU/index.m3u8
-
-# --- Infantiles ---
-#EXTINF:-1 group-title="Infantiles",FunBox
-http://186.148.196.100:8000/play/a00d
-
-# --- Regionales ---
-#EXTINF:-1 group-title="Regionales",ITV Patagonia
-https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Regionales",Pucon TV
-https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Regionales",TVR
-https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:-1 group-title="Regionales",El Pingüino TV
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
-
-# --- Institucional ---
-#EXTINF:-1 group-title="Institucional",TV Senado
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
-
-# --- Negocios ---
-#EXTINF:-1 group-title="Negocios",Tevex
-https://v4.tustreaming.cl/tevexinter/index.m3u8
-
-# ========================================================================
-# SECCION 3: HBO / ESPN VERIFICADOS (76)
-# ========================================================================
-#EXTINF:-1 group-title="Deportes",ESPN (1080p)
+#EXTINF:-1,009 ESPN FHD
+http://181.13.252.102:8000/play/a05a/index.m3u8
+#EXTINF:-1,010 ESPN 2 FHD New
+http://38.226.210.46:8000/play/a05p/index.m3u8
+#EXTINF:-1,011 ESPN 2 FHD
+http://181.13.252.102:8000/play/a059/index.m3u8
+#EXTINF:-1,012 ESPN 3 FHD New
+http://38.226.210.46:8000/play/a037/index.m3u8
+#EXTINF:-1,013 ESPN 3 FHD
+http://181.13.252.102:8000/play/a05b/index.m3u8
+#EXTINF:-1,014 ESPN Premium FHD CL New
+http://38.224.175.2:8000/play/a05g/index.m3u8
+#EXTINF:-1,015 ESPN Premium FHD CL New
+http://38.226.210.46:8000/play/a05q/index.m3u8
+#EXTINF:-1,016 ESPN Premium FHD CL
+http://8.243.126.131:8000/play/a053/index.m3u8
+#EXTINF:-1,017 ESPN Premium FHD CL
+http://8.243.126.131:8000/play/a0ku/index.m3u8
+#EXTINF:-1,018 Dsports FHD New
+http://38.224.175.2:8000/play/a0l4/index.m3u8
+#EXTINF:-1,019 Dsports FHD New
+http://38.226.210.46:8000/play/A008/index.m3u8
+#EXTINF:-1,020 ESPN (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 3 (1080p)
+#EXTINF:-1,021 ESPN 3 (1080p)
 http://190.83.2.182:8090/ESPN3/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 4 (1080p)
+#EXTINF:-1,022 ESPN 4 (1080p)
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN Deportes HD (720p)
+#EXTINF:-1,023 ESPN Deportes HD (720p)
 http://168.228.44.241:9998/play/a0dz/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPNews (720p)
+#EXTINF:-1,024 ESPNews (720p)
 http://41.205.93.154/ESPNNEWS/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPNU (720p)
+#EXTINF:-1,025 ESPNU (720p)
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPNU HD (720p)
+#EXTINF:-1,026 ESPNU HD (720p)
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 1 CHILE
+#EXTINF:-1,027 CL: ESPN 2 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/32.ts
+#EXTINF:-1,028 CL: ESPN 3 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/33.ts
+#EXTINF:-1,029 CL: ESPN Extra
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13891.ts
+#EXTINF:-1,030 CL: ESPN HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/31.ts
+#EXTINF:-1,031 ESPN 2 Argentina
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11649.ts
+#EXTINF:-1,032 ESPN 2 Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13568.ts
+#EXTINF:-1,033 ESPN 2 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3477.ts
+#EXTINF:-1,034 ESPN 2 PerÃº
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11702.ts
+#EXTINF:-1,035 ESPN 2 Sur HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13506.ts
+#EXTINF:-1,036 ESPN 3 Argentina
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11604.ts
+#EXTINF:-1,037 ESPN 3 Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13569.ts
+#EXTINF:-1,038 ESPN 3 HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3480.ts
+#EXTINF:-1,039 ESPN 3 PerÃº
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11662.ts
+#EXTINF:-1,040 ESPN 3 Sur HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13507.ts
+#EXTINF:-1,041 ESPN Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13567.ts
+#EXTINF:-1,042 ESPN HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3474.ts
+#EXTINF:-1,043 ESPN Premium ARG HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9678.ts
+#EXTINF:-1,044 ESPN Sur HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13505.ts
+#EXTINF:-1,045 HBO
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5890.ts
+#EXTINF:-1,046 HBO *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13862.ts
+#EXTINF:-1,047 HBO 2
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5888.ts
+#EXTINF:-1,048 HBO 2 Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/60.ts
+#EXTINF:-1,049 HBO Family
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13865.ts
+#EXTINF:-1,050 HBO Family Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/62.ts
+#EXTINF:-1,051 HBO Family Full HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13864.ts
+#EXTINF:-1,052 HBO Family Full HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13867.ts
+#EXTINF:-1,053 HBO Family HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/67.ts
+#EXTINF:-1,054 HBO Family HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13866.ts
+#EXTINF:-1,055 HBO Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/59.ts
+#EXTINF:-1,056 HBO Full HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13860.ts
+#EXTINF:-1,057 HBO Mundi
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6011.ts
+#EXTINF:-1,058 HBO Mundi *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8151.ts
+#EXTINF:-1,059 HBO Mundi **
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13869.ts
+#EXTINF:-1,060 HBO Mundi HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13868.ts
+#EXTINF:-1,061 HBO Plus
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13871.ts
+#EXTINF:-1,062 HBO Plus *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13872.ts
+#EXTINF:-1,063 HBO Plus **
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13873.ts
+#EXTINF:-1,064 HBO Plus Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/61.ts
+#EXTINF:-1,065 HBO Plus Full HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13870.ts
+#EXTINF:-1,066 HBO Plus HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/66.ts
+#EXTINF:-1,067 HBO Pop
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13874.ts
+#EXTINF:-1,068 HBO Pop *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13875.ts
+#EXTINF:-1,069 HBO Pop Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6110.ts
+#EXTINF:-1,070 HBO Pop HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8141.ts
+#EXTINF:-1,071 HBO Signature
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13876.ts
+#EXTINF:-1,072 HBO Signature Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/63.ts
+#EXTINF:-1,073 HBO Signature HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5892.ts
+#EXTINF:-1,074 HBO Signature HD *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13877.ts
+#EXTINF:-1,075 HBO Xtreme
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13879.ts
+#EXTINF:-1,076 HBO Xtreme *
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13880.ts
+#EXTINF:-1,077 HBO Xtreme Full HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13878.ts
+#EXTINF:-1,078 HBO Xtreme HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5900.ts
+#EXTINF:-1,079 CA: HBO
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13756.ts
+#EXTINF:-1,080 CA: HBO 2
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13757.ts
+#EXTINF:-1,081 USA: ESPN Deportes
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5493.ts
+#EXTINF:-1,082 USA: ESPN News
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5487.ts
+#EXTINF:-1,083 USA: HBO
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6042.ts
+#EXTINF:-1,084 ESPN 1 CHILE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QkIzQVBiUVh2RThieGJBaGVrK21nST0
-#EXTINF:-1 group-title="Deportes",ESPN 2 CHILE
+#EXTINF:-1,085 ESPN 2 CHILE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SnNjdzVQVVUza0tNeC9WK0ticFhYOD0
-#EXTINF:-1 group-title="Deportes",ESPN 3 CHILE
+#EXTINF:-1,086 ESPN 3 CHILE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S1NRN1BFN1A4b25kR0RJN1ZyOVhwZz0
-#EXTINF:-1 group-title="Deportes",ESPN 4 CHILE
+#EXTINF:-1,087 ESPN 4 CHILE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T00xQmtxN1ZlTWdaV3h2Y1VGYVpCYz0
-#EXTINF:-1 group-title="Deportes",ESPN 6 CHILE
+#EXTINF:-1,088 ESPN 5 CHILE
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Qm9jWTczMmFKT0FzbUd5b1B2VGpKYz0
+#EXTINF:-1,089 ESPN 6 CHILE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QzdyeFhQMXB2R2FOTk53SlA1V1ZyMD0
-#EXTINF:-1 group-title="Deportes",ESPN 7 CHILE
+#EXTINF:-1,090 ESPN 7 CHILE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S1puYi9pSnVHQlU3VGlRVVdaa1ZBST0
-#EXTINF:-1 group-title="Deportes",ESPN PREMIUM
+#EXTINF:-1,091 ESPN PREMIUM
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RS9GVEcwUmt6azF5aURSNmt1Qkpydz0
-#EXTINF:-1 group-title="Entretenimiento",Cine TV: HBO 2 Full HD
+#EXTINF:-1,092 Cine TV: HBO 2 Full HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RXRvd0Z4YmlVeUk2VnVnajc3dGgyWT0
-#EXTINF:-1 group-title="Entretenimiento",Cine TV: HBO Family Full HD
+#EXTINF:-1,093 Cine TV: HBO Family Full HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S3RycGRrVzBiTGVTVEZnV3lMTGFCZz0
-#EXTINF:-1 group-title="Entretenimiento",Cine TV: HBO Full HD
+#EXTINF:-1,094 Cine TV: HBO Full HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RGd4alRpZ1I3WnFwRDhmWVpiWlZvaz0
-#EXTINF:-1 group-title="Entretenimiento",Cine TV: HBO MUNDI Full HD @
+#EXTINF:-1,095 Cine TV: HBO MUNDI Full HD @
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RGFLRHZkVFVOTnlGWWtNYUtod0JCTT0
-#EXTINF:-1 group-title="Entretenimiento",Cine TV: HBO Plus Full HD
+#EXTINF:-1,096 Cine TV: HBO Plus Full HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R2s4eTBzRk9qazRwTFRRT3JkdXpXST0
-#EXTINF:-1 group-title="Entretenimiento",Cine TV: HBO Pop Full HD
+#EXTINF:-1,097 Cine TV: HBO Pop Full HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TE1LVE1CYVdQSytQS09XYjBiczRKdz0
-#EXTINF:-1 group-title="Entretenimiento",Cine TV: HBO Signature Full HD
+#EXTINF:-1,098 Cine TV: HBO Signature Full HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RzhnS0p6WTh5a2s0cnN4MU01ZEFzYz0
-#EXTINF:-1 group-title="Entretenimiento",HBO XTREME HD
+#EXTINF:-1,099 HBO XTREME HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TXdZVWhwRDZZR1lkaVBWOFg4MGVmYz0
-#EXTINF:-1 group-title="Entretenimiento",Cine TV: HBO
+#EXTINF:-1,100 Cine TV: HBO
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SEd5UFFrZkx0VVJyYU81QWY1bG00dz0
-#EXTINF:-1 group-title="Entretenimiento",Cine TV: HBO Signature
+#EXTINF:-1,101 Cine TV: HBO Signature
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RGxLT0V1R3lkZzBiWnpPeDhLYnZ3Zz0
-#EXTINF:-1 group-title="Entretenimiento",Cine TV: HBO Xtreme
+#EXTINF:-1,102 Cine TV: HBO Xtreme
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RFJRVHNsTVFHYVMzV0JvVHBua0FTTT0
-#EXTINF:-1 group-title="Entretenimiento",HBO MUNDI
+#EXTINF:-1,103 HBO MUNDI
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TE0xOFhBUlpveWlJc3BTWWR2cUcvcz0
-#EXTINF:-1 group-title="Entretenimiento",Cine TV: HBO Family HD @
+#EXTINF:-1,104 Cine TV: HBO Family HD @
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UHZsV2hSdkE5UFQ0SWVyQnFYekhZaz0
-#EXTINF:-1 group-title="Deportes",ESPN 2 CHILE HD
+#EXTINF:-1,105 ESPN + ARGENTINA HD
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TXI4TGU2T0xSSWlYVUl5T2w4NjJEWT0
+#EXTINF:-1,106 ESPN 2 ARGENTINA HD
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Q1N5VjA4NE93c0tvRnMvbE9RTzNodz0
+#EXTINF:-1,107 ESPN 2 CHILE HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RUlTeTdiU2lyeC9RVDBSUTd1OHVsOD0
-#EXTINF:-1 group-title="Deportes",ESPN 2 COLOMBIA HD @
+#EXTINF:-1,108 ESPN 2 COLOMBIA HD @
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SS9UK0g1eC9PVlVCcG5XeHJ2RkZxRT0
-#EXTINF:-1 group-title="Deportes",ESPN 2 MEXICO HD @
+#EXTINF:-1,109 ESPN 2 MEXICO HD @
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SGFXODVDYlR5dlRCVHRFTDNTZDVWQT0
-#EXTINF:-1 group-title="Deportes",ESPN 3 CHILE HD
+#EXTINF:-1,110 ESPN 3 CHILE HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SkMzNnVXY3FLeHVYc0JvYktPaU5uWT0
-#EXTINF:-1 group-title="Deportes",ESPN 3 COLOMBIA HD
+#EXTINF:-1,111 ESPN 3 COLOMBIA HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QWw2VUxWWXN4N2Vwb1QyRlVGRnQvST0
-#EXTINF:-1 group-title="Deportes",ESPN 3 HD @
+#EXTINF:-1,112 ESPN 3 HD @
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R2NtWnJxbTBuT3FSVEY5dHVMajluND0
-#EXTINF:-1 group-title="Deportes",ESPN 4 (MX)
+#EXTINF:-1,113 ESPN 3 MEXICO HD @
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S2djWUpNVi9CUTZQNUVva0RrU2IxTT0
+#EXTINF:-1,114 ESPN 4 (MX)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6THZGeFNsc1d0UVFWVnRacG1SUXh3TT0
-#EXTINF:-1 group-title="Deportes",Espn 4 HD @
+#EXTINF:-1,115 Espn 4 HD @
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6STlmY296cm1IWk5QQkNqRVBvTE4xaz0
-#EXTINF:-1 group-title="Deportes",ESPN 5 FHD
+#EXTINF:-1,116 ESPN 5 FHD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R3VuK3VoOG1KY0hCWElyOEhaQ0xLTT0
-#EXTINF:-1 group-title="Deportes",ESPN 5 HD
+#EXTINF:-1,117 ESPN 5 HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RlJrQnZ6RXhSWWhTTG5oT09wMHMwOD0
-#EXTINF:-1 group-title="Deportes",ESPN 6 HD
+#EXTINF:-1,118 ESPN 6
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T3RwS0FrL2NvdU5xbjhiSVN4TERFbz0
+#EXTINF:-1,119 ESPN 6 HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SnpzRnIxOUFCeXFteXIxd3NwYXJuQT0
-#EXTINF:-1 group-title="Deportes",ESPN 7
+#EXTINF:-1,120 ESPN 7
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UFVmQm12d3JuVi9qb2l2N3FSdW5vND0
-#EXTINF:-1 group-title="Deportes",ESPN 7 FHD
+#EXTINF:-1,121 ESPN 7 FHD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RlZMYXBGeE1KMm9TeGIzaUJHT3V0ST0
-#EXTINF:-1 group-title="Deportes",ESPN ARGENTINA HD
+#EXTINF:-1,122 ESPN ARGENTINA HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T1MxSnZtL0hwZ0RDWlBaaHZMUFUxUT0
-#EXTINF:-1 group-title="Deportes",ESPN COLOMBIA HD @
+#EXTINF:-1,123 ESPN COLOMBIA HD @
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RnF3WWlua3ZQSWNtcVBoTWJkWU5zaz0
-#EXTINF:-1 group-title="Deportes",ESPN EXTRA
+#EXTINF:-1,124 ESPN EXTRA
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RlZ2SFNOUGkxZ3VjYXpkTVRLQmpUVT0
-#EXTINF:-1 group-title="Deportes",ESPN MEXICO HD
+#EXTINF:-1,125 ESPN MEXICO HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TTI4RHo4T1E1dGpQYlZTN2h4cnMyQT0
-#EXTINF:-1 group-title="Deportes",ESPN PREMIUM
+#EXTINF:-1,126 ESPN PREMIUM
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TERWN2xzSXViTG1wQ0N6MWVNYVpGWT0
-#EXTINF:-1 group-title="Deportes",ESPN PREMIUM  ARGENTINA HD
+#EXTINF:-1,127 ESPN PREMIUM  ARGENTINA HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R0h5OVFDZTN5NTdYcHg5YjBuc1hSaz0
-#EXTINF:-1 group-title="Deportes",ESPN 5 COLOMBIA
+#EXTINF:-1,128 ESPN 2 COLOMBIA
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QUxWZGFSU3JNM3RzaHZZM0R2cmJ1az0
+#EXTINF:-1,129 ESPN 3 COLOMBIA
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Q0hzNzV6SUpsVjZVcSthWlNEcVNRST0
+#EXTINF:-1,130 ESPN 4 COLOMBIA
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R0oySHlOZEl0aEZvUmF5TXIvWVhnZz0
+#EXTINF:-1,131 ESPN 5 COLOMBIA
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SDI1bEUxeEhVYW82a3V0dzZLdWRmUT0
-#EXTINF:-1 group-title="Deportes",ESPN COLOMBIA
+#EXTINF:-1,132 ESPN 6 COLOMBIA
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QVZ4bjVtNVNWbXU5b2gzU21vcENsVT0
+#EXTINF:-1,133 ESPN 7 COLOMBIA
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SWxTOG5xMmZUYUMwMmJaTEo5YlVzZz0
+#EXTINF:-1,134 ESPN COLOMBIA
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RVljZzF2WFVWd0JlaGRvdWdQbE02TT0
-#EXTINF:-1 group-title="Deportes",SP: MX: Espn 1 FHD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UHZ3UXVpSS9zcDNQanhMdFg0WU1VRT0
-#EXTINF:-1 group-title="Deportes",SP: MX: ESPN 1 HD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RzcwaE1TV0dERzk2R1E2bjRhSnhDcz0
-#EXTINF:-1 group-title="Deportes",SP: MX: Espn 2 FHD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UEhSWFh5Z3pZRWJ6NkdzLzFhdHIwVT0
-#EXTINF:-1 group-title="Deportes",SP: MX: ESPN 2 HD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UDVCK1VzbkF1T2g3dXB6TWFJOGZ0bz0
-#EXTINF:-1 group-title="Deportes",SP: MX: Espn 2 SD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RW05M1p6WVNZUHYvbzBQOUNlOGxDRT0
-#EXTINF:-1 group-title="Deportes",SP: MX: ESPN 4
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S3RPeDh6WUtjemRBWllTYmRkTmdwcz0
-#EXTINF:-1 group-title="Deportes",SP: MX: ESPN 4 HD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SkIza0tCYUZYWWUvY2pzVnhsZmorTT0
-#EXTINF:-1 group-title="Deportes",SP: MX: ESPN 5
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TWkraWNGWHVhakdCbVEzSlVEd0gzTT0
-#EXTINF:-1 group-title="Deportes",BR: ESPN 2 HD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Qm5HRzZ0N2RpTW5WbERyYWpYdUZaUT0
-#EXTINF:-1 group-title="Deportes",BR: ESPN EXTRA HD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TUU2K00yQnpnUXViRFY3OGI2bkZSST0
-#EXTINF:-1 group-title="Deportes",BR: ESPN HD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Q1ZlN1d0WDN1ckowTVR3Myt3Q0JXZz0
-#EXTINF:-1 group-title="Entretenimiento",BR: HBO 2 FHD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RjBqSk8rL3VSaS9UZjJZbCtuWjc4WT0
-#EXTINF:-1 group-title="Entretenimiento",BR: HBO FAMILY HD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QWM3dUhPMTdBa01WRFB5RnJLaDRDdz0
-#EXTINF:-1 group-title="Entretenimiento",BR: HBO HD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QUNxUzkyMWxSM256ZjdKNHhrT1lmZz0
-#EXTINF:-1 group-title="Entretenimiento",BR: HBO MUNDI HD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TXB1S3ZjY05mTHp2SE9HL1laejAzMD0
-#EXTINF:-1 group-title="Entretenimiento",BR: HBO PLUS HD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QmdlQUVBamZlSEFReGFsanNrak5iRT0
-#EXTINF:-1 group-title="Entretenimiento",BR: HBO POP HD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TmpFN1lHVHo2WEgvQTFpOXlyWmxBND0
-#EXTINF:-1 group-title="Entretenimiento",BR: HBO SIGNATURE HD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Tmt4ZlllRlowWWQ4WWhjSDloMisvND0
-#EXTINF:-1 group-title="Entretenimiento",BR: HBO XTREME HD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RFhES3Zabkc4c1hXS21MRGd0MDVlcz0
-#EXTINF:-1 group-title="Deportes",SP: USA: ESPN Deportes
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RVVQUElDRmZpdG9FbjEwa1FDeHVXWT0
-#EXTINF:-1 group-title="Entretenimiento",HBO FAMILY WEST
+#EXTINF:-1,135 HBO Max Avances
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RW9FN25TZGJybFdVMFJFWVArbi84UT0
+#EXTINF:-1,136 HBO 2 WEST @
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SEtCenhPTnRZMWgrM2h2S0ZIMFNIdz0
+#EXTINF:-1,137 HBO COMEDY WEST
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6THdEaTE1Zmp3a3JQOXZNckNKcUQ0RT0
+#EXTINF:-1,138 HBO FAMILY WEST
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TjRrZXNLWHZKdmJXaFREMjdnclIwQT0
-#EXTINF:-1 group-title="Entretenimiento",HBO SIGNATURE WEST
+#EXTINF:-1,139 HBO SIGNATURE WEST
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TFJ0WW1QSS9Da2k0d05uRGJwTVhCYz0
-#EXTINF:-1 group-title="Entretenimiento",US: HBO 2
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UGw1L0Fqdk1YQzNpRGJsT3FIcCtLVT0
-#EXTINF:-1 group-title="Entretenimiento",US: HBO PLUS
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TnV4eWliLzBuZzhuVVFQVG56U2RQQT0
-#EXTINF:-1 group-title="Entretenimiento",US: HBO ZONE @
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Q0lQajN3NlFJSXZyeTRMUTVVamVhQT0
-#EXTINF:-1 group-title="Deportes",US: ESPN
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UFFvZHA0TTNJTytUL2hnb016dHJTbz0
-#EXTINF:-1 group-title="Entretenimiento",CA: HBO 2 HD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Rk11bjIxQlFtOEkyL1lhUTJVR3UxUT0
-#EXTINF:-1 group-title="Entretenimiento",CA: HBO HD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QkQ0TkRiZDBkZksrUmFCYkJpODFvQT0
-
-# ========================================================================
-#
+#EXTINF:-1,140 HBO ZONE WEST
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TW43bUxzdjZsa2hEakpTQnN5NTJHbz0
