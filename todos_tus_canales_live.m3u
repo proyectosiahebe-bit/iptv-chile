@@ -267,61 +267,57 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15687.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14880.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",123 Mega 2 (1080p, ip)
 http://15.204.246.24:8080/Mega2HD/index.m3u8
-#EXTINF:-1 group-title="PARA VERIFICAR",124 CL: MEGA 2 (jumangis)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TEt5SkFaYVhieWRWRFNsa3FJZVprdz0
-#EXTINF:-1 group-title="PARA VERIFICAR",125 Via X (tlinkgo 1080p)
+#EXTINF:-1 group-title="PARA VERIFICAR",124 Via X (tlinkgo 1080p)
 http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8
-#EXTINF:-1 group-title="PARA VERIFICAR",126 CL: Via X (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",125 CL: Via X (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13888.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",127 Via X (jumangis)
+#EXTINF:-1 group-title="PARA VERIFICAR",126 Via X (jumangis)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T0pPNFJ0czNxZSt6dmdOVkNYQm13TT0
-#EXTINF:-1 group-title="PARA VERIFICAR",128 HBO Xtreme (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",127 HBO Xtreme (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13879.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",129 HBO Xtreme Full HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",128 HBO Xtreme Full HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13878.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",130 HBO Xtreme HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",129 HBO Xtreme HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5900.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",131 HBO Xtreme * (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",130 HBO Xtreme * (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13880.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",132 HBO XTREME HD (jumangis)
+#EXTINF:-1 group-title="PARA VERIFICAR",131 HBO XTREME HD (jumangis)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TXdZVWhwRDZZR1lkaVBWOFg4MGVmYz0
-#EXTINF:-1 group-title="PARA VERIFICAR",133 Cine TV: HBO Xtreme (jumangis)
+#EXTINF:-1 group-title="PARA VERIFICAR",132 Cine TV: HBO Xtreme (jumangis)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RFJRVHNsTVFHYVMzV0JvVHBua0FTTT0
-#EXTINF:-1 group-title="PARA VERIFICAR",134 AMC Full HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",133 AMC Full HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9523.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",135 Cine TV: AMC Full HD CO (jumangis)
+#EXTINF:-1 group-title="PARA VERIFICAR",134 Cine TV: AMC Full HD CO (jumangis)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Ri9lU2M1dkpTWDQ4S2sxUFBKL0NsND0
-#EXTINF:-1 group-title="PARA VERIFICAR",136 Cinecanal Full HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",135 Cinecanal Full HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/107.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",137 Cine TV: Cinecanal Full HD CO (jumangis)
+#EXTINF:-1 group-title="PARA VERIFICAR",136 Cine TV: Cinecanal Full HD CO (jumangis)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S0tzNzFuUkRhZVRrcU9ZVWpCSEh6QT0
-#EXTINF:-1 group-title="PARA VERIFICAR",138 HBO Full HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",137 HBO Full HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/59.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",139 HBO 2 Full HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",138 HBO 2 Full HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/60.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",140 Cine TV: HBO Plus Full HD (jumangis)
+#EXTINF:-1 group-title="PARA VERIFICAR",139 Cine TV: HBO Plus Full HD (jumangis)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R2s4eTBzRk9qazRwTFRRT3JkdXpXST0
-#EXTINF:-1 group-title="PARA VERIFICAR",141 Star Channel Full HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",140 Star Channel Full HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5980.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",142 STAR Channel FHD opc-1 (jumangis)
+#EXTINF:-1 group-title="PARA VERIFICAR",141 STAR Channel FHD opc-1 (jumangis)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SzUwc1hMejFrdFRmRUxNM2JLRVgzcz0
-#EXTINF:-1 group-title="PARA VERIFICAR",143 A&E Full HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",142 A&E Full HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/92.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",144 A&E HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",143 A&E HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/126.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",145 Cine TV: A&E Full HD CO (jumangis)
+#EXTINF:-1 group-title="PARA VERIFICAR",144 Cine TV: A&E Full HD CO (jumangis)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RlBmbUhwUko2ZmNvdTA0V2Fla1NiYz0
-#EXTINF:-1 group-title="PARA VERIFICAR",146 HBO (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",145 HBO (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5890.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",147 HBO * (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",146 HBO * (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13862.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",148 Cine TV: HBO (jumangis)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SEd5UFFrZkx0VVJyYU81QWY1bG00dz0
-#EXTINF:-1 group-title="PARA VERIFICAR",149 HBO Full HD * (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",147 HBO Full HD * (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13860.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",150 HBO 2 (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",148 HBO 2 (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5888.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",151 Canal Latino 54 (chileservidores)
+#EXTINF:-1 group-title="PARA VERIFICAR",149 Canal Latino 54 (chileservidores)
 https://videostream.chileservidores.com:8081/latina/index.m3u8
-#EXTINF:-1 group-title="PARA VERIFICAR",152 Latinos TV (tustreaming)
+#EXTINF:-1 group-title="PARA VERIFICAR",150 Latinos TV (tustreaming)
 https://v4.tustreaming.cl/latinostv/index.m3u8
