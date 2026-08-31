@@ -311,3 +311,17 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/92.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/126.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",145 Cine TV: A&E Full HD CO (jumangis)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RlBmbUhwUko2ZmNvdTA0V2Fla1NiYz0
+#EXTINF:-1 group-title="PARA VERIFICAR",146 HBO (iptv.wtf)
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5890.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",147 HBO * (iptv.wtf)
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13862.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",148 Cine TV: HBO (jumangis)
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SEd5UFFrZkx0VVJyYU81QWY1bG00dz0
+#EXTINF:-1 group-title="PARA VERIFICAR",149 HBO Full HD * (iptv.wtf)
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13860.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",150 HBO 2 (iptv.wtf)
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5888.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",151 Canal Latino 54 (chileservidores)
+https://videostream.chileservidores.com:8081/latina/index.m3u8
+#EXTINF:-1 group-title="PARA VERIFICAR",152 Latinos TV (tustreaming)
+https://v4.tustreaming.cl/latinostv/index.m3u8
