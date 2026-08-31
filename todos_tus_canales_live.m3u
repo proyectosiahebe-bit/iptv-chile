@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTM3U
+
 
 #EXTGRP:NACIONALES CHILE
 #EXTINF:-1 group-title="NACIONALES CHILE",1 RETRO PLUS 3
@@ -49,275 +51,363 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8680.ts
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES CHILE",24 ADN TV
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES CHILE",25 TV+
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES CHILE",26 T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES CHILE",27 MEGA 2 (jumangis)
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TEt5SkFaYVhieWRWRFNsa3FJZVprdz0
+#EXTINF:-1 group-title="NACIONALES CHILE",28 NTV (iptv.wtf)
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/10501.ts
+#EXTINF:-1 group-title="NACIONALES CHILE",29 TVN 24 HORAS
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+
 
 #EXTGRP:CINE
-#EXTINF:-1 group-title="CINE",25 AMC
+#EXTINF:-1 group-title="CINE",30 AMC
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13377.ts
-#EXTINF:-1 group-title="CINE",26 Cinemax
+#EXTINF:-1 group-title="CINE",31 Cinemax
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13883.ts
-#EXTINF:-1 group-title="CINE",27 Golden Edge
+#EXTINF:-1 group-title="CINE",32 Golden Edge
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13629.ts
-#EXTINF:-1 group-title="CINE",28 Studio Universal
+#EXTINF:-1 group-title="CINE",33 Studio Universal
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13376.ts
-#EXTINF:-1 group-title="CINE",29 Cinecanal Pacific
+#EXTINF:-1 group-title="CINE",34 Cinecanal Pacific
 http://138.121.15.230:9002/CINECANAL/index.m3u8
-#EXTINF:-1 group-title="CINE",30 AXN
+#EXTINF:-1 group-title="CINE",35 AXN
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/234.ts
-#EXTINF:-1 group-title="CINE",31 Comedy Central
+#EXTINF:-1 group-title="CINE",36 Comedy Central
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3377.ts
-#EXTINF:-1 group-title="CINE",32 E!
+#EXTINF:-1 group-title="CINE",37 E!
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13894.ts
-#EXTINF:-1 group-title="CINE",33 Space
+#EXTINF:-1 group-title="CINE",38 Space
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13484.ts
-#EXTINF:-1 group-title="CINE",34 TNT
+#EXTINF:-1 group-title="CINE",39 TNT
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13436.ts
-#EXTINF:-1 group-title="CINE",35 TNT Series
+#EXTINF:-1 group-title="CINE",40 TNT Series
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13437.ts
-#EXTINF:-1 group-title="CINE",36 Warner Channel
+#EXTINF:-1 group-title="CINE",41 Warner Channel
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13893.ts
-#EXTINF:-1 group-title="CINE",37 Cine TV: HBO 2 Full HD
+#EXTINF:-1 group-title="CINE",42 Cine TV: HBO 2 Full HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RXRvd0Z4YmlVeUk2VnVnajc3dGgyWT0
-#EXTINF:-1 group-title="CINE",38 Cine TV: HBO Family Full HD
+#EXTINF:-1 group-title="CINE",43 Cine TV: HBO Family Full HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S3RycGRrVzBiTGVTVEZnV3lMTGFCZz0
-#EXTINF:-1 group-title="CINE",39 Cine TV: HBO Full HD
+#EXTINF:-1 group-title="CINE",44 Cine TV: HBO Full HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RGd4alRpZ1I3WnFwRDhmWVpiWlZvaz0
-#EXTINF:-1 group-title="CINE",40 Cine TV: HBO Pop Full HD
+#EXTINF:-1 group-title="CINE",45 Cine TV: HBO Pop Full HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TE1LVE1CYVdQSytQS09XYjBiczRKdz0
-#EXTINF:-1 group-title="CINE",41 Cine TV: HBO Signature
+#EXTINF:-1 group-title="CINE",46 Cine TV: HBO Signature
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RGxLT0V1R3lkZzBiWnpPeDhLYnZ3Zz0
-#EXTINF:-1 group-title="CINE",42 HBO MUNDI
+#EXTINF:-1 group-title="CINE",47 HBO MUNDI
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TE0xOFhBUlpveWlJc3BTWWR2cUcvcz0
-#EXTINF:-1 group-title="CINE",43 Star Channel
+#EXTINF:-1 group-title="CINE",48 Star Channel
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
-#EXTINF:-1 group-title="CINE",44 STUDIO UNIVERSAL DUAL AUDIO
+#EXTINF:-1 group-title="CINE",49 STUDIO UNIVERSAL DUAL AUDIO
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Qk50WUxzNXBZdzJiQVZuenk1b0NFVT0
+#EXTINF:-1 group-title="CINE",50 E! (org)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+#EXTINF:-1 group-title="CINE",51 Cine TV: HBO Family HD @
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UHZsV2hSdkE5UFQ0SWVyQnFYekhZaz0
+#EXTINF:-1 group-title="CINE",52 Cine TV: HBO
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SEd5UFFrZkx0VVJyYU81QWY1bG00dz0
+
 
 #EXTGRP:DEPORTES
-#EXTINF:-1 group-title="DEPORTES",45 ESPN 2 Peru
+#EXTINF:-1 group-title="DEPORTES",53 ESPN 2 Peru
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11702.ts
-#EXTINF:-1 group-title="DEPORTES",46 ESPN 3 Peru
+#EXTINF:-1 group-title="DEPORTES",54 ESPN 3 Peru
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11662.ts
-#EXTINF:-1 group-title="DEPORTES",47 TNT Sports HD ARG
+#EXTINF:-1 group-title="DEPORTES",55 TNT Sports HD ARG
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13885.ts
-#EXTINF:-1 group-title="DEPORTES",48 TNT Sports Premium
+#EXTINF:-1 group-title="DEPORTES",56 TNT Sports Premium
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14881.ts
-#EXTINF:-1 group-title="DEPORTES",49 CHV Deportes
+#EXTINF:-1 group-title="DEPORTES",57 CHV Deportes
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",50 ESPN FHD New
+#EXTINF:-1 group-title="DEPORTES",58 ESPN FHD New
 http://38.224.175.2:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",51 ESPN 3 (1080p)
+#EXTINF:-1 group-title="DEPORTES",59 ESPN 3 (1080p)
 http://190.83.2.182:8090/ESPN3/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",52 ESPN 2 CHILE
+#EXTINF:-1 group-title="DEPORTES",60 ESPN 2 CHILE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SnNjdzVQVVUza0tNeC9WK0ticFhYOD0
-#EXTINF:-1 group-title="DEPORTES",53 ESPN 3 CHILE
+#EXTINF:-1 group-title="DEPORTES",61 ESPN 3 CHILE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S1NRN1BFN1A4b25kR0RJN1ZyOVhwZz0
-#EXTINF:-1 group-title="DEPORTES",54 ESPN 6 CHILE
+#EXTINF:-1 group-title="DEPORTES",62 ESPN 6 CHILE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QzdyeFhQMXB2R2FOTk53SlA1V1ZyMD0
-#EXTINF:-1 group-title="DEPORTES",55 ESPN 5 FHD
+#EXTINF:-1 group-title="DEPORTES",63 ESPN 5 FHD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R3VuK3VoOG1KY0hCWElyOEhaQ0xLTT0
-#EXTINF:-1 group-title="DEPORTES",56 ESPN 5 HD
+#EXTINF:-1 group-title="DEPORTES",64 ESPN 5 HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RlJrQnZ6RXhSWWhTTG5oT09wMHMwOD0
-#EXTINF:-1 group-title="DEPORTES",57 ESPN 6 HD
+#EXTINF:-1 group-title="DEPORTES",65 ESPN 6 HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SnpzRnIxOUFCeXFteXIxd3NwYXJuQT0
-#EXTINF:-1 group-title="DEPORTES",58 ESPN 7
+#EXTINF:-1 group-title="DEPORTES",66 ESPN 7
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UFVmQm12d3JuVi9qb2l2N3FSdW5vND0
-#EXTINF:-1 group-title="DEPORTES",59 ESPN ARGENTINA HD
+#EXTINF:-1 group-title="DEPORTES",67 ESPN ARGENTINA HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T1MxSnZtL0hwZ0RDWlBaaHZMUFUxUT0
-#EXTINF:-1 group-title="DEPORTES",60 ESPN EXTRA
+#EXTINF:-1 group-title="DEPORTES",68 ESPN EXTRA
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RlZ2SFNOUGkxZ3VjYXpkTVRLQmpUVT0
-#EXTINF:-1 group-title="DEPORTES",61 ESPN PREMIUM
+#EXTINF:-1 group-title="DEPORTES",69 ESPN PREMIUM
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TERWN2xzSXViTG1wQ0N6MWVNYVpGWT0
-#EXTINF:-1 group-title="DEPORTES",62 ESPN PREMIUM  ARGENTINA HD
+#EXTINF:-1 group-title="DEPORTES",70 ESPN PREMIUM  ARGENTINA HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R0h5OVFDZTN5NTdYcHg5YjBuc1hSaz0
-#EXTINF:-1 group-title="DEPORTES",63 FOX ONE 1
+#EXTINF:-1 group-title="DEPORTES",71 FOX ONE 1
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Q0RRUTZITU4vQ3hUem91SG1UM0c1RT0
-#EXTINF:-1 group-title="DEPORTES",64 SP: MX: Fox Sports 1 HD
+#EXTINF:-1 group-title="DEPORTES",72 SP: MX: Fox Sports 1 HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SXorOGRLWVMyMy9zYlJKZnYxTThLND0
-#EXTINF:-1 group-title="DEPORTES",65 FOX SPORTS 2 ARGENTINA HD
+#EXTINF:-1 group-title="DEPORTES",73 FOX SPORTS 2 ARGENTINA HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RGZsaDQ3clZISWhBdkljeTVwcjVYRT0
-#EXTINF:-1 group-title="DEPORTES",66 FOX SPORTS 3 CHILE HD
+#EXTINF:-1 group-title="DEPORTES",74 FOX SPORTS 3 CHILE HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TWdzWXVaY0xEMlZhWjVRZWVrVVNPRT0
-#EXTINF:-1 group-title="DEPORTES",67 MOVISTAR DEPORTES PERU FULL HD
+#EXTINF:-1 group-title="DEPORTES",75 MOVISTAR DEPORTES PERU FULL HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TDUvRjc3R0xHZXZWZ25IQlhsSjRmMD0
+#EXTINF:-1 group-title="DEPORTES",76 TNT Sports 3
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14887.ts
+#EXTINF:-1 group-title="DEPORTES",77 ESPN PREMIUM
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RS9GVEcwUmt6azF5aURSNmt1Qkpydz0
+#EXTINF:-1 group-title="DEPORTES",78 ESPN 2 CHILE HD
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RUlTeTdiU2lyeC9RVDBSUTd1OHVsOD0
+#EXTINF:-1 group-title="DEPORTES",79 ESPN 2 COLOMBIA HD @
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SS9UK0g1eC9PVlVCcG5XeHJ2RkZxRT0
+#EXTINF:-1 group-title="DEPORTES",80 ESPN 3 CHILE HD
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SkMzNnVXY3FLeHVYc0JvYktPaU5uWT0
+#EXTINF:-1 group-title="DEPORTES",81 ESPN 3 COLOMBIA HD
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QWw2VUxWWXN4N2Vwb1QyRlVGRnQvST0
+#EXTINF:-1 group-title="DEPORTES",82 ESPN 3 HD @
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R2NtWnJxbTBuT3FSVEY5dHVMajluND0
+#EXTINF:-1 group-title="DEPORTES",83 ESPN 3 MEXICO HD @
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S2djWUpNVi9CUTZQNUVva0RrU2IxTT0
+#EXTINF:-1 group-title="DEPORTES",84 Espn 4 HD @
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6STlmY296cm1IWk5QQkNqRVBvTE4xaz0
+#EXTINF:-1 group-title="DEPORTES",85 ESPN 7 FHD
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RlZMYXBGeE1KMm9TeGIzaUJHT3V0ST0
+#EXTINF:-1 group-title="DEPORTES",86 ESPN COLOMBIA HD @
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RnF3WWlua3ZQSWNtcVBoTWJkWU5zaz0
+#EXTINF:-1 group-title="DEPORTES",87 ESPN 2 COLOMBIA
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QUxWZGFSU3JNM3RzaHZZM0R2cmJ1az0
+#EXTINF:-1 group-title="DEPORTES",88 ESPN 5 COLOMBIA
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SDI1bEUxeEhVYW82a3V0dzZLdWRmUT0
+#EXTINF:-1 group-title="DEPORTES",89 ESPN COLOMBIA
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RVljZzF2WFVWd0JlaGRvdWdQbE02TT0
+#EXTINF:-1 group-title="DEPORTES",90 FOX SPORTS 2 CHILE HD
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UEx5a2orVExWSFg2VFAvVHdpQWlyWT0
+#EXTINF:-1 group-title="DEPORTES",91 FOX SPORTS 3 ARGENTINA HD
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QkxGYjBnazNhMHRqNVNkK3BraVROVT0
+#EXTINF:-1 group-title="DEPORTES",92 TNT SPORTS ARGENTINA HD OPCION 1
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TnFGQTBwaGZtbU1pQ2oxQnZhdUtjTT0
+
 
 #EXTGRP:NOTICIAS
-#EXTINF:-1 group-title="NOTICIAS",68 AR: Telefe
+#EXTINF:-1 group-title="NOTICIAS",93 AR: Telefe
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/1522.ts
-#EXTINF:-1 group-title="NOTICIAS",69 CA: CNN HD
+#EXTINF:-1 group-title="NOTICIAS",94 CA: CNN HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RE9YNTBPTWxoNmU2eGcyUldwaTFGdz0
-#EXTINF:-1 group-title="NOTICIAS",70 CL: CNN CHILE OPCION 1
+#EXTINF:-1 group-title="NOTICIAS",95 CL: CNN CHILE OPCION 1
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Q3VndUIrK25PVll1WXlsbVBla1Yrcz0
-#EXTINF:-1 group-title="NOTICIAS",71 ENTRE | CNN ESPAÑOL
+#EXTINF:-1 group-title="NOTICIAS",96 ENTRE | CNN ESPAÑOL
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TERXSEI2bkZHbUVaTGFTQlBUaDBMND0
-#EXTINF:-1 group-title="NOTICIAS",72 LAT: Telemundo Internacional FHD
+#EXTINF:-1 group-title="NOTICIAS",97 LAT: Telemundo Internacional FHD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TnpjQ0NJalRRNTdNbElDUUJYSVMxZz0
+#EXTINF:-1 group-title="NOTICIAS",98 Noticiero: CNN en Español HD
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R2c5VzErYmdHRTVabDBodVVyWW1Ddz0
+#EXTINF:-1 group-title="NOTICIAS",99 Telemundo Internacional
+http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+
 
 #EXTGRP:DOCUMENTALES
-#EXTINF:-1 group-title="DOCUMENTALES",73 A&E
+#EXTINF:-1 group-title="DOCUMENTALES",100 A&E
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3369.ts
-#EXTINF:-1 group-title="DOCUMENTALES",74 Animal Planet
+#EXTINF:-1 group-title="DOCUMENTALES",101 Animal Planet
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13835.ts
-#EXTINF:-1 group-title="DOCUMENTALES",75 Discovery Home and Health
+#EXTINF:-1 group-title="DOCUMENTALES",102 Discovery Home and Health
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13827.ts
-#EXTINF:-1 group-title="DOCUMENTALES",76 Discovery Science
+#EXTINF:-1 group-title="DOCUMENTALES",103 Discovery Science
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13825.ts
-#EXTINF:-1 group-title="DOCUMENTALES",77 Discovery TLC
+#EXTINF:-1 group-title="DOCUMENTALES",104 Discovery TLC
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13435.ts
-#EXTINF:-1 group-title="DOCUMENTALES",78 Discovery Turbo
+#EXTINF:-1 group-title="DOCUMENTALES",105 Discovery Turbo
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5975.ts
-#EXTINF:-1 group-title="DOCUMENTALES",79 Food Network
+#EXTINF:-1 group-title="DOCUMENTALES",106 Food Network
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3336.ts
-#EXTINF:-1 group-title="DOCUMENTALES",80 H2
+#EXTINF:-1 group-title="DOCUMENTALES",107 H2
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8867.ts
-#EXTINF:-1 group-title="DOCUMENTALES",81 Investigation Discovery
+#EXTINF:-1 group-title="DOCUMENTALES",108 Investigation Discovery
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3368.ts
-#EXTINF:-1 group-title="DOCUMENTALES",82 LAT: Discovery Channel Full HD (CO)
+#EXTINF:-1 group-title="DOCUMENTALES",109 LAT: Discovery Channel Full HD (CO)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T1RBQ2hJelZ5cWtTRGdrWTdtNTFMYz0
-#EXTINF:-1 group-title="DOCUMENTALES",83 DISCOVERY WORLD
+#EXTINF:-1 group-title="DOCUMENTALES",110 DISCOVERY WORLD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SFpPVzlvZTBLQ0ZWaUE1bTVYTVZCVT0
-#EXTINF:-1 group-title="DOCUMENTALES",84 LAT: History 2
+#EXTINF:-1 group-title="DOCUMENTALES",111 LAT: History 2
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UFVhNVVwSjNwSkt1d1NRVkNmckY0az0
-#EXTINF:-1 group-title="DOCUMENTALES",85 LAT: History Full HD (CO) @
+#EXTINF:-1 group-title="DOCUMENTALES",112 LAT: History Full HD (CO) @
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6THRtTjVqdExkRjF3Y0l1dXl2d092az0
-#EXTINF:-1 group-title="DOCUMENTALES",86 NATIONAL GEOGRAPHIC
+#EXTINF:-1 group-title="DOCUMENTALES",113 NATIONAL GEOGRAPHIC
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R0xCZi9hUnpLeUdscnpnN01FREVLST0
-#EXTINF:-1 group-title="DOCUMENTALES",87 MX: TLC
+#EXTINF:-1 group-title="DOCUMENTALES",114 MX: TLC
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SGM5Nys4ZDhVUlR1Y1N0YlFxWXlzbz0
+#EXTINF:-1 group-title="DOCUMENTALES",115 Love Nature
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15835.ts
+#EXTINF:-1 group-title="DOCUMENTALES",116 LAT: Discovery TLC (MX)
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SHNaNGVQTXNsMjdYTGdlcjhOcmFlbz0
+
 
 #EXTGRP:INFANTIL
-#EXTINF:-1 group-title="INFANTIL",88 Cartoonito
+#EXTINF:-1 group-title="INFANTIL",117 Cartoonito
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9029.ts
-#EXTINF:-1 group-title="INFANTIL",89 Discovery Kids
+#EXTINF:-1 group-title="INFANTIL",118 Discovery Kids
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/104.ts
-#EXTINF:-1 group-title="INFANTIL",90 Kids
+#EXTINF:-1 group-title="INFANTIL",119 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 group-title="INFANTIL",91 Disney Channel Panregional
+#EXTINF:-1 group-title="INFANTIL",120 Disney Channel Panregional
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",92 Nick Jr
+#EXTINF:-1 group-title="INFANTIL",121 Nick Jr
 http://177.234.249.178:8888/NICK-JR/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",93 Infantil: Discovery Kids HD
+#EXTINF:-1 group-title="INFANTIL",122 Infantil: Discovery Kids HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TWp4V3ppc2ZGa1RxWlJPOG1vRDFwcz0
 
+
 #EXTGRP:MUSICA
-#EXTINF:-1 group-title="MUSICA",94 MTV 80s
+#EXTINF:-1 group-title="MUSICA",123 MTV 80s
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13858.ts
-#EXTINF:-1 group-title="MUSICA",95 MTV Live (MX)
+#EXTINF:-1 group-title="MUSICA",124 MTV Live (MX)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S1pzWFh2T0tRZVJtbG50Y1NKV2ZSYz0
-#EXTINF:-1 group-title="MUSICA",96 VH1 Classic (MX)
+#EXTINF:-1 group-title="MUSICA",125 VH1 Classic (MX)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SG9hYXJ0UUw4czJMRGd5WWJlZ3hDRT0
-#EXTINF:-1 group-title="MUSICA",97 Festival
+#EXTINF:-1 group-title="MUSICA",126 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 group-title="MUSICA",98 Portal FoxMix
+#EXTINF:-1 group-title="MUSICA",127 Portal FoxMix
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",99 Retromusica Television
+#EXTINF:-1 group-title="MUSICA",128 Retromusica Television
 https://vdochile.com:3864/stream/play.m3u8
-#EXTINF:-1 group-title="MUSICA",100 Rewind TV
+#EXTINF:-1 group-title="MUSICA",129 Rewind TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",101 VClassicTV Tropical
+#EXTINF:-1 group-title="MUSICA",130 VClassicTV Tropical
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",131 FunBox
+http://186.148.196.100:8000/play/a00d
+
 
 #EXTGRP:INTERNACIONAL
-#EXTINF:-1 group-title="INTERNACIONAL",102 Arirang
+#EXTINF:-1 group-title="INTERNACIONAL",132 Arirang
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8658.ts
-#EXTINF:-1 group-title="INTERNACIONAL",103 Europa Europa
+#EXTINF:-1 group-title="INTERNACIONAL",133 Europa Europa
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13478.ts
-#EXTINF:-1 group-title="INTERNACIONAL",104 Antena 3 FHD
+#EXTINF:-1 group-title="INTERNACIONAL",134 Antena 3 FHD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QW1ZdWIvNDlaVzhPVTFCMjFPY0I0bz0
-#EXTINF:-1 group-title="INTERNACIONAL",105 BR: GLOBO HD
+#EXTINF:-1 group-title="INTERNACIONAL",135 BR: GLOBO HD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R0ZFS212RUpBdDBZekR3WDA2b1ZVND0
-#EXTINF:-1 group-title="INTERNACIONAL",106 Telecinco FHD
+#EXTINF:-1 group-title="INTERNACIONAL",136 Telecinco FHD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RVlIZStGdjhKSDg3dmNtMmptTng2WT0
+#EXTINF:-1 group-title="INTERNACIONAL",137 Arirang HD
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8657.ts
+#EXTINF:-1 group-title="INTERNACIONAL",138 ES: Antena 3
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8234.ts
+
 
 #EXTGRP:RADIOS
-#EXTINF:-1 group-title="RADIOS",107 FM PLUS
+#EXTINF:-1 group-title="RADIOS",139 FM PLUS
 https://v2.tustreaming.cl/fmplus/index.m3u8
-#EXTINF:-1 group-title="RADIOS",108 Radio Bio Bio Concepcion
+#EXTINF:-1 group-title="RADIOS",140 Radio Bio Bio Concepcion
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8695.ts
-#EXTINF:-1 group-title="RADIOS",109 Radio Bio Bio Los Angeles
+#EXTINF:-1 group-title="RADIOS",141 Radio Bio Bio Los Angeles
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8696.ts
-#EXTINF:-1 group-title="RADIOS",110 Radio Bio Bio Osorno
+#EXTINF:-1 group-title="RADIOS",142 Radio Bio Bio Osorno
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8698.ts
-#EXTINF:-1 group-title="RADIOS",111 Radio Bio Bio Puerto Montt
+#EXTINF:-1 group-title="RADIOS",143 Radio Bio Bio Puerto Montt
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8700.ts
-#EXTINF:-1 group-title="RADIOS",112 Radio Bio Bio Santiago
+#EXTINF:-1 group-title="RADIOS",144 Radio Bio Bio Santiago
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8693.ts
-#EXTINF:-1 group-title="RADIOS",113 Radio Bio Bio Temuco
+#EXTINF:-1 group-title="RADIOS",145 Radio Bio Bio Temuco
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8697.ts
-#EXTINF:-1 group-title="RADIOS",114 Radio Bio Bio Valdivia
+#EXTINF:-1 group-title="RADIOS",146 Radio Bio Bio Valdivia
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8699.ts
-#EXTINF:-1 group-title="RADIOS",115 Radio Bio Bio Valparaiso
+#EXTINF:-1 group-title="RADIOS",147 Radio Bio Bio Valparaiso
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8694.ts
+#EXTINF:-1 group-title="RADIOS",148 T13 RADIO
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
+
 
 #EXTGRP:SERIES / REALITY
-#EXTINF:-1 group-title="SERIES / REALITY",116 Realities
+#EXTINF:-1 group-title="SERIES / REALITY",149 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 group-title="SERIES / REALITY",117 Teleseries
+#EXTINF:-1 group-title="SERIES / REALITY",150 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
+
 #EXTGRP:PARA VERIFICAR
-#EXTINF:-1 group-title="PARA VERIFICAR",118 Megatiempo (tlinkgo 1080p)
+#EXTINF:-1 group-title="PARA VERIFICAR",151 Megatiempo (tlinkgo 1080p)
 http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8
-#EXTINF:-1 group-title="PARA VERIFICAR",119 13Rec (tlinkgo 720p)
+#EXTINF:-1 group-title="PARA VERIFICAR",152 13Rec (tlinkgo 720p)
 http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8
-#EXTINF:-1 group-title="PARA VERIFICAR",120 CL: Rec TV (jumangis)
+#EXTINF:-1 group-title="PARA VERIFICAR",153 CL: Rec TV (jumangis)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UENzSjBoYUFiQUprV1NPRGVhL3hMTT0
-#EXTINF:-1 group-title="PARA VERIFICAR",121 CL: Rec TV HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",154 CL: Rec TV HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15687.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",122 CL: Rec TV (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",155 CL: Rec TV (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14880.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",123 Mega 2 (1080p, ip)
+#EXTINF:-1 group-title="PARA VERIFICAR",156 Mega 2 (1080p, ip)
 http://15.204.246.24:8080/Mega2HD/index.m3u8
-#EXTINF:-1 group-title="PARA VERIFICAR",124 Via X (tlinkgo 1080p)
+#EXTINF:-1 group-title="PARA VERIFICAR",157 Via X (tlinkgo 1080p)
 http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8
-#EXTINF:-1 group-title="PARA VERIFICAR",125 CL: Via X (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",158 CL: Via X (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13888.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",126 Via X (jumangis)
+#EXTINF:-1 group-title="PARA VERIFICAR",159 Via X (jumangis)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T0pPNFJ0czNxZSt6dmdOVkNYQm13TT0
-#EXTINF:-1 group-title="PARA VERIFICAR",127 HBO Xtreme (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",160 HBO Xtreme (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13879.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",128 HBO Xtreme Full HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",161 HBO Xtreme Full HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13878.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",129 HBO Xtreme HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",162 HBO Xtreme HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5900.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",130 HBO Xtreme * (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",163 HBO Xtreme * (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13880.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",131 HBO XTREME HD (jumangis)
+#EXTINF:-1 group-title="PARA VERIFICAR",164 HBO XTREME HD (jumangis)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TXdZVWhwRDZZR1lkaVBWOFg4MGVmYz0
-#EXTINF:-1 group-title="PARA VERIFICAR",132 Cine TV: HBO Xtreme (jumangis)
+#EXTINF:-1 group-title="PARA VERIFICAR",165 Cine TV: HBO Xtreme (jumangis)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RFJRVHNsTVFHYVMzV0JvVHBua0FTTT0
-#EXTINF:-1 group-title="PARA VERIFICAR",133 AMC Full HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",166 AMC Full HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9523.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",134 Cine TV: AMC Full HD CO (jumangis)
+#EXTINF:-1 group-title="PARA VERIFICAR",167 Cine TV: AMC Full HD CO (jumangis)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Ri9lU2M1dkpTWDQ4S2sxUFBKL0NsND0
-#EXTINF:-1 group-title="PARA VERIFICAR",135 Cinecanal Full HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",168 Cinecanal Full HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/107.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",136 Cine TV: Cinecanal Full HD CO (jumangis)
+#EXTINF:-1 group-title="PARA VERIFICAR",169 Cine TV: Cinecanal Full HD CO (jumangis)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S0tzNzFuUkRhZVRrcU9ZVWpCSEh6QT0
-#EXTINF:-1 group-title="PARA VERIFICAR",137 HBO Full HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",170 HBO Full HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/59.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",138 HBO 2 Full HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",171 HBO 2 Full HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/60.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",139 Cine TV: HBO Plus Full HD (jumangis)
+#EXTINF:-1 group-title="PARA VERIFICAR",172 Cine TV: HBO Plus Full HD (jumangis)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R2s4eTBzRk9qazRwTFRRT3JkdXpXST0
-#EXTINF:-1 group-title="PARA VERIFICAR",140 Star Channel Full HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",173 Star Channel Full HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5980.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",141 STAR Channel FHD opc-1 (jumangis)
+#EXTINF:-1 group-title="PARA VERIFICAR",174 STAR Channel FHD opc-1 (jumangis)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SzUwc1hMejFrdFRmRUxNM2JLRVgzcz0
-#EXTINF:-1 group-title="PARA VERIFICAR",142 A&E Full HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",175 A&E Full HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/92.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",143 A&E HD (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",176 A&E HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/126.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",144 Cine TV: A&E Full HD CO (jumangis)
+#EXTINF:-1 group-title="PARA VERIFICAR",177 Cine TV: A&E Full HD CO (jumangis)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RlBmbUhwUko2ZmNvdTA0V2Fla1NiYz0
-#EXTINF:-1 group-title="PARA VERIFICAR",145 HBO (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",178 HBO (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5890.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",146 HBO * (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",179 HBO * (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13862.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",147 HBO Full HD * (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",180 HBO Full HD * (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13860.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",148 HBO 2 (iptv.wtf)
+#EXTINF:-1 group-title="PARA VERIFICAR",181 HBO 2 (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5888.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",149 Canal Latino 54 (chileservidores)
+#EXTINF:-1 group-title="PARA VERIFICAR",182 Canal Latino 54 (chileservidores)
 https://videostream.chileservidores.com:8081/latina/index.m3u8
-#EXTINF:-1 group-title="PARA VERIFICAR",150 Latinos TV (tustreaming)
+#EXTINF:-1 group-title="PARA VERIFICAR",183 Latinos TV (tustreaming)
 https://v4.tustreaming.cl/latinostv/index.m3u8
+
+#EXTGRP:PARA VERIFICAR
+#EXTINF:-1 group-title="PARA VERIFICAR",184 Cine TV: HBO Plus (jumangis)
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RFJRRFBKbW54NkdYZCthdExLVW5jQT0
+#EXTINF:-1 group-title="PARA VERIFICAR",185 Cine TV: HBO Plus HD (jumangis)
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RUp6VEZQL2k5YzVVSmpMeXlZU3dQZz0
+#EXTINF:-1 group-title="PARA VERIFICAR",186 BR: HBO Plus HD (jumangis)
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QmdlQUVBamZlSEFReGFsanNrak5iRT0
+#EXTINF:-1 group-title="PARA VERIFICAR",187 US: HBO Plus (jumangis)
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TnV4eWliLzBuZzhuVVFQVG56U2RQQT0
+#EXTINF:-1 group-title="PARA VERIFICAR",188 BR: HBO Xtreme HD (jumangis)
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RFhES3Zabkc4c1hXS21MRGd0MDVlcz0
