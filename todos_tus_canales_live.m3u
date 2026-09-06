@@ -269,42 +269,36 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8697.ts
 #EXTINF:-1 group-title="RADIOS",105 RADIO BIO BIO VALPARAISO
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8694.ts
 #EXTGRP:CINE
-#EXTINF:-1 group-title="CINE",106 TNT SD
-http://solutionspremium.net:80/channel/user2620/37428848293/1263.ts
-#EXTINF:-1 group-title="CINE",107 SONY
+#EXTINF:-1 group-title="CINE",106 SONY
 http://solutionspremium.net:80/channel/user2620/37428848293/1022.ts
-#EXTINF:-1 group-title="CINE",108 UNIVERSAL
+#EXTINF:-1 group-title="CINE",107 UNIVERSAL
 http://solutionspremium.net:80/channel/user2620/37428848293/1080.ts
-#EXTINF:-1 group-title="CINE",109 USA NETWORK
+#EXTINF:-1 group-title="CINE",108 USA NETWORK
 http://solutionspremium.net:80/channel/user2620/37428848293/17596.ts
-#EXTINF:-1 group-title="CINE",110 ADULT SWIM
+#EXTINF:-1 group-title="CINE",109 ADULT SWIM
 http://solutionspremium.net:80/channel/user2620/37428848293/38480.ts
-#EXTINF:-1 group-title="CINE",111 TNT NOVELAS
+#EXTINF:-1 group-title="CINE",110 TNT NOVELAS
 http://solutionspremium.net:80/channel/user2620/37428848293/1225.ts
-#EXTINF:-1 group-title="CINE",112 VENUS
-http://mag.vipsclient.org:80/96833/665337662/3AFD47/96833.ts
-#EXTINF:-1 group-title="CINE",113 PLAYBOY
-http://mag.vipsclient.org:80/454805/665337662/3AFD47/454805.ts
-#EXTINF:-1 group-title="INTERNACIONAL",114 TVE INTERNACIONAL
+#EXTINF:-1 group-title="CINE",111 VENUS
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Q1dQbFlBREprS0ZKeEwwdFYrUGhqTT0
+#EXTINF:-1 group-title="CINE",112 PLAYBOY
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TThjblFKcWF4MlhveTB6anFUOGxvND0
+#EXTINF:-1 group-title="INTERNACIONAL",113 TVE INTERNACIONAL
 http://solutionspremium.net:80/channel/user2620/37428848293/650.ts
-#EXTINF:-1 group-title="INTERNACIONAL",115 RAI 1
-http://solutionspremium.net:80/channel/user2620/37428848293/120484.ts
-#EXTINF:-1 group-title="NOTICIAS",116 DW ESPANOL
+#EXTINF:-1 group-title="NOTICIAS",114 DW ESPANOL
 http://solutionspremium.net:80/channel/user2620/37428848293/40075.ts
 #EXTGRP:RADIOS
-#EXTINF:-1 group-title="RADIOS",117 RADIO PUDAHUEL FM
+#EXTINF:-1 group-title="RADIOS",115 RADIO PUDAHUEL FM
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
-#EXTINF:-1 group-title="RADIOS",118 RADIOACTIVA TV
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="RADIOS",119 CAROLINA TV
+#EXTINF:-1 group-title="RADIOS",116 CAROLINA TV
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
-#EXTINF:-1 group-title="RADIOS",120 RADIO ROMANTICA
+#EXTINF:-1 group-title="RADIOS",117 RADIO ROMANTICA
 https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8
-#EXTINF:-1 group-title="RADIOS",121 RADIO INFINITA
+#EXTINF:-1 group-title="RADIOS",118 RADIO INFINITA
 https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8
-#EXTINF:-1 group-title="RADIOS",122 RADIO DUNA
+#EXTINF:-1 group-title="RADIOS",119 RADIO DUNA
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
-#EXTINF:-1 group-title="RADIOS",123 LA CLAVE
+#EXTINF:-1 group-title="RADIOS",120 LA CLAVE
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
-#EXTINF:-1 group-title="RADIOS",124 LA METRO
+#EXTINF:-1 group-title="RADIOS",121 LA METRO
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8

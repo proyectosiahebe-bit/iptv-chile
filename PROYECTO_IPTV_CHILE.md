@@ -77,6 +77,18 @@ Verificados con señal real (solo Meganoticias quedaba 401 por token):
 ## Restaurados 2026-08-27 (duplicados con nombre diferenciado)
 Bio Bio TV, La Red, Mega 2, TVN, Meganoticias y CDO se restauraron en sus 2 versiones marcando la fuente entre paréntesis para que el usuario elija cuál conservar.
 
+## Cambios 2026-09-06 (121 canales)
+- **Canal 33 WARNER CHANNEL** -> version latina (HD Dual Audio) desde solutionspremium (antes en ingles via iptv.wtf)
+- **Canal 42 HBO** -> version latina (HD LAT) desde solutionspremium (antes en ingles via jumangis)
+- **Eliminado duplicado** HBO XTREME (quedaba un solo canal) y renumerado todo
+- **Canales CINE agregados:** SONY (106), UNIVERSAL (107), USA NETWORK (108), ADULT SWIM (109), TNT NOVELAS (110), VENUS (111), PLAYBOY (112)
+- **INTERNACIONAL:** TVE INTERNACIONAL (113)
+- **NOTICIAS:** DW ESPANOL (114)
+- **RADIOS agregadas:** PUDAHUEL FM (115), CAROLINA TV (116), ROMANTICA (117), INFINITA (118), DUNA (119), LA CLAVE (120), LA METRO (121)
+- **Eliminados:** TNT SD, RAI 1, RADIOACTIVA TV (pedido del usuario)
+- **Venus/Playboy** tomados desde jumangis (Venus Latino, Playboy Latino HD) — vipsclient no era confiable
+- **Fuente nueva (solutionspremium):** `http://solutionspremium.net:80/channel/user2620/37428848293/<stream_id>.ts` — usada para Warner/HBO/Sony/Universal/USA/Adult Swim/TNT Novelas/TVE/DW
+
 ## Como actualizar - Scripts de busqueda
 ```powershell
 # Buscar canal en iptv.wtf
@@ -91,6 +103,7 @@ Get-Content "jumangis.m3u" | Where-Object { $_ -match "^#EXTINF" -and $_ -match 
 ## Historial de cambios
 | Fecha | Canales | Cambios |
 |-------|---------|---------|
+| 2026-09-06 | 121 | Warner/HBO latino (solutionspremium), sin duplicado HBO XTREME, agregados Sony/Universal/USA network/Adult Swim/TNT Novelas/Venus/Playboy/TVE/DW + 7 radios; eliminados TNT SD, RAI 1, Radioactiva |
 | 2026-08-27 | 92 | Restaurados 12 duplicados con nombre diferenciado (Bio Bio, La Red, Mega 2, TVN, Meganoticias, CDO x2) para elegir |
 | 2026-08-27 | 158 | Movida categoria DEPORTES despues de SERIES/ENTRETENIMIENTO |
 | 2026-08-27 | 158 | Agregados 20 de m3u.cl (Bio Bio, La Red, CHV, CNN, Mega dps, Retro Plus, etc.), casi todos con señal |
