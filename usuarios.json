@@ -1,0 +1,8 @@
+{
+  "usuarios": [
+    { "usuario": "tito", "hash": "497a1c330a4ae2edcca8fadc0e62c60a2112003fb580f7da1dbdd3b5b537e75b" },
+    { "usuario": "rocio", "hash": "8cfd0c9ad1461a066cc2795d2c2ca7b70875b1896d23351436f43001d8242d0c" },
+    { "usuario": "veronica", "hash": "0142ec310921f2b9a63c71b3fc4f56c26110d59bb4e70e30147073dfdbf3a4b9" },
+    { "usuario": "alonso", "hash": "44b60f33184bc4610872afe52d0ec96d8328b6ffd096b09c9a8753dce48d2238" }
+  ]
+}
