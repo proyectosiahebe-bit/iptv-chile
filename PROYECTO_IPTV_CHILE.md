@@ -82,7 +82,7 @@ Bio Bio TV, La Red, Mega 2, TVN, Meganoticias y CDO se restauraron en sus 2 vers
 - **Recategorizados:**
   - USA NETWORK (108) y TNT NOVELAS (110) -> **SERIES / REALITY** (antes CINE)
   - Los demás se mantienen: SONY/UNIVERSAL/ADULT SWIM en CINE, TVE en INTERNACIONAL, DW en NOTICIAS, y las 7 radios en RADIOS
-- **Renumerado** secuencialmente a 119 canales (los radios quedan en 113-119)
+- **Renumerado según lista del usuario:** canales 106-110 (SONY..TNT NOVELAS), 113 TVE, 114 DW, y 7 radios en 115-121 (quedan libres los números 111-112)
 
 ## Cambios 2026-09-06 (121 canales)
 - **Canal 33 WARNER CHANNEL** -> version latina (HD Dual Audio) desde solutionspremium (antes en ingles via iptv.wtf)

@@ -287,25 +287,25 @@ http://solutionspremium.net:80/channel/user2620/37428848293/38480.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/1225.ts
 
 #EXTGRP:INTERNACIONAL
-#EXTINF:-1 group-title="INTERNACIONAL",111 TVE INTERNACIONAL
+#EXTINF:-1 group-title="INTERNACIONAL",113 TVE INTERNACIONAL
 http://solutionspremium.net:80/channel/user2620/37428848293/650.ts
 
 #EXTGRP:NOTICIAS
-#EXTINF:-1 group-title="NOTICIAS",112 DW ESPANOL
+#EXTINF:-1 group-title="NOTICIAS",114 DW ESPANOL
 http://solutionspremium.net:80/channel/user2620/37428848293/40075.ts
 
 #EXTGRP:RADIOS
-#EXTINF:-1 group-title="RADIOS",113 RADIO PUDAHUEL FM
+#EXTINF:-1 group-title="RADIOS",115 RADIO PUDAHUEL FM
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
-#EXTINF:-1 group-title="RADIOS",114 CAROLINA TV
+#EXTINF:-1 group-title="RADIOS",116 CAROLINA TV
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
-#EXTINF:-1 group-title="RADIOS",115 RADIO ROMANTICA
+#EXTINF:-1 group-title="RADIOS",117 RADIO ROMANTICA
 https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8
-#EXTINF:-1 group-title="RADIOS",116 RADIO INFINITA
+#EXTINF:-1 group-title="RADIOS",118 RADIO INFINITA
 https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8
-#EXTINF:-1 group-title="RADIOS",117 RADIO DUNA
+#EXTINF:-1 group-title="RADIOS",119 RADIO DUNA
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
-#EXTINF:-1 group-title="RADIOS",118 LA CLAVE
+#EXTINF:-1 group-title="RADIOS",120 LA CLAVE
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
-#EXTINF:-1 group-title="RADIOS",119 LA METRO
+#EXTINF:-1 group-title="RADIOS",121 LA METRO
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
