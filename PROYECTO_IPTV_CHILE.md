@@ -77,6 +77,13 @@ Verificados con señal real (solo Meganoticias quedaba 401 por token):
 ## Restaurados 2026-08-27 (duplicados con nombre diferenciado)
 Bio Bio TV, La Red, Mega 2, TVN, Meganoticias y CDO se restauraron en sus 2 versiones marcando la fuente entre paréntesis para que el usuario elija cuál conservar.
 
+## Cambios 2026-09-07 (119 canales)
+- **Eliminados:** VENUS (111) y PLAYBOY (112) — pedido del usuario
+- **Recategorizados:**
+  - USA NETWORK (108) y TNT NOVELAS (110) -> **SERIES / REALITY** (antes CINE)
+  - Los demás se mantienen: SONY/UNIVERSAL/ADULT SWIM en CINE, TVE en INTERNACIONAL, DW en NOTICIAS, y las 7 radios en RADIOS
+- **Renumerado** secuencialmente a 119 canales (los radios quedan en 113-119)
+
 ## Cambios 2026-09-06 (121 canales)
 - **Canal 33 WARNER CHANNEL** -> version latina (HD Dual Audio) desde solutionspremium (antes en ingles via iptv.wtf)
 - **Canal 42 HBO** -> version latina (HD LAT) desde solutionspremium (antes en ingles via jumangis)
@@ -103,6 +110,7 @@ Get-Content "jumangis.m3u" | Where-Object { $_ -match "^#EXTINF" -and $_ -match 
 ## Historial de cambios
 | Fecha | Canales | Cambios |
 |-------|---------|---------|
+| 2026-09-07 | 119 | Eliminados Venus (111) y Playboy (112); USA Network y TNT Novelas re-categorizados a SERIES/REALITY; renumerado |
 | 2026-09-06 | 121 | Warner/HBO latino (solutionspremium), sin duplicado HBO XTREME, agregados Sony/Universal/USA network/Adult Swim/TNT Novelas/Venus/Playboy/TVE/DW + 7 radios; eliminados TNT SD, RAI 1, Radioactiva |
 | 2026-08-27 | 92 | Restaurados 12 duplicados con nombre diferenciado (Bio Bio, La Red, Mega 2, TVN, Meganoticias, CDO x2) para elegir |
 | 2026-08-27 | 158 | Movida categoria DEPORTES despues de SERIES/ENTRETENIMIENTO |
