@@ -1,4 +1,5 @@
-﻿#EXTM3U
+#EXTM3U
+
 #EXTGRP:NACIONALES CHILE
 #EXTINF:-1 group-title="NACIONALES CHILE",1 ADN TV
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
@@ -54,76 +55,74 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 group-title="SERIES / REALITY",23 TNT NOVELAS
 http://solutionspremium.net:80/channel/user2620/37428848293/1225.ts
+#EXTINF:-1 group-title="SERIES / REALITY",24 SONY
+http://solutionspremium.net:80/channel/user2620/37428848293/1022.ts
+#EXTINF:-1 group-title="SERIES / REALITY",25 UNIVERSAL
+http://solutionspremium.net:80/channel/user2620/37428848293/1080.ts
 
 #EXTGRP:NACIONALES CHILE
-#EXTINF:-1 group-title="NACIONALES CHILE",24 RETRO PLUS PELICULAS
+#EXTINF:-1 group-title="NACIONALES CHILE",26 RETRO PLUS PELICULAS
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 
 #EXTGRP:CINE
-#EXTINF:-1 group-title="CINE",25 CINEMAX
+#EXTINF:-1 group-title="CINE",27 CINEMAX
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13883.ts
-#EXTINF:-1 group-title="CINE",26 GOLDEN EDGE
+#EXTINF:-1 group-title="CINE",28 GOLDEN EDGE
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13629.ts
-#EXTINF:-1 group-title="CINE",27 STUDIO UNIVERSAL
+#EXTINF:-1 group-title="CINE",29 STUDIO UNIVERSAL
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Qk50WUxzNXBZdzJiQVZuenk1b0NFVT0
 
 #EXTGRP:PARA VERIFICAR
-#EXTINF:-1 group-title="PARA VERIFICAR",28 CINECANAL
+#EXTINF:-1 group-title="PARA VERIFICAR",30 CINECANAL
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/107.ts
 
 #EXTGRP:CINE
-#EXTINF:-1 group-title="CINE",29 STAR CHANNEL
+#EXTINF:-1 group-title="CINE",31 STAR CHANNEL
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
-#EXTINF:-1 group-title="CINE",30 E!
+#EXTINF:-1 group-title="CINE",32 E!
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13894.ts
-#EXTINF:-1 group-title="CINE",31 COMEDY CENTRAL
+#EXTINF:-1 group-title="CINE",33 COMEDY CENTRAL
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3377.ts
-#EXTINF:-1 group-title="CINE",32 AXN
+#EXTINF:-1 group-title="CINE",34 AXN
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/234.ts
-#EXTINF:-1 group-title="CINE",33 TNT SERIES
+#EXTINF:-1 group-title="CINE",35 TNT SERIES
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13437.ts
-#EXTINF:-1 group-title="CINE",34 WARNER CHANNEL
+#EXTINF:-1 group-title="CINE",36 WARNER CHANNEL
 http://solutionspremium.net:80/channel/user2620/37428848293/1034.ts
-
-#EXTGRP:CINE
-#EXTINF:-1 group-title="CINE",35 SPACE
+#EXTINF:-1 group-title="CINE",37 SPACE
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13484.ts
-#EXTINF:-1 group-title="CINE",36 TNT
+#EXTINF:-1 group-title="CINE",38 TNT
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13436.ts
 
 #EXTGRP:PARA VERIFICAR
-#EXTINF:-1 group-title="PARA VERIFICAR",37 AMC
+#EXTINF:-1 group-title="PARA VERIFICAR",39 AMC
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Ri9lU2M1dkpTWDQ4S2sxUFBKL0NsND0
 
 #EXTGRP:DOCUMENTALES
-#EXTINF:-1 group-title="DOCUMENTALES",38 A&E
+#EXTINF:-1 group-title="DOCUMENTALES",40 A&E
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3369.ts
 
 #EXTGRP:CINE
-#EXTINF:-1 group-title="CINE",39 HBO 2
+#EXTINF:-1 group-title="CINE",41 HBO 2
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RXRvd0Z4YmlVeUk2VnVnajc3dGgyWT0
 
 #EXTGRP:PARA VERIFICAR
-#EXTINF:-1 group-title="PARA VERIFICAR",40 HBO XTREME
+#EXTINF:-1 group-title="PARA VERIFICAR",42 HBO XTREME
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RFJRVHNsTVFHYVMzV0JvVHBua0FTTT0
-#EXTINF:-1 group-title="PARA VERIFICAR",41 HBO PLUS
+#EXTINF:-1 group-title="PARA VERIFICAR",43 HBO PLUS
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RUp6VEZQL2k5YzVVSmpMeXlZU3dQZz0
 
 #EXTGRP:CINE
-#EXTINF:-1 group-title="CINE",42 HBO FAMILY
+#EXTINF:-1 group-title="CINE",44 HBO FAMILY
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S3RycGRrVzBiTGVTVEZnV3lMTGFCZz0
-#EXTINF:-1 group-title="CINE",43 HBO
+#EXTINF:-1 group-title="CINE",45 HBO
 http://solutionspremium.net:80/channel/user2620/37428848293/1064.ts
-#EXTINF:-1 group-title="CINE",44 HBO POP
+#EXTINF:-1 group-title="CINE",46 HBO POP
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TE1LVE1CYVdQSytQS09XYjBiczRKdz0
-#EXTINF:-1 group-title="CINE",45 HBO SIGNATURE
+#EXTINF:-1 group-title="CINE",47 HBO SIGNATURE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RGxLT0V1R3lkZzBiWnpPeDhLYnZ3Zz0
-#EXTINF:-1 group-title="CINE",46 HBO MUNDI
+#EXTINF:-1 group-title="CINE",48 HBO MUNDI
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TE0xOFhBUlpveWlJc3BTWWR2cUcvcz0
-#EXTINF:-1 group-title="CINE",47 SONY
-http://solutionspremium.net:80/channel/user2620/37428848293/1022.ts
-#EXTINF:-1 group-title="CINE",48 UNIVERSAL
-http://solutionspremium.net:80/channel/user2620/37428848293/1080.ts
 #EXTINF:-1 group-title="CINE",49 USA NETWORK
 http://solutionspremium.net:80/channel/user2620/37428848293/17596.ts
 #EXTINF:-1 group-title="CINE",50 ADULT SWIM
@@ -142,8 +141,6 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13825.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5975.ts
 #EXTINF:-1 group-title="DOCUMENTALES",56 ANIMAL PLANET
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13835.ts
-
-#EXTGRP:DOCUMENTALES
 #EXTINF:-1 group-title="DOCUMENTALES",57 HISTORY
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6THRtTjVqdExkRjF3Y0l1dXl2d092az0
 #EXTINF:-1 group-title="DOCUMENTALES",58 HISTORY 2

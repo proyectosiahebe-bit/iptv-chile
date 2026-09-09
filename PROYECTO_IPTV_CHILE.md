@@ -80,12 +80,11 @@ Bio Bio TV, La Red, Mega 2, TVN, Meganoticias y CDO se restauraron en sus 2 vers
 ## Cambios 2026-09-09 (119 canales, reordenados por categoría)
 - **Eliminados:** VENUS (111) y PLAYBOY (112) — pedido del usuario
 - **Los canales de solutionspremium ya no están al final:** fueron movidos e integrados dentro de la sección de su categoría (renumeración global 1-119):
-  - **CINE:** SONY (47), UNIVERSAL (48), USA NETWORK (49), ADULT SWIM (50) — dentro del bloque CINE
-  - **SERIES / REALITY:** TNT NOVELAS (23)
+  - **SERIES / REALITY:** TNT NOVELAS (23), SONY (24), UNIVERSAL (25) — SONY y UNIVERSAL movidos a SERIES/REALITY según clasificación del usuario
+  - **CINE:** USA NETWORK (49), ADULT SWIM (50) — dentro del bloque CINE
   - **INTERNACIONAL:** TVE INTERNACIONAL (99)
   - **NOTICIAS:** DW ESPANOL (102)
   - **RADIOS:** PUDAHUEL FM (113), CAROLINA TV (114), ROMANTICA (115), INFINITA (116), DUNA (117), LA CLAVE (118), LA METRO (119)
-- Clasificación de categorías pedida antes: USA NETWORK ahora en CINE (antes SERIES/REALITY)
 
 ## Cambios 2026-09-06 (121 canales)
 - **Canal 33 WARNER CHANNEL** -> version latina (HD Dual Audio) desde solutionspremium (antes en ingles via iptv.wtf)
@@ -113,6 +112,7 @@ Get-Content "jumangis.m3u" | Where-Object { $_ -match "^#EXTINF" -and $_ -match 
 ## Historial de cambios
 | Fecha | Canales | Cambios |
 |-------|---------|---------|
+| 2026-09-09 | 119 | SONY y UNIVERSAL movidos de CINE a SERIES/REALITY (24 y 25); renumerado 1-119 |
 | 2026-09-09 | 119 | Canales solutionspremium movidos dentro de su categoría (CINE 47-50, SERIES/REALITY 23, INTERNACIONAL 99, NOTICIAS 102, RADIOS 113-119); renumerado 1-119; USA Network a CINE |
 | 2026-09-06 | 121 | Warner/HBO latino (solutionspremium), sin duplicado HBO XTREME, agregados Sony/Universal/USA network/Adult Swim/TNT Novelas/Venus/Playboy/TVE/DW + 7 radios; eliminados TNT SD, RAI 1, Radioactiva |
 | 2026-08-27 | 92 | Restaurados 12 duplicados con nombre diferenciado (Bio Bio, La Red, Mega 2, TVN, Meganoticias, CDO x2) para elegir |
