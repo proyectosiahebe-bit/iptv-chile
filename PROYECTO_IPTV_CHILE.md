@@ -77,12 +77,15 @@ Verificados con señal real (solo Meganoticias quedaba 401 por token):
 ## Restaurados 2026-08-27 (duplicados con nombre diferenciado)
 Bio Bio TV, La Red, Mega 2, TVN, Meganoticias y CDO se restauraron en sus 2 versiones marcando la fuente entre paréntesis para que el usuario elija cuál conservar.
 
-## Cambios 2026-09-07 (119 canales)
+## Cambios 2026-09-09 (119 canales, reordenados por categoría)
 - **Eliminados:** VENUS (111) y PLAYBOY (112) — pedido del usuario
-- **Recategorizados:**
-  - USA NETWORK (108) y TNT NOVELAS (110) -> **SERIES / REALITY** (antes CINE)
-  - Los demás se mantienen: SONY/UNIVERSAL/ADULT SWIM en CINE, TVE en INTERNACIONAL, DW en NOTICIAS, y las 7 radios en RADIOS
-- **Renumerado según lista del usuario:** canales 106-110 (SONY..TNT NOVELAS), 113 TVE, 114 DW, y 7 radios en 115-121 (quedan libres los números 111-112)
+- **Los canales de solutionspremium ya no están al final:** fueron movidos e integrados dentro de la sección de su categoría (renumeración global 1-119):
+  - **CINE:** SONY (47), UNIVERSAL (48), USA NETWORK (49), ADULT SWIM (50) — dentro del bloque CINE
+  - **SERIES / REALITY:** TNT NOVELAS (23)
+  - **INTERNACIONAL:** TVE INTERNACIONAL (99)
+  - **NOTICIAS:** DW ESPANOL (102)
+  - **RADIOS:** PUDAHUEL FM (113), CAROLINA TV (114), ROMANTICA (115), INFINITA (116), DUNA (117), LA CLAVE (118), LA METRO (119)
+- Clasificación de categorías pedida antes: USA NETWORK ahora en CINE (antes SERIES/REALITY)
 
 ## Cambios 2026-09-06 (121 canales)
 - **Canal 33 WARNER CHANNEL** -> version latina (HD Dual Audio) desde solutionspremium (antes en ingles via iptv.wtf)
@@ -110,7 +113,7 @@ Get-Content "jumangis.m3u" | Where-Object { $_ -match "^#EXTINF" -and $_ -match 
 ## Historial de cambios
 | Fecha | Canales | Cambios |
 |-------|---------|---------|
-| 2026-09-07 | 119 | Eliminados Venus (111) y Playboy (112); USA Network y TNT Novelas re-categorizados a SERIES/REALITY; renumerado |
+| 2026-09-09 | 119 | Canales solutionspremium movidos dentro de su categoría (CINE 47-50, SERIES/REALITY 23, INTERNACIONAL 99, NOTICIAS 102, RADIOS 113-119); renumerado 1-119; USA Network a CINE |
 | 2026-09-06 | 121 | Warner/HBO latino (solutionspremium), sin duplicado HBO XTREME, agregados Sony/Universal/USA network/Adult Swim/TNT Novelas/Venus/Playboy/TVE/DW + 7 radios; eliminados TNT SD, RAI 1, Radioactiva |
 | 2026-08-27 | 92 | Restaurados 12 duplicados con nombre diferenciado (Bio Bio, La Red, Mega 2, TVN, Meganoticias, CDO x2) para elegir |
 | 2026-08-27 | 158 | Movida categoria DEPORTES despues de SERIES/ENTRETENIMIENTO |
