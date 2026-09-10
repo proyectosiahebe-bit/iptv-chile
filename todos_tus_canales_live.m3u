@@ -162,38 +162,40 @@ http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TERXSEI2bkZHbUVaTGFTQlBUa
 
 #EXTGRP:DEPORTES
 #EXTINF:-1 group-title="DEPORTES",65 TNT SPORTS PREMIUM
-http://solutionspremium.net:80/channel/user2620/37428848293/858.ts
-#EXTINF:-1 group-title="DEPORTES",66 ESPN
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T1MxSnZtL0hwZ0RDWlBaaHZMUFUxUT0
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QzlCRmtzajFIclpjbmxFUnk1NFpvaz0
+#EXTINF:-1 group-title="DEPORTES",66 TNT SPORTS PREMIUM SD CHILE
+http://solutionspremium.net:80/channel/user2620/37428848293/81450.ts
 #EXTINF:-1 group-title="DEPORTES",67 ESPN
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T1MxSnZtL0hwZ0RDWlBaaHZMUFUxUT0
+#EXTINF:-1 group-title="DEPORTES",68 ESPN
 http://38.224.175.2:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",68 ESPN DEPORTES
+#EXTINF:-1 group-title="DEPORTES",69 ESPN DEPORTES
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R0h5OVFDZTN5NTdYcHg5YjBuc1hSaz0
-#EXTINF:-1 group-title="DEPORTES",69 ESPN 2
+#EXTINF:-1 group-title="DEPORTES",70 ESPN 2
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SnNjdzVQVVUza0tNeC9WK0ticFhYOD0
-#EXTINF:-1 group-title="DEPORTES",70 ESPN 3
+#EXTINF:-1 group-title="DEPORTES",71 ESPN 3
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S1NRN1BFN1A4b25kR0RJN1ZyOVhwZz0
-#EXTINF:-1 group-title="DEPORTES",71 ESPN 4
+#EXTINF:-1 group-title="DEPORTES",72 ESPN 4
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6THZGeFNsc1d0UVFWVnRacG1SUXh3TT0
-#EXTINF:-1 group-title="DEPORTES",72 ESPN 5
+#EXTINF:-1 group-title="DEPORTES",73 ESPN 5
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RlJrQnZ6RXhSWWhTTG5oT09wMHMwOD0
-#EXTINF:-1 group-title="DEPORTES",73 ESPN 6
+#EXTINF:-1 group-title="DEPORTES",74 ESPN 6
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QzdyeFhQMXB2R2FOTk53SlA1V1ZyMD0
-#EXTINF:-1 group-title="DEPORTES",74 FOX ONE
+#EXTINF:-1 group-title="DEPORTES",75 FOX ONE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Q0RRUTZITU4vQ3hUem91SG1UM0c1RT0
-#EXTINF:-1 group-title="DEPORTES",75 FOX SPORTS 2
+#EXTINF:-1 group-title="DEPORTES",76 FOX SPORTS 2
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RGZsaDQ3clZISWhBdkljeTVwcjVYRT0
-#EXTINF:-1 group-title="DEPORTES",76 FOX SPORTS 3
+#EXTINF:-1 group-title="DEPORTES",77 FOX SPORTS 3
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TWdzWXVaY0xEMlZhWjVRZWVrVVNPRT0
-#EXTINF:-1 group-title="DEPORTES",77 TNT SPORTS ARGENTINA
+#EXTINF:-1 group-title="DEPORTES",78 TNT SPORTS ARGENTINA
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TnFGQTBwaGZtbU1pQ2oxQnZhdUtjTT0
-#EXTINF:-1 group-title="DEPORTES",78 CHV DEPORTES
+#EXTINF:-1 group-title="DEPORTES",79 CHV DEPORTES
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
 
 #EXTGRP:NACIONALES CHILE
-#EXTINF:-1 group-title="NACIONALES CHILE",79 RETRO PLUS TV
+#EXTINF:-1 group-title="NACIONALES CHILE",80 RETRO PLUS TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES CHILE",80 RETRO PLUS TV SEÑAL 2
+#EXTINF:-1 group-title="NACIONALES CHILE",81 RETRO PLUS TV SEÑAL 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 
 #EXTGRP:MUSICA
