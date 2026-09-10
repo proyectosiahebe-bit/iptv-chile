@@ -197,8 +197,6 @@ https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 
 #EXTGRP:MUSICA
-#EXTINF:-1 group-title="MUSICA",81 RUMBA TV
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13858.ts
 #EXTINF:-1 group-title="MUSICA",82 MTV LIVE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S1pzWFh2T0tRZVJtbG50Y1NKV2ZSYz0
 #EXTINF:-1 group-title="MUSICA",83 VH1 CLASSIC
@@ -230,7 +228,7 @@ http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TWp4V3ppc2ZGa1RxWlJPOG1vR
 
 #EXTGRP:INTERNACIONAL
 #EXTINF:-1 group-title="INTERNACIONAL",95 ARIRANG
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8658.ts
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL",96 EUROPA EUROPA
 http://solutionspremium.net:80/channel/user2620/37428848293/1266.ts
 #EXTINF:-1 group-title="INTERNACIONAL",97 ANTENA 3
@@ -258,19 +256,19 @@ https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&Playl
 #EXTINF:-1 group-title="RADIOS",105 FM PLUS
 https://v2.tustreaming.cl/fmplus/index.m3u8
 #EXTINF:-1 group-title="RADIOS",106 RADIO BIO BIO CONCEPCION
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8695.ts
+https://redirector.dps.live/biobioconcepcion/audiohls/playlist.m3u8
 #EXTINF:-1 group-title="RADIOS",107 RADIO BIO BIO LOS ANGELES
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8696.ts
+https://redirector.dps.live/biobiolosangeles/audiohls/playlist.m3u8
 #EXTINF:-1 group-title="RADIOS",108 RADIO BIO BIO OSORNO
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8698.ts
+https://redirector.dps.live/biobioosorno/audiohls/playlist.m3u8
 #EXTINF:-1 group-title="RADIOS",109 RADIO BIO BIO PUERTO MONTT
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8700.ts
+https://redirector.dps.live/biobiopuertomontt/audiohls/playlist.m3u8
 #EXTINF:-1 group-title="RADIOS",110 RADIO BIO BIO SANTIAGO
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8693.ts
+https://redirector.dps.live/biobiosantiago/audiohls/playlist.m3u8
 #EXTINF:-1 group-title="RADIOS",111 RADIO BIO BIO TEMUCO
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8697.ts
+https://redirector.dps.live/biobiotemuco/audiohls/playlist.m3u8
 #EXTINF:-1 group-title="RADIOS",112 RADIO BIO BIO VALPARAISO
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8694.ts
+https://redirector.dps.live/biobiovalparaiso/audiohls/playlist.m3u8
 #EXTINF:-1 group-title="RADIOS",113 RADIO PUDAHUEL FM
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
 #EXTINF:-1 group-title="RADIOS",114 CAROLINA TV
