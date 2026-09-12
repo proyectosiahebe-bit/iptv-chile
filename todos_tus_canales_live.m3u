@@ -285,3 +285,11 @@ https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
 #EXTINF:-1 group-title="RADIOS",119 LA METRO
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ALTERNATIVAS SD",120 TVN SD (720p)
+http://solutionspremium.net:80/channel/user2620/37428848293/41360.ts
+#EXTINF:-1 group-title="ALTERNATIVAS SD",121 CHV SD (576p)
+http://solutionspremium.net:80/channel/user2620/37428848293/864.ts
+#EXTINF:-1 group-title="ALTERNATIVAS SD",122 MEGA SD (576p)
+http://solutionspremium.net:80/channel/user2620/37428848293/13262.ts
+#EXTINF:-1 group-title="ALTERNATIVAS SD",123 CANAL 13 SD (576p)
+http://solutionspremium.net:80/channel/user2620/37428848293/870.ts
