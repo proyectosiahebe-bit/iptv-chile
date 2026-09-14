@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 
 #EXTGRP:NACIONALES CHILE
 #EXTINF:-1 group-title="NACIONALES CHILE",1 ADN TV
@@ -157,7 +157,7 @@ http://solutionspremium.net:80/channel/user2620/37428848293/17907.ts
 #EXTGRP:NOTICIAS
 #EXTINF:-1 group-title="NOTICIAS",63 CNN HD
 http://solutionspremium.net:80/channel/user2620/37428848293/86808.ts
-#EXTINF:-1 group-title="NOTICIAS",64 CNN ESPAÃ‘OL
+#EXTINF:-1 group-title="NOTICIAS",64 CNN ESPAÑOL
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TERXSEI2bkZHbUVaTGFTQlBUaDBMND0
 
 #EXTGRP:DEPORTES
@@ -195,7 +195,7 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTGRP:NACIONALES CHILE
 #EXTINF:-1 group-title="NACIONALES CHILE",80 RETRO PLUS TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES CHILE",81 RETRO PLUS TV SEÃ‘AL 2
+#EXTINF:-1 group-title="NACIONALES CHILE",81 RETRO PLUS TV SEÑAL 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 
 #EXTGRP:MUSICA
@@ -299,7 +299,7 @@ http://solutionspremium.net:80/channel/user2620/37428848293/86757.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/121352.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",143 PARA VERIFICAR CNN SD LAT (ALT) [canal63]
 http://solutionspremium.net:80/channel/user2620/37428848293/86808.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",144 PARA VERIFICAR CNN ESPAÃ‘OL MX (ALT) [canal64]
+#EXTINF:-1 group-title="PARA VERIFICAR",144 PARA VERIFICAR CNN ESPAÑOL MX (ALT) [canal64]
 http://solutionspremium.net:80/channel/user2620/37428848293/960.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",145 PARA VERIFICAR TNT SPORTS PREMIUM HD (ALT) [canal65]
 http://solutionspremium.net:80/channel/user2620/37428848293/81448.ts
