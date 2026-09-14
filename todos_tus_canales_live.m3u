@@ -88,7 +88,7 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/103.ts
 #EXTINF:-1 group-title="CINE",35 TNT SERIES
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/94.ts
 #EXTINF:-1 group-title="CINE",36 WARNER CHANNEL
-http://solutionspremium.net:80/channel/user2620/37428848293/1034.ts
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3375.ts
 #EXTINF:-1 group-title="CINE",37 SPACE
 http://solutionspremium.net:80/channel/user2620/37428848293/1024.ts
 #EXTINF:-1 group-title="CINE",38 TNT
@@ -162,13 +162,13 @@ http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TERXSEI2bkZHbUVaTGFTQlBUa
 
 #EXTGRP:DEPORTES
 #EXTINF:-1 group-title="DEPORTES",65 TNT SPORTS PREMIUM
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QzlCRmtzajFIclpjbmxFUnk1NFpvaz0
-#EXTINF:-1 group-title="DEPORTES",66 TNT SPORTS PREMIUM SD CHILE
 http://solutionspremium.net:80/channel/user2620/37428848293/81450.ts
+#EXTINF:-1 group-title="DEPORTES",66 TNT SPORTS PREMIUM SD CHILE
+http://solutionspremium.net:80/channel/user2620/37428848293/81448.ts
 #EXTINF:-1 group-title="DEPORTES",67 ESPN
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T1MxSnZtL0hwZ0RDWlBaaHZMUFUxUT0
 #EXTINF:-1 group-title="DEPORTES",68 ESPN
-http://38.224.175.2:8000/play/a02d/index.m3u8
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3474.ts
 #EXTINF:-1 group-title="DEPORTES",69 ESPN DEPORTES
 http://solutionspremium.net:80/channel/user2620/37428848293/1314.ts
 #EXTINF:-1 group-title="DEPORTES",70 ESPN 2
@@ -187,8 +187,8 @@ http://solutionspremium.net:80/channel/user2620/37428848293/330405.ts
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RGZsaDQ3clZISWhBdkljeTVwcjVYRT0
 #EXTINF:-1 group-title="DEPORTES",77 FOX SPORTS 3
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TWdzWXVaY0xEMlZhWjVRZWVrVVNPRT0
-#EXTINF:-1 group-title="DEPORTES",78 TNT SPORTS ARGENTINA
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15718.ts
+#EXTINF:-1 group-title="DEPORTES",78 TyC
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13515.ts
 #EXTINF:-1 group-title="DEPORTES",79 CHV DEPORTES
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
 
@@ -201,8 +201,8 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 #EXTGRP:MUSICA
 #EXTINF:-1 group-title="MUSICA",82 MTV LIVE
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S1pzWFh2T0tRZVJtbG50Y1NKV2ZSYz0
-#EXTINF:-1 group-title="MUSICA",83 VH1 CLASSIC
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SG9hYXJ0UUw4czJMRGd5WWJlZ3hDRT0
+#EXTINF:-1 group-title="MUSICA",83 MTV
+http://solutionspremium.net:80/channel/user2620/37428848293/36823.ts
 #EXTINF:-1 group-title="MUSICA",84 13 FESTIVAL
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 group-title="MUSICA",85 PORTAL FOXMIX
@@ -293,43 +293,14 @@ http://solutionspremium.net:80/channel/user2620/37428848293/864.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/13262.ts
 #EXTINF:-1 group-title="ALTERNATIVAS SD",123 CANAL 13 SD (576p)
 http://solutionspremium.net:80/channel/user2620/37428848293/870.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",142 PARA VERIFICAR NATIONAL GEOGRAPHIC HD (ALT) [canal62]
-http://solutionspremium.net:80/channel/user2620/37428848293/121352.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",145 PARA VERIFICAR TNT SPORTS PREMIUM HD (ALT) [canal65]
 http://solutionspremium.net:80/channel/user2620/37428848293/81448.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",148 PARA VERIFICAR ESPN DEPORTES FHD (ALT) [canal69]
-http://solutionspremium.net:80/channel/user2620/37428848293/1314.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",149 PARA VERIFICAR ESPN 2 CHILE (ALT) [canal70]
-http://solutionspremium.net:80/channel/user2620/37428848293/146797.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",150 PARA VERIFICAR ESPN 3 CHILE (ALT) [canal71]
-http://solutionspremium.net:80/channel/user2620/37428848293/146798.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",151 PARA VERIFICAR ESPN 4 CHILE (ALT) [canal72]
-http://solutionspremium.net:80/channel/user2620/37428848293/146799.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",154 PARA VERIFICAR FOX ONE LIGA MX (ALT) [canal75]
-http://solutionspremium.net:80/channel/user2620/37428848293/330405.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",181 BK2 NICK JR [canal93]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13838.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",182 BK2 DISCOVERY KIDS [canal94]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13493.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",183 BK2 DISCOVERY KIDS FHD [canal94b]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9028.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",184 BK2 ARIRANG HD [canal95]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8657.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",185 BK2 ANTENA 3 FHD [canal97]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8234.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",186 BK2 TELEMUNDO 720p [canal101]
-http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 #EXTINF:-1 group-title="BACKUP 2 (WTF)",187 BK2 ESPN [canal67]
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3474.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",188 BK2 ESPN 2 [canal70]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3477.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",189 BK2 ESPN 3 [canal71]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3480.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",193 PARA VERIFICAR WARNER CHANNEL FHD (ALT)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3375.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",194 PARA VERIFICAR TNT SPORTS PREMIUM HD (ALT)
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14881.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",195 PARA VERIFICAR TYC SPORTS HD (ALT)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13515.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",196 PARA VERIFICAR MTV LATINO HD (ALT)
 http://solutionspremium.net:80/channel/user2620/37428848293/36823.ts
+
