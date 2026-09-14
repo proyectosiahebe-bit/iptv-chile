@@ -152,12 +152,12 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15835.ts
 #EXTINF:-1 group-title="DOCUMENTALES",61 INVESTIGATION DISCOVERY
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13031.ts
 #EXTINF:-1 group-title="DOCUMENTALES",62 NATIONAL GEOGRAPHIC
-http://solutionspremium.net:80/channel/user2620/37428848293/17907.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/121352.ts
 
 #EXTGRP:NOTICIAS
 #EXTINF:-1 group-title="NOTICIAS",63 CNN HD
 http://solutionspremium.net:80/channel/user2620/37428848293/86808.ts
-#EXTINF:-1 group-title="NOTICIAS",64 CNN ESPAÑOL
+#EXTINF:-1 group-title="NOTICIAS",64 CNN ESPAÃ‘OL
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TERXSEI2bkZHbUVaTGFTQlBUaDBMND0
 
 #EXTGRP:DEPORTES
@@ -170,11 +170,11 @@ http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T1MxSnZtL0hwZ0RDWlBaaHZMU
 #EXTINF:-1 group-title="DEPORTES",68 ESPN
 http://38.224.175.2:8000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",69 ESPN DEPORTES
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R0h5OVFDZTN5NTdYcHg5YjBuc1hSaz0
+http://solutionspremium.net:80/channel/user2620/37428848293/1314.ts
 #EXTINF:-1 group-title="DEPORTES",70 ESPN 2
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SnNjdzVQVVUza0tNeC9WK0ticFhYOD0
+http://solutionspremium.net:80/channel/user2620/37428848293/146797.ts
 #EXTINF:-1 group-title="DEPORTES",71 ESPN 3
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S1NRN1BFN1A4b25kR0RJN1ZyOVhwZz0
+http://solutionspremium.net:80/channel/user2620/37428848293/146798.ts
 #EXTINF:-1 group-title="DEPORTES",72 ESPN 4
 http://solutionspremium.net:80/channel/user2620/37428848293/146799.ts
 #EXTINF:-1 group-title="DEPORTES",73 ESPN 5
@@ -182,7 +182,7 @@ http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RlJrQnZ6RXhSWWhTTG5oT09wM
 #EXTINF:-1 group-title="DEPORTES",74 ESPN 6
 http://solutionspremium.net:80/channel/user2620/37428848293/260743.ts
 #EXTINF:-1 group-title="DEPORTES",75 FOX ONE
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Q0RRUTZITU4vQ3hUem91SG1UM0c1RT0
+http://solutionspremium.net:80/channel/user2620/37428848293/330405.ts
 #EXTINF:-1 group-title="DEPORTES",76 FOX SPORTS 2
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RGZsaDQ3clZISWhBdkljeTVwcjVYRT0
 #EXTINF:-1 group-title="DEPORTES",77 FOX SPORTS 3
@@ -195,7 +195,7 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTGRP:NACIONALES CHILE
 #EXTINF:-1 group-title="NACIONALES CHILE",80 RETRO PLUS TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES CHILE",81 RETRO PLUS TV SEÑAL 2
+#EXTINF:-1 group-title="NACIONALES CHILE",81 RETRO PLUS TV SEÃ‘AL 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 
 #EXTGRP:MUSICA
@@ -293,14 +293,8 @@ http://solutionspremium.net:80/channel/user2620/37428848293/864.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/13262.ts
 #EXTINF:-1 group-title="ALTERNATIVAS SD",123 CANAL 13 SD (576p)
 http://solutionspremium.net:80/channel/user2620/37428848293/870.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",132 PARA VERIFICAR HBO SD LAT (ALT) [canal45]
-http://solutionspremium.net:80/channel/user2620/37428848293/86757.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",142 PARA VERIFICAR NATIONAL GEOGRAPHIC HD (ALT) [canal62]
 http://solutionspremium.net:80/channel/user2620/37428848293/121352.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",143 PARA VERIFICAR CNN SD LAT (ALT) [canal63]
-http://solutionspremium.net:80/channel/user2620/37428848293/86808.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",144 PARA VERIFICAR CNN ESPAÑOL MX (ALT) [canal64]
-http://solutionspremium.net:80/channel/user2620/37428848293/960.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",145 PARA VERIFICAR TNT SPORTS PREMIUM HD (ALT) [canal65]
 http://solutionspremium.net:80/channel/user2620/37428848293/81448.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",148 PARA VERIFICAR ESPN DEPORTES FHD (ALT) [canal69]
@@ -313,32 +307,6 @@ http://solutionspremium.net:80/channel/user2620/37428848293/146798.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/146799.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",154 PARA VERIFICAR FOX ONE LIGA MX (ALT) [canal75]
 http://solutionspremium.net:80/channel/user2620/37428848293/330405.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",155 PARA VERIFICAR FOX SPORTS 2 SUR (ALT) [canal76]
-http://solutionspremium.net:80/channel/user2620/37428848293/82374.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",157 PARA VERIFICAR TNT SPORTS ARGENTINA (ALT) [canal78]
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UFZseWUxU3VQVHlib3NkNmtYeFRRZz0
-#EXTINF:-1 group-title="PARA VERIFICAR",159 PARA VERIFICAR NICK JR HD ES (ALT) [canal93]
-http://solutionspremium.net:80/channel/user2620/37428848293/654.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",160 PARA VERIFICAR DISCOVERY KIDS HD MX (ALT) [canal94]
-http://solutionspremium.net:80/channel/user2620/37428848293/1084.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",161 PARA VERIFICAR ARIRANG HD (ALT) [canal95]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8657.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",173 BK2 HBO [canal45]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5890.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",174 BK2 DISCOVERY HOME FHD [canal53]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/109.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",175 BK2 DISCOVERY SCIENCE [canal54]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13622.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",176 BK2 DISCOVERY TURBO [canal55]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/268.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",177 BK2 ANIMAL PLANET [canal56]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13835.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",178 BK2 HISTORY HD [canal57]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5893.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",179 BK2 HISTORY CL [canal57b]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9530.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",180 BK2 INVESTIGATION DISCOVERY [canal61]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13031.ts
 #EXTINF:-1 group-title="BACKUP 2 (WTF)",181 BK2 NICK JR [canal93]
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13838.ts
 #EXTINF:-1 group-title="BACKUP 2 (WTF)",182 BK2 DISCOVERY KIDS [canal94]
@@ -357,9 +325,3 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3474.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3477.ts
 #EXTINF:-1 group-title="BACKUP 2 (WTF)",189 BK2 ESPN 3 [canal71]
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3480.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",190 BK2 TNT SPORTS PREMIUM [canal65]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14881.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",191 BK2 LOVE NATURE [canal60]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15835.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",192 BK2 CARTOONITO [canal89]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9029.ts
