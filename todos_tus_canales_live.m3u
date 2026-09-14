@@ -157,7 +157,7 @@ http://solutionspremium.net:80/channel/user2620/37428848293/121352.ts
 #EXTGRP:NOTICIAS
 #EXTINF:-1 group-title="NOTICIAS",63 CNN HD
 http://solutionspremium.net:80/channel/user2620/37428848293/86808.ts
-#EXTINF:-1 group-title="NOTICIAS",64 CNN ESPAÃ‘OL
+#EXTINF:-1 group-title="NOTICIAS",64 CNN ESPAÃƒâ€˜OL
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TERXSEI2bkZHbUVaTGFTQlBUaDBMND0
 
 #EXTGRP:DEPORTES
@@ -180,7 +180,7 @@ http://solutionspremium.net:80/channel/user2620/37428848293/146799.ts
 #EXTINF:-1 group-title="DEPORTES",73 ESPN 5
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RlJrQnZ6RXhSWWhTTG5oT09wMHMwOD0
 #EXTINF:-1 group-title="DEPORTES",74 ESPN 6
-http://solutionspremium.net:80/channel/user2620/37428848293/260743.ts
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QzdyeFhQMXB2R2FOTk53SlA1V1ZyMD0
 #EXTINF:-1 group-title="DEPORTES",75 FOX ONE
 http://solutionspremium.net:80/channel/user2620/37428848293/330405.ts
 #EXTINF:-1 group-title="DEPORTES",76 FOX SPORTS 2
@@ -195,7 +195,7 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTGRP:NACIONALES CHILE
 #EXTINF:-1 group-title="NACIONALES CHILE",80 RETRO PLUS TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES CHILE",81 RETRO PLUS TV SEÃ‘AL 2
+#EXTINF:-1 group-title="NACIONALES CHILE",81 RETRO PLUS TV SEÃƒâ€˜AL 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 
 #EXTGRP:MUSICA
@@ -325,3 +325,11 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3474.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3477.ts
 #EXTINF:-1 group-title="BACKUP 2 (WTF)",189 BK2 ESPN 3 [canal71]
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3480.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",193 PARA VERIFICAR WARNER CHANNEL FHD (ALT)
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3375.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",194 PARA VERIFICAR TNT SPORTS PREMIUM HD (ALT)
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14881.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",195 PARA VERIFICAR TYC SPORTS HD (ALT)
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13515.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",196 PARA VERIFICAR MTV LATINO HD (ALT)
+http://solutionspremium.net:80/channel/user2620/37428848293/36823.ts
