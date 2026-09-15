@@ -157,7 +157,7 @@ http://solutionspremium.net:80/channel/user2620/37428848293/121352.ts
 #EXTGRP:NOTICIAS
 #EXTINF:-1 group-title="NOTICIAS",63 CNN HD
 http://solutionspremium.net:80/channel/user2620/37428848293/86808.ts
-#EXTINF:-1 group-title="NOTICIAS",64 CNN ESPAÃƒâ€˜OL
+#EXTINF:-1 group-title="NOTICIAS",64 CNN ESPAÑOL
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TERXSEI2bkZHbUVaTGFTQlBUaDBMND0
 
 #EXTGRP:DEPORTES
@@ -195,7 +195,7 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTGRP:NACIONALES CHILE
 #EXTINF:-1 group-title="NACIONALES CHILE",80 RETRO PLUS TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES CHILE",81 RETRO PLUS TV SEÃƒâ€˜AL 2
+#EXTINF:-1 group-title="NACIONALES CHILE",81 RETRO PLUS TV SEÑAL 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 
 #EXTGRP:MUSICA
@@ -293,14 +293,23 @@ http://solutionspremium.net:80/channel/user2620/37428848293/864.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/13262.ts
 #EXTINF:-1 group-title="ALTERNATIVAS SD",123 CANAL 13 SD (576p)
 http://solutionspremium.net:80/channel/user2620/37428848293/870.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",145 PARA VERIFICAR TNT SPORTS PREMIUM HD (ALT) [canal65]
-http://solutionspremium.net:80/channel/user2620/37428848293/81448.ts
-#EXTINF:-1 group-title="BACKUP 2 (WTF)",187 BK2 ESPN [canal67]
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3474.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",193 PARA VERIFICAR WARNER CHANNEL FHD (ALT)
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3375.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",195 PARA VERIFICAR TYC SPORTS HD (ALT)
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13515.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",196 PARA VERIFICAR MTV LATINO HD (ALT)
-http://solutionspremium.net:80/channel/user2620/37428848293/36823.ts
 
+
+
+
+#EXTINF:-1 group-title="PARA VERIFICAR",197 PARA VERIFICAR TNT HD DUAL (ALT) [canal38]
+http://solutionspremium.net:80/channel/user2620/37428848293/1078.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",198 PARA VERIFICAR AMC HD (ALT) [canal39]
+http://solutionspremium.net:80/channel/user2620/37428848293/347.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",199 PARA VERIFICAR A&E HD MX (ALT) [canal40]
+http://solutionspremium.net:80/channel/user2620/37428848293/86931.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",200 PARA VERIFICAR CNN ESPANOL HD (ALT) [canal64]
+http://solutionspremium.net:80/channel/user2620/37428848293/7914.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",201 PARA VERIFICAR MTV LATINO HD (ALT) [canal83]
+http://solutionspremium.net:80/channel/user2620/37428848293/87341.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",202 PARA VERIFICAR NICK FHD (ALT) [canal90]
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3310.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",203 PARA VERIFICAR ARIRANG HD (ALT) [canal95]
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8657.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",204 PARA VERIFICAR ARIRANG SD (ALT) [canal95]
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8658.ts
