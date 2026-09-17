@@ -85,8 +85,6 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13894.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/108.ts
 #EXTINF:-1 group-title="CINE",34 AXN
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/103.ts
-#EXTINF:-1 group-title="CINE",35 TNT SERIES
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/94.ts
 #EXTINF:-1 group-title="CINE",36 WARNER CHANNEL
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3375.ts
 #EXTINF:-1 group-title="CINE",37 SPACE
@@ -163,8 +161,6 @@ http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TERXSEI2bkZHbUVaTGFTQlBUa
 #EXTGRP:DEPORTES
 #EXTINF:-1 group-title="DEPORTES",65 TNT SPORTS PREMIUM
 http://solutionspremium.net:80/channel/user2620/37428848293/81450.ts
-#EXTINF:-1 group-title="DEPORTES",66 TNT SPORTS PREMIUM SD CHILE
-http://solutionspremium.net:80/channel/user2620/37428848293/81448.ts
 #EXTINF:-1 group-title="DEPORTES",67 ESPN
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T1MxSnZtL0hwZ0RDWlBaaHZMUFUxUT0
 #EXTINF:-1 group-title="DEPORTES",68 ESPN
@@ -183,10 +179,6 @@ http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RlJrQnZ6RXhSWWhTTG5oT09wM
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QzdyeFhQMXB2R2FOTk53SlA1V1ZyMD0
 #EXTINF:-1 group-title="DEPORTES",75 FOX ONE
 http://solutionspremium.net:80/channel/user2620/37428848293/330405.ts
-#EXTINF:-1 group-title="DEPORTES",76 FOX SPORTS 2
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RGZsaDQ3clZISWhBdkljeTVwcjVYRT0
-#EXTINF:-1 group-title="DEPORTES",77 FOX SPORTS 3
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TWdzWXVaY0xEMlZhWjVRZWVrVVNPRT0
 #EXTINF:-1 group-title="DEPORTES",78 TyC
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13515.ts
 #EXTINF:-1 group-title="DEPORTES",79 CHV DEPORTES
@@ -217,8 +209,6 @@ https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
 #EXTGRP:INFANTIL
 #EXTINF:-1 group-title="INFANTIL",89 CARTOONITO
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9029.ts
-#EXTINF:-1 group-title="INFANTIL",90 FMHKIDS
-http://solutionspremium.net:80/channel/user2620/37428848293/289645.ts
 #EXTINF:-1 group-title="INFANTIL",91 13 GO KIDS
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 group-title="INFANTIL",92 DISNEY CHANNEL
@@ -229,8 +219,6 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13838.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13493.ts
 
 #EXTGRP:INTERNACIONAL
-#EXTINF:-1 group-title="INTERNACIONAL",95 ARIRANG
-https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL",96 EUROPA EUROPA
 http://solutionspremium.net:80/channel/user2620/37428848293/1266.ts
 #EXTINF:-1 group-title="INTERNACIONAL",97 ANTENA 3
@@ -297,7 +285,7 @@ http://solutionspremium.net:80/channel/user2620/37428848293/870.ts
 
 
 
-#EXTINF:-1 group-title="PARA VERIFICAR",197 PARA VERIFICAR TNT HD DUAL (ALT) [canal38]
+#EXTINF:-1 group-title="PARA VERIFICAR",35 PARA VERIFICAR TNT HD DUAL (ALT) [canal38]
 http://solutionspremium.net:80/channel/user2620/37428848293/1078.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",198 PARA VERIFICAR AMC HD (ALT) [canal39]
 http://solutionspremium.net:80/channel/user2620/37428848293/347.ts
@@ -307,7 +295,7 @@ http://solutionspremium.net:80/channel/user2620/37428848293/86931.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/7914.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",201 PARA VERIFICAR MTV LATINO HD (ALT) [canal83]
 http://solutionspremium.net:80/channel/user2620/37428848293/87341.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",202 PARA VERIFICAR NICK FHD (ALT) [canal90]
+#EXTINF:-1 group-title="PARA VERIFICAR",95 PARA VERIFICAR NICK FHD (ALT) [canal90]
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3310.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",203 PARA VERIFICAR ARIRANG HD (ALT) [canal95]
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8657.ts
@@ -330,21 +318,19 @@ http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RGd4alRpZ1I3WnFwRDhmWVpiW
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QjRpMXZ5aDdnL3dySThVWnB1c25Hdz0
 #EXTINF:-1 group-title="PARA VERIFICAR",212 PV JUMANGI TLC [636]
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QUhqZy84WnBmS1VBZmpXRWN6ek9xdz0
-#EXTINF:-1 group-title="PARA VERIFICAR",213 PV JUMANGI TNT SPORTS [196]
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RkpFTTBiNlJtNXVDR2ZiNzM2V3lYQT0
-#EXTINF:-1 group-title="PARA VERIFICAR",214 PV JUMANGI TNT SPORTS [201]
+#EXTINF:-1 group-title="PARA VERIFICAR",66 PV JUMANGI TNT SPORTS [201]
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S0J0cHN0TlRUMXErRWUwTlAxeGhtaz0
 #EXTINF:-1 group-title="PARA VERIFICAR",215 PV JUMANGI DIRECTV SPORTS + CHILE HD [232]
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T1hlbk1aN3U0MTA0RXV2VjNEQlZ0UT0
-#EXTINF:-1 group-title="PARA VERIFICAR",216 PV JUMANGI DIRECTV SPORTS + ARG HD [545]
+#EXTINF:-1 group-title="PARA VERIFICAR",77 PV JUMANGI DIRECTV SPORTS + ARG HD [545]
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RnN2OVhvSGFibXJoNzNHZVZ4bnpZbz0
 #EXTINF:-1 group-title="PARA VERIFICAR",217 PV JUMANGI DIRECTV SPORTS + ECU HD [546]
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RDBqSXFtYTUzYmVybG5EVGd2eE1yRT0
-#EXTINF:-1 group-title="PARA VERIFICAR",218 PV JUMANGI DIRECTV SPORTS + COL HD [549]
+#EXTINF:-1 group-title="PARA VERIFICAR",76 PV JUMANGI DIRECTV SPORTS + COL HD [549]
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QWRPWlRJQWVvMzYxYUhRYjVJM2s2ST0
 #EXTINF:-1 group-title="PARA VERIFICAR",219 PV JUMANGI NICKELODEON [736]
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T3hTWWRtV29nbWN6TzV1ZnAwc1VGRT0
-#EXTINF:-1 group-title="PARA VERIFICAR",220 PV JUMANGI PLIM PLIM TV [743]
+#EXTINF:-1 group-title="PARA VERIFICAR",90 PV JUMANGI PLIM PLIM TV [743]
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RThHcnlSUWptdDRhblp5eUlGc0ttbz0
 #EXTINF:-1 group-title="PARA VERIFICAR",221 PV JUMANGI LAS ESTRELLAS [594]
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QlY5MitmMnA2SzR1YkVHMGw5VVQ4bz0
