@@ -20,3 +20,27 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 # Guardado en base el 2026-09-16 (retirado de la grilla 66)
 #EXTINF:-1 group-title="PARA VERIFICAR",66 PV JUMANGI TNT SPORTS [196]
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RkpFTTBiNlJtNXVDR2ZiNzM2V3lYQT0
+# Retirado de la grilla el 2026-09-16 (reemplazo 222 -> 7)
+#EXTINF:-1 group-title="PARA VERIFICAR",222 PV TVN HD
+http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/30711.ts
+# Retirado de la grilla el 2026-09-16 (reemplazo 230 -> 31)
+#EXTINF:-1 group-title="PARA VERIFICAR",230 PV STAR CHANNEL
+http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/970139.ts
+# Retirado de la grilla el 2026-09-16 (reemplazo 233 -> 39)
+#EXTINF:-1 group-title="PARA VERIFICAR",233 PV AMC
+http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/30644.ts
+# Retirado de la grilla el 2026-09-16 (reemplazo 239 -> 45)
+#EXTINF:-1 group-title="PARA VERIFICAR",239 PV HBO
+http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/30601.ts
+# Retirado de la grilla el 2026-09-16 (URL previa de 7 reemplazada)
+#EXTINF:-1 group-title="NACIONALES CHILE",7 TVN
+https://iptv2.intersurtv.cl/TVN/index.m3u8
+# Retirado de la grilla el 2026-09-16 (URL previa de 31 reemplazada)
+#EXTINF:-1 group-title="CINE",31 STAR CHANNEL
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5980.ts
+# Retirado de la grilla el 2026-09-16 (URL previa de 39 reemplazada)
+#EXTINF:-1 group-title="PARA VERIFICAR",39 AMC
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Ri9lU2M1dkpTWDQ4S2sxUFBKL0NsND0
+# Retirado de la grilla el 2026-09-16 (URL previa de 45 reemplazada)
+#EXTINF:-1 group-title="CINE",45 HBO
+http://solutionspremium.net:80/channel/user2620/37428848293/86757.ts

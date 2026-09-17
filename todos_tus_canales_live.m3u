@@ -14,7 +14,7 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts
 #EXTINF:-1 group-title="NACIONALES CHILE",6 TV CHILE
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 group-title="NACIONALES CHILE",7 TVN
-https://iptv2.intersurtv.cl/TVN/index.m3u8
+http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/30711.ts
 #EXTINF:-1 group-title="NACIONALES CHILE",8 NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 #EXTINF:-1 group-title="NACIONALES CHILE",9 MEGA
@@ -78,7 +78,7 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/107.ts
 
 #EXTGRP:CINE
 #EXTINF:-1 group-title="CINE",31 STAR CHANNEL
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5980.ts
+http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/970139.ts
 #EXTINF:-1 group-title="CINE",32 E!
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13894.ts
 #EXTINF:-1 group-title="CINE",33 COMEDY CENTRAL
@@ -96,7 +96,7 @@ http://solutionspremium.net:80/channel/user2620/37428848293/121358.ts
 
 #EXTGRP:PARA VERIFICAR
 #EXTINF:-1 group-title="PARA VERIFICAR",39 AMC
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Ri9lU2M1dkpTWDQ4S2sxUFBKL0NsND0
+http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/30644.ts
 
 #EXTGRP:DOCUMENTALES
 #EXTINF:-1 group-title="DOCUMENTALES",40 A&E
@@ -116,7 +116,7 @@ http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RUp6VEZQL2k5YzVVSmpMeXlZU
 #EXTINF:-1 group-title="CINE",44 HBO FAMILY
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S3RycGRrVzBiTGVTVEZnV3lMTGFCZz0
 #EXTINF:-1 group-title="CINE",45 HBO
-http://solutionspremium.net:80/channel/user2620/37428848293/86757.ts
+http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/30601.ts
 #EXTINF:-1 group-title="CINE",46 HBO POP
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TE1LVE1CYVdQSytQS09XYjBiczRKdz0
 #EXTINF:-1 group-title="CINE",47 HBO SIGNATURE
@@ -334,8 +334,6 @@ http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RDBqSXFtYTUzYmVybG5EVGd2e
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T3hTWWRtV29nbWN6TzV1ZnAwc1VGRT0
 #EXTINF:-1 group-title="PARA VERIFICAR",221 PV JUMANGI LAS ESTRELLAS [594]
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QlY5MitmMnA2SzR1YkVHMGw5VVQ4bz0
-#EXTINF:-1 group-title="PARA VERIFICAR",222 PV TVN HD
-http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/30711.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",223 PV TVN HD OPC 2
 http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/187658.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",224 PV TVN HD OPC 3 JUMANGI
@@ -350,14 +348,10 @@ http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/30629.ts
 http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/30714.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",229 PV CNN UHD
 http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/1028554.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",230 PV STAR CHANNEL
-http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/970139.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",231 PV STAR CHANNEL OPC 2
 http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/21344.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",232 PV STAR CHANNEL OPC 3 PRINCE4K
 http://pro.netmos.ovh:7355/live/PR9022783604200/285824450154/222874.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",233 PV AMC
-http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/30644.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",234 PV AMC OPC 2
 http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/140170.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",235 PV AMC OPC 3 PRINCE4K
@@ -368,8 +362,6 @@ http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/30599.ts
 http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/1279011.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",238 PV HBO FAMILY OPC 3 PRINCE4K
 http://pro.netmos.ovh:7355/live/PR9022783604200/285824450154/227648.ts
-#EXTINF:-1 group-title="PARA VERIFICAR",239 PV HBO
-http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/30601.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",240 PV HBO OPC 2
 http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/69064.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",241 PV HBO OPC 3 PRINCE4K
