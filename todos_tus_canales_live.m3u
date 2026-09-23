@@ -420,3 +420,229 @@ http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/30618.ts
 http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/1136229.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",268 PV NICK JR ES FHD
 http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/1017259.ts
+
+#EXTGRP:FUENTES
+#EXTINF:-1 group-title="FUENTES",269 FUENTE TVN (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/252873.ts
+#EXTINF:-1 group-title="FUENTES",270 FUENTE TVN (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197017.ts
+#EXTINF:-1 group-title="FUENTES",271 FUENTE TVN (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBIJSmVveEox5DOk0WqsqSl2
+#EXTINF:-1 group-title="FUENTES",272 FUENTE TVN (njftxw_u2)
+http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/10238
+#EXTINF:-1 group-title="FUENTES",273 FUENTE TVN (njftxw_u3)
+http://njftxw.top:8080/7661769250381/718219ab4142/10238
+#EXTINF:-1 group-title="FUENTES",274 FUENTE T13 (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/451032.ts
+#EXTINF:-1 group-title="FUENTES",275 FUENTE T13 (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197012.ts
+#EXTINF:-1 group-title="FUENTES",276 FUENTE T13 (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBIYBV7DnB8Iu2C3cBJoFcxD
+#EXTINF:-1 group-title="FUENTES",277 FUENTE T13 (planettvweb)
+http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/17998
+#EXTINF:-1 group-title="FUENTES",278 FUENTE CNN CHILE (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197031.ts
+#EXTINF:-1 group-title="FUENTES",279 FUENTE CNN CHILE (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZhMUwZlQW7eqtcVgACQh427NwkWm4NzV-shNMA4cw0
+#EXTINF:-1 group-title="FUENTES",280 FUENTE ZONA LATINA (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197053.ts
+#EXTINF:-1 group-title="FUENTES",281 FUENTE ZONA LATINA (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBLcPGATUN_urJYmCR9QqyC0
+#EXTINF:-1 group-title="FUENTES",282 FUENTE REC TV (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197033.ts
+#EXTINF:-1 group-title="FUENTES",283 FUENTE VIA X (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197050.ts
+#EXTINF:-1 group-title="FUENTES",284 FUENTE VIA X (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBIljZXbodtXmQpFO2Vyu4Fi
+#EXTINF:-1 group-title="FUENTES",285 FUENTE STUDIO UNIVERSAL (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/239655.ts
+#EXTINF:-1 group-title="FUENTES",286 FUENTE STUDIO UNIVERSAL (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197880.ts
+#EXTINF:-1 group-title="FUENTES",287 FUENTE STUDIO UNIVERSAL (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6osFzleIYwos0b-GloVqQ4SUfEZbQfE3Cy53fCd9Pma5
+#EXTINF:-1 group-title="FUENTES",288 FUENTE STUDIO UNIVERSAL (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/21276.m3u8
+#EXTINF:-1 group-title="FUENTES",289 FUENTE STUDIO UNIVERSAL (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/136804
+#EXTINF:-1 group-title="FUENTES",290 FUENTE AMC (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/239632.ts
+#EXTINF:-1 group-title="FUENTES",291 FUENTE AMC (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197864.ts
+#EXTINF:-1 group-title="FUENTES",292 FUENTE AMC (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZwtIywL0RQpqx28h2qN7KOV-eoEE6B2mZqJvevl26e
+#EXTINF:-1 group-title="FUENTES",293 FUENTE AMC (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/111973.m3u8
+#EXTINF:-1 group-title="FUENTES",294 FUENTE AMC (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/136797
+#EXTINF:-1 group-title="FUENTES",295 FUENTE AMC (njftxw_u2)
+http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/24989
+#EXTINF:-1 group-title="FUENTES",296 FUENTE AMC (njftxw_u3)
+http://njftxw.top:8080/7661769250381/718219ab4142/24989
+#EXTINF:-1 group-title="FUENTES",297 FUENTE HBO 2 (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/240948.ts
+#EXTINF:-1 group-title="FUENTES",298 FUENTE HBO 2 (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197848.ts
+#EXTINF:-1 group-title="FUENTES",299 FUENTE HBO 2 (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZwtIywL0RQpqx28h2qN7IXYgAy7pTOyCY2gjer9_QQ
+#EXTINF:-1 group-title="FUENTES",300 FUENTE HBO 2 (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/249245.m3u8
+#EXTINF:-1 group-title="FUENTES",301 FUENTE HBO 2 (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/140733
+#EXTINF:-1 group-title="FUENTES",302 FUENTE HBO 2 (njftxw_u2)
+http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/10177
+#EXTINF:-1 group-title="FUENTES",303 FUENTE HBO 2 (njftxw_u3)
+http://njftxw.top:8080/7661769250381/718219ab4142/10177
+#EXTINF:-1 group-title="FUENTES",304 FUENTE HBO PLUS (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/135.ts
+#EXTINF:-1 group-title="FUENTES",305 FUENTE HBO PLUS (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197852.ts
+#EXTINF:-1 group-title="FUENTES",306 FUENTE HBO PLUS (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/249246.m3u8
+#EXTINF:-1 group-title="FUENTES",307 FUENTE HBO FAMILY (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/239647.ts
+#EXTINF:-1 group-title="FUENTES",308 FUENTE HBO FAMILY (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197850.ts
+#EXTINF:-1 group-title="FUENTES",309 FUENTE HBO FAMILY (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6uY9j_jURgfqEQ8bcwuO-TNXS8jmSJJuITNnR_YsX-7i
+#EXTINF:-1 group-title="FUENTES",310 FUENTE HBO FAMILY (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/249258.m3u8
+#EXTINF:-1 group-title="FUENTES",311 FUENTE HBO FAMILY (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/140710
+#EXTINF:-1 group-title="FUENTES",312 FUENTE HBO (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/239648.ts
+#EXTINF:-1 group-title="FUENTES",313 FUENTE HBO (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197846.ts
+#EXTINF:-1 group-title="FUENTES",314 FUENTE HBO (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6osFzleIYwos0b-GloVqQ4S9jOWpyH-gbpnyJx6D9k4w
+#EXTINF:-1 group-title="FUENTES",315 FUENTE HBO (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/249244.m3u8
+#EXTINF:-1 group-title="FUENTES",316 FUENTE HBO (njftxw_u2)
+http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/10176
+#EXTINF:-1 group-title="FUENTES",317 FUENTE HBO (njftxw_u3)
+http://njftxw.top:8080/7661769250381/718219ab4142/10176
+#EXTINF:-1 group-title="FUENTES",318 FUENTE HBO POP (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/139.ts
+#EXTINF:-1 group-title="FUENTES",319 FUENTE HBO POP (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6osFzleIYwos0b-GloVqQ4SEJ7rldeeZCS_t89SNwH9H
+#EXTINF:-1 group-title="FUENTES",320 FUENTE HBO POP (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/249248.m3u8
+#EXTINF:-1 group-title="FUENTES",321 FUENTE HBO POP (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/140737
+#EXTINF:-1 group-title="FUENTES",322 FUENTE HBO SIGNATURE (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/136.ts
+#EXTINF:-1 group-title="FUENTES",323 FUENTE HBO SIGNATURE (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197854.ts
+#EXTINF:-1 group-title="FUENTES",324 FUENTE HBO SIGNATURE (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZwtIywL0RQpqx28h2qN7Lqi8JYGpJI47sYiJBLp3G9
+#EXTINF:-1 group-title="FUENTES",325 FUENTE HBO SIGNATURE (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/249247.m3u8
+#EXTINF:-1 group-title="FUENTES",326 FUENTE HBO SIGNATURE (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/140735
+#EXTINF:-1 group-title="FUENTES",327 FUENTE HBO MUNDI (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/137.ts
+#EXTINF:-1 group-title="FUENTES",328 FUENTE HBO MUNDI (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6osFzleIYwos0b-GloVqQ4Rn-jphf9E8naMiJMyD7Plz
+#EXTINF:-1 group-title="FUENTES",329 FUENTE HBO MUNDI (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/249249.m3u8
+#EXTINF:-1 group-title="FUENTES",330 FUENTE HBO MUNDI (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/140736
+#EXTINF:-1 group-title="FUENTES",331 FUENTE DISCOVERY CHANNEL (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/78.ts
+#EXTINF:-1 group-title="FUENTES",332 FUENTE DISCOVERY CHANNEL (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/196771.ts
+#EXTINF:-1 group-title="FUENTES",333 FUENTE DISCOVERY CHANNEL (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6gAxSmFCMy2fFyI-EJ8PuKASIlGruRa98fTH7ggSWBjd
+#EXTINF:-1 group-title="FUENTES",334 FUENTE DISCOVERY CHANNEL (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/249257.m3u8
+#EXTINF:-1 group-title="FUENTES",335 FUENTE DISCOVERY CHANNEL (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/87316
+#EXTINF:-1 group-title="FUENTES",336 FUENTE DISCOVERY CHANNEL (njftxw_u2)
+http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/25019
+#EXTINF:-1 group-title="FUENTES",337 FUENTE DISCOVERY CHANNEL (njftxw_u3)
+http://njftxw.top:8080/7661769250381/718219ab4142/25019
+#EXTINF:-1 group-title="FUENTES",338 FUENTE DISCOVERY TLC (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/107.ts
+#EXTINF:-1 group-title="FUENTES",339 FUENTE DISCOVERY TLC (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6osFzleIYwos0b-GloVqQ4Rm6fGemnPVL9wv63-Y3JQ8
+#EXTINF:-1 group-title="FUENTES",340 FUENTE DISCOVERY TLC (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/249230.m3u8
+#EXTINF:-1 group-title="FUENTES",341 FUENTE DISCOVERY TLC (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/87317
+#EXTINF:-1 group-title="FUENTES",342 FUENTE DISCOVERY TLC (njftxw_u2)
+http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/25081
+#EXTINF:-1 group-title="FUENTES",343 FUENTE DISCOVERY TLC (njftxw_u3)
+http://njftxw.top:8080/7661769250381/718219ab4142/25081
+#EXTINF:-1 group-title="FUENTES",344 FUENTE CNN ESPAÑOL (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/253.ts
+#EXTINF:-1 group-title="FUENTES",345 FUENTE CNN ESPAÑOL (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZhMUwZlQW7eqtcVgACQh74_38r9YRCaRGcocS92SN
+#EXTINF:-1 group-title="FUENTES",346 FUENTE CNN ESPAÑOL (planettvweb)
+http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/11815
+#EXTINF:-1 group-title="FUENTES",347 FUENTE TNT SPORTS (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/450909.ts
+#EXTINF:-1 group-title="FUENTES",348 FUENTE TNT SPORTS (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197076.ts
+#EXTINF:-1 group-title="FUENTES",349 FUENTE TNT SPORTS (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nxKH1IN24yo8Dg3EFgsQpqH-2FHVMkdz2o_OQxWV3-2
+#EXTINF:-1 group-title="FUENTES",350 FUENTE ESPN (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/528530.ts
+#EXTINF:-1 group-title="FUENTES",351 FUENTE ESPN (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197092.ts
+#EXTINF:-1 group-title="FUENTES",352 FUENTE ESPN (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nxKH1IN24yo8Dg3EFgsQprQW6XEmJIpKBPmzKBWHiXR
+#EXTINF:-1 group-title="FUENTES",353 FUENTE ESPN (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/234273.m3u8
+#EXTINF:-1 group-title="FUENTES",354 FUENTE ESPN (blacktesters)
+http://blacktesters.com:8880/live/6166235163/9887507320/1801.m3u8
+#EXTINF:-1 group-title="FUENTES",355 FUENTE ESPN (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/155420
+#EXTINF:-1 group-title="FUENTES",356 FUENTE ESPN (planettvweb)
+http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/12755
+#EXTINF:-1 group-title="FUENTES",357 FUENTE ESPN 5 (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/528523.ts
+#EXTINF:-1 group-title="FUENTES",358 FUENTE ESPN 5 (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6iLY4AqRuuElIJ1uCKpz1SyUUBAaGenGlrgtEsHeHyrE
+#EXTINF:-1 group-title="FUENTES",359 FUENTE ESPN 5 (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/563030.m3u8
+#EXTINF:-1 group-title="FUENTES",360 FUENTE ESPN 5 (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/83812
+#EXTINF:-1 group-title="FUENTES",361 FUENTE ESPN 6 (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/528522.ts
+#EXTINF:-1 group-title="FUENTES",362 FUENTE ESPN 6 (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197102.ts
+#EXTINF:-1 group-title="FUENTES",363 FUENTE ESPN 6 (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6h9bdbxU99tTWUu4wg79lpe4CWrJea5NksYo-d4ipdZF
+#EXTINF:-1 group-title="FUENTES",364 FUENTE ESPN 6 (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/563035.m3u8
+#EXTINF:-1 group-title="FUENTES",365 FUENTE ESPN 6 (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/83810
+#EXTINF:-1 group-title="FUENTES",366 FUENTE DSPORTS+ (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197113.ts
+#EXTINF:-1 group-title="FUENTES",367 FUENTE DSPORTS+ (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nxKH1IN24yo8Dg3EFgsQpo-fXqaXYc0R0Gh66q9fN8U
+#EXTINF:-1 group-title="FUENTES",368 FUENTE DSPORTS+ (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/234282.m3u8
+#EXTINF:-1 group-title="FUENTES",369 FUENTE DSPORTS+ (planettvweb)
+http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/12739
+#EXTINF:-1 group-title="FUENTES",370 FUENTE DSPORTS (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/267391.ts
+#EXTINF:-1 group-title="FUENTES",371 FUENTE DSPORTS (emilyba)
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197110.ts
+#EXTINF:-1 group-title="FUENTES",372 FUENTE DSPORTS (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nxKH1IN24yo8Dg3EFgsQprg38dnLpRGNMeLWBTnBKe5
+#EXTINF:-1 group-title="FUENTES",373 FUENTE DSPORTS (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/561315.m3u8
+#EXTINF:-1 group-title="FUENTES",374 FUENTE DSPORTS (planettvweb)
+http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/12739
+#EXTINF:-1 group-title="FUENTES",375 FUENTE MTV LIVE (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/356.ts
+#EXTINF:-1 group-title="FUENTES",376 FUENTE MTV LIVE (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nwq2ic5kK7QP-dp_GkCS2wz_conAJNIZ2Z9JDt7bWe
+#EXTINF:-1 group-title="FUENTES",377 FUENTE MTV LIVE (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/112096.m3u8
+#EXTINF:-1 group-title="FUENTES",378 FUENTE MTV LIVE (planettvweb)
+http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/11833
+#EXTINF:-1 group-title="FUENTES",379 FUENTE MTV LIVE (njftxw_u2)
+http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/10191
+#EXTINF:-1 group-title="FUENTES",380 FUENTE MTV LIVE (njftxw_u3)
+http://njftxw.top:8080/7661769250381/718219ab4142/10191
