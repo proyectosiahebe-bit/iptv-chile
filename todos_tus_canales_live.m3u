@@ -14,7 +14,7 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts
 #EXTINF:-1 group-title="NACIONALES CHILE",6 TV CHILE
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 group-title="NACIONALES CHILE",7 TVN
-http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/30711.ts
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBIJSmVveEox5DOk0WqsqSl2
 #EXTINF:-1 group-title="NACIONALES CHILE",8 NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 #EXTINF:-1 group-title="NACIONALES CHILE",9 MEGA
@@ -324,8 +324,6 @@ http://solutionspremium.net:80/channel/user2620/37428848293/111401.ts
 http://pirostv.lat:25461/live/Armando12/Armando12/252873.ts
 #EXTINF:-1 group-title="FUENTES",270 FUENTE TVN (emilyba)
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197017.ts
-#EXTINF:-1 group-title="FUENTES",271 FUENTE TVN (itocr)
-https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBIJSmVveEox5DOk0WqsqSl2
 #EXTINF:-1 group-title="FUENTES",274 FUENTE T13 (pirostv)
 http://pirostv.lat:25461/live/Armando12/Armando12/451032.ts
 #EXTINF:-1 group-title="FUENTES",275 FUENTE T13 (emilyba)
