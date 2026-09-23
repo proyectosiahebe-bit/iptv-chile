@@ -36,17 +36,17 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts
 
 #EXTGRP:NOTICIAS
 #EXTINF:-1 group-title="NOTICIAS",17 CNN CHILE
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Q3VndUIrK25PVll1WXlsbVBla1Yrcz0
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZhMUwZlQW7eqtcVgACQh427NwkWm4NzV-shNMA4cw0
 
 #EXTGRP:NACIONALES CHILE
 #EXTINF:-1 group-title="NACIONALES CHILE",18 ZONA LATINA
-http://45.162.193.35/ZONALATINA/index.m3u8
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBLcPGATUN_urJYmCR9QqyC0
 
 #EXTGRP:PARA VERIFICAR
-#EXTINF:-1 group-title="PARA VERIFICAR",19 REC TV
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UENzSjBoYUFiQUprV1NPRGVhL3hMTT0
+#EXTINF:-1 group-title="PARA VERIFICAR",19 13REC
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197033.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",20 VIA X
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T0pPNFJ0czNxZSt6dmdOVkNYQm13TT0
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBIljZXbodtXmQpFO2Vyu4Fi
 
 #EXTGRP:SERIES / REALITY
 #EXTINF:-1 group-title="SERIES / REALITY",21 13 REALITIES
@@ -57,8 +57,8 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 http://solutionspremium.net:80/channel/user2620/37428848293/1225.ts
 #EXTINF:-1 group-title="SERIES / REALITY",24 SONY
 http://solutionspremium.net:80/channel/user2620/37428848293/1022.ts
-#EXTINF:-1 group-title="SERIES / REALITY",25 UNIVERSAL
-http://solutionspremium.net:80/channel/user2620/37428848293/1080.ts
+#EXTINF:-1 group-title="SERIES / REALITY",25 STUDIO UNIVERSAL
+http://pirostv.lat:25461/live/Armando12/Armando12/239655.ts
 
 #EXTGRP:NACIONALES CHILE
 #EXTINF:-1 group-title="NACIONALES CHILE",26 RETRO PLUS PELICULAS
@@ -103,8 +103,8 @@ http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/30644.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3369.ts
 
 #EXTGRP:CINE
-#EXTINF:-1 group-title="CINE",41 HBO 2
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RXRvd0Z4YmlVeUk2VnVnajc3dGgyWT0
+#EXTINF:-1 group-title="CINE",41 HBO2
+http://pirostv.lat:25461/live/Armando12/Armando12/240948.ts
 
 #EXTGRP:PARA VERIFICAR
 #EXTINF:-1 group-title="PARA VERIFICAR",42 HBO XTREME
@@ -130,7 +130,7 @@ http://solutionspremium.net:80/channel/user2620/37428848293/38480.ts
 
 #EXTGRP:DOCUMENTALES
 #EXTINF:-1 group-title="DOCUMENTALES",51 DISCOVERY CHANNEL
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T1RBQ2hJelZ5cWtTRGdrWTdtNTFMYz0
+http://pirostv.lat:25461/live/Armando12/Armando12/78.ts
 #EXTINF:-1 group-title="DOCUMENTALES",52 DISCOVERY TLC
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SHNaNGVQTXNsMjdYTGdlcjhOcmFlbz0
 #EXTINF:-1 group-title="DOCUMENTALES",53 DISCOVERY HOME AND HEALTH
@@ -162,31 +162,31 @@ http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TERXSEI2bkZHbUVaTGFTQlBUa
 
 #EXTGRP:DEPORTES
 #EXTINF:-1 group-title="DEPORTES",65 TNT SPORTS PREMIUM
-http://solutionspremium.net:80/channel/user2620/37428848293/81450.ts
-#EXTINF:-1 group-title="DEPORTES",66 TNT SPORTS SD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S0J0cHN0TlRUMXErRWUwTlAxeGhtaz0
+http://pirostv.lat:25461/live/Armando12/Armando12/450909.ts
+#EXTINF:-1 group-title="DEPORTES",66 TNT SPORTS
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nxKH1IN24yo8Dg3EFgsQpqH-2FHVMkdz2o_OQxWV3-2
 #EXTINF:-1 group-title="DEPORTES",67 ESPN
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T1MxSnZtL0hwZ0RDWlBaaHZMUFUxUT0
-#EXTINF:-1 group-title="DEPORTES",68 ESPN
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3474.ts
-#EXTINF:-1 group-title="DEPORTES",69 ESPN DEPORTES
-http://solutionspremium.net:80/channel/user2620/37428848293/1314.ts
-#EXTINF:-1 group-title="DEPORTES",70 ESPN 2
-http://solutionspremium.net:80/channel/user2620/37428848293/146797.ts
-#EXTINF:-1 group-title="DEPORTES",71 ESPN 3
-http://solutionspremium.net:80/channel/user2620/37428848293/146798.ts
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nxKH1IN24yo8Dg3EFgsQprQW6XEmJIpKBPmzKBWHiXR
+#EXTINF:-1 group-title="DEPORTES",68 HBO FAMILY
+http://pirostv.lat:25461/live/Armando12/Armando12/239647.ts
+#EXTINF:-1 group-title="DEPORTES",69 HBO POP
+http://blushes.top:80/live/466634866/Y896v1908W/249248.m3u8
+#EXTINF:-1 group-title="DEPORTES",70 HBO SIGNATURE
+http://blushes.top:80/live/466634866/Y896v1908W/249244.m3u8
+#EXTINF:-1 group-title="DEPORTES",71 HBO SIGNATURE
+http://blushes.top:80/live/466634866/Y896v1908W/249249.m3u8
 #EXTINF:-1 group-title="DEPORTES",72 ESPN 4
 http://solutionspremium.net:80/channel/user2620/37428848293/146799.ts
-#EXTINF:-1 group-title="DEPORTES",73 ESPN 5
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RlJrQnZ6RXhSWWhTTG5oT09wMHMwOD0
-#EXTINF:-1 group-title="DEPORTES",74 ESPN 6
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QzdyeFhQMXB2R2FOTk53SlA1V1ZyMD0
+#EXTINF:-1 group-title="DEPORTES",73 ESPN5
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6iLY4AqRuuElIJ1uCKpz1SyUUBAaGenGlrgtEsHeHyrE
+#EXTINF:-1 group-title="DEPORTES",74 ESPN6
+http://pirostv.lat:25461/live/Armando12/Armando12/528522.ts
 #EXTINF:-1 group-title="DEPORTES",75 FOX ONE
 http://solutionspremium.net:80/channel/user2620/37428848293/330405.ts
 #EXTINF:-1 group-title="DEPORTES",76 DSPORTS +
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QWRPWlRJQWVvMzYxYUhRYjVJM2s2ST0
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nxKH1IN24yo8Dg3EFgsQpo-fXqaXYc0R0Gh66q9fN8U
 #EXTINF:-1 group-title="DEPORTES",77 DSPORTS
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RnN2OVhvSGFibXJoNzNHZVZ4bnpZbz0
+http://pirostv.lat:25461/live/Armando12/Armando12/267391.ts
 #EXTINF:-1 group-title="DEPORTES",78 TyC
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13515.ts
 #EXTINF:-1 group-title="DEPORTES",79 CHV DEPORTES
@@ -200,7 +200,7 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 
 #EXTGRP:MUSICA
 #EXTINF:-1 group-title="MUSICA",82 MTV LIVE
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S1pzWFh2T0tRZVJtbG50Y1NKV2ZSYz0
+http://pirostv.lat:25461/live/Armando12/Armando12/356.ts
 #EXTINF:-1 group-title="MUSICA",83 MTV
 http://solutionspremium.net:80/channel/user2620/37428848293/36823.ts
 #EXTINF:-1 group-title="MUSICA",84 13 FESTIVAL
@@ -209,14 +209,14 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",86 RETROMUSICA TELEVISION
 https://vdochile.com:3864/stream/play.m3u8
-#EXTINF:-1 group-title="MUSICA",87 REWIND TV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",87 TLC
+http://pirostv.lat:25461/live/Armando12/Armando12/107.ts
 #EXTINF:-1 group-title="MUSICA",88 VCLASSICTV TROPICAL
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
 
 #EXTGRP:INFANTIL
-#EXTINF:-1 group-title="INFANTIL",89 CARTOONITO
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9029.ts
+#EXTINF:-1 group-title="INFANTIL",89 CNN ESPAÑOL
+http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/11815
 #EXTINF:-1 group-title="INFANTIL",90 PV JUMANGI PLIM PLIM TV [743]
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RThHcnlSUWptdDRhblp5eUlGc0ttbz0
 #EXTINF:-1 group-title="INFANTIL",91 13 GO KIDS
@@ -334,20 +334,10 @@ https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBIYBV7DnB8Iu
 http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/17998
 #EXTINF:-1 group-title="FUENTES",278 FUENTE CNN CHILE (emilyba)
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197031.ts
-#EXTINF:-1 group-title="FUENTES",279 FUENTE CNN CHILE (itocr)
-https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZhMUwZlQW7eqtcVgACQh427NwkWm4NzV-shNMA4cw0
 #EXTINF:-1 group-title="FUENTES",280 FUENTE ZONA LATINA (emilyba)
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197053.ts
-#EXTINF:-1 group-title="FUENTES",281 FUENTE ZONA LATINA (itocr)
-https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBLcPGATUN_urJYmCR9QqyC0
-#EXTINF:-1 group-title="FUENTES",282 FUENTE REC TV (emilyba)
-https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197033.ts
 #EXTINF:-1 group-title="FUENTES",283 FUENTE VIA X (emilyba)
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197050.ts
-#EXTINF:-1 group-title="FUENTES",284 FUENTE VIA X (itocr)
-https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBIljZXbodtXmQpFO2Vyu4Fi
-#EXTINF:-1 group-title="FUENTES",285 FUENTE STUDIO UNIVERSAL (pirostv)
-http://pirostv.lat:25461/live/Armando12/Armando12/239655.ts
 #EXTINF:-1 group-title="FUENTES",286 FUENTE STUDIO UNIVERSAL (emilyba)
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197880.ts
 #EXTINF:-1 group-title="FUENTES",287 FUENTE STUDIO UNIVERSAL (itocr)
@@ -370,8 +360,6 @@ http://otrasbx.com:80/590894722980/043044018269/136797
 http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/24989
 #EXTINF:-1 group-title="FUENTES",296 FUENTE AMC (njftxw_u3)
 http://njftxw.top:8080/7661769250381/718219ab4142/24989
-#EXTINF:-1 group-title="FUENTES",297 FUENTE HBO 2 (pirostv)
-http://pirostv.lat:25461/live/Armando12/Armando12/240948.ts
 #EXTINF:-1 group-title="FUENTES",298 FUENTE HBO 2 (emilyba)
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197848.ts
 #EXTINF:-1 group-title="FUENTES",299 FUENTE HBO 2 (itocr)
@@ -390,8 +378,6 @@ http://pirostv.lat:25461/live/Armando12/Armando12/135.ts
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197852.ts
 #EXTINF:-1 group-title="FUENTES",306 FUENTE HBO PLUS (blushes)
 http://blushes.top:80/live/466634866/Y896v1908W/249246.m3u8
-#EXTINF:-1 group-title="FUENTES",307 FUENTE HBO FAMILY (pirostv)
-http://pirostv.lat:25461/live/Armando12/Armando12/239647.ts
 #EXTINF:-1 group-title="FUENTES",308 FUENTE HBO FAMILY (emilyba)
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197850.ts
 #EXTINF:-1 group-title="FUENTES",309 FUENTE HBO FAMILY (itocr)
@@ -406,8 +392,6 @@ http://pirostv.lat:25461/live/Armando12/Armando12/239648.ts
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197846.ts
 #EXTINF:-1 group-title="FUENTES",314 FUENTE HBO (itocr)
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6osFzleIYwos0b-GloVqQ4S9jOWpyH-gbpnyJx6D9k4w
-#EXTINF:-1 group-title="FUENTES",315 FUENTE HBO (blushes)
-http://blushes.top:80/live/466634866/Y896v1908W/249244.m3u8
 #EXTINF:-1 group-title="FUENTES",316 FUENTE HBO (njftxw_u2)
 http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/10176
 #EXTINF:-1 group-title="FUENTES",317 FUENTE HBO (njftxw_u3)
@@ -416,8 +400,6 @@ http://njftxw.top:8080/7661769250381/718219ab4142/10176
 http://pirostv.lat:25461/live/Armando12/Armando12/139.ts
 #EXTINF:-1 group-title="FUENTES",319 FUENTE HBO POP (itocr)
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6osFzleIYwos0b-GloVqQ4SEJ7rldeeZCS_t89SNwH9H
-#EXTINF:-1 group-title="FUENTES",320 FUENTE HBO POP (blushes)
-http://blushes.top:80/live/466634866/Y896v1908W/249248.m3u8
 #EXTINF:-1 group-title="FUENTES",321 FUENTE HBO POP (otrasbx)
 http://otrasbx.com:80/590894722980/043044018269/140737
 #EXTINF:-1 group-title="FUENTES",322 FUENTE HBO SIGNATURE (pirostv)
@@ -434,12 +416,8 @@ http://otrasbx.com:80/590894722980/043044018269/140735
 http://pirostv.lat:25461/live/Armando12/Armando12/137.ts
 #EXTINF:-1 group-title="FUENTES",328 FUENTE HBO MUNDI (itocr)
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6osFzleIYwos0b-GloVqQ4Rn-jphf9E8naMiJMyD7Plz
-#EXTINF:-1 group-title="FUENTES",329 FUENTE HBO MUNDI (blushes)
-http://blushes.top:80/live/466634866/Y896v1908W/249249.m3u8
 #EXTINF:-1 group-title="FUENTES",330 FUENTE HBO MUNDI (otrasbx)
 http://otrasbx.com:80/590894722980/043044018269/140736
-#EXTINF:-1 group-title="FUENTES",331 FUENTE DISCOVERY CHANNEL (pirostv)
-http://pirostv.lat:25461/live/Armando12/Armando12/78.ts
 #EXTINF:-1 group-title="FUENTES",332 FUENTE DISCOVERY CHANNEL (emilyba)
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/196771.ts
 #EXTINF:-1 group-title="FUENTES",333 FUENTE DISCOVERY CHANNEL (itocr)
@@ -452,8 +430,6 @@ http://otrasbx.com:80/590894722980/043044018269/87316
 http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/25019
 #EXTINF:-1 group-title="FUENTES",337 FUENTE DISCOVERY CHANNEL (njftxw_u3)
 http://njftxw.top:8080/7661769250381/718219ab4142/25019
-#EXTINF:-1 group-title="FUENTES",338 FUENTE DISCOVERY TLC (pirostv)
-http://pirostv.lat:25461/live/Armando12/Armando12/107.ts
 #EXTINF:-1 group-title="FUENTES",339 FUENTE DISCOVERY TLC (itocr)
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6osFzleIYwos0b-GloVqQ4Rm6fGemnPVL9wv63-Y3JQ8
 #EXTINF:-1 group-title="FUENTES",340 FUENTE DISCOVERY TLC (blushes)
@@ -468,20 +444,12 @@ http://njftxw.top:8080/7661769250381/718219ab4142/25081
 http://pirostv.lat:25461/live/Armando12/Armando12/253.ts
 #EXTINF:-1 group-title="FUENTES",345 FUENTE CNN ESPAÑOL (itocr)
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZhMUwZlQW7eqtcVgACQh74_38r9YRCaRGcocS92SN
-#EXTINF:-1 group-title="FUENTES",346 FUENTE CNN ESPAÑOL (planettvweb)
-http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/11815
-#EXTINF:-1 group-title="FUENTES",347 FUENTE TNT SPORTS (pirostv)
-http://pirostv.lat:25461/live/Armando12/Armando12/450909.ts
 #EXTINF:-1 group-title="FUENTES",348 FUENTE TNT SPORTS (emilyba)
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197076.ts
-#EXTINF:-1 group-title="FUENTES",349 FUENTE TNT SPORTS (itocr)
-https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nxKH1IN24yo8Dg3EFgsQpqH-2FHVMkdz2o_OQxWV3-2
 #EXTINF:-1 group-title="FUENTES",350 FUENTE ESPN (pirostv)
 http://pirostv.lat:25461/live/Armando12/Armando12/528530.ts
 #EXTINF:-1 group-title="FUENTES",351 FUENTE ESPN (emilyba)
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197092.ts
-#EXTINF:-1 group-title="FUENTES",352 FUENTE ESPN (itocr)
-https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nxKH1IN24yo8Dg3EFgsQprQW6XEmJIpKBPmzKBWHiXR
 #EXTINF:-1 group-title="FUENTES",353 FUENTE ESPN (blushes)
 http://blushes.top:80/live/466634866/Y896v1908W/234273.m3u8
 #EXTINF:-1 group-title="FUENTES",354 FUENTE ESPN (blacktesters)
@@ -492,14 +460,10 @@ http://otrasbx.com:80/590894722980/043044018269/155420
 http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/12755
 #EXTINF:-1 group-title="FUENTES",357 FUENTE ESPN 5 (pirostv)
 http://pirostv.lat:25461/live/Armando12/Armando12/528523.ts
-#EXTINF:-1 group-title="FUENTES",358 FUENTE ESPN 5 (itocr)
-https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6iLY4AqRuuElIJ1uCKpz1SyUUBAaGenGlrgtEsHeHyrE
 #EXTINF:-1 group-title="FUENTES",359 FUENTE ESPN 5 (blushes)
 http://blushes.top:80/live/466634866/Y896v1908W/563030.m3u8
 #EXTINF:-1 group-title="FUENTES",360 FUENTE ESPN 5 (otrasbx)
 http://otrasbx.com:80/590894722980/043044018269/83812
-#EXTINF:-1 group-title="FUENTES",361 FUENTE ESPN 6 (pirostv)
-http://pirostv.lat:25461/live/Armando12/Armando12/528522.ts
 #EXTINF:-1 group-title="FUENTES",362 FUENTE ESPN 6 (emilyba)
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197102.ts
 #EXTINF:-1 group-title="FUENTES",363 FUENTE ESPN 6 (itocr)
@@ -510,14 +474,10 @@ http://blushes.top:80/live/466634866/Y896v1908W/563035.m3u8
 http://otrasbx.com:80/590894722980/043044018269/83810
 #EXTINF:-1 group-title="FUENTES",366 FUENTE DSPORTS+ (emilyba)
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197113.ts
-#EXTINF:-1 group-title="FUENTES",367 FUENTE DSPORTS+ (itocr)
-https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nxKH1IN24yo8Dg3EFgsQpo-fXqaXYc0R0Gh66q9fN8U
 #EXTINF:-1 group-title="FUENTES",368 FUENTE DSPORTS+ (blushes)
 http://blushes.top:80/live/466634866/Y896v1908W/234282.m3u8
 #EXTINF:-1 group-title="FUENTES",369 FUENTE DSPORTS+ (planettvweb)
 http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/12739
-#EXTINF:-1 group-title="FUENTES",370 FUENTE DSPORTS (pirostv)
-http://pirostv.lat:25461/live/Armando12/Armando12/267391.ts
 #EXTINF:-1 group-title="FUENTES",371 FUENTE DSPORTS (emilyba)
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197110.ts
 #EXTINF:-1 group-title="FUENTES",372 FUENTE DSPORTS (itocr)
@@ -526,8 +486,6 @@ https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nxKH1IN24yo8Dg3EFgsQprg38dnLpRGN
 http://blushes.top:80/live/466634866/Y896v1908W/561315.m3u8
 #EXTINF:-1 group-title="FUENTES",374 FUENTE DSPORTS (planettvweb)
 http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/12739
-#EXTINF:-1 group-title="FUENTES",375 FUENTE MTV LIVE (pirostv)
-http://pirostv.lat:25461/live/Armando12/Armando12/356.ts
 #EXTINF:-1 group-title="FUENTES",376 FUENTE MTV LIVE (itocr)
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nwq2ic5kK7QP-dp_GkCS2wz_conAJNIZ2Z9JDt7bWe
 #EXTINF:-1 group-title="FUENTES",377 FUENTE MTV LIVE (blushes)
