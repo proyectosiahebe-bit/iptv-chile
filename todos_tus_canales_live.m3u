@@ -14,7 +14,7 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts
 #EXTINF:-1 group-title="NACIONALES CHILE",6 TV CHILE
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 group-title="NACIONALES CHILE",7 TVN
-https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBIJSmVveEox5DOk0WqsqSl2
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9756.ts
 #EXTINF:-1 group-title="NACIONALES CHILE",8 NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 #EXTINF:-1 group-title="NACIONALES CHILE",9 MEGA
@@ -36,7 +36,7 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts
 
 #EXTGRP:NOTICIAS
 #EXTINF:-1 group-title="NOTICIAS",17 CNN CHILE
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Q3VndUIrK25PVll1WXlsbVBla1Yrcz0
+http://solutionspremium.net:80/channel/user2620/37428848293/866.ts
 
 #EXTGRP:NACIONALES CHILE
 #EXTINF:-1 group-title="NACIONALES CHILE",18 ZONA LATINA
@@ -158,13 +158,13 @@ http://solutionspremium.net:80/channel/user2620/37428848293/121352.ts
 #EXTINF:-1 group-title="NOTICIAS",63 CNN HD
 http://solutionspremium.net:80/channel/user2620/37428848293/86808.ts
 #EXTINF:-1 group-title="NOTICIAS",64 CNN ESPAÑOL
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TERXSEI2bkZHbUVaTGFTQlBUaDBMND0
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265211&extension=ts
 
 #EXTGRP:DEPORTES
 #EXTINF:-1 group-title="DEPORTES",65 TNT SPORTS PREMIUM
 http://pirostv.lat:25461/live/Armando12/Armando12/450909.ts
 #EXTINF:-1 group-title="DEPORTES",66 TNT SPORTS SD
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S0J0cHN0TlRUMXErRWUwTlAxeGhtaz0
+http://solutionspremium.net:80/channel/user2620/37428848293/336145.ts
 #EXTINF:-1 group-title="DEPORTES",67 ESPN
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T1MxSnZtL0hwZ0RDWlBaaHZMUFUxUT0
 #EXTINF:-1 group-title="DEPORTES",68 ESPN
@@ -549,8 +549,6 @@ http://zzportals.com/osZ3uC9YcA/dkdwffD3/11064
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9050.ts
 #EXTINF:-1 group-title="VERIFICAR",400 V-CL: TVN * (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9755.ts
-#EXTINF:-1 group-title="VERIFICAR",401 V-CL: TVN ** (iptv.wtf)
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9756.ts
 #EXTINF:-1 group-title="VERIFICAR",402 V-CL: TVN Full HD (iptv.wtf)
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7.ts
 #EXTINF:-1 group-title="VERIFICAR",403 V-CL: TVN HD (iptv.wtf)
@@ -580,8 +578,6 @@ https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3
 # ------------------------------------------------------------------------
 #EXTINF:-1 group-title="VERIFICAR",414 V-LAT - CNN ESPANOL (dru4)
 http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264862&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",415 V-LAT - CNN UHD (dru4)
-http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265211&extension=ts
 #EXTINF:-1 group-title="VERIFICAR",416 V-LAT - MXC| CNN INTERNACIONAL (dru4)
 http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264863&extension=ts
 #EXTINF:-1 group-title="VERIFICAR",417 V-LAT - CNN ESPANOL (meilleur/atlas)
@@ -620,8 +616,6 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13495.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7464.ts
 #EXTINF:-1 group-title="VERIFICAR",434 V-CL: CNN CHILE OPCION 2 (jumangis.cloud)
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TXAwdkM0bDhFSWRleXcyN292Tkk2Zz0
-#EXTINF:-1 group-title="VERIFICAR",435 V-CNN Chile (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/866.ts
 #EXTINF:-1 group-title="VERIFICAR",436 V-CNN USA | SD LAT (solutionspremium)
 http://solutionspremium.net:80/channel/user2620/37428848293/86807.ts
 #EXTINF:-1 group-title="VERIFICAR",437 V-USA Latino | CNN EN ESPAñOL (solutionspremium)
@@ -743,8 +737,6 @@ http://solutionspremium.net:80/channel/user2620/37428848293/81450.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/81448.ts
 #EXTINF:-1 group-title="VERIFICAR",491 V-Liga Chile: TNT Sports Premium HD (solutionspremium)
 http://solutionspremium.net:80/channel/user2620/37428848293/336144.ts
-#EXTINF:-1 group-title="VERIFICAR",492 V-Liga Chile: TNT Sports HD (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/336145.ts
 #EXTINF:-1 group-title="VERIFICAR",493 V-Liga Chile: TNT Sports 2 (solutionspremium)
 http://solutionspremium.net:80/channel/user2620/37428848293/336146.ts
 #EXTINF:-1 group-title="VERIFICAR",494 V-Liga Chile: TNT Sports 3 (solutionspremium)
