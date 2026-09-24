@@ -104,7 +104,7 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3369.ts
 
 #EXTGRP:CINE
 #EXTINF:-1 group-title="CINE",41 HBO 2
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RXRvd0Z4YmlVeUk2VnVnajc3dGgyWT0
+http://pirostv.lat:25461/live/Armando12/Armando12/240948.ts
 
 #EXTGRP:PARA VERIFICAR
 #EXTINF:-1 group-title="PARA VERIFICAR",42 HBO XTREME
@@ -114,15 +114,15 @@ http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RUp6VEZQL2k5YzVVSmpMeXlZU
 
 #EXTGRP:CINE
 #EXTINF:-1 group-title="CINE",44 HBO FAMILY
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S3RycGRrVzBiTGVTVEZnV3lMTGFCZz0
+http://pirostv.lat:25461/live/Armando12/Armando12/239647.ts
 #EXTINF:-1 group-title="CINE",45 HBO
 http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/30601.ts
 #EXTINF:-1 group-title="CINE",46 HBO POP
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TE1LVE1CYVdQSytQS09XYjBiczRKdz0
+http://blushes.top:80/live/466634866/Y896v1908W/249248.m3u8
 #EXTINF:-1 group-title="CINE",47 HBO SIGNATURE
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RGxLT0V1R3lkZzBiWnpPeDhLYnZ3Zz0
+http://blushes.top:80/live/466634866/Y896v1908W/249244.m3u8
 #EXTINF:-1 group-title="CINE",48 HBO MUNDI
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TE0xOFhBUlpveWlJc3BTWWR2cUcvcz0
+http://blushes.top:80/live/466634866/Y896v1908W/249249.m3u8
 #EXTINF:-1 group-title="CINE",49 USA NETWORK
 http://solutionspremium.net:80/channel/user2620/37428848293/17596.ts
 #EXTINF:-1 group-title="CINE",50 ADULT SWIM
@@ -165,16 +165,16 @@ http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TERXSEI2bkZHbUVaTGFTQlBUa
 http://pirostv.lat:25461/live/Armando12/Armando12/450909.ts
 #EXTINF:-1 group-title="DEPORTES",66 TNT SPORTS SD
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6S0J0cHN0TlRUMXErRWUwTlAxeGhtaz0
-#EXTINF:-1 group-title="DEPORTES",67 HBO2
-http://pirostv.lat:25461/live/Armando12/Armando12/240948.ts
-#EXTINF:-1 group-title="DEPORTES",68 HBO FAMILY
-http://pirostv.lat:25461/live/Armando12/Armando12/239647.ts
-#EXTINF:-1 group-title="DEPORTES",69 HBO POP
-http://blushes.top:80/live/466634866/Y896v1908W/249248.m3u8
-#EXTINF:-1 group-title="DEPORTES",70 HBO SIGNATURE
-http://blushes.top:80/live/466634866/Y896v1908W/249244.m3u8
-#EXTINF:-1 group-title="DEPORTES",71 HBO MUNDI
-http://blushes.top:80/live/466634866/Y896v1908W/249249.m3u8
+#EXTINF:-1 group-title="DEPORTES",67 ESPN
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T1MxSnZtL0hwZ0RDWlBaaHZMUFUxUT0
+#EXTINF:-1 group-title="DEPORTES",68 ESPN
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3474.ts
+#EXTINF:-1 group-title="DEPORTES",69 ESPN DEPORTES
+http://solutionspremium.net:80/channel/user2620/37428848293/1314.ts
+#EXTINF:-1 group-title="DEPORTES",70 ESPN 2
+http://solutionspremium.net:80/channel/user2620/37428848293/146797.ts
+#EXTINF:-1 group-title="DEPORTES",71 ESPN 3
+http://solutionspremium.net:80/channel/user2620/37428848293/146798.ts
 #EXTINF:-1 group-title="DEPORTES",72 ESPN 4
 http://solutionspremium.net:80/channel/user2620/37428848293/146799.ts
 #EXTINF:-1 group-title="DEPORTES",73 ESPN5
