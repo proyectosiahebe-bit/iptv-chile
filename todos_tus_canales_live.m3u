@@ -504,3 +504,19 @@ http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/11833
 http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/10191
 #EXTINF:-1 group-title="FUENTES",380 FUENTE MTV LIVE (njftxw_u3)
 http://njftxw.top:8080/7661769250381/718219ab4142/10191
+
+#EXTGRP:VERIFICAR
+#EXTINF:-1 group-title="VERIFICAR",381 VERIFICAR TVN HD (DRU4)
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=1198438&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",382 VERIFICAR CNN CHILE (DRU4)
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264861&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",383 VERIFICAR VIA X (DRU4)
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=1193972&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",384 VERIFICAR TNT SPORT CHILE (DRU4)
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265206&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",385 VERIFICAR ESPN 2 (DRU4)
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=994368&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",386 VERIFICAR ZONA LATINA (PTV)
+http://ptv.is/dA7SR28H/l1a6t2jy/254297
+#EXTINF:-1 group-title="VERIFICAR",387 VERIFICAR ZONA LATINA HD (PTV)
+http://ptv.is/dA7SR28H/l1a6t2jy/818255
