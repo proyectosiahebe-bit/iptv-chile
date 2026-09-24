@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTGRP:NACIONALES CHILE
 #EXTINF:-1 group-title="NACIONALES CHILE",1 ADN TV
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
@@ -33,21 +32,17 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
 #EXTINF:-1 group-title="NACIONALES CHILE",16 T13
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts
-
 #EXTGRP:NOTICIAS
 #EXTINF:-1 group-title="NOTICIAS",17 CNN CHILE
 http://solutionspremium.net:80/channel/user2620/37428848293/866.ts
-
 #EXTGRP:NACIONALES CHILE
 #EXTINF:-1 group-title="NACIONALES CHILE",18 ZONA LATINA
 http://45.162.193.35/ZONALATINA/index.m3u8
-
 #EXTGRP:PARA VERIFICAR
 #EXTINF:-1 group-title="PARA VERIFICAR",19 13REC
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197033.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",20 VIA X
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T0pPNFJ0czNxZSt6dmdOVkNYQm13TT0
-
 #EXTGRP:SERIES / REALITY
 #EXTINF:-1 group-title="SERIES / REALITY",21 13 REALITIES
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
@@ -59,11 +54,9 @@ http://solutionspremium.net:80/channel/user2620/37428848293/1225.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/1022.ts
 #EXTINF:-1 group-title="SERIES / REALITY",25 STUDIO UNIVERSAL
 http://pirostv.lat:25461/live/Armando12/Armando12/239655.ts
-
 #EXTGRP:NACIONALES CHILE
 #EXTINF:-1 group-title="NACIONALES CHILE",26 RETRO PLUS PELICULAS
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
-
 #EXTGRP:CINE
 #EXTINF:-1 group-title="CINE",27 CINEMAX
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13882.ts
@@ -71,11 +64,9 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13882.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/1251.ts
 #EXTINF:-1 group-title="CINE",29 STUDIO UNIVERSAL
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Qk50WUxzNXBZdzJiQVZuenk1b0NFVT0
-
 #EXTGRP:PARA VERIFICAR
 #EXTINF:-1 group-title="PARA VERIFICAR",30 CINECANAL
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/107.ts
-
 #EXTGRP:CINE
 #EXTINF:-1 group-title="CINE",31 STAR CHANNEL
 http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/970139.ts
@@ -93,25 +84,20 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3375.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/1024.ts
 #EXTINF:-1 group-title="CINE",38 TNT
 http://solutionspremium.net:80/channel/user2620/37428848293/121358.ts
-
 #EXTGRP:PARA VERIFICAR
 #EXTINF:-1 group-title="PARA VERIFICAR",39 AMC
 http://pirostv.lat:25461/live/Armando12/Armando12/239632.ts
-
 #EXTGRP:DOCUMENTALES
 #EXTINF:-1 group-title="DOCUMENTALES",40 A&E
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3369.ts
-
 #EXTGRP:CINE
 #EXTINF:-1 group-title="CINE",41 HBO 2
 http://pirostv.lat:25461/live/Armando12/Armando12/240948.ts
-
 #EXTGRP:PARA VERIFICAR
 #EXTINF:-1 group-title="PARA VERIFICAR",42 HBO XTREME
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5900.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",43 HBO PLUS
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RUp6VEZQL2k5YzVVSmpMeXlZU3dQZz0
-
 #EXTGRP:CINE
 #EXTINF:-1 group-title="CINE",44 HBO FAMILY
 http://pirostv.lat:25461/live/Armando12/Armando12/239647.ts
@@ -127,7 +113,6 @@ http://blushes.top:80/live/466634866/Y896v1908W/249249.m3u8
 http://solutionspremium.net:80/channel/user2620/37428848293/17596.ts
 #EXTINF:-1 group-title="CINE",50 ADULT SWIM
 http://solutionspremium.net:80/channel/user2620/37428848293/38480.ts
-
 #EXTGRP:DOCUMENTALES
 #EXTINF:-1 group-title="DOCUMENTALES",51 DISCOVERY CHANNEL
 http://pirostv.lat:25461/live/Armando12/Armando12/78.ts
@@ -153,13 +138,11 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15835.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13031.ts
 #EXTINF:-1 group-title="DOCUMENTALES",62 NATIONAL GEOGRAPHIC
 http://solutionspremium.net:80/channel/user2620/37428848293/121352.ts
-
 #EXTGRP:NOTICIAS
 #EXTINF:-1 group-title="NOTICIAS",63 CNN HD
 http://solutionspremium.net:80/channel/user2620/37428848293/86808.ts
 #EXTINF:-1 group-title="NOTICIAS",64 CNN ESPAÑOL
 http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265211&extension=ts
-
 #EXTGRP:DEPORTES
 #EXTINF:-1 group-title="DEPORTES",65 TNT SPORTS PREMIUM
 http://pirostv.lat:25461/live/Armando12/Armando12/450909.ts
@@ -191,13 +174,11 @@ http://pirostv.lat:25461/live/Armando12/Armando12/267391.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13515.ts
 #EXTINF:-1 group-title="DEPORTES",79 CHV DEPORTES
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
-
 #EXTGRP:NACIONALES CHILE
 #EXTINF:-1 group-title="NACIONALES CHILE",80 RETRO PLUS TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES CHILE",81 RETRO PLUS TV SEÑAL 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
-
 #EXTGRP:MUSICA
 #EXTINF:-1 group-title="MUSICA",82 MTV LIVE
 http://pirostv.lat:25461/live/Armando12/Armando12/356.ts
@@ -213,7 +194,6 @@ https://vdochile.com:3864/stream/play.m3u8
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",88 VCLASSICTV TROPICAL
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
-
 #EXTGRP:INFANTIL
 #EXTINF:-1 group-title="INFANTIL",89 CNN ESPAÑOL
 http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/11815
@@ -227,7 +207,6 @@ http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13838.ts
 #EXTINF:-1 group-title="INFANTIL",94 DISCOVERY KIDS
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13493.ts
-
 #EXTGRP:INTERNACIONAL
 #EXTINF:-1 group-title="INTERNACIONAL",95 NICKELODEON
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3310.ts
@@ -239,7 +218,6 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8234.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/2065.ts
 #EXTINF:-1 group-title="INTERNACIONAL",99 TVE INTERNACIONAL
 http://solutionspremium.net:80/channel/user2620/37428848293/650.ts
-
 #EXTGRP:NOTICIAS
 #EXTINF:-1 group-title="NOTICIAS",100 TELEFE
 http://solutionspremium.net:80/channel/user2620/37428848293/1343.ts
@@ -247,13 +225,11 @@ http://solutionspremium.net:80/channel/user2620/37428848293/1343.ts
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TnpjQ0NJalRRNTdNbElDUUJYSVMxZz0
 #EXTINF:-1 group-title="NOTICIAS",102 DW ESPANOL
 http://solutionspremium.net:80/channel/user2620/37428848293/40075.ts
-
 #EXTGRP:NACIONALES CHILE
 #EXTINF:-1 group-title="NACIONALES CHILE",103 TV SENADO
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES CHILE",104 TELETRAK
 https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
-
 #EXTGRP:RADIOS
 #EXTINF:-1 group-title="RADIOS",105 FM PLUS
 https://v2.tustreaming.cl/fmplus/index.m3u8
@@ -293,17 +269,12 @@ http://solutionspremium.net:80/channel/user2620/37428848293/864.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/13262.ts
 #EXTINF:-1 group-title="ALTERNATIVAS SD",123 CANAL 13 SD (576p)
 http://solutionspremium.net:80/channel/user2620/37428848293/870.ts
-
-
-
-
 #EXTINF:-1 group-title="PARA VERIFICAR",198 PARA VERIFICAR AMC HD (ALT) [canal39]
 http://solutionspremium.net:80/channel/user2620/37428848293/347.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",199 PARA VERIFICAR A&E HD MX (ALT) [canal40]
 http://solutionspremium.net:80/channel/user2620/37428848293/86931.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",200 PARA VERIFICAR CNN ESPANOL HD (ALT) [canal64]
 http://solutionspremium.net:80/channel/user2620/37428848293/7914.ts
-
 #EXTINF:-1 group-title="PARA VERIFICAR",229 PV CNN UHD
 http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/1028554.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",236 PV HBO FAMILY
@@ -318,7 +289,6 @@ http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/1028551.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/146797.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",250 PV ESPN PREMIUM LATAM
 http://solutionspremium.net:80/channel/user2620/37428848293/111401.ts
-
 #EXTGRP:FUENTES
 #EXTINF:-1 group-title="FUENTES",269 FUENTE TVN (pirostv)
 http://pirostv.lat:25461/live/Armando12/Armando12/252873.ts
@@ -504,317 +474,3 @@ http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/11833
 http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/10191
 #EXTINF:-1 group-title="FUENTES",380 FUENTE MTV LIVE (njftxw_u3)
 http://njftxw.top:8080/7661769250381/718219ab4142/10191
-
-#EXTGRP:VERIFICAR
-#EXTINF:-1 group-title="VERIFICAR",381 VERIFICAR TVN HD (DRU4)
-http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=1198438&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",382 VERIFICAR CNN CHILE (DRU4)
-http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264861&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",383 VERIFICAR VIA X (DRU4)
-http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=1193972&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",384 VERIFICAR TNT SPORT CHILE (DRU4)
-http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265206&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",385 VERIFICAR ESPN 2 (DRU4)
-http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=994368&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",386 VERIFICAR ZONA LATINA (PTV)
-http://ptv.is/dA7SR28H/l1a6t2jy/254297
-#EXTINF:-1 group-title="VERIFICAR",387 VERIFICAR ZONA LATINA HD (PTV)
-http://ptv.is/dA7SR28H/l1a6t2jy/818255
-# ------------------------------------------------------------------------
-# TVN CHILE  (26 variantes)
-# ------------------------------------------------------------------------
-#EXTINF:-1 group-title="VERIFICAR",388 V-LAT - TVN (PA) (dru4)
-http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265092&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",389 V-LAT - TVN UHD (dru4)
-http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265219&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",390 V-LAT - TVN HD (meilleur/atlas)
-http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=1198438&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",391 V-LAT - TVN (PA) (meilleur/atlas)
-http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265092&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",392 V-LAT - TVN UHD (meilleur/atlas)
-http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265219&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",393 V-TVN LAM (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/45917
-#EXTINF:-1 group-title="VERIFICAR",394 V-TVN Chile CHL (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/254227
-#EXTINF:-1 group-title="VERIFICAR",395 V-TVN Chile HD CHL (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/11064
-#EXTINF:-1 group-title="VERIFICAR",396 V-TVN LAM (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/45917
-#EXTINF:-1 group-title="VERIFICAR",397 V-TVN Chile CHL (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/254227
-#EXTINF:-1 group-title="VERIFICAR",398 V-TVN Chile HD CHL (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/11064
-#EXTINF:-1 group-title="VERIFICAR",399 V-CL: TVN (iptv.wtf)
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9050.ts
-#EXTINF:-1 group-title="VERIFICAR",400 V-CL: TVN * (iptv.wtf)
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9755.ts
-#EXTINF:-1 group-title="VERIFICAR",402 V-CL: TVN Full HD (iptv.wtf)
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7.ts
-#EXTINF:-1 group-title="VERIFICAR",403 V-CL: TVN HD (iptv.wtf)
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8.ts
-#EXTINF:-1 group-title="VERIFICAR",404 V-CL: TVN (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QUpyZWhqc1QzazJkb2V5aTZRaUtXdz0
-#EXTINF:-1 group-title="VERIFICAR",405 V-CL: TVN HD OPC 2 (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TldMVXA2YkZBYytNMFkzbG1rQVk1OD0
-#EXTINF:-1 group-title="VERIFICAR",406 V-CL: TVN OPC 3 (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TnJCQXVRQ0FobGJqL1B4dlMwaG1LVT0
-#EXTINF:-1 group-title="VERIFICAR",407 V-TVN Culto (GEO) | CL (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/868.ts
-#EXTINF:-1 group-title="VERIFICAR",408 V-TVN HD | CL (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/869.ts
-#EXTINF:-1 group-title="VERIFICAR",409 V-TVN UHD | CL (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/87265.ts
-#EXTINF:-1 group-title="VERIFICAR",410 V-CL ▎TVN (vipsclient)
-http://mag.vipsclient.org:80/101341/665337662/3AFD47/101341.ts
-#EXTINF:-1 group-title="VERIFICAR",411 V-CL | TVN (pirostv)
-http://pirostv.lat:8080/live/Nestrive/Polopolo321$/451029.ts
-#EXTINF:-1 group-title="VERIFICAR",412 V-TVN ✪ | CL (m3u.cl)
-https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="VERIFICAR",413 V-TVN 24 Horas ✪ | CL (m3u.cl)
-https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
-# ------------------------------------------------------------------------
-# CNN CHILE  (26 variantes)
-# ------------------------------------------------------------------------
-#EXTINF:-1 group-title="VERIFICAR",414 V-LAT - CNN ESPANOL (dru4)
-http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264862&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",416 V-LAT - MXC| CNN INTERNACIONAL (dru4)
-http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264863&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",417 V-LAT - CNN ESPANOL (meilleur/atlas)
-http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264862&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",418 V-LAT - CNN UHD (meilleur/atlas)
-http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265211&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",419 V-LAT - CNN CHILE (meilleur/atlas)
-http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264861&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",420 V-LAT - MXC| CNN INTERNACIONAL (meilleur/atlas)
-http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264863&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",421 V-CNN en Español ARG (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/99590
-#EXTINF:-1 group-title="VERIFICAR",422 V-CNN Espanol Premium HD ARG (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/1057282
-#EXTINF:-1 group-title="VERIFICAR",423 V-CNN Chile HD CHL (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/11053
-#EXTINF:-1 group-title="VERIFICAR",424 V-CNN en Español CHL (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/99027
-#EXTINF:-1 group-title="VERIFICAR",425 V-CNN Internacional HD CHL (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/99026
-#EXTINF:-1 group-title="VERIFICAR",426 V-CNN en Español ARG (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/99590
-#EXTINF:-1 group-title="VERIFICAR",427 V-CNN Espanol Premium HD ARG (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/1057282
-#EXTINF:-1 group-title="VERIFICAR",428 V-CNN Chile HD CHL (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/11053
-#EXTINF:-1 group-title="VERIFICAR",429 V-CNN en Español CHL (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/99027
-#EXTINF:-1 group-title="VERIFICAR",430 V-CNN Internacional HD CHL (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/99026
-#EXTINF:-1 group-title="VERIFICAR",431 V-CNN Chile (iptv.wtf)
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13494.ts
-#EXTINF:-1 group-title="VERIFICAR",432 V-CNN Chile * (iptv.wtf)
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13495.ts
-#EXTINF:-1 group-title="VERIFICAR",433 V-CNN Chile HD (iptv.wtf)
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/7464.ts
-#EXTINF:-1 group-title="VERIFICAR",434 V-CL: CNN CHILE OPCION 2 (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TXAwdkM0bDhFSWRleXcyN292Tkk2Zz0
-#EXTINF:-1 group-title="VERIFICAR",436 V-CNN USA | SD LAT (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/86807.ts
-#EXTINF:-1 group-title="VERIFICAR",437 V-USA Latino | CNN EN ESPAñOL (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/129628.ts
-#EXTINF:-1 group-title="VERIFICAR",438 V-CL ▎CNN (vipsclient)
-http://mag.vipsclient.org:80/101347/665337662/3AFD47/101347.ts
-#EXTINF:-1 group-title="VERIFICAR",439 V-CNN Chile ✪ | CL (m3u.cl)
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
-# ------------------------------------------------------------------------
-# ZONA LATINA  (4 variantes)
-# ------------------------------------------------------------------------
-#EXTINF:-1 group-title="VERIFICAR",440 V-Zona Latina CHL (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/254297
-#EXTINF:-1 group-title="VERIFICAR",441 V-Zona Latina HD CHL (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/818255
-#EXTINF:-1 group-title="VERIFICAR",442 V-Zona Latina HD (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UHZCdU02cjk4RHdWMk8rQTB5elc0ND0
-#EXTINF:-1 group-title="VERIFICAR",443 V-ZONA LATINA | CL (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/167465.ts
-# ------------------------------------------------------------------------
-# VIA X  (7 variantes)
-# ------------------------------------------------------------------------
-#EXTINF:-1 group-title="VERIFICAR",444 V-LAT - VIA X (meilleur/atlas)
-http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=1193972&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",445 V-Via X CHL (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/254237
-#EXTINF:-1 group-title="VERIFICAR",446 V-Via X CHL (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/254237
-#EXTINF:-1 group-title="VERIFICAR",447 V-CL: Via X (iptv.wtf)
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13888.ts
-#EXTINF:-1 group-title="VERIFICAR",448 V-CL: VIA X (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6R1hleXAyWmJvWHQxM2o1RjFGUk1sVT0
-#EXTINF:-1 group-title="VERIFICAR",449 V-CL: Via X 2 (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RWMyWmh2b1cyRjZ1WlUwME8zQTU3TT0
-#EXTINF:-1 group-title="VERIFICAR",450 V-Via X (1080p) (iptv-org.cl)
-http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8
-# ------------------------------------------------------------------------
-# TNT SPORTS CHILE  (60 variantes)
-# ------------------------------------------------------------------------
-#EXTINF:-1 group-title="VERIFICAR",451 V-LAT - TNT SPORTS UHD (dru4)
-http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265085&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",452 V-LAT - TNT SPORTS HD (dru4)
-http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=1198668&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",453 V-LAT - TNT SPORT CHILE UHD (dru4)
-http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265207&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",454 V-LAT - TNT SPORTS UHD (meilleur/atlas)
-http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265085&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",455 V-LAT - TNT SPORTS HD (meilleur/atlas)
-http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=1198668&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",456 V-LAT - TNT SPORT CHILE (meilleur/atlas)
-http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265206&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",457 V-LAT - TNT SPORT CHILE UHD (meilleur/atlas)
-http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265207&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",458 V-TNT Sports FHD LAM (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/45912
-#EXTINF:-1 group-title="VERIFICAR",459 V-TNT Sports FHD ARG (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/1057381
-#EXTINF:-1 group-title="VERIFICAR",460 V-TNT Sports HD ARG (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/99503
-#EXTINF:-1 group-title="VERIFICAR",461 V-TNT Sports HD ARG (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/1057340
-#EXTINF:-1 group-title="VERIFICAR",462 V-TNT Sports Primera HD ARG (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/1057382
-#EXTINF:-1 group-title="VERIFICAR",463 V-Estadio TNT Sports HD CHL (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/818355
-#EXTINF:-1 group-title="VERIFICAR",464 V-TNT Sports HD CHL (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/99116
-#EXTINF:-1 group-title="VERIFICAR",465 V-TNT Sports 3 HD CHL (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/818356
-#EXTINF:-1 group-title="VERIFICAR",466 V-TNT Sports Premium 2 HD CL (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/516354
-#EXTINF:-1 group-title="VERIFICAR",467 V-TNT Sports Premium FHD CL (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/516353
-#EXTINF:-1 group-title="VERIFICAR",468 V-TNT Sports FHD LAM (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/45912
-#EXTINF:-1 group-title="VERIFICAR",469 V-TNT Sports FHD ARG (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/1057381
-#EXTINF:-1 group-title="VERIFICAR",470 V-TNT Sports HD ARG (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/99503
-#EXTINF:-1 group-title="VERIFICAR",471 V-TNT Sports HD ARG (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/1057340
-#EXTINF:-1 group-title="VERIFICAR",472 V-TNT Sports Primera HD ARG (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/1057382
-#EXTINF:-1 group-title="VERIFICAR",473 V-Estadio TNT Sports HD CHL (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/818355
-#EXTINF:-1 group-title="VERIFICAR",474 V-TNT Sports HD CHL (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/99116
-#EXTINF:-1 group-title="VERIFICAR",475 V-TNT Sports 3 HD CHL (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/818356
-#EXTINF:-1 group-title="VERIFICAR",476 V-TNT Sports Premium 2 HD CL (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/516354
-#EXTINF:-1 group-title="VERIFICAR",477 V-TNT Sports Premium FHD CL (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/516353
-#EXTINF:-1 group-title="VERIFICAR",478 V-CHILE| TNT SPORTS 2 HD (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TVpKZ3JGNS9YVzlmMVI3cUFBTHJBRT0
-#EXTINF:-1 group-title="VERIFICAR",479 V-CHILE| TNT SPORTS 3 HD (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TFVCSTlVcEZITjJtKzVWTmorQTRkOD0
-#EXTINF:-1 group-title="VERIFICAR",480 V-CHILE| TNT SPORTS PREMIUM FHD (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QzlCRmtzajFIclpjbmxFUnk1NFpvaz0
-#EXTINF:-1 group-title="VERIFICAR",481 V-CHILE| TNT SPORTS PREMIUM HD (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Sy9DaVlFZU1KQnB0YllJYUlIL0hXUT0
-#EXTINF:-1 group-title="VERIFICAR",482 V-CHILE| TNT SPORTS PREMIUM HD (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6TWlJZmJJaW42SXZjZjJ1bHk0ejJJVT0
-#EXTINF:-1 group-title="VERIFICAR",483 V-CL: TNT SPORTS (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RkpFTTBiNlJtNXVDR2ZiNzM2V3lYQT0
-#EXTINF:-1 group-title="VERIFICAR",484 V-CL: TNT SPORTS 2 (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RW9YK0RidU5UYlJWZVFVbG1MeDNnZz0
-#EXTINF:-1 group-title="VERIFICAR",485 V-CL: TNT SPORTS PREMIUM. (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6UDQvU1J2TUV3L05TV3VNeXlCV2VOOD0
-#EXTINF:-1 group-title="VERIFICAR",486 V-TNT SPORTS 3 HD CHILE OPCION 1 (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6QzdCN09zNWJmdkhGenVzZjdvcXltWT0
-#EXTINF:-1 group-title="VERIFICAR",487 V-TNT SPORTS CHILE HD OPCION 2 (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SFFLdlZmV0VDOW1oWm85Ymhrc0JRTT0
-#EXTINF:-1 group-title="VERIFICAR",488 V-⭐TNT SPORTS CHILE HD ⭐ (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SnhZUVRuYjJYaERtNFVldDNCMFplcz0
-#EXTINF:-1 group-title="VERIFICAR",489 V-CHILE - LS | TNT SPORTS PREMIUM HD (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/81450.ts
-#EXTINF:-1 group-title="VERIFICAR",490 V-CHILE - LS | TNT SPORTS PREMIUM HD OPC (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/81448.ts
-#EXTINF:-1 group-title="VERIFICAR",491 V-Liga Chile: TNT Sports Premium HD (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/336144.ts
-#EXTINF:-1 group-title="VERIFICAR",493 V-Liga Chile: TNT Sports 2 (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/336146.ts
-#EXTINF:-1 group-title="VERIFICAR",494 V-Liga Chile: TNT Sports 3 (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/336159.ts
-#EXTINF:-1 group-title="VERIFICAR",495 V-TNT SPORTS 2 | CL (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/93011.ts
-#EXTINF:-1 group-title="VERIFICAR",496 V-TNT SPORTS HD OPC 2 | AR (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/32724.ts
-#EXTINF:-1 group-title="VERIFICAR",497 V-TNT SPORTS HD | AR (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/1102.ts
-#EXTINF:-1 group-title="VERIFICAR",498 V-TNT SPORTS HD | CL (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/857.ts
-#EXTINF:-1 group-title="VERIFICAR",499 V-TNT SPORTS PREMIUM HD| CL (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/858.ts
-#EXTINF:-1 group-title="VERIFICAR",500 V-TNT SPORTS BASICO HD | CL (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/1344.ts
-#EXTINF:-1 group-title="VERIFICAR",501 V-TNT SPORTS 1 | CL (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/93010.ts
-#EXTINF:-1 group-title="VERIFICAR",502 V-TNT SPORTS HD OPC 3 | AR (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/32725.ts
-#EXTINF:-1 group-title="VERIFICAR",503 V-TNT SPORTS 3 | CL (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/93012.ts
-#EXTINF:-1 group-title="VERIFICAR",504 V-TNT SPORTS ESTADIO | CL (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/93050.ts
-#EXTINF:-1 group-title="VERIFICAR",505 V-CL ▎TNT SPORTS 1 HD (vipsclient)
-http://mag.vipsclient.org:80/756470/665337662/3AFD47/756470.ts
-#EXTINF:-1 group-title="VERIFICAR",506 V-CL ▎TNT SPORTS 2 HD (vipsclient)
-http://mag.vipsclient.org:80/756471/665337662/3AFD47/756471.ts
-#EXTINF:-1 group-title="VERIFICAR",507 V-CL ▎TNT SPORTS 3 HD (vipsclient)
-http://mag.vipsclient.org:80/756472/665337662/3AFD47/756472.ts
-#EXTINF:-1 group-title="VERIFICAR",508 V-CL | TNT Sports Premium 1 (pirostv)
-http://pirostv.lat:8080/live/Nestrive/Polopolo321$/450904.ts
-#EXTINF:-1 group-title="VERIFICAR",509 V-CL | TNT Sports Premium 2 (pirostv)
-http://pirostv.lat:8080/live/Nestrive/Polopolo321$/450905.ts
-#EXTINF:-1 group-title="VERIFICAR",510 V-CL | TNT Sports HD (pirostv)
-http://pirostv.lat:8080/live/Nestrive/Polopolo321$/450909.ts
-# ------------------------------------------------------------------------
-# ESPN CHILE  (21 variantes)
-# ------------------------------------------------------------------------
-#EXTINF:-1 group-title="VERIFICAR",511 V-LAT - MXC| ESPN 2 HD (dru4)
-http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=1142979&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",512 V-LAT - ESPN 2 (meilleur/atlas)
-http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=994368&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",513 V-LAT - MXC| ESPN 2 HD (meilleur/atlas)
-http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=1142979&extension=ts
-#EXTINF:-1 group-title="VERIFICAR",514 V-ESPN 2 FHD LAM (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/45741
-#EXTINF:-1 group-title="VERIFICAR",515 V-ESPN 2 LAM (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/45740
-#EXTINF:-1 group-title="VERIFICAR",516 V-ESPN 2 HD Premium HD ARG (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/1057362
-#EXTINF:-1 group-title="VERIFICAR",517 V-ESPN 2 Primera FHD ARG (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/1057386
-#EXTINF:-1 group-title="VERIFICAR",518 V-ESPN 2 HD CHL (ptv.is)
-http://ptv.is/dA7SR28H/l1a6t2jy/99052
-#EXTINF:-1 group-title="VERIFICAR",519 V-ESPN 2 FHD LAM (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/45741
-#EXTINF:-1 group-title="VERIFICAR",520 V-ESPN 2 LAM (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/45740
-#EXTINF:-1 group-title="VERIFICAR",521 V-ESPN 2 HD Premium HD ARG (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/1057362
-#EXTINF:-1 group-title="VERIFICAR",522 V-ESPN 2 Primera FHD ARG (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/1057386
-#EXTINF:-1 group-title="VERIFICAR",523 V-ESPN 2 HD CHL (zzportals.com)
-http://zzportals.com/osZ3uC9YcA/dkdwffD3/99052
-#EXTINF:-1 group-title="VERIFICAR",524 V-CL: ESPN 2 HD (iptv.wtf)
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/32.ts
-#EXTINF:-1 group-title="VERIFICAR",525 V-ESPN Sur HD (iptv.wtf)
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13505.ts
-#EXTINF:-1 group-title="VERIFICAR",526 V-ESPN 2 CHILE (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6SnNjdzVQVVUza0tNeC9WK0ticFhYOD0
-#EXTINF:-1 group-title="VERIFICAR",527 V-ESPN 2 CHILE HD (jumangis.cloud)
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RUlTeTdiU2lyeC9RVDBSUTd1OHVsOD0
-#EXTINF:-1 group-title="VERIFICAR",528 V-CL | ESPN SUR (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/82375.ts
-#EXTINF:-1 group-title="VERIFICAR",529 V-ESPN SUR SD (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/1532.ts
-#EXTINF:-1 group-title="VERIFICAR",530 V-ESPN SUR (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/96261.ts
-#EXTINF:-1 group-title="VERIFICAR",531 V-ESPN 2 (FHD) | CL (solutionspremium)
-http://solutionspremium.net:80/channel/user2620/37428848293/101906.ts
