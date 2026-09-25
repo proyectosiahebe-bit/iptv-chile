@@ -34,10 +34,10 @@ https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts
 #EXTGRP:NOTICIAS
 #EXTINF:-1 group-title="NOTICIAS",17 CNN CHILE
-http://solutionspremium.net:80/channel/user2620/37428848293/866.ts
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197031.ts
 #EXTGRP:NACIONALES CHILE
 #EXTINF:-1 group-title="NACIONALES CHILE",18 ZONA LATINA
-http://45.162.193.35/ZONALATINA/index.m3u8
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197053.ts
 #EXTGRP:PARA VERIFICAR
 #EXTINF:-1 group-title="PARA VERIFICAR",19 13REC
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197033.ts
@@ -302,12 +302,8 @@ https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197012.ts
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBIYBV7DnB8Iu2C3cBJoFcxD
 #EXTINF:-1 group-title="FUENTES",277 FUENTE T13 (planettvweb)
 http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/17998
-#EXTINF:-1 group-title="FUENTES",278 FUENTE CNN CHILE (emilyba)
-https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197031.ts
 #EXTINF:-1 group-title="FUENTES",279 FUENTE CNN CHILE (itocr)
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZhMUwZlQW7eqtcVgACQh427NwkWm4NzV-shNMA4cw0
-#EXTINF:-1 group-title="FUENTES",280 FUENTE ZONA LATINA (emilyba)
-https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197053.ts
 #EXTINF:-1 group-title="FUENTES",281 FUENTE ZONA LATINA (itocr)
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBLcPGATUN_urJYmCR9QqyC0
 #EXTINF:-1 group-title="FUENTES",283 FUENTE VIA X (emilyba)
