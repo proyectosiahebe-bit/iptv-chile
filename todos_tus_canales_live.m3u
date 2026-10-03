@@ -62,8 +62,8 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13882.ts
 #EXTINF:-1 group-title="CINE",28 GOLDEN EDGE
 http://solutionspremium.net:80/channel/user2620/37428848293/1251.ts
-#EXTINF:-1 group-title="CINE",29 STUDIO UNIVERSAL
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Qk50WUxzNXBZdzJiQVZuenk1b0NFVT0
+#EXTINF:-1 group-title="CINE",29 UNIVERSAL
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/239660.ts
 #EXTGRP:PARA VERIFICAR
 #EXTINF:-1 group-title="PARA VERIFICAR",30 CINECANAL
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/107.ts
@@ -140,9 +140,9 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13031.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/121352.ts
 #EXTGRP:NOTICIAS
 #EXTINF:-1 group-title="NOTICIAS",63 CNN HD
-http://solutionspremium.net:80/channel/user2620/37428848293/86808.ts
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/261288.ts
 #EXTINF:-1 group-title="NOTICIAS",64 CNN ESPAÑOL
-http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265211&extension=ts
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/405037.ts
 #EXTGRP:DEPORTES
 #EXTINF:-1 group-title="DEPORTES",65 TNT SPORTS PREMIUM
 http://solutionspremium.net:80/channel/user2620/37428848293/93010.ts
@@ -151,11 +151,11 @@ http://solutionspremium.net:80/channel/user2620/37428848293/93050.ts
 #EXTINF:-1 group-title="DEPORTES",67 ESPN
 http://pirostv.lat:8080/live/Nestrive/Polopolo321$/262271.ts
 #EXTINF:-1 group-title="DEPORTES",68 ESPN
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3474.ts
+http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/12755
 #EXTINF:-1 group-title="DEPORTES",69 ESPN DEPORTES
 http://solutionspremium.net:80/channel/user2620/37428848293/1314.ts
 #EXTINF:-1 group-title="DEPORTES",70 ESPN 2
-http://solutionspremium.net:80/channel/user2620/37428848293/146797.ts
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13506.ts
 #EXTINF:-1 group-title="DEPORTES",71 ESPN 3
 http://solutionspremium.net:80/channel/user2620/37428848293/146798.ts
 #EXTINF:-1 group-title="DEPORTES",72 ESPN 4
@@ -430,8 +430,6 @@ http://blushes.top:80/live/466634866/Y896v1908W/234273.m3u8
 http://blacktesters.com:8880/live/6166235163/9887507320/1801.m3u8
 #EXTINF:-1 group-title="FUENTES",355 FUENTE ESPN (otrasbx)
 http://otrasbx.com:80/590894722980/043044018269/155420
-#EXTINF:-1 group-title="FUENTES",356 FUENTE ESPN (planettvweb)
-http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/12755
 #EXTINF:-1 group-title="FUENTES",357 FUENTE ESPN 5 (pirostv)
 http://pirostv.lat:25461/live/Armando12/Armando12/528523.ts
 #EXTINF:-1 group-title="FUENTES",359 FUENTE ESPN 5 (blushes)
@@ -772,8 +770,6 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13568.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3477.ts
 #EXTINF:-1 group-title="VERIFICAR",532 ESPN 2 Perú | iptv.wtf
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11702.ts
-#EXTINF:-1 group-title="VERIFICAR",533 ESPN 2 Sur HD | iptv.wtf
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13506.ts
 #EXTINF:-1 group-title="VERIFICAR",534 ESPN 3 Argentina | iptv.wtf
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11604.ts
 #EXTINF:-1 group-title="VERIFICAR",535 ESPN 3 Full HD | iptv.wtf
@@ -1270,8 +1266,6 @@ http://pirostv.lat:8080/live/Nestrive/Polopolo321$/278171.ts
 http://pirostv.lat:8080/live/Nestrive/Polopolo321$/87.ts
 #EXTINF:-1 group-title="VERIFICAR",786 LAT | UNIVERSAL PREMIERE | pirostv
 http://pirostv.lat:8080/live/Nestrive/Polopolo321$/239643.ts
-#EXTINF:-1 group-title="VERIFICAR",787 LAT | UNIVERSAL CHANNEL | pirostv
-http://pirostv.lat:8080/live/Nestrive/Polopolo321$/239660.ts
 #EXTINF:-1 group-title="VERIFICAR",788 Zona Latina CHL | ptv.is
 http://ptv.is/dA7SR28H/l1a6t2jy/254297
 #EXTINF:-1 group-title="VERIFICAR",789 Zona Latina HD CHL | ptv.is
@@ -1398,10 +1392,6 @@ http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=1371560&
 http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265211&extension=ts
 #EXTINF:-1 group-title="VERIFICAR",852 CNN NEWS | pirostv
 http://pirostv.lat:8080/live/Nestrive/Polopolo321$/40832.ts
-#EXTINF:-1 group-title="VERIFICAR",853 CNN US | pirostv
-http://pirostv.lat:8080/live/Nestrive/Polopolo321$/261288.ts
-#EXTINF:-1 group-title="VERIFICAR",854 CNN US | pirostv
-http://pirostv.lat:8080/live/Nestrive/Polopolo321$/405037.ts
 #EXTINF:-1 group-title="VERIFICAR",855 USA - CNN HD | dru4.xyz
 http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=552001&extension=ts
 #EXTINF:-1 group-title="VERIFICAR",856 USA - CNN HD | meilleur/atlas
