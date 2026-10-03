@@ -97,16 +97,16 @@ http://pirostv.lat:25461/live/Armando12/Armando12/240948.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",42 HBO XTREME
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5900.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",43 HBO PLUS
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RUp6VEZQL2k5YzVVSmpMeXlZU3dQZz0
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/66.ts
 #EXTGRP:CINE
 #EXTINF:-1 group-title="CINE",44 HBO FAMILY
 http://pirostv.lat:25461/live/Armando12/Armando12/239647.ts
 #EXTINF:-1 group-title="CINE",45 HBO
-http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/30601.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/18722.ts
 #EXTINF:-1 group-title="CINE",46 HBO POP
 http://blushes.top:80/live/466634866/Y896v1908W/249248.m3u8
 #EXTINF:-1 group-title="CINE",47 HBO SIGNATURE
-http://blushes.top:80/live/466634866/Y896v1908W/249244.m3u8
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/63.ts
 #EXTINF:-1 group-title="CINE",48 HBO MUNDI
 http://blushes.top:80/live/466634866/Y896v1908W/249249.m3u8
 #EXTINF:-1 group-title="CINE",49 USA NETWORK
@@ -145,11 +145,11 @@ http://solutionspremium.net:80/channel/user2620/37428848293/86808.ts
 http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265211&extension=ts
 #EXTGRP:DEPORTES
 #EXTINF:-1 group-title="DEPORTES",65 TNT SPORTS PREMIUM
-http://pirostv.lat:25461/live/Armando12/Armando12/450909.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/93010.ts
 #EXTINF:-1 group-title="DEPORTES",66 TNT SPORTS SD
-http://solutionspremium.net:80/channel/user2620/37428848293/336145.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/93050.ts
 #EXTINF:-1 group-title="DEPORTES",67 ESPN
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T1MxSnZtL0hwZ0RDWlBaaHZMUFUxUT0
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/262271.ts
 #EXTINF:-1 group-title="DEPORTES",68 ESPN
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3474.ts
 #EXTINF:-1 group-title="DEPORTES",69 ESPN DEPORTES
@@ -161,13 +161,13 @@ http://solutionspremium.net:80/channel/user2620/37428848293/146798.ts
 #EXTINF:-1 group-title="DEPORTES",72 ESPN 4
 http://solutionspremium.net:80/channel/user2620/37428848293/146799.ts
 #EXTINF:-1 group-title="DEPORTES",73 ESPN5
-https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6iLY4AqRuuElIJ1uCKpz1SyUUBAaGenGlrgtEsHeHyrE
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11662.ts
 #EXTINF:-1 group-title="DEPORTES",74 ESPN6
 http://pirostv.lat:25461/live/Armando12/Armando12/528522.ts
 #EXTINF:-1 group-title="DEPORTES",75 FOX ONE
 http://solutionspremium.net:80/channel/user2620/37428848293/330405.ts
 #EXTINF:-1 group-title="DEPORTES",76 DSPORTS +
-http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/12739
+http://solutionspremium.net:80/channel/user2620/37428848293/146801.ts
 #EXTINF:-1 group-title="DEPORTES",77 DSPORTS
 http://pirostv.lat:25461/live/Armando12/Armando12/267391.ts
 #EXTINF:-1 group-title="DEPORTES",78 TyC
@@ -618,8 +618,6 @@ http://solutionspremium.net:80/channel/user2620/37428848293/105631.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/105630.ts
 #EXTINF:-1 group-title="VERIFICAR",454 DIRECTV SPORTS 2 (CHILE) | solutionspremium
 http://solutionspremium.net:80/channel/user2620/37428848293/146800.ts
-#EXTINF:-1 group-title="VERIFICAR",455 DIRECTV SPORTS + (CHILE) | solutionspremium
-http://solutionspremium.net:80/channel/user2620/37428848293/146801.ts
 #EXTINF:-1 group-title="VERIFICAR",456 ARG | DIRECTV SPORTS (ARGENTINA) (EXCLUSIVO) UHD | solutionspremium
 http://solutionspremium.net:80/channel/user2620/37428848293/211590.ts
 #EXTINF:-1 group-title="VERIFICAR",457 DIRECTV SPORTS (CHILE)(EXCLUSIVO) UHD | solutionspremium
@@ -782,8 +780,6 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11604.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13569.ts
 #EXTINF:-1 group-title="VERIFICAR",536 ESPN 3 HD | iptv.wtf
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3480.ts
-#EXTINF:-1 group-title="VERIFICAR",537 ESPN 3 Perú | iptv.wtf
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11662.ts
 #EXTINF:-1 group-title="VERIFICAR",538 ESPN 3 Sur HD | iptv.wtf
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13507.ts
 #EXTINF:-1 group-title="VERIFICAR",539 ESPN Full HD | iptv.wtf
@@ -946,8 +942,6 @@ http://pirostv.lat:8080/live/Nestrive/Polopolo321$/1250.ts
 http://pirostv.lat:8080/live/Nestrive/Polopolo321$/296664.ts
 #EXTINF:-1 group-title="VERIFICAR",618 AR | ESPN 2 HD | pirostv
 http://pirostv.lat:8080/live/Nestrive/Polopolo321$/262176.ts
-#EXTINF:-1 group-title="VERIFICAR",619 AR | ESPN PREMIUM. | pirostv
-http://pirostv.lat:8080/live/Nestrive/Polopolo321$/262271.ts
 #EXTINF:-1 group-title="VERIFICAR",620 LAT - HBO PLUS | dru4.xyz
 http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264969&extension=ts
 #EXTINF:-1 group-title="VERIFICAR",621 LAT - HBO PLUS UHD | dru4.xyz
@@ -1024,8 +1018,6 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13873.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/61.ts
 #EXTINF:-1 group-title="VERIFICAR",657 HBO Plus Full HD * | iptv.wtf
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13870.ts
-#EXTINF:-1 group-title="VERIFICAR",658 HBO Plus HD | iptv.wtf
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/66.ts
 #EXTINF:-1 group-title="VERIFICAR",659 HBO Pop | iptv.wtf
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13874.ts
 #EXTINF:-1 group-title="VERIFICAR",660 HBO Pop * | iptv.wtf
@@ -1036,8 +1028,6 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6110.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8141.ts
 #EXTINF:-1 group-title="VERIFICAR",663 HBO Signature | iptv.wtf
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13876.ts
-#EXTINF:-1 group-title="VERIFICAR",664 HBO Signature Full HD | iptv.wtf
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/63.ts
 #EXTINF:-1 group-title="VERIFICAR",665 HBO Signature HD | iptv.wtf
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5892.ts
 #EXTINF:-1 group-title="VERIFICAR",666 HBO Signature HD * | iptv.wtf
@@ -1058,8 +1048,6 @@ http://solutionspremium.net:80/channel/user2620/37428848293/1219.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/1218.ts
 #EXTINF:-1 group-title="VERIFICAR",674 HBO SIGNATURE HD | solutionspremium
 http://solutionspremium.net:80/channel/user2620/37428848293/1217.ts
-#EXTINF:-1 group-title="VERIFICAR",675 HBO HD Latino | solutionspremium
-http://solutionspremium.net:80/channel/user2620/37428848293/18722.ts
 #EXTINF:-1 group-title="VERIFICAR",676 HBO Plus | SD LAT | solutionspremium
 http://solutionspremium.net:80/channel/user2620/37428848293/86760.ts
 #EXTINF:-1 group-title="VERIFICAR",677 HBO Pop HD | solutionspremium
@@ -1306,10 +1294,6 @@ http://pirostv.lat:8080/live/Nestrive/Polopolo321$/450905.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/336146.ts
 #EXTINF:-1 group-title="VERIFICAR",798 Liga Chile: TNT Sports HD | solutionspremium
 http://solutionspremium.net:80/channel/user2620/37428848293/336145.ts
-#EXTINF:-1 group-title="VERIFICAR",799 TNT SPORTS 1 | CL | solutionspremium
-http://solutionspremium.net:80/channel/user2620/37428848293/93010.ts
-#EXTINF:-1 group-title="VERIFICAR",800 TNT SPORTS ESTADIO | CL | solutionspremium
-http://solutionspremium.net:80/channel/user2620/37428848293/93050.ts
 #EXTINF:-1 group-title="VERIFICAR",801 TNT SPORTS HD OPC 2 | AR | solutionspremium
 http://solutionspremium.net:80/channel/user2620/37428848293/32724.ts
 #EXTINF:-1 group-title="VERIFICAR",802 TNT SPORTS HD OPC 3 | AR | solutionspremium
