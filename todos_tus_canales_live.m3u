@@ -1332,3 +1332,51 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15174.ts
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15718.ts
 #EXTINF:-1 group-title="VERIFICAR",811 TNT Sports Premium HD | iptv.wtf
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14881.ts
+#EXTINF:-1 group-title="VERIFICAR",812 LAT - TNT SPORTS HD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=1198668&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",813 LAT - TNT SPORTS UHD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265085&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",814 LAT - TNT SPORTS HD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=1198668&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",815 LAT - TNT SPORTS UHD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265085&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",816 TNT Sports FHD LAM | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/45912
+#EXTINF:-1 group-title="VERIFICAR",817 TNT Sports FHD ARG | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/1057381
+#EXTINF:-1 group-title="VERIFICAR",818 TNT Sports HD ARG | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/99503
+#EXTINF:-1 group-title="VERIFICAR",819 TNT Sports HD ARG | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/1057340
+#EXTINF:-1 group-title="VERIFICAR",820 TNT Sports Primera HD ARG | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/1057382
+#EXTINF:-1 group-title="VERIFICAR",821 Estadio TNT Sports HD CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/818355
+#EXTINF:-1 group-title="VERIFICAR",822 TNT Sports HD CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/99116
+#EXTINF:-1 group-title="VERIFICAR",823 TNT Sports 3 HD CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/818356
+#EXTINF:-1 group-title="VERIFICAR",824 TNT Sports Premium 2 HD CL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/516354
+#EXTINF:-1 group-title="VERIFICAR",825 TNT Sports Premium FHD CL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/516353
+#EXTINF:-1 group-title="VERIFICAR",826 TNT Sports FHD LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45912
+#EXTINF:-1 group-title="VERIFICAR",827 TNT Sports FHD ARG | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/1057381
+#EXTINF:-1 group-title="VERIFICAR",828 TNT Sports HD ARG | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/99503
+#EXTINF:-1 group-title="VERIFICAR",829 TNT Sports HD ARG | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/1057340
+#EXTINF:-1 group-title="VERIFICAR",830 TNT Sports Primera HD ARG | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/1057382
+#EXTINF:-1 group-title="VERIFICAR",831 Estadio TNT Sports HD CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/818355
+#EXTINF:-1 group-title="VERIFICAR",832 TNT Sports HD CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/99116
+#EXTINF:-1 group-title="VERIFICAR",833 TNT Sports 3 HD CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/818356
+#EXTINF:-1 group-title="VERIFICAR",834 TNT Sports Premium 2 HD CL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/516354
+#EXTINF:-1 group-title="VERIFICAR",835 TNT Sports Premium FHD CL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/516353
