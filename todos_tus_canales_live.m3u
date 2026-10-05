@@ -13,7 +13,7 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts
 #EXTINF:-1 group-title="NACIONALES CHILE",6 TV CHILE
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 group-title="NACIONALES CHILE",7 TVN
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9756.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/869.ts
 #EXTINF:-1 group-title="NACIONALES CHILE",8 NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 #EXTINF:-1 group-title="NACIONALES CHILE",9 MEGA
@@ -97,7 +97,7 @@ http://pirostv.lat:25461/live/Armando12/Armando12/240948.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",42 HBO XTREME
 http://solutionspremium.net:80/channel/user2620/37428848293/41129.ts
 #EXTINF:-1 group-title="PARA VERIFICAR",43 HBO PLUS
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/66.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/86760.ts
 #EXTGRP:CINE
 #EXTINF:-1 group-title="CINE",44 HBO FAMILY
 http://pirostv.lat:25461/live/Armando12/Armando12/239647.ts
@@ -1040,8 +1040,6 @@ http://solutionspremium.net:80/channel/user2620/37428848293/1219.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/1218.ts
 #EXTINF:-1 group-title="VERIFICAR",674 HBO SIGNATURE HD | solutionspremium
 http://solutionspremium.net:80/channel/user2620/37428848293/1217.ts
-#EXTINF:-1 group-title="VERIFICAR",676 HBO Plus | SD LAT | solutionspremium
-http://solutionspremium.net:80/channel/user2620/37428848293/86760.ts
 #EXTINF:-1 group-title="VERIFICAR",677 HBO Pop HD | solutionspremium
 http://solutionspremium.net:80/channel/user2620/37428848293/1223.ts
 #EXTINF:-1 group-title="VERIFICAR",678 HBO PLUS SD | solutionspremium
@@ -1534,8 +1532,6 @@ http://solutionspremium.net:80/channel/user2620/37428848293/2471.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/878.ts
 #EXTINF:-1 group-title="VERIFICAR",929 Mega HD | CL (CHILE)
 http://solutionspremium.net:80/channel/user2620/37428848293/875.ts
-#EXTINF:-1 group-title="VERIFICAR",930 TVN HD | CL (CHILE)
-http://solutionspremium.net:80/channel/user2620/37428848293/869.ts
 #EXTINF:-1 group-title="VERIFICAR",931 FX (PREMIUM SD (SPA))
 http://solutionspremium.net:80/channel/user2620/37428848293/86733.ts
 #EXTINF:-1 group-title="VERIFICAR",932 Discovery Channel (PREMIUM SD (SPA))
