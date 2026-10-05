@@ -1,0 +1,9 @@
+{
+  "peliculas": {
+    "host": "solutionspremium.net",
+    "puerto": 80,
+    "usuario": "user2620",
+    "clave_cifrada": "pKh5EtywE1jOEJg=",
+    "_nota": "clave_cifrada: cifrada por la app POLO TV. Para cambiarla usa el panel admin (sección Fuentes) o cifrar con la contraseña del usuario."
+  }
+}
