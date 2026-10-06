@@ -7,7 +7,7 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 #EXTINF:-1 group-title="NACIONALES CHILE",3 TVR
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES CHILE",4 LA RED
-https://live.getcirca.run/3969875408/ts:abr.m3u8
+http://pirostv.lat:8080/live/Nestrive/Polopolo321%24/451027.m3u
 #EXTINF:-1 group-title="NACIONALES CHILE",5 TV+
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts
 #EXTINF:-1 group-title="NACIONALES CHILE",6 TV CHILE
