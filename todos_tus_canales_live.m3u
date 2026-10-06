@@ -13,7 +13,7 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts
 #EXTINF:-1 group-title="NACIONALES CHILE",6 TV CHILE
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 group-title="NACIONALES CHILE",7 TVN
-http://solutionspremium.net:80/channel/user2620/37428848293/869.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/87265.ts
 #EXTINF:-1 group-title="NACIONALES CHILE",8 NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 #EXTINF:-1 group-title="NACIONALES CHILE",9 MEGA
@@ -1610,8 +1610,6 @@ http://solutionspremium.net:80/channel/user2620/37428848293/86786.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/86805.ts
 #EXTINF:-1 group-title="VERIFICAR",969 EL GOURMET LATINO | PREMIUM (PREMIUM HD (SPA))
 http://solutionspremium.net:80/channel/user2620/37428848293/7922.ts
-#EXTINF:-1 group-title="VERIFICAR",970 TVN UHD | CL (CHILE)
-http://solutionspremium.net:80/channel/user2620/37428848293/87265.ts
 #EXTINF:-1 group-title="VERIFICAR",971 EL GOURMET FHD | PREMIUM (PREMIUM HD (SPA))
 http://solutionspremium.net:80/channel/user2620/37428848293/985.ts
 #EXTINF:-1 group-title="VERIFICAR",972 CNN (PREMIUM SD (SPA))
