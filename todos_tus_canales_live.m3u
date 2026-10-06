@@ -195,8 +195,8 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",88 VCLASSICTV TROPICAL
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
 #EXTGRP:INFANTIL
-#EXTINF:-1 group-title="INFANTIL",89 CNN ESPAÑOL
-http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/11815
+#EXTINF:-1 group-title="INFANTIL",89 CANAL CHILE
+https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="INFANTIL",90 PV JUMANGI PLIM PLIM TV [743]
 http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RThHcnlSUWptdDRhblp5eUlGc0ttbz0
 #EXTINF:-1 group-title="INFANTIL",91 13 GO KIDS
@@ -1828,4 +1828,5 @@ http://solutionspremium.net:80/channel/user2620/37428848293/289671.ts
 http://pirostv.lat:8080/live/Nestrive/Polopolo321%24/444946.m3u
 #EXTINF:-1 group-title="PELICULAS 24/7",1079 24/7 Indiana Jones
 http://pirostv.lat:8080/live/Nestrive/Polopolo321%24/493706.m3u
+
 
