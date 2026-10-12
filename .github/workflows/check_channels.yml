@@ -1,0 +1,41 @@
+name: Chequear canales 1-119
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: check-channels
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Chequear y reemplazar canales caidos
+        run: python scripts/check_channels.py
+
+      - name: Commit y push si hay cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain todos_tus_canales_live.m3u)" ]; then
+            git add todos_tus_canales_live.m3u
+            git commit -m "cron: reemplaza canales 1-119 caidos por respaldos verificados"
+            git pull --rebase origin "${GITHUB_REF_NAME}" || true
+            git push
+          else
+            echo "Sin cambios en la grilla."
+          fi

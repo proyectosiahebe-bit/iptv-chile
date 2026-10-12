@@ -113,7 +113,7 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/268.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/9HTQLQ6L2m_vxvgprvLJbH1N-TnI-khLD0CpUW-kjDKbsb1QAJRh1GaeE8aXfG2ZduLdBwcwmQHoQCpnxrjgf0h1hp4cgjgWEY0d_rhEdhoC02D2" group-title="DOCUMENTALES",56 ANIMAL PLANET
 http://solutionspremium.net:80/channel/user2620/37428848293/969.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/3A4Lh2JGqGwiFX3APuGbMDwsEeSaIeuV40hglviTymcZrGk-rzjkfhJtMNuRCe6v6vq1T76LnBqxPQVV5MUPztQWWJhqAql3KsRWwyVbLQ" group-title="DOCUMENTALES",57 HISTORY
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5893.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/86786.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/JuJDQtb2hit9Uw20_5eMl5NU08kOkJQFyzU2D1jm2Km6K8AsaGk3cMxqozafc9v_2bIMQqOneZtdJ4BNpuRXYIUPUSTnqkmHlZjjK5cfrxEE" group-title="DOCUMENTALES",58 HISTORY 2
 http://solutionspremium.net:80/channel/user2620/37428848293/97416.ts
 #EXTINF:-1 group-title="DOCUMENTALES",59 FOOD NETWORK
@@ -159,9 +159,9 @@ http://solutionspremium.net:80/channel/user2620/37428848293/93010.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/etT2l4HCOmxaUQ5FOqoaXYYdBJZ4H3NwRV_FHRzOt2gZWCbPV1L_6UGKd4odWVpUNe0zYaSki5UaWTa2F7PNOFKYEG5GCTJiI2vWucTrEjyC" group-title="DEPORTES",79 TNT SPORTS BASICO
 http://solutionspremium.net:80/channel/user2620/37428848293/93050.ts
 #EXTINF:-1 group-title="NACIONALES CHILE",80 RETRO PLUS TV
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+https://srt01.logicahost.com.br/senal1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NACIONALES CHILE",81 RETRO PLUS TV SEÑAL 2
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+https://srt01.logicahost.com.br/senal2/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/13pXyta_cboE1uRh3fpeWijzfOOc0Qs4Psi0ooYLY2N696rifrqp_Bl70uMh18r2LI-zuTg7ib4QW6eBTiILAJ_7k4zRV2aGvzQfrbE8OA" group-title="MUSICA",82 MTV LIVE
 http://pirostv.lat:25461/live/Armando12/Armando12/356.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Ckq2yFboT3MbGE5ez99B4L9OeJv2G9dtFI4mfM0b5M23cL5-0rRnXjMFZNAv0SHkTuOGwpcc7ugR-pIsS8-DQht19wT6F25JRIMp" group-title="MUSICA",83 MTV
@@ -185,7 +185,7 @@ https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/6A-qmqStwxpzCrsv2o1RVzD0NZ1CCUCLgTux1yQXOlhdmquodfEKl9rjifbsNcDarJQHqGPHt9qL4785tXbqGFpu43yobZY5qaON8z4iL_uBV17tQA" group-title="INFANTIL",92 DISNEY CHANNEL
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/2VrJ3TX9dgg7Eq4Z9kcm4W8f5Z7Q4B8TbwYpgw8mCe_BuEvCDc4TDJ42ReHnoutVWhOkWy0Tez3NBUlG43vvuUi_zJYLKTrMxmJu3pLe" group-title="INFANTIL",93 NICK JR
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13838.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/86805.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Pte8IBdlu5iUHRk0lyQDUr7vgUeGccDxb7JxLz7HYi0icKKwkGQTgrWb4kPJEmN8xvJ2wj0_J-ZpKkJovJZebzNhPKiQ8-f3U4mVAZdq1aBubPkMoA" group-title="INFANTIL",94 DISCOVERY KIDS
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13493.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/cUaFQ2Bgr_V6b640NiysRaxTKS6rc53pLyfDvo_PsGgzux3VSfFCXR_qfFuVH3w5LrPykfPfVCJu4XUEuu4ZduPdm2g_ZHtxIh9_uQ" group-title="INTERNACIONAL",95 NICKELODEON
