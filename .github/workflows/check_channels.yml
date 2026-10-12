@@ -31,11 +31,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if [ -n "$(git status --porcelain todos_tus_canales_live.m3u)" ]; then
-            git add todos_tus_canales_live.m3u
-            git commit -m "cron: reemplaza canales 1-119 caidos por respaldos verificados"
+          if [ -n "$(git status --porcelain todos_tus_canales_live.m3u channel_status.json)" ]; then
+            git add todos_tus_canales_live.m3u channel_status.json
+            git commit -m "cron: reemplaza canales 1-119 caidos y actualiza estado"
             git pull --rebase origin "${GITHUB_REF_NAME}" || true
             git push
           else
-            echo "Sin cambios en la grilla."
+            echo "Sin cambios en la grilla ni en el estado."
           fi

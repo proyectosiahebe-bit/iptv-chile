@@ -3,25 +3,30 @@
 reemplaza las URLs caidas por un respaldo funcional de la misma lista
 (bloques replica 120-357 y secciones M3U.CL / FUENTES).
 
+Ademas genera `channel_status.json` con el estado (vivo/caido) de todos los
+canales numerados, para que la app muestre un punto verde/rojo en la grilla.
+
 Seguridad: si se detectan como caidos mas de MAX_DEAD_RATIO de la grilla se
 aborta sin tocar nada (probable bloqueo de red del runner de CI).
 """
 import concurrent.futures
+import datetime
+import json
 import os
 import re
-import sys
-import time
 import urllib.error
 import urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-M3U = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "todos_tus_canales_live.m3u")
+REPO = os.path.dirname(HERE)
+M3U = os.path.join(REPO, "todos_tus_canales_live.m3u")
+STATUS = os.path.join(REPO, "channel_status.json")
 UA = (
     "Mozilla/5.0 (Linux; Android 11; SM-A125M) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/120.0 Mobile Safari/537.36"
 )
 TIMEOUT = 12
-WORKERS = 16
+WORKERS = 20
 MAX_DEAD_RATIO = 0.6
 
 
@@ -35,10 +40,10 @@ def norm(name: str) -> str:
     return re.sub(r"\s+", " ", s).strip()
 
 
-def alive(url, timeout=12):
+def alive(url, timeout=TIMEOUT, attempts=2):
     if not url or not url.lower().startswith(("http://", "https://")):
         return False
-    for _ in range(2):
+    for _ in range(attempts):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA})
             with urllib.request.urlopen(req, timeout=timeout) as r:
@@ -71,74 +76,103 @@ def parse(lines):
             ):
                 j += 1
             url = lines[j].strip() if j < len(lines) else ""
-            entries.append(
-                {"num": num, "name": name, "url": url, "url_line": j}
-            )
+            entries.append({"num": num, "name": name, "url": url, "url_line": j})
             i = j + 1
         else:
             i += 1
     return entries
 
 
-def main():
-    path = os.path.join(
-        os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-        "todos_tus_canales_live.m3u",
-    )
-    lines = open(path, encoding="utf-8").read().splitlines()
-    entries = parse(lines)
+def replace_dead(entries):
+    """Reemplaza en `lines` las URLs caidas de la grilla por respaldos."""
+    grilla = [e for e in entries if e["num"] is not None and 1 <= e["num"] <= 119]
+    others = [e for e in entries if not (e["num"] is not None and 1 <= e["num"] <= 119)]
 
-    grilla = [e for e in entries if e["num"] and 1 <= e["num"] <= 119]
-    pool = {}
-    for e in entries:
-        if e["num"] and 1 <= e["num"] <= 119:
-            continue
-        pool.setdefault(norm(e["name"]), []).append(e)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as ex:
+        dead_flags = list(ex.map(lambda e: not alive(e["url"]), grilla))
+    dead = [e for e, is_dead in zip(grilla, dead_flags) if is_dead]
 
-    print("grilla: %d canales | pool de respaldos: %d nombres" % (len(grilla), len(pool)))
-
-    with concurrent.futures.ThreadPoolExecutor(max_workers=20) as ex:
-        state = list(ex.map(lambda e: alive(e["url"]), grilla))
-
-    dead = [e for e, ok in zip(grilla, state) if not ok]
-    print("caidos: %d de %d" % (len(dead), len(grilla)))
-
-    if len(dead) > int(len(grilla) * 0.6):
+    if len(dead) > MAX_DEAD_RATIO * len(grilla):
         print(
             "ABORTADO: demasiados caidos (%d/%d), posible bloqueo de red en CI."
             % (len(dead), len(grilla))
         )
-        return 1
+        return None
 
-    # Candidatos por nombre normalizado.
+    pool = {}
+    for e in others:
+        key = norm(e["name"])
+        if key:
+            pool.setdefault(key, []).append(e)
+
     cands = {}
     for e in dead:
         cands[e["url_line"]] = pool.get(norm(e["name"]), [])
-    all_cand_urls = {c["url"] for lst in cands.values() for c in lst}
-    with concurrent.futures.ThreadPoolExecutor(max_workers=20) as ex:
-        ok_urls = set(
-            u for u, ok in zip(all_cand_urls, ex.map(alive, list(all_cand_urls))) if ok
-        )
+    cand_urls = sorted({c["url"] for lst in cands.values() for c in lst})
+    with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as ex:
+        ok_flags = list(ex.map(alive, cand_urls))
+    ok_urls = {u for u, ok in zip(cand_urls, ok_flags) if ok}
 
-    changes = 0
+    replacements = {}
     for e in dead:
-        replacement = None
         for c in cands[e["url_line"]]:
             if c["url"] in ok_urls and c["url"] != e["url"]:
-                replacement = c["url"]
+                replacements[e["url_line"]] = c["url"]
+                print("  %d %s -> respaldo" % (e["num"], e["name"]))
                 break
-        if replacement:
-            print("  %d %s -> reemplazado" % (e["num"], e["name"]))
-            lines[e["url_line"]] = replacement
-            changes += 1
         else:
             print("  %d %s -> SIN respaldo funcional" % (e["num"], e["name"]))
+    return replacements
+
+
+def write_status(entries):
+    """Prueba todos los canales numerados y escribe channel_status.json."""
+    numbered = [e for e in entries if e["num"] is not None]
+    if not numbered:
+        return
+    with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as ex:
+        results = list(
+            ex.map(lambda e: alive(e["url"], timeout=8, attempts=1), numbered)
+        )
+    status = {}
+    for e, ok in zip(numbered, results):
+        num = e["num"]
+        # Un canal repetido se marca vivo si cualquiera de sus senales responde.
+        status[num] = bool(status.get(num, False) or ok)
+    payload = {
+        "updated": datetime.datetime.now(datetime.timezone.utc).isoformat(
+            timespec="seconds"
+        ),
+        "count": len(status),
+        "status": {str(k): v for k, v in sorted(status.items())},
+    }
+    with open(STATUS, "w", encoding="utf-8", newline="\n") as fh:
+        json.dump(payload, fh, ensure_ascii=False)
+    print("estado escrito: %d canales (%d vivos)" % (len(status), sum(status.values()))) 
+
+
+def main():
+    lines = open(M3U, encoding="utf-8").read().splitlines()
+    entries = parse(lines)
+
+    replacements = replace_dead(entries)
+    if replacements is None:
+        return 1
+
+    changes = 0
+    for line_no, url in replacements.items():
+        lines[line_no] = url
+        changes += 1
 
     if changes:
-        open(path, "w", encoding="utf-8", newline="\n").write("\n".join(lines) + "\n")
+        with open(M3U, "w", encoding="utf-8", newline="\n") as fh:
+            fh.write("\n".join(lines) + "\n")
         print("cambios aplicados: %d" % changes)
     else:
-        print("sin cambios")
+        print("sin cambios en la grilla")
+
+    # Estado para los puntos verde/rojo de la app (sobre la lista ya corregida).
+    write_status(parse(lines))
     return 0
 
 
