@@ -20,12 +20,12 @@ https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="NACIONALES CHILE",10 TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" group-title="NACIONALES CHILE",11 CHV
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" backup-url="https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL" group-title="NACIONALES CHILE",11 CHV
+https://origin.dpsgo.com/ssai/event/R6cwOFyHQXaW6-kMcfWYKA/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" group-title="NACIONALES CHILE",12 UCV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1733_Canal_13.png" group-title="NACIONALES CHILE",13 CANAL 13
-https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1733_Canal_13.png" backup-url="https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL" group-title="NACIONALES CHILE",13 CANAL 13
+https://origin.dpsgo.com/ssai/event/nthipJzGQY-A-N0t6xCZhA/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1153_CHV_Noticias.png" group-title="NACIONALES CHILE",14 CHV NOTICIAS
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png" group-title="NACIONALES CHILE",15 TVN 24 HORAS
@@ -998,7 +998,7 @@ http://mag.vipsclient.org:80/101340/665337662/3AFD47/101340.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/KVJI8H1Mt-VVIWzDW7uMtp5t5SE5evJfhSnK8mVVOLyH9GwpRNebO10-f16PpOqBevY7xmR1YpscJOd5MqV4N9vdszzkvRuTyAXxXlUcHYfkqiQ" group-title="VERIFICAR",497 CHV | pirostv
 http://pirostv.lat:8080/live/Nestrive/Polopolo321$/252876.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/KVJI8H1Mt-VVIWzDW7uMtp5t5SE5evJfhSnK8mVVOLyH9GwpRNebO10-f16PpOqBevY7xmR1YpscJOd5MqV4N9vdszzkvRuTyAXxXlUcHYfkqiQ" group-title="VERIFICAR",498 CHV ✪ | CL | m3u.cl
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
+https://origin.dpsgo.com/ssai/event/R6cwOFyHQXaW6-kMcfWYKA/master.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/KVJI8H1Mt-VVIWzDW7uMtp5t5SE5evJfhSnK8mVVOLyH9GwpRNebO10-f16PpOqBevY7xmR1YpscJOd5MqV4N9vdszzkvRuTyAXxXlUcHYfkqiQ" group-title="VERIFICAR",499 ChileVision (1080p) | iptv-org
 http://15.204.246.24:8080/CHVHD/index.m3u8
 #EXTINF:-1 group-title="VERIFICAR",500 LAT - DIRECTV SPORTS 1 | dru4.xyz
@@ -2436,7 +2436,7 @@ https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png" group-title="M3U.CL CHILE",2075 13 Viajes
 https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" group-title="M3U.CL CHILE",2076 CHV
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
+https://origin.dpsgo.com/ssai/event/R6cwOFyHQXaW6-kMcfWYKA/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="M3U.CL CHILE",2077 La Red
 https://live.getcirca.run/3969875408/ts:abr.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="M3U.CL CHILE",2078 Mega
@@ -2670,7 +2670,7 @@ https://stmv4.voxtvhd.com.br/cadenartv/cadenartv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/437_Campo_Abierto_TV.png" group-title="M3U.CL CHILE",2192 Campo Abierto TV
 https://v2.tustreaming.cl:443/catvlive/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1733_Canal_13.png" group-title="M3U.CL CHILE",2193 Canal 13
-https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
+https://origin.dpsgo.com/ssai/event/nthipJzGQY-A-N0t6xCZhA/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1020_Caracola_TV.png" group-title="M3U.CL CHILE",2194 Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/435_Chile_Channel.png" group-title="M3U.CL CHILE",2195 Chile Channel
