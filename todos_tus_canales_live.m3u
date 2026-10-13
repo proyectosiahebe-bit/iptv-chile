@@ -1,36 +1,36 @@
 #EXTM3U
-# ===== GRILLA ORIGINAL 1-119 (sin cambios) =====
-#EXTINF:-1 group-title="NACIONALES CHILE",1 ADN TV
+# ===== GRILLA ORIGINAL 1-119 (canales nacionales con señales e iconos de m3u.cl) =====
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/424_ADN.png" group-title="NACIONALES CHILE",1 ADN TV
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ALOcZ2wDFGBN2iaGFvORdpJF7t5Pew60blIYb3rY2e0pwV_NkbfBIsnRQ11CV0GzXKL_RroFyL-3saH-lee8QPoAa7pBAgQbUnBKzlyjL-ZUM7pQ" group-title="NACIONALES CHILE",2 BIO BIO TV
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png" group-title="NACIONALES CHILE",2 BIO BIO TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES CHILE",3 TVR
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/77_TVR.png" group-title="NACIONALES CHILE",3 TVR
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/-fj9SLlX9-HlWIE_f4xvGFc3sZDo4G4DECdxCvWSyRPTl9mavQcWnnsRRvux5ylYDqjmgFlZlC3zsj4cl1vz-zqQ_U1TCq90KxBrB90" group-title="NACIONALES CHILE",4 LA RED
-http://pirostv.lat:8080/live/Nestrive/Polopolo321%24/451027.m3u
-#EXTINF:-1 group-title="NACIONALES CHILE",5 TV+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="NACIONALES CHILE",4 LA RED
+https://live.getcirca.run/3969875408/ts:abr.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="NACIONALES CHILE",5 TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NACIONALES CHILE",6 TV CHILE
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/491_TV_Chile.png" group-title="NACIONALES CHILE",6 TV CHILE
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/BVk8UwTw-9CrhRNDYZ3Ljyj3YB_fOMhcxZPI0yvNzN5zv9dQu7boKQ6zII0kxacl3PTAxLK7ffPHNKsi-vnyoL-mAYLNeCihbobB" group-title="NACIONALES CHILE",7 TVN
-http://solutionspremium.net:80/channel/user2620/37428848293/41360.ts
-#EXTINF:-1 group-title="NACIONALES CHILE",8 NTV
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="NACIONALES CHILE",7 TVN
+https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="NACIONALES CHILE",8 NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/-GmpZepbkfmdTV6jQYx5FAXBdbtKVFvTHWz_4XW_-6pr2uoCGuL_2i4HR284phpnAmfoQHFyACDG5xxZje26O0zwzdX4ip2r4fgqMQ" group-title="NACIONALES CHILE",9 MEGA
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="NACIONALES CHILE",9 MEGA
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/BVk8UwTw-9CrhRNDYZ3Ljyj3YB_fOMhcxZPI0yvNzN5zv9dQu7boKQ6zII0kxacl3PTAxLK7ffPHNKsi-vnyoL-mAYLNeCihbobB" group-title="NACIONALES CHILE",10 TVN3
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="NACIONALES CHILE",10 TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/KVJI8H1Mt-VVIWzDW7uMtp5t5SE5evJfhSnK8mVVOLyH9GwpRNebO10-f16PpOqBevY7xmR1YpscJOd5MqV4N9vdszzkvRuTyAXxXlUcHYfkqiQ" group-title="NACIONALES CHILE",11 CHV
-http://solutionspremium.net:80/channel/user2620/37428848293/865.ts
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/qcvAlKKjdzYbFwSWdgptXosy9gV23Szm_XPe98Oro9sQ3G9vnLNTHw0xAnji91XsNMxpHZfZ3ob0wAEf62N1IRq2_gird7c1fgGwZZ4" group-title="NACIONALES CHILE",12 UCV
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" group-title="NACIONALES CHILE",11 CHV
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" group-title="NACIONALES CHILE",12 UCV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Bi77AbrIzZZyaUvWD_ViK_P-F7NeICTqJ06utRrVetbKNAI_fB3O1Dk-ssOMwtw32NU7sIkR6inJc5qMm0WhLkRC3-rFrwyu_qfMjPGvfQ" group-title="NACIONALES CHILE",13 CANAL 13
-http://pirostv.lat:8080/live/Nestrive/Polopolo321$/451032.ts
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/KVJI8H1Mt-VVIWzDW7uMtp5t5SE5evJfhSnK8mVVOLyH9GwpRNebO10-f16PpOqBevY7xmR1YpscJOd5MqV4N9vdszzkvRuTyAXxXlUcHYfkqiQ" group-title="NACIONALES CHILE",14 CHV NOTICIAS
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1733_Canal_13.png" group-title="NACIONALES CHILE",13 CANAL 13
+https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1153_CHV_Noticias.png" group-title="NACIONALES CHILE",14 CHV NOTICIAS
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/eeZewd70rE87Y22RjiKz34lmEwZSaZbPRUZ0LJQ8oMeUNwVvm52wBV2sk47hBccPwxRfoQFFnnmL1r3RgII-bEWcvP32qFUc9IgqXZhlKA" group-title="NACIONALES CHILE",15 TVN 24 HORAS
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png" group-title="NACIONALES CHILE",15 TVN 24 HORAS
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Bi77AbrIzZZyaUvWD_ViK_P-F7NeICTqJ06utRrVetbKNAI_fB3O1Dk-ssOMwtw32NU7sIkR6inJc5qMm0WhLkRC3-rFrwyu_qfMjPGvfQ" group-title="NACIONALES CHILE",16 T13
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" group-title="NACIONALES CHILE",16 T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Yft_On76vw2qygsgK4OmPGmN2VpxvoylzAdHTJ_e8fGDWrMsxjSygqKG5QoyFd4wcKYZljxhHq6-W63OPwLjfhL6_3RnbyUxaTN8jWRcD_U" group-title="NOTICIAS",17 CNN CHILE
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197031.ts
@@ -50,7 +50,7 @@ http://solutionspremium.net:80/channel/user2620/37428848293/1225.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/1022.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/MQn-Am1xC0HlFErjQcN7TKDBL-cVFL9SWUco6-36puNPHXZWPIeOHmsM649Kl7ve0yvCj0M4ivM4dlfQoWhRZKt12_CRf00vyTpSfaSgT4sqNqix512L" group-title="SERIES / REALITY",25 STUDIO UNIVERSAL
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/254.ts
-#EXTINF:-1 group-title="NACIONALES CHILE",26 RETRO PLUS PELICULAS
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="NACIONALES CHILE",26 RETRO PLUS PELICULAS
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/OEvBdfpFKIrhZyLa_3qxuUcYYthxkD0mfMtlB9DYOvG4LEioFvrZwWmCXqaZEjJ2NN37FtcmMnMNVlnXAuBTpZcRVZTY4Ody7dbxSWfWfw" group-title="CINE",27 CINEMAX
 http://solutionspremium.net:80/channel/user2620/37428848293/86782.ts
@@ -158,16 +158,16 @@ http://pirostv.lat:25461/live/Armando12/Armando12/267391.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/93010.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/etT2l4HCOmxaUQ5FOqoaXYYdBJZ4H3NwRV_FHRzOt2gZWCbPV1L_6UGKd4odWVpUNe0zYaSki5UaWTa2F7PNOFKYEG5GCTJiI2vWucTrEjyC" group-title="DEPORTES",79 TNT SPORTS BASICO
 http://solutionspremium.net:80/channel/user2620/37428848293/93050.ts
-#EXTINF:-1 group-title="NACIONALES CHILE",80 RETRO PLUS TV
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="NACIONALES CHILE",80 RETRO PLUS TV
 https://srt01.logicahost.com.br/senal1/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="NACIONALES CHILE",81 RETRO PLUS TV SEÑAL 2
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="NACIONALES CHILE",81 RETRO PLUS TV SEÑAL 2
 https://srt01.logicahost.com.br/senal2/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/13pXyta_cboE1uRh3fpeWijzfOOc0Qs4Psi0ooYLY2N696rifrqp_Bl70uMh18r2LI-zuTg7ib4QW6eBTiILAJ_7k4zRV2aGvzQfrbE8OA" group-title="MUSICA",82 MTV LIVE
 http://pirostv.lat:25461/live/Armando12/Armando12/356.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Ckq2yFboT3MbGE5ez99B4L9OeJv2G9dtFI4mfM0b5M23cL5-0rRnXjMFZNAv0SHkTuOGwpcc7ugR-pIsS8-DQht19wT6F25JRIMp" group-title="MUSICA",83 MTV
 http://solutionspremium.net:80/channel/user2620/37428848293/36823.ts
-#EXTINF:-1 group-title="MUSICA",84 13 FESTIVAL
-https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png" group-title="MUSICA",84 13 FESTIVAL
+https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA",85 PORTAL FOXMIX
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",86 RETROMUSICA TELEVISION
@@ -208,7 +208,7 @@ http://solutionspremium.net:80/channel/user2620/37428848293/40075.ts
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/b1Ql68iixmFoEd00ywCHBUdh3OMj53sI8QlmQVHNqpHm35tvZfadcDN0Ux1KuVGNh4URU0BgZdBSx7FQEygtcDtNphbZPM7cQYdsrMEoFbU" group-title="NACIONALES CHILE",104 TELETRAK
 https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
-#EXTINF:-1 group-title="RADIOS",105 FM PLUS
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1755_FM_Plus.png" group-title="RADIOS",105 FM PLUS
 https://v2.tustreaming.cl/fmplus/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ALOcZ2wDFGBN2iaGFvORdpJF7t5Pew60blIYb3rY2e0pwV_NkbfBIsnRQ11CV0GzXKL_RroFyL-3saH-lee8QPoAa7pBAgQbUnBKzlyjL-ZUM7pQ" group-title="RADIOS",106 RADIO BIO BIO CONCEPCION
 https://redirector.dps.live/biobioconcepcion/audiohls/playlist.m3u8
