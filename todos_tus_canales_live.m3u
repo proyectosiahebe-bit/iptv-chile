@@ -13,7 +13,7 @@ https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/491_TV_Chile.png" group-title="NACIONALES CHILE",6 TV CHILE
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="NACIONALES CHILE",7 TVN
-https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL
+http://solutionspremium.net:80/channel/user2620/37428848293/87265.ts
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="NACIONALES CHILE",8 NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="NACIONALES CHILE",9 MEGA
