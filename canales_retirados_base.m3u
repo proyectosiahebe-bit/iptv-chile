@@ -44,3 +44,87 @@ http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6Ri9lU2M1dkpTWDQ4S2sxUFBKL
 # Retirado de la grilla el 2026-09-16 (URL previa de 45 reemplazada)
 #EXTINF:-1 group-title="CINE",45 HBO
 http://solutionspremium.net:80/channel/user2620/37428848293/86757.ts
+# Guardado en base el 2026-10-15 (movido a la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/h46bMYPqB0pS5Z_PXTpRi0-r3j4nAM8uk3BFS-FBq1f0TNComWoVQJrLiYkaqsJ4C3JflqCcPFbu_-uxi4XClEqDfj-QsErB6qjYEK4" group-title="PARA VERIFICAR",363 PARA VERIFICAR A&E HD MX (ALT) [canal40]
+http://solutionspremium.net:80/channel/user2620/37428848293/86931.ts
+# Guardado en base el 2026-10-15 (movido a la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Ozn30PHNQSa-_IIUrJtx4L3oibvBML0NAOT-YdIxkmBG__y3BUvsrxuh4eWAi47b_00IlQId7Oc1swu-_NlwUpanXt4LiJQmxkd-" group-title="PARA VERIFICAR",364 PARA VERIFICAR CNN ESPANOL HD (ALT) [canal64]
+http://solutionspremium.net:80/channel/user2620/37428848293/7914.ts
+# Guardado en base el 2026-10-15 (movido a la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Yft_On76vw2qygsgK4OmPGmN2VpxvoylzAdHTJ_e8fGDWrMsxjSygqKG5QoyFd4wcKYZljxhHq6-W63OPwLjfhL6_3RnbyUxaTN8jWRcD_U" group-title="FUENTES",378 FUENTE CNN CHILE (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZhMUwZlQW7eqtcVgACQh427NwkWm4NzV-shNMA4cw0
+# Guardado en base el 2026-10-15 (movido a la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ALWSEgpcwy71MYYTT8lWPyLgH41r4Z0JkhjTqUAN6TnVO83mXyTvEqkdFEc-i2zA_-MpxfgPeZMBGI_zAETAX1bEtLsE-HC5i8db" group-title="FUENTES",398 FUENTE HBO PLUS (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/135.ts
+# Guardado en base el 2026-10-15 (movido a la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/_qKtd8B9hWIeGgdHZBve124Y2bRAEQ_Z4RYGLNfScSVRaUYuW_yaWWP4y1YbTFt_bu7rfR5WJ9HeWHsXDGwAkpwicz0uARF5Jo-3AfM01EAj" group-title="FUENTES",403 FUENTE HBO FAMILY (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/249258.m3u8
+# Guardado en base el 2026-10-15 (movido a la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/imX-B0zuztl4-xnmjdQ_pEdcp4vNuet5qI-OrfyEMEOzZuALvEbGwx65XLDIQBN7mRQTeOGvd891oIKI8NE5BpLzVdu0jPe49pn9IM60" group-title="FUENTES",410 FUENTE HBO POP (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/139.ts
+# Guardado en base el 2026-10-15 (movido a la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/2CSJBWNopFxIRCRuwdWMiiEf1V7ZdXvXzHjlD8MfZ8-PdBa3JwRImRlP9cz-VAZITCyfnyacuFoJge0nr1hp721ljegMEwTWsV35mmR4qDVoxF5V" group-title="FUENTES",413 FUENTE HBO SIGNATURE (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/136.ts
+# Guardado en base el 2026-10-15 (movido a la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ke58vEz0sYQUmK6MUFicKPHkzDKrgtObL6-LdNWOI1nRo1Tb0iixNSR9RNQrK77pO2mBiICXavA5oY2urVD1dl9ruMjJ_w9bfLdl6D9Ajts" group-title="FUENTES",418 FUENTE HBO MUNDI (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/137.ts
+# Guardado en base el 2026-10-15 (movido a la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/efY2qxdLkXRDIrnSXI5cjf0vOSz1J8pwG-GRZORFRTwPhtDWldhO82oQxDERS1fv18a3hYCAw6VxO1NyIjvFo0SzAWuD1vCo2OClhqxA6zYBQSYf0ugeCw" group-title="FUENTES",423 FUENTE DISCOVERY CHANNEL (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/249257.m3u8
+# Guardado en base el 2026-10-15 (movido a la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/dgHD1galPEcyg9Efu4sBrsJpt_Dq1JUMQK6X2atXMYFrlvcgkDNjSN5oqVwKBMeNV2btrRfI6k_xcJg37SCwLGj4arVp4cK7ImRbzxNvVJBB" group-title="FUENTES",428 FUENTE DISCOVERY TLC (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/249230.m3u8
+# Guardado en base el 2026-10-15 (movido a la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/W3kBsM1Fe1NL-PqKDZkx7nsALfQM0q1LwQN6o8ZIuPEl000VlMglvuRjWekjGzFs8fZ4_nINPjMuwgmyhzWUzErgY0Qd-sgB89t7sw" group-title="FUENTES",436 FUENTE ESPN (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/528530.ts
+# Guardado en base el 2026-10-15 (movido a la grilla SD)
+#EXTINF:-1 group-title="FUENTES",455 FUENTE DSPORTS (planettvweb)
+http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/12739
+# Guardado en base el 2026-10-15 (retirado de la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/BVk8UwTw-9CrhRNDYZ3Ljyj3YB_fOMhcxZPI0yvNzN5zv9dQu7boKQ6zII0kxacl3PTAxLK7ffPHNKsi-vnyoL-mAYLNeCihbobB" group-title="ALTERNATIVAS SD",358 TVN SD (720p)
+http://solutionspremium.net:80/channel/user2620/37428848293/41360.ts
+# Guardado en base el 2026-10-15 (retirado de la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/KVJI8H1Mt-VVIWzDW7uMtp5t5SE5evJfhSnK8mVVOLyH9GwpRNebO10-f16PpOqBevY7xmR1YpscJOd5MqV4N9vdszzkvRuTyAXxXlUcHYfkqiQ" group-title="ALTERNATIVAS SD",359 CHV SD (576p)
+http://solutionspremium.net:80/channel/user2620/37428848293/864.ts
+# Guardado en base el 2026-10-15 (retirado de la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/-GmpZepbkfmdTV6jQYx5FAXBdbtKVFvTHWz_4XW_-6pr2uoCGuL_2i4HR284phpnAmfoQHFyACDG5xxZje26O0zwzdX4ip2r4fgqMQ" group-title="ALTERNATIVAS SD",360 MEGA SD (576p)
+http://solutionspremium.net:80/channel/user2620/37428848293/13262.ts
+# Guardado en base el 2026-10-15 (retirado de la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Bi77AbrIzZZyaUvWD_ViK_P-F7NeICTqJ06utRrVetbKNAI_fB3O1Dk-ssOMwtw32NU7sIkR6inJc5qMm0WhLkRC3-rFrwyu_qfMjPGvfQ" group-title="ALTERNATIVAS SD",361 CANAL 13 SD (576p)
+http://solutionspremium.net:80/channel/user2620/37428848293/870.ts
+# Guardado en base el 2026-10-15 (retirado de la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/h46bMYPqB0pS5Z_PXTpRi0-r3j4nAM8uk3BFS-FBq1f0TNComWoVQJrLiYkaqsJ4C3JflqCcPFbu_-uxi4XClEqDfj-QsErB6qjYEK4" group-title="ALTERNATIVAS SD",363 A&E
+http://solutionspremium.net:80/channel/user2620/37428848293/86931.ts
+# Guardado en base el 2026-10-15 (retirado de la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Ozn30PHNQSa-_IIUrJtx4L3oibvBML0NAOT-YdIxkmBG__y3BUvsrxuh4eWAi47b_00IlQId7Oc1swu-_NlwUpanXt4LiJQmxkd-" group-title="ALTERNATIVAS SD",364 CNN ESPAÑOL
+http://solutionspremium.net:80/channel/user2620/37428848293/7914.ts
+# Guardado en base el 2026-10-15 (retirado de la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Yft_On76vw2qygsgK4OmPGmN2VpxvoylzAdHTJ_e8fGDWrMsxjSygqKG5QoyFd4wcKYZljxhHq6-W63OPwLjfhL6_3RnbyUxaTN8jWRcD_U" group-title="ALTERNATIVAS SD",365 CNN CHILE
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZhMUwZlQW7eqtcVgACQh427NwkWm4NzV-shNMA4cw0
+# Guardado en base el 2026-10-15 (retirado de la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ALWSEgpcwy71MYYTT8lWPyLgH41r4Z0JkhjTqUAN6TnVO83mXyTvEqkdFEc-i2zA_-MpxfgPeZMBGI_zAETAX1bEtLsE-HC5i8db" group-title="ALTERNATIVAS SD",398 HBO+
+http://pirostv.lat:25461/live/Armando12/Armando12/135.ts
+# Guardado en base el 2026-10-15 (retirado de la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/_qKtd8B9hWIeGgdHZBve124Y2bRAEQ_Z4RYGLNfScSVRaUYuW_yaWWP4y1YbTFt_bu7rfR5WJ9HeWHsXDGwAkpwicz0uARF5Jo-3AfM01EAj" group-title="ALTERNATIVAS SD",403 HBO FAMILY
+http://blushes.top:80/live/466634866/Y896v1908W/249258.m3u8
+# Guardado en base el 2026-10-15 (retirado de la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/imX-B0zuztl4-xnmjdQ_pEdcp4vNuet5qI-OrfyEMEOzZuALvEbGwx65XLDIQBN7mRQTeOGvd891oIKI8NE5BpLzVdu0jPe49pn9IM60" group-title="ALTERNATIVAS SD",410 HBO POP
+http://pirostv.lat:25461/live/Armando12/Armando12/139.ts
+# Guardado en base el 2026-10-15 (retirado de la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/2CSJBWNopFxIRCRuwdWMiiEf1V7ZdXvXzHjlD8MfZ8-PdBa3JwRImRlP9cz-VAZITCyfnyacuFoJge0nr1hp721ljegMEwTWsV35mmR4qDVoxF5V" group-title="ALTERNATIVAS SD",413 HBO SIGNATURE
+http://pirostv.lat:25461/live/Armando12/Armando12/136.ts
+# Guardado en base el 2026-10-15 (retirado de la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ke58vEz0sYQUmK6MUFicKPHkzDKrgtObL6-LdNWOI1nRo1Tb0iixNSR9RNQrK77pO2mBiICXavA5oY2urVD1dl9ruMjJ_w9bfLdl6D9Ajts" group-title="ALTERNATIVAS SD",418 HBO MUNDI
+http://pirostv.lat:25461/live/Armando12/Armando12/137.ts
+# Guardado en base el 2026-10-15 (retirado de la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/efY2qxdLkXRDIrnSXI5cjf0vOSz1J8pwG-GRZORFRTwPhtDWldhO82oQxDERS1fv18a3hYCAw6VxO1NyIjvFo0SzAWuD1vCo2OClhqxA6zYBQSYf0ugeCw" group-title="ALTERNATIVAS SD",423 DISCOVERY CHANNEL
+http://blushes.top:80/live/466634866/Y896v1908W/249257.m3u8
+# Guardado en base el 2026-10-15 (retirado de la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/dgHD1galPEcyg9Efu4sBrsJpt_Dq1JUMQK6X2atXMYFrlvcgkDNjSN5oqVwKBMeNV2btrRfI6k_xcJg37SCwLGj4arVp4cK7ImRbzxNvVJBB" group-title="ALTERNATIVAS SD",428 TLC
+http://blushes.top:80/live/466634866/Y896v1908W/249230.m3u8
+# Guardado en base el 2026-10-15 (retirado de la grilla SD)
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/W3kBsM1Fe1NL-PqKDZkx7nsALfQM0q1LwQN6o8ZIuPEl000VlMglvuRjWekjGzFs8fZ4_nINPjMuwgmyhzWUzErgY0Qd-sgB89t7sw" group-title="ALTERNATIVAS SD",436 ESPN
+http://pirostv.lat:25461/live/Armando12/Armando12/528530.ts
+# Guardado en base el 2026-10-15 (retirado de la grilla SD)
+#EXTINF:-1 group-title="ALTERNATIVAS SD",455 DSPORTS
+http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/12739

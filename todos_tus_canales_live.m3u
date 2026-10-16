@@ -6,9 +6,9 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/77_TVR.png" group-title="NACIONALES CHILE",3 TVR
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="NACIONALES CHILE",4 LA RED
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="NACIONALES CHILE",123 LA RED
 https://live.getcirca.run/3969875408/ts:abr.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="NACIONALES CHILE",5 TV+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="NACIONALES CHILE",124 TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/491_TV_Chile.png" group-title="NACIONALES CHILE",6 TV CHILE
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
@@ -245,9 +245,9 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="122" tvg-name="122 TVR" tvg-logo="" group-title="NACIONALES CHILE",122 TVR
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="123" tvg-name="123 LA RED" tvg-logo="https://iptv-epg.org/images/-fj9SLlX9-HlWIE_f4xvGFc3sZDo4G4DECdxCvWSyRPTl9mavQcWnnsRRvux5ylYDqjmgFlZlC3zsj4cl1vz-zqQ_U1TCq90KxBrB90" group-title="NACIONALES CHILE",123 LA RED
+#EXTINF:-1 tvg-id="4" tvg-name="4 LA RED" tvg-logo="https://iptv-epg.org/images/-fj9SLlX9-HlWIE_f4xvGFc3sZDo4G4DECdxCvWSyRPTl9mavQcWnnsRRvux5ylYDqjmgFlZlC3zsj4cl1vz-zqQ_U1TCq90KxBrB90" group-title="NACIONALES CHILE",4 LA RED
 http://pirostv.lat:8080/live/Nestrive/Polopolo321%24/451027.m3u
-#EXTINF:-1 tvg-id="124" tvg-name="124 TV+" tvg-logo="" group-title="NACIONALES CHILE",124 TV+
+#EXTINF:-1 tvg-id="5" tvg-name="5 TV+" tvg-logo="" group-title="NACIONALES CHILE",5 TV+
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts
 #EXTINF:-1 tvg-id="125" tvg-name="125 TV CHILE" tvg-logo="" group-title="NACIONALES CHILE",125 TV CHILE
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
@@ -717,20 +717,8 @@ https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="357" tvg-name="357 LA METRO" tvg-logo="" group-title="RADIOS",357 LA METRO
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
 # ===== SECCIONES DE TRABAJO (renumeradas 358+) =====
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/BVk8UwTw-9CrhRNDYZ3Ljyj3YB_fOMhcxZPI0yvNzN5zv9dQu7boKQ6zII0kxacl3PTAxLK7ffPHNKsi-vnyoL-mAYLNeCihbobB" group-title="ALTERNATIVAS SD",358 TVN SD (720p)
-http://solutionspremium.net:80/channel/user2620/37428848293/41360.ts
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/KVJI8H1Mt-VVIWzDW7uMtp5t5SE5evJfhSnK8mVVOLyH9GwpRNebO10-f16PpOqBevY7xmR1YpscJOd5MqV4N9vdszzkvRuTyAXxXlUcHYfkqiQ" group-title="ALTERNATIVAS SD",359 CHV SD (576p)
-http://solutionspremium.net:80/channel/user2620/37428848293/864.ts
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/-GmpZepbkfmdTV6jQYx5FAXBdbtKVFvTHWz_4XW_-6pr2uoCGuL_2i4HR284phpnAmfoQHFyACDG5xxZje26O0zwzdX4ip2r4fgqMQ" group-title="ALTERNATIVAS SD",360 MEGA SD (576p)
-http://solutionspremium.net:80/channel/user2620/37428848293/13262.ts
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Bi77AbrIzZZyaUvWD_ViK_P-F7NeICTqJ06utRrVetbKNAI_fB3O1Dk-ssOMwtw32NU7sIkR6inJc5qMm0WhLkRC3-rFrwyu_qfMjPGvfQ" group-title="ALTERNATIVAS SD",361 CANAL 13 SD (576p)
-http://solutionspremium.net:80/channel/user2620/37428848293/870.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Ms84Ru_VzLny-ptXM3c6NEY_iZFQylOkqQgHl2u8O8JhuRj80r_QJhPdox6j6Vn5PIglGl-1yzK5WEy_QA2dLQvCbuOLknWSntXK" group-title="PARA VERIFICAR",362 PARA VERIFICAR AMC HD (ALT) [canal39]
 http://solutionspremium.net:80/channel/user2620/37428848293/347.ts
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/h46bMYPqB0pS5Z_PXTpRi0-r3j4nAM8uk3BFS-FBq1f0TNComWoVQJrLiYkaqsJ4C3JflqCcPFbu_-uxi4XClEqDfj-QsErB6qjYEK4" group-title="PARA VERIFICAR",363 PARA VERIFICAR A&E HD MX (ALT) [canal40]
-http://solutionspremium.net:80/channel/user2620/37428848293/86931.ts
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Ozn30PHNQSa-_IIUrJtx4L3oibvBML0NAOT-YdIxkmBG__y3BUvsrxuh4eWAi47b_00IlQId7Oc1swu-_NlwUpanXt4LiJQmxkd-" group-title="PARA VERIFICAR",364 PARA VERIFICAR CNN ESPANOL HD (ALT) [canal64]
-http://solutionspremium.net:80/channel/user2620/37428848293/7914.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Ozn30PHNQSa-_IIUrJtx4L3oibvBML0NAOT-YdIxkmBG__y3BUvsrxuh4eWAi47b_00IlQId7Oc1swu-_NlwUpanXt4LiJQmxkd-" group-title="PARA VERIFICAR",365 PV CNN UHD
 http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/1028554.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/_qKtd8B9hWIeGgdHZBve124Y2bRAEQ_Z4RYGLNfScSVRaUYuW_yaWWP4y1YbTFt_bu7rfR5WJ9HeWHsXDGwAkpwicz0uARF5Jo-3AfM01EAj" group-title="PARA VERIFICAR",366 PV HBO FAMILY
@@ -757,8 +745,6 @@ https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197012.ts
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBIYBV7DnB8Iu2C3cBJoFcxD
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Bi77AbrIzZZyaUvWD_ViK_P-F7NeICTqJ06utRrVetbKNAI_fB3O1Dk-ssOMwtw32NU7sIkR6inJc5qMm0WhLkRC3-rFrwyu_qfMjPGvfQ" group-title="FUENTES",377 FUENTE T13 (planettvweb)
 http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/17998
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Yft_On76vw2qygsgK4OmPGmN2VpxvoylzAdHTJ_e8fGDWrMsxjSygqKG5QoyFd4wcKYZljxhHq6-W63OPwLjfhL6_3RnbyUxaTN8jWRcD_U" group-title="FUENTES",378 FUENTE CNN CHILE (itocr)
-https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZhMUwZlQW7eqtcVgACQh427NwkWm4NzV-shNMA4cw0
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/3alGHmRpqCSmiDwpe8cSGtCprmUQQT6H4kjiNzzFQIAiQfpPSq8GxIUDYFadOkxCac6ehHbOoPiDFhKiGRg38Dlf5EhwW9Fvr9a3AtfjplQwkg" group-title="FUENTES",379 FUENTE ZONA LATINA (itocr)
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBLcPGATUN_urJYmCR9QqyC0
 #EXTINF:-1 group-title="FUENTES",380 FUENTE VIA X (emilyba)
@@ -797,8 +783,6 @@ http://otrasbx.com:80/590894722980/043044018269/140733
 http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/10177
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/x8rA41yuwyoJFiNxCC5HFlluZ8hW_TAfBhQhnrD1AM7K94Hl9ZtMBE2xOeisM5hp5oEDx88dHs7GaoHqrwef6VnOEmNWGiY1WZ8bRQ" group-title="FUENTES",397 FUENTE HBO 2 (njftxw_u3)
 http://njftxw.top:8080/7661769250381/718219ab4142/10177
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ALWSEgpcwy71MYYTT8lWPyLgH41r4Z0JkhjTqUAN6TnVO83mXyTvEqkdFEc-i2zA_-MpxfgPeZMBGI_zAETAX1bEtLsE-HC5i8db" group-title="FUENTES",398 FUENTE HBO PLUS (pirostv)
-http://pirostv.lat:25461/live/Armando12/Armando12/135.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ALWSEgpcwy71MYYTT8lWPyLgH41r4Z0JkhjTqUAN6TnVO83mXyTvEqkdFEc-i2zA_-MpxfgPeZMBGI_zAETAX1bEtLsE-HC5i8db" group-title="FUENTES",399 FUENTE HBO PLUS (emilyba)
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197852.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ALWSEgpcwy71MYYTT8lWPyLgH41r4Z0JkhjTqUAN6TnVO83mXyTvEqkdFEc-i2zA_-MpxfgPeZMBGI_zAETAX1bEtLsE-HC5i8db" group-title="FUENTES",400 FUENTE HBO PLUS (blushes)
@@ -807,8 +791,6 @@ http://blushes.top:80/live/466634866/Y896v1908W/249246.m3u8
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197850.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/_qKtd8B9hWIeGgdHZBve124Y2bRAEQ_Z4RYGLNfScSVRaUYuW_yaWWP4y1YbTFt_bu7rfR5WJ9HeWHsXDGwAkpwicz0uARF5Jo-3AfM01EAj" group-title="FUENTES",402 FUENTE HBO FAMILY (itocr)
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6uY9j_jURgfqEQ8bcwuO-TNXS8jmSJJuITNnR_YsX-7i
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/_qKtd8B9hWIeGgdHZBve124Y2bRAEQ_Z4RYGLNfScSVRaUYuW_yaWWP4y1YbTFt_bu7rfR5WJ9HeWHsXDGwAkpwicz0uARF5Jo-3AfM01EAj" group-title="FUENTES",403 FUENTE HBO FAMILY (blushes)
-http://blushes.top:80/live/466634866/Y896v1908W/249258.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/_qKtd8B9hWIeGgdHZBve124Y2bRAEQ_Z4RYGLNfScSVRaUYuW_yaWWP4y1YbTFt_bu7rfR5WJ9HeWHsXDGwAkpwicz0uARF5Jo-3AfM01EAj" group-title="FUENTES",404 FUENTE HBO FAMILY (otrasbx)
 http://otrasbx.com:80/590894722980/043044018269/140710
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ALWSEgpcwy71MYYTT8lWPyLgH41r4Z0JkhjTqUAN6TnVO83mXyTvEqkdFEc-i2zA_-MpxfgPeZMBGI_zAETAX1bEtLsE-HC5i8db" group-title="FUENTES",405 FUENTE HBO (pirostv)
@@ -821,14 +803,10 @@ https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6osFzleIYwos0b-GloVqQ4S9jOWpyH-gb
 http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/10176
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ALWSEgpcwy71MYYTT8lWPyLgH41r4Z0JkhjTqUAN6TnVO83mXyTvEqkdFEc-i2zA_-MpxfgPeZMBGI_zAETAX1bEtLsE-HC5i8db" group-title="FUENTES",409 FUENTE HBO (njftxw_u3)
 http://njftxw.top:8080/7661769250381/718219ab4142/10176
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/imX-B0zuztl4-xnmjdQ_pEdcp4vNuet5qI-OrfyEMEOzZuALvEbGwx65XLDIQBN7mRQTeOGvd891oIKI8NE5BpLzVdu0jPe49pn9IM60" group-title="FUENTES",410 FUENTE HBO POP (pirostv)
-http://pirostv.lat:25461/live/Armando12/Armando12/139.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/imX-B0zuztl4-xnmjdQ_pEdcp4vNuet5qI-OrfyEMEOzZuALvEbGwx65XLDIQBN7mRQTeOGvd891oIKI8NE5BpLzVdu0jPe49pn9IM60" group-title="FUENTES",411 FUENTE HBO POP (itocr)
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6osFzleIYwos0b-GloVqQ4SEJ7rldeeZCS_t89SNwH9H
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/imX-B0zuztl4-xnmjdQ_pEdcp4vNuet5qI-OrfyEMEOzZuALvEbGwx65XLDIQBN7mRQTeOGvd891oIKI8NE5BpLzVdu0jPe49pn9IM60" group-title="FUENTES",412 FUENTE HBO POP (otrasbx)
 http://otrasbx.com:80/590894722980/043044018269/140737
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/2CSJBWNopFxIRCRuwdWMiiEf1V7ZdXvXzHjlD8MfZ8-PdBa3JwRImRlP9cz-VAZITCyfnyacuFoJge0nr1hp721ljegMEwTWsV35mmR4qDVoxF5V" group-title="FUENTES",413 FUENTE HBO SIGNATURE (pirostv)
-http://pirostv.lat:25461/live/Armando12/Armando12/136.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/2CSJBWNopFxIRCRuwdWMiiEf1V7ZdXvXzHjlD8MfZ8-PdBa3JwRImRlP9cz-VAZITCyfnyacuFoJge0nr1hp721ljegMEwTWsV35mmR4qDVoxF5V" group-title="FUENTES",414 FUENTE HBO SIGNATURE (emilyba)
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197854.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/2CSJBWNopFxIRCRuwdWMiiEf1V7ZdXvXzHjlD8MfZ8-PdBa3JwRImRlP9cz-VAZITCyfnyacuFoJge0nr1hp721ljegMEwTWsV35mmR4qDVoxF5V" group-title="FUENTES",415 FUENTE HBO SIGNATURE (itocr)
@@ -837,8 +815,6 @@ https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZwtIywL0RQpqx28h2qN7Lqi8JYGpJI4
 http://blushes.top:80/live/466634866/Y896v1908W/249247.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/2CSJBWNopFxIRCRuwdWMiiEf1V7ZdXvXzHjlD8MfZ8-PdBa3JwRImRlP9cz-VAZITCyfnyacuFoJge0nr1hp721ljegMEwTWsV35mmR4qDVoxF5V" group-title="FUENTES",417 FUENTE HBO SIGNATURE (otrasbx)
 http://otrasbx.com:80/590894722980/043044018269/140735
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ke58vEz0sYQUmK6MUFicKPHkzDKrgtObL6-LdNWOI1nRo1Tb0iixNSR9RNQrK77pO2mBiICXavA5oY2urVD1dl9ruMjJ_w9bfLdl6D9Ajts" group-title="FUENTES",418 FUENTE HBO MUNDI (pirostv)
-http://pirostv.lat:25461/live/Armando12/Armando12/137.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ke58vEz0sYQUmK6MUFicKPHkzDKrgtObL6-LdNWOI1nRo1Tb0iixNSR9RNQrK77pO2mBiICXavA5oY2urVD1dl9ruMjJ_w9bfLdl6D9Ajts" group-title="FUENTES",419 FUENTE HBO MUNDI (itocr)
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6osFzleIYwos0b-GloVqQ4Rn-jphf9E8naMiJMyD7Plz
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ke58vEz0sYQUmK6MUFicKPHkzDKrgtObL6-LdNWOI1nRo1Tb0iixNSR9RNQrK77pO2mBiICXavA5oY2urVD1dl9ruMjJ_w9bfLdl6D9Ajts" group-title="FUENTES",420 FUENTE HBO MUNDI (otrasbx)
@@ -847,8 +823,6 @@ http://otrasbx.com:80/590894722980/043044018269/140736
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/196771.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/efY2qxdLkXRDIrnSXI5cjf0vOSz1J8pwG-GRZORFRTwPhtDWldhO82oQxDERS1fv18a3hYCAw6VxO1NyIjvFo0SzAWuD1vCo2OClhqxA6zYBQSYf0ugeCw" group-title="FUENTES",422 FUENTE DISCOVERY CHANNEL (itocr)
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6gAxSmFCMy2fFyI-EJ8PuKASIlGruRa98fTH7ggSWBjd
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/efY2qxdLkXRDIrnSXI5cjf0vOSz1J8pwG-GRZORFRTwPhtDWldhO82oQxDERS1fv18a3hYCAw6VxO1NyIjvFo0SzAWuD1vCo2OClhqxA6zYBQSYf0ugeCw" group-title="FUENTES",423 FUENTE DISCOVERY CHANNEL (blushes)
-http://blushes.top:80/live/466634866/Y896v1908W/249257.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/efY2qxdLkXRDIrnSXI5cjf0vOSz1J8pwG-GRZORFRTwPhtDWldhO82oQxDERS1fv18a3hYCAw6VxO1NyIjvFo0SzAWuD1vCo2OClhqxA6zYBQSYf0ugeCw" group-title="FUENTES",424 FUENTE DISCOVERY CHANNEL (otrasbx)
 http://otrasbx.com:80/590894722980/043044018269/87316
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/efY2qxdLkXRDIrnSXI5cjf0vOSz1J8pwG-GRZORFRTwPhtDWldhO82oQxDERS1fv18a3hYCAw6VxO1NyIjvFo0SzAWuD1vCo2OClhqxA6zYBQSYf0ugeCw" group-title="FUENTES",425 FUENTE DISCOVERY CHANNEL (njftxw_u2)
@@ -857,8 +831,6 @@ http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/25019
 http://njftxw.top:8080/7661769250381/718219ab4142/25019
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/dgHD1galPEcyg9Efu4sBrsJpt_Dq1JUMQK6X2atXMYFrlvcgkDNjSN5oqVwKBMeNV2btrRfI6k_xcJg37SCwLGj4arVp4cK7ImRbzxNvVJBB" group-title="FUENTES",427 FUENTE DISCOVERY TLC (itocr)
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6osFzleIYwos0b-GloVqQ4Rm6fGemnPVL9wv63-Y3JQ8
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/dgHD1galPEcyg9Efu4sBrsJpt_Dq1JUMQK6X2atXMYFrlvcgkDNjSN5oqVwKBMeNV2btrRfI6k_xcJg37SCwLGj4arVp4cK7ImRbzxNvVJBB" group-title="FUENTES",428 FUENTE DISCOVERY TLC (blushes)
-http://blushes.top:80/live/466634866/Y896v1908W/249230.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/dgHD1galPEcyg9Efu4sBrsJpt_Dq1JUMQK6X2atXMYFrlvcgkDNjSN5oqVwKBMeNV2btrRfI6k_xcJg37SCwLGj4arVp4cK7ImRbzxNvVJBB" group-title="FUENTES",429 FUENTE DISCOVERY TLC (otrasbx)
 http://otrasbx.com:80/590894722980/043044018269/87317
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/dgHD1galPEcyg9Efu4sBrsJpt_Dq1JUMQK6X2atXMYFrlvcgkDNjSN5oqVwKBMeNV2btrRfI6k_xcJg37SCwLGj4arVp4cK7ImRbzxNvVJBB" group-title="FUENTES",430 FUENTE DISCOVERY TLC (njftxw_u2)
@@ -873,8 +845,6 @@ https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZhMUwZlQW7eqtcVgACQh74_38r9YRCa
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197076.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/etT2l4HCOmxaUQ5FOqoaXYYdBJZ4H3NwRV_FHRzOt2gZWCbPV1L_6UGKd4odWVpUNe0zYaSki5UaWTa2F7PNOFKYEG5GCTJiI2vWucTrEjyC" group-title="FUENTES",435 FUENTE TNT SPORTS (itocr)
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nxKH1IN24yo8Dg3EFgsQpqH-2FHVMkdz2o_OQxWV3-2
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/W3kBsM1Fe1NL-PqKDZkx7nsALfQM0q1LwQN6o8ZIuPEl000VlMglvuRjWekjGzFs8fZ4_nINPjMuwgmyhzWUzErgY0Qd-sgB89t7sw" group-title="FUENTES",436 FUENTE ESPN (pirostv)
-http://pirostv.lat:25461/live/Armando12/Armando12/528530.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/W3kBsM1Fe1NL-PqKDZkx7nsALfQM0q1LwQN6o8ZIuPEl000VlMglvuRjWekjGzFs8fZ4_nINPjMuwgmyhzWUzErgY0Qd-sgB89t7sw" group-title="FUENTES",437 FUENTE ESPN (emilyba)
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197092.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/W3kBsM1Fe1NL-PqKDZkx7nsALfQM0q1LwQN6o8ZIuPEl000VlMglvuRjWekjGzFs8fZ4_nINPjMuwgmyhzWUzErgY0Qd-sgB89t7sw" group-title="FUENTES",438 FUENTE ESPN (itocr)
@@ -911,8 +881,6 @@ https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197110.ts
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nxKH1IN24yo8Dg3EFgsQprg38dnLpRGNMeLWBTnBKe5
 #EXTINF:-1 group-title="FUENTES",454 FUENTE DSPORTS (blushes)
 http://blushes.top:80/live/466634866/Y896v1908W/561315.m3u8
-#EXTINF:-1 group-title="FUENTES",455 FUENTE DSPORTS (planettvweb)
-http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/12739
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/13pXyta_cboE1uRh3fpeWijzfOOc0Qs4Psi0ooYLY2N696rifrqp_Bl70uMh18r2LI-zuTg7ib4QW6eBTiILAJ_7k4zRV2aGvzQfrbE8OA" group-title="FUENTES",456 FUENTE MTV LIVE (itocr)
 https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nwq2ic5kK7QP-dp_GkCS2wz_conAJNIZ2Z9JDt7bWe
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/13pXyta_cboE1uRh3fpeWijzfOOc0Qs4Psi0ooYLY2N696rifrqp_Bl70uMh18r2LI-zuTg7ib4QW6eBTiILAJ_7k4zRV2aGvzQfrbE8OA" group-title="FUENTES",457 FUENTE MTV LIVE (blushes)
