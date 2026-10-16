@@ -2897,3 +2897,20 @@ https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3
 https://5ff3d9babae13.streamlock.net:443/dxwdsmgesp/dxwdsmgesp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1704_TuTV.png" group-title="M3U.CL RADIOS",3103 TuTV
 https://vdochile.com:3775/hybrid/play.m3u8?PlaylistM3UCL
+# ===== FUENTES BACKUP NACIONALES (fuentes vivas probadas, respaldo manual) =====
+#EXTINF:-1 group-title="FUENTES BACKUP NACIONALES",5001 TVN
+http://elvis.tvott.net/stevemeller/ihJN59sd/2953.ts
+#EXTINF:-1 group-title="FUENTES BACKUP NACIONALES",5002 MEGA SD (576p)
+http://solutionspremium.net:80/channel/user2620/37428848293/13262.ts
+#EXTINF:-1 group-title="FUENTES BACKUP NACIONALES",5003 CHV ✪ | CL | m3u.cl
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="FUENTES BACKUP NACIONALES",5004 CANAL 13 SD (576p)
+http://solutionspremium.net:80/channel/user2620/37428848293/870.ts
+#EXTINF:-1 group-title="FUENTES BACKUP NACIONALES",5005 CANAL 13
+https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="FUENTES BACKUP NACIONALES",5006 Canal 13 | pirostv
+http://tv-275228.ifiesta.net:80/TV-14650030923070/116630916768/256679
+#EXTINF:-1 group-title="FUENTES BACKUP NACIONALES",5007 CHV NOTICIAS
+http://elvis.tvott.net/stevemeller/ihJN59sd/2123.ts
+#EXTINF:-1 group-title="FUENTES BACKUP NACIONALES",5008 CNN CHILE
+http://tv-275228.ifiesta.net:80/TV-14650030923070/116630916768/256673
