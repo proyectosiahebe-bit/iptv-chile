@@ -95,7 +95,7 @@ http://blushes.top:80/live/466634866/Y896v1908W/249248.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/2CSJBWNopFxIRCRuwdWMiiEf1V7ZdXvXzHjlD8MfZ8-PdBa3JwRImRlP9cz-VAZITCyfnyacuFoJge0nr1hp721ljegMEwTWsV35mmR4qDVoxF5V" group-title="CINE",47 HBO SIGNATURE
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/63.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ke58vEz0sYQUmK6MUFicKPHkzDKrgtObL6-LdNWOI1nRo1Tb0iixNSR9RNQrK77pO2mBiICXavA5oY2urVD1dl9ruMjJ_w9bfLdl6D9Ajts" group-title="CINE",48 HBO MUNDI
-http://blushes.top:80/live/466634866/Y896v1908W/249249.m3u8
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6011.ts
 #EXTINF:-1 group-title="CINE",49 STARZ
 http://solutionspremium.net:80/channel/user2620/37428848293/1195.ts
 #EXTINF:-1 group-title="CINE",50 ADULT SWIM
@@ -151,9 +151,9 @@ http://pirostv.lat:25461/live/Armando12/Armando12/528522.ts
 #EXTINF:-1 group-title="DEPORTES",75 CDO PREMIUM
 http://solutionspremium.net:80/channel/user2620/37428848293/122090.ts
 #EXTINF:-1 group-title="DEPORTES",76 DSPORTS +
-http://solutionspremium.net:80/channel/user2620/37428848293/146801.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/96259.ts
 #EXTINF:-1 group-title="DEPORTES",77 DSPORTS
-http://solutionspremium.net:80/channel/user2620/37428848293/146801.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/1312.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/L8OBIaUkhgajtZgZjEtNT_KdJvCX6N9qlVbCyN_cT70rHfW2YCnHM2lh_y7IbDtinbsZqsn8BXXkFzxv4vKATnGCSIQpK5F484T29kkL2h5uMaJIEbJP6A" group-title="DEPORTES",78 TNT SPORTS PREMIUM
 http://solutionspremium.net:80/channel/user2620/37428848293/93010.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/etT2l4HCOmxaUQ5FOqoaXYYdBJZ4H3NwRV_FHRzOt2gZWCbPV1L_6UGKd4odWVpUNe0zYaSki5UaWTa2F7PNOFKYEG5GCTJiI2vWucTrEjyC" group-title="DEPORTES",79 TNT SPORTS BASICO
@@ -260,7 +260,7 @@ https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="129" tvg-name="129 TVN3" tvg-logo="https://iptv-epg.org/images/BVk8UwTw-9CrhRNDYZ3Ljyj3YB_fOMhcxZPI0yvNzN5zv9dQu7boKQ6zII0kxacl3PTAxLK7ffPHNKsi-vnyoL-mAYLNeCihbobB" group-title="NACIONALES CHILE",129 TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="130 CHV" tvg-logo="https://iptv-epg.org/images/KVJI8H1Mt-VVIWzDW7uMtp5t5SE5evJfhSnK8mVVOLyH9GwpRNebO10-f16PpOqBevY7xmR1YpscJOd5MqV4N9vdszzkvRuTyAXxXlUcHYfkqiQ" group-title="NACIONALES CHILE",130 CHV
-http://solutionspremium.net:80/channel/user2620/37428848293/865.ts
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6.ts
 #EXTINF:-1 tvg-id="131" tvg-name="131 UCV" tvg-logo="https://iptv-epg.org/images/qcvAlKKjdzYbFwSWdgptXosy9gV23Szm_XPe98Oro9sQ3G9vnLNTHw0xAnji91XsNMxpHZfZ3ob0wAEf62N1IRq2_gird7c1fgGwZZ4" group-title="NACIONALES CHILE",131 UCV
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14893.ts
 #EXTINF:-1 tvg-id="132" tvg-name="132 CANAL 13" tvg-logo="https://iptv-epg.org/images/Bi77AbrIzZZyaUvWD_ViK_P-F7NeICTqJ06utRrVetbKNAI_fB3O1Dk-ssOMwtw32NU7sIkR6inJc5qMm0WhLkRC3-rFrwyu_qfMjPGvfQ" group-title="NACIONALES CHILE",132 CANAL 13
@@ -326,7 +326,7 @@ http://solutionspremium.net:80/channel/user2620/37428848293/41129.ts
 #EXTINF:-1 tvg-id="162" tvg-name="162 HBO PLUS" tvg-logo="https://iptv-epg.org/images/ALWSEgpcwy71MYYTT8lWPyLgH41r4Z0JkhjTqUAN6TnVO83mXyTvEqkdFEc-i2zA_-MpxfgPeZMBGI_zAETAX1bEtLsE-HC5i8db" group-title="PARA VERIFICAR",162 HBO PLUS
 http://solutionspremium.net:80/channel/user2620/37428848293/86760.ts
 #EXTINF:-1 tvg-id="163" tvg-name="163 HBO FAMILY" tvg-logo="https://iptv-epg.org/images/_qKtd8B9hWIeGgdHZBve124Y2bRAEQ_Z4RYGLNfScSVRaUYuW_yaWWP4y1YbTFt_bu7rfR5WJ9HeWHsXDGwAkpwicz0uARF5Jo-3AfM01EAj" group-title="CINE",163 HBO FAMILY
-http://pirostv.lat:25461/live/Armando12/Armando12/239647.ts
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/62.ts
 #EXTINF:-1 tvg-id="164" tvg-name="164 HBO" tvg-logo="https://iptv-epg.org/images/ALWSEgpcwy71MYYTT8lWPyLgH41r4Z0JkhjTqUAN6TnVO83mXyTvEqkdFEc-i2zA_-MpxfgPeZMBGI_zAETAX1bEtLsE-HC5i8db" group-title="CINE",164 HBO
 http://solutionspremium.net:80/channel/user2620/37428848293/18722.ts
 #EXTINF:-1 tvg-id="165" tvg-name="165 HBO POP" tvg-logo="https://iptv-epg.org/images/imX-B0zuztl4-xnmjdQ_pEdcp4vNuet5qI-OrfyEMEOzZuALvEbGwx65XLDIQBN7mRQTeOGvd891oIKI8NE5BpLzVdu0jPe49pn9IM60" group-title="CINE",165 HBO POP
@@ -334,7 +334,7 @@ http://blushes.top:80/live/466634866/Y896v1908W/249248.m3u8
 #EXTINF:-1 tvg-id="166" tvg-name="166 HBO SIGNATURE" tvg-logo="https://iptv-epg.org/images/2CSJBWNopFxIRCRuwdWMiiEf1V7ZdXvXzHjlD8MfZ8-PdBa3JwRImRlP9cz-VAZITCyfnyacuFoJge0nr1hp721ljegMEwTWsV35mmR4qDVoxF5V" group-title="CINE",166 HBO SIGNATURE
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/63.ts
 #EXTINF:-1 tvg-id="167" tvg-name="167 HBO MUNDI" tvg-logo="https://iptv-epg.org/images/ke58vEz0sYQUmK6MUFicKPHkzDKrgtObL6-LdNWOI1nRo1Tb0iixNSR9RNQrK77pO2mBiICXavA5oY2urVD1dl9ruMjJ_w9bfLdl6D9Ajts" group-title="CINE",167 HBO MUNDI
-http://blushes.top:80/live/466634866/Y896v1908W/249249.m3u8
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8151.ts
 #EXTINF:-1 tvg-id="168" tvg-name="168 STARZ" tvg-logo="" group-title="CINE",168 STARZ
 http://solutionspremium.net:80/channel/user2620/37428848293/1195.ts
 #EXTINF:-1 tvg-id="169" tvg-name="169 ADULT SWIM" tvg-logo="" group-title="CINE",169 ADULT SWIM
@@ -390,9 +390,9 @@ http://pirostv.lat:25461/live/Armando12/Armando12/528522.ts
 #EXTINF:-1 tvg-id="194" tvg-name="194 CDO PREMIUM" tvg-logo="" group-title="DEPORTES",194 CDO PREMIUM
 http://solutionspremium.net:80/channel/user2620/37428848293/122090.ts
 #EXTINF:-1 tvg-id="195" tvg-name="195 DSPORTS +" tvg-logo="" group-title="DEPORTES",195 DSPORTS +
-http://solutionspremium.net:80/channel/user2620/37428848293/146801.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/105632.ts
 #EXTINF:-1 tvg-id="196" tvg-name="196 DSPORTS" tvg-logo="" group-title="DEPORTES",196 DSPORTS
-http://pirostv.lat:25461/live/Armando12/Armando12/267391.ts
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/267391.ts
 #EXTINF:-1 tvg-id="197" tvg-name="197 TNT SPORTS PREMIUM" tvg-logo="https://iptv-epg.org/images/L8OBIaUkhgajtZgZjEtNT_KdJvCX6N9qlVbCyN_cT70rHfW2YCnHM2lh_y7IbDtinbsZqsn8BXXkFzxv4vKATnGCSIQpK5F484T29kkL2h5uMaJIEbJP6A" group-title="DEPORTES",197 TNT SPORTS PREMIUM
 http://solutionspremium.net:80/channel/user2620/37428848293/93010.ts
 #EXTINF:-1 tvg-id="198" tvg-name="198 TNT SPORTS BASICO" tvg-logo="https://iptv-epg.org/images/etT2l4HCOmxaUQ5FOqoaXYYdBJZ4H3NwRV_FHRzOt2gZWCbPV1L_6UGKd4odWVpUNe0zYaSki5UaWTa2F7PNOFKYEG5GCTJiI2vWucTrEjyC" group-title="DEPORTES",198 TNT SPORTS BASICO
@@ -404,7 +404,7 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 #EXTINF:-1 tvg-id="201" tvg-name="201 MTV LIVE" tvg-logo="https://iptv-epg.org/images/13pXyta_cboE1uRh3fpeWijzfOOc0Qs4Psi0ooYLY2N696rifrqp_Bl70uMh18r2LI-zuTg7ib4QW6eBTiILAJ_7k4zRV2aGvzQfrbE8OA" group-title="MUSICA",201 MTV LIVE
 http://pirostv.lat:25461/live/Armando12/Armando12/356.ts
 #EXTINF:-1 tvg-id="202" tvg-name="202 MTV" tvg-logo="https://iptv-epg.org/images/Ckq2yFboT3MbGE5ez99B4L9OeJv2G9dtFI4mfM0b5M23cL5-0rRnXjMFZNAv0SHkTuOGwpcc7ugR-pIsS8-DQht19wT6F25JRIMp" group-title="MUSICA",202 MTV
-http://solutionspremium.net:80/channel/user2620/37428848293/36823.ts
+http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/11833
 #EXTINF:-1 tvg-id="203" tvg-name="203 13 FESTIVAL" tvg-logo="" group-title="MUSICA",203 13 FESTIVAL
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-id="204" tvg-name="204 PORTAL FOXMIX" tvg-logo="" group-title="MUSICA",204 PORTAL FOXMIX
@@ -499,7 +499,7 @@ https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="248" tvg-name="248 TVN3" tvg-logo="https://iptv-epg.org/images/BVk8UwTw-9CrhRNDYZ3Ljyj3YB_fOMhcxZPI0yvNzN5zv9dQu7boKQ6zII0kxacl3PTAxLK7ffPHNKsi-vnyoL-mAYLNeCihbobB" group-title="NACIONALES CHILE",248 TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-id="249" tvg-name="249 CHV" tvg-logo="https://iptv-epg.org/images/KVJI8H1Mt-VVIWzDW7uMtp5t5SE5evJfhSnK8mVVOLyH9GwpRNebO10-f16PpOqBevY7xmR1YpscJOd5MqV4N9vdszzkvRuTyAXxXlUcHYfkqiQ" group-title="NACIONALES CHILE",249 CHV
-http://solutionspremium.net:80/channel/user2620/37428848293/865.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/864.ts
 #EXTINF:-1 tvg-id="250" tvg-name="250 UCV" tvg-logo="https://iptv-epg.org/images/qcvAlKKjdzYbFwSWdgptXosy9gV23Szm_XPe98Oro9sQ3G9vnLNTHw0xAnji91XsNMxpHZfZ3ob0wAEf62N1IRq2_gird7c1fgGwZZ4" group-title="NACIONALES CHILE",250 UCV
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14893.ts
 #EXTINF:-1 tvg-id="251" tvg-name="251 CANAL 13" tvg-logo="https://iptv-epg.org/images/Bi77AbrIzZZyaUvWD_ViK_P-F7NeICTqJ06utRrVetbKNAI_fB3O1Dk-ssOMwtw32NU7sIkR6inJc5qMm0WhLkRC3-rFrwyu_qfMjPGvfQ" group-title="NACIONALES CHILE",251 CANAL 13
@@ -509,7 +509,7 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 #EXTINF:-1 tvg-id="253" tvg-name="253 TVN 24 HORAS" tvg-logo="https://iptv-epg.org/images/eeZewd70rE87Y22RjiKz34lmEwZSaZbPRUZ0LJQ8oMeUNwVvm52wBV2sk47hBccPwxRfoQFFnnmL1r3RgII-bEWcvP32qFUc9IgqXZhlKA" group-title="NACIONALES CHILE",253 TVN 24 HORAS
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
 #EXTINF:-1 tvg-id="254" tvg-name="254 T13" tvg-logo="https://iptv-epg.org/images/Bi77AbrIzZZyaUvWD_ViK_P-F7NeICTqJ06utRrVetbKNAI_fB3O1Dk-ssOMwtw32NU7sIkR6inJc5qMm0WhLkRC3-rFrwyu_qfMjPGvfQ" group-title="NACIONALES CHILE",254 T13
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/871.ts
 #EXTINF:-1 tvg-id="255" tvg-name="255 CNN CHILE" tvg-logo="https://iptv-epg.org/images/Yft_On76vw2qygsgK4OmPGmN2VpxvoylzAdHTJ_e8fGDWrMsxjSygqKG5QoyFd4wcKYZljxhHq6-W63OPwLjfhL6_3RnbyUxaTN8jWRcD_U" group-title="NOTICIAS",255 CNN CHILE
 https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197031.ts
 #EXTINF:-1 tvg-id="256" tvg-name="256 ZONA LATINA" tvg-logo="https://iptv-epg.org/images/3alGHmRpqCSmiDwpe8cSGtCprmUQQT6H4kjiNzzFQIAiQfpPSq8GxIUDYFadOkxCac6ehHbOoPiDFhKiGRg38Dlf5EhwW9Fvr9a3AtfjplQwkg" group-title="NACIONALES CHILE",256 ZONA LATINA
@@ -565,7 +565,7 @@ http://solutionspremium.net:80/channel/user2620/37428848293/41129.ts
 #EXTINF:-1 tvg-id="281" tvg-name="281 HBO PLUS" tvg-logo="https://iptv-epg.org/images/ALWSEgpcwy71MYYTT8lWPyLgH41r4Z0JkhjTqUAN6TnVO83mXyTvEqkdFEc-i2zA_-MpxfgPeZMBGI_zAETAX1bEtLsE-HC5i8db" group-title="PARA VERIFICAR",281 HBO PLUS
 http://solutionspremium.net:80/channel/user2620/37428848293/86760.ts
 #EXTINF:-1 tvg-id="282" tvg-name="282 HBO FAMILY" tvg-logo="https://iptv-epg.org/images/_qKtd8B9hWIeGgdHZBve124Y2bRAEQ_Z4RYGLNfScSVRaUYuW_yaWWP4y1YbTFt_bu7rfR5WJ9HeWHsXDGwAkpwicz0uARF5Jo-3AfM01EAj" group-title="CINE",282 HBO FAMILY
-http://pirostv.lat:25461/live/Armando12/Armando12/239647.ts
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13865.ts
 #EXTINF:-1 tvg-id="283" tvg-name="283 HBO" tvg-logo="https://iptv-epg.org/images/ALWSEgpcwy71MYYTT8lWPyLgH41r4Z0JkhjTqUAN6TnVO83mXyTvEqkdFEc-i2zA_-MpxfgPeZMBGI_zAETAX1bEtLsE-HC5i8db" group-title="CINE",283 HBO
 http://solutionspremium.net:80/channel/user2620/37428848293/18722.ts
 #EXTINF:-1 tvg-id="284" tvg-name="284 HBO POP" tvg-logo="https://iptv-epg.org/images/imX-B0zuztl4-xnmjdQ_pEdcp4vNuet5qI-OrfyEMEOzZuALvEbGwx65XLDIQBN7mRQTeOGvd891oIKI8NE5BpLzVdu0jPe49pn9IM60" group-title="CINE",284 HBO POP
@@ -573,7 +573,7 @@ http://blushes.top:80/live/466634866/Y896v1908W/249248.m3u8
 #EXTINF:-1 tvg-id="285" tvg-name="285 HBO SIGNATURE" tvg-logo="https://iptv-epg.org/images/2CSJBWNopFxIRCRuwdWMiiEf1V7ZdXvXzHjlD8MfZ8-PdBa3JwRImRlP9cz-VAZITCyfnyacuFoJge0nr1hp721ljegMEwTWsV35mmR4qDVoxF5V" group-title="CINE",285 HBO SIGNATURE
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/63.ts
 #EXTINF:-1 tvg-id="286" tvg-name="286 HBO MUNDI" tvg-logo="https://iptv-epg.org/images/ke58vEz0sYQUmK6MUFicKPHkzDKrgtObL6-LdNWOI1nRo1Tb0iixNSR9RNQrK77pO2mBiICXavA5oY2urVD1dl9ruMjJ_w9bfLdl6D9Ajts" group-title="CINE",286 HBO MUNDI
-http://blushes.top:80/live/466634866/Y896v1908W/249249.m3u8
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13868.ts
 #EXTINF:-1 tvg-id="287" tvg-name="287 STARZ" tvg-logo="" group-title="CINE",287 STARZ
 http://solutionspremium.net:80/channel/user2620/37428848293/1195.ts
 #EXTINF:-1 tvg-id="288" tvg-name="288 ADULT SWIM" tvg-logo="" group-title="CINE",288 ADULT SWIM
@@ -629,9 +629,9 @@ http://pirostv.lat:25461/live/Armando12/Armando12/528522.ts
 #EXTINF:-1 tvg-id="313" tvg-name="313 CDO PREMIUM" tvg-logo="" group-title="DEPORTES",313 CDO PREMIUM
 http://solutionspremium.net:80/channel/user2620/37428848293/122090.ts
 #EXTINF:-1 tvg-id="314" tvg-name="314 DSPORTS +" tvg-logo="" group-title="DEPORTES",314 DSPORTS +
-http://solutionspremium.net:80/channel/user2620/37428848293/146801.ts
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/528532.ts
 #EXTINF:-1 tvg-id="315" tvg-name="315 DSPORTS" tvg-logo="" group-title="DEPORTES",315 DSPORTS
-http://pirostv.lat:25461/live/Armando12/Armando12/267391.ts
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/528531.ts
 #EXTINF:-1 tvg-id="316" tvg-name="316 TNT SPORTS PREMIUM" tvg-logo="https://iptv-epg.org/images/L8OBIaUkhgajtZgZjEtNT_KdJvCX6N9qlVbCyN_cT70rHfW2YCnHM2lh_y7IbDtinbsZqsn8BXXkFzxv4vKATnGCSIQpK5F484T29kkL2h5uMaJIEbJP6A" group-title="DEPORTES",316 TNT SPORTS PREMIUM
 http://solutionspremium.net:80/channel/user2620/37428848293/93010.ts
 #EXTINF:-1 tvg-id="317" tvg-name="317 TNT SPORTS BASICO" tvg-logo="https://iptv-epg.org/images/etT2l4HCOmxaUQ5FOqoaXYYdBJZ4H3NwRV_FHRzOt2gZWCbPV1L_6UGKd4odWVpUNe0zYaSki5UaWTa2F7PNOFKYEG5GCTJiI2vWucTrEjyC" group-title="DEPORTES",317 TNT SPORTS BASICO
@@ -886,7 +886,7 @@ https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nwq2ic5kK7QP-dp_GkCS2wz_conAJNIZ
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/13pXyta_cboE1uRh3fpeWijzfOOc0Qs4Psi0ooYLY2N696rifrqp_Bl70uMh18r2LI-zuTg7ib4QW6eBTiILAJ_7k4zRV2aGvzQfrbE8OA" group-title="FUENTES",457 FUENTE MTV LIVE (blushes)
 http://blushes.top:80/live/466634866/Y896v1908W/112096.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/13pXyta_cboE1uRh3fpeWijzfOOc0Qs4Psi0ooYLY2N696rifrqp_Bl70uMh18r2LI-zuTg7ib4QW6eBTiILAJ_7k4zRV2aGvzQfrbE8OA" group-title="FUENTES",458 FUENTE MTV LIVE (planettvweb)
-http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/11833
+http://solutionspremium.net:80/channel/user2620/37428848293/36823.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/13pXyta_cboE1uRh3fpeWijzfOOc0Qs4Psi0ooYLY2N696rifrqp_Bl70uMh18r2LI-zuTg7ib4QW6eBTiILAJ_7k4zRV2aGvzQfrbE8OA" group-title="FUENTES",459 FUENTE MTV LIVE (njftxw_u2)
 http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/10191
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/13pXyta_cboE1uRh3fpeWijzfOOc0Qs4Psi0ooYLY2N696rifrqp_Bl70uMh18r2LI-zuTg7ib4QW6eBTiILAJ_7k4zRV2aGvzQfrbE8OA" group-title="FUENTES",460 FUENTE MTV LIVE (njftxw_u3)
@@ -924,7 +924,7 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9752.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Bi77AbrIzZZyaUvWD_ViK_P-F7NeICTqJ06utRrVetbKNAI_fB3O1Dk-ssOMwtw32NU7sIkR6inJc5qMm0WhLkRC3-rFrwyu_qfMjPGvfQ" group-title="VERIFICAR",476 T13 HD | iptv.wtf
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Bi77AbrIzZZyaUvWD_ViK_P-F7NeICTqJ06utRrVetbKNAI_fB3O1Dk-ssOMwtw32NU7sIkR6inJc5qMm0WhLkRC3-rFrwyu_qfMjPGvfQ" group-title="VERIFICAR",477 T13 Noticias | CL | solutionspremium
-http://solutionspremium.net:80/channel/user2620/37428848293/871.ts
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts
 #EXTINF:-1 group-title="VERIFICAR",478 CL CANAL13 | vipsclient
 http://mag.vipsclient.org:80/101343/665337662/3AFD47/101343.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Bi77AbrIzZZyaUvWD_ViK_P-F7NeICTqJ06utRrVetbKNAI_fB3O1Dk-ssOMwtw32NU7sIkR6inJc5qMm0WhLkRC3-rFrwyu_qfMjPGvfQ" group-title="VERIFICAR",479 Canal 13 | pirostv
@@ -956,9 +956,9 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9753.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/KVJI8H1Mt-VVIWzDW7uMtp5t5SE5evJfhSnK8mVVOLyH9GwpRNebO10-f16PpOqBevY7xmR1YpscJOd5MqV4N9vdszzkvRuTyAXxXlUcHYfkqiQ" group-title="VERIFICAR",492 CL: CHV Full HD | iptv.wtf
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/KVJI8H1Mt-VVIWzDW7uMtp5t5SE5evJfhSnK8mVVOLyH9GwpRNebO10-f16PpOqBevY7xmR1YpscJOd5MqV4N9vdszzkvRuTyAXxXlUcHYfkqiQ" group-title="VERIFICAR",493 CL: CHV HD | iptv.wtf
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/865.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/KVJI8H1Mt-VVIWzDW7uMtp5t5SE5evJfhSnK8mVVOLyH9GwpRNebO10-f16PpOqBevY7xmR1YpscJOd5MqV4N9vdszzkvRuTyAXxXlUcHYfkqiQ" group-title="VERIFICAR",494 Chilevision HD | CL | solutionspremium
-http://solutionspremium.net:80/channel/user2620/37428848293/864.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/865.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/KVJI8H1Mt-VVIWzDW7uMtp5t5SE5evJfhSnK8mVVOLyH9GwpRNebO10-f16PpOqBevY7xmR1YpscJOd5MqV4N9vdszzkvRuTyAXxXlUcHYfkqiQ" group-title="VERIFICAR",495 Chilevision FHD | CL | solutionspremium
 http://solutionspremium.net:80/channel/user2620/37428848293/865.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/KVJI8H1Mt-VVIWzDW7uMtp5t5SE5evJfhSnK8mVVOLyH9GwpRNebO10-f16PpOqBevY7xmR1YpscJOd5MqV4N9vdszzkvRuTyAXxXlUcHYfkqiQ" group-title="VERIFICAR",496 CL CHILEVISION | vipsclient
@@ -1016,11 +1016,11 @@ http://solutionspremium.net:80/channel/user2620/37428848293/322165.ts
 #EXTINF:-1 group-title="VERIFICAR",522 DIRECTV SPORTS FHD | solutionspremium
 http://solutionspremium.net:80/channel/user2620/37428848293/1313.ts
 #EXTINF:-1 group-title="VERIFICAR",523 DIRECTV SPORTS FHD (L) | solutionspremium
-http://solutionspremium.net:80/channel/user2620/37428848293/96259.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/146801.ts
 #EXTINF:-1 group-title="VERIFICAR",524 DIRECTV SPORTS 2 SD | solutionspremium
 http://solutionspremium.net:80/channel/user2620/37428848293/1524.ts
 #EXTINF:-1 group-title="VERIFICAR",525 DIRECTV SPORTS 2 | solutionspremium
-http://solutionspremium.net:80/channel/user2620/37428848293/1312.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/146801.ts
 #EXTINF:-1 group-title="VERIFICAR",526 DIRECTV SPORTS FIGHT | solutionspremium
 http://solutionspremium.net:80/channel/user2620/37428848293/1523.ts
 #EXTINF:-1 group-title="VERIFICAR",527 DIRECTV SPORTS 1 (CHILE) | solutionspremium
@@ -1028,7 +1028,7 @@ http://solutionspremium.net:80/channel/user2620/37428848293/105605.ts
 #EXTINF:-1 group-title="VERIFICAR",528 DIRECTV SPORTS 1 (CHILE)(FHD) | solutionspremium
 http://solutionspremium.net:80/channel/user2620/37428848293/105604.ts
 #EXTINF:-1 group-title="VERIFICAR",529 DIRECTV SPORTS 1 SD | CL | solutionspremium
-http://solutionspremium.net:80/channel/user2620/37428848293/105632.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/146801.ts
 #EXTINF:-1 group-title="VERIFICAR",530 DIRECTV SPORTS SD | solutionspremium
 http://solutionspremium.net:80/channel/user2620/37428848293/1525.ts
 #EXTINF:-1 group-title="VERIFICAR",531 DIRECTV SPORTS 1 HD | CL | solutionspremium
@@ -1108,15 +1108,15 @@ http://mag.vipsclient.org:80/117665/665337662/3AFD47/117665.ts
 #EXTINF:-1 group-title="VERIFICAR",568 CO DIRECTV SPORTS 2 | vipsclient
 http://mag.vipsclient.org:80/117666/665337662/3AFD47/117666.ts
 #EXTINF:-1 group-title="VERIFICAR",569 EC | DIRECTV SPORTS HD | pirostv
-http://pirostv.lat:8080/live/Nestrive/Polopolo321$/267391.ts
+http://pirostv.lat:25461/live/Armando12/Armando12/267391.ts
 #EXTINF:-1 group-title="VERIFICAR",570 AR | DirectV Sports SD | pirostv
 http://pirostv.lat:8080/live/Nestrive/Polopolo321$/294584.ts
 #EXTINF:-1 group-title="VERIFICAR",571 SP: PE: Directv Sports 2 | pirostv
 http://pirostv.lat:8080/live/Nestrive/Polopolo321$/528533.ts
 #EXTINF:-1 group-title="VERIFICAR",572 SP: PE: Directv Sports HD | pirostv
-http://pirostv.lat:8080/live/Nestrive/Polopolo321$/528532.ts
+http://solutionspremium.net:80/channel/user2620/37428848293/146801.ts
 #EXTINF:-1 group-title="VERIFICAR",573 SP: PE: Directv Sports HD+ | pirostv
-http://pirostv.lat:8080/live/Nestrive/Polopolo321$/528531.ts
+http://pirostv.lat:25461/live/Armando12/Armando12/267391.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/W3kBsM1Fe1NL-PqKDZkx7nsALfQM0q1LwQN6o8ZIuPEl000VlMglvuRjWekjGzFs8fZ4_nINPjMuwgmyhzWUzErgY0Qd-sgB89t7sw" group-title="VERIFICAR",574 LAT - ESPN U | dru4.xyz
 http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264914&extension=ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/W3kBsM1Fe1NL-PqKDZkx7nsALfQM0q1LwQN6o8ZIuPEl000VlMglvuRjWekjGzFs8fZ4_nINPjMuwgmyhzWUzErgY0Qd-sgB89t7sw" group-title="VERIFICAR",575 LAT - ESPN U UHD | dru4.xyz
@@ -1398,9 +1398,9 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5888.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/x8rA41yuwyoJFiNxCC5HFlluZ8hW_TAfBhQhnrD1AM7K94Hl9ZtMBE2xOeisM5hp5oEDx88dHs7GaoHqrwef6VnOEmNWGiY1WZ8bRQ" group-title="VERIFICAR",713 HBO 2 Full HD | iptv.wtf
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/60.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/_qKtd8B9hWIeGgdHZBve124Y2bRAEQ_Z4RYGLNfScSVRaUYuW_yaWWP4y1YbTFt_bu7rfR5WJ9HeWHsXDGwAkpwicz0uARF5Jo-3AfM01EAj" group-title="VERIFICAR",714 HBO Family | iptv.wtf
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13865.ts
+http://pirostv.lat:25461/live/Armando12/Armando12/239647.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/_qKtd8B9hWIeGgdHZBve124Y2bRAEQ_Z4RYGLNfScSVRaUYuW_yaWWP4y1YbTFt_bu7rfR5WJ9HeWHsXDGwAkpwicz0uARF5Jo-3AfM01EAj" group-title="VERIFICAR",715 HBO Family Full HD | iptv.wtf
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/62.ts
+http://pirostv.lat:25461/live/Armando12/Armando12/239647.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/_qKtd8B9hWIeGgdHZBve124Y2bRAEQ_Z4RYGLNfScSVRaUYuW_yaWWP4y1YbTFt_bu7rfR5WJ9HeWHsXDGwAkpwicz0uARF5Jo-3AfM01EAj" group-title="VERIFICAR",716 HBO Family Full HD * | iptv.wtf
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13864.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/_qKtd8B9hWIeGgdHZBve124Y2bRAEQ_Z4RYGLNfScSVRaUYuW_yaWWP4y1YbTFt_bu7rfR5WJ9HeWHsXDGwAkpwicz0uARF5Jo-3AfM01EAj" group-title="VERIFICAR",717 HBO Family Full HD * | iptv.wtf
@@ -1418,13 +1418,13 @@ http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13861.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ALWSEgpcwy71MYYTT8lWPyLgH41r4Z0JkhjTqUAN6TnVO83mXyTvEqkdFEc-i2zA_-MpxfgPeZMBGI_zAETAX1bEtLsE-HC5i8db" group-title="VERIFICAR",723 HBO Inglés + Sub | iptv.wtf
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13863.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ke58vEz0sYQUmK6MUFicKPHkzDKrgtObL6-LdNWOI1nRo1Tb0iixNSR9RNQrK77pO2mBiICXavA5oY2urVD1dl9ruMjJ_w9bfLdl6D9Ajts" group-title="VERIFICAR",724 HBO Mundi | iptv.wtf
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6011.ts
+http://blushes.top:80/live/466634866/Y896v1908W/249249.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ke58vEz0sYQUmK6MUFicKPHkzDKrgtObL6-LdNWOI1nRo1Tb0iixNSR9RNQrK77pO2mBiICXavA5oY2urVD1dl9ruMjJ_w9bfLdl6D9Ajts" group-title="VERIFICAR",725 HBO Mundi * | iptv.wtf
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8151.ts
+http://blushes.top:80/live/466634866/Y896v1908W/249249.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ke58vEz0sYQUmK6MUFicKPHkzDKrgtObL6-LdNWOI1nRo1Tb0iixNSR9RNQrK77pO2mBiICXavA5oY2urVD1dl9ruMjJ_w9bfLdl6D9Ajts" group-title="VERIFICAR",726 HBO Mundi ** | iptv.wtf
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13869.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ke58vEz0sYQUmK6MUFicKPHkzDKrgtObL6-LdNWOI1nRo1Tb0iixNSR9RNQrK77pO2mBiICXavA5oY2urVD1dl9ruMjJ_w9bfLdl6D9Ajts" group-title="VERIFICAR",727 HBO Mundi HD | iptv.wtf
-http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13868.ts
+http://blushes.top:80/live/466634866/Y896v1908W/249249.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ALWSEgpcwy71MYYTT8lWPyLgH41r4Z0JkhjTqUAN6TnVO83mXyTvEqkdFEc-i2zA_-MpxfgPeZMBGI_zAETAX1bEtLsE-HC5i8db" group-title="VERIFICAR",728 HBO Plus | iptv.wtf
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13871.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/ALWSEgpcwy71MYYTT8lWPyLgH41r4Z0JkhjTqUAN6TnVO83mXyTvEqkdFEc-i2zA_-MpxfgPeZMBGI_zAETAX1bEtLsE-HC5i8db" group-title="VERIFICAR",729 HBO Plus * | iptv.wtf
