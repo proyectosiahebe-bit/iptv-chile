@@ -7,7 +7,7 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 #EXTINF:-1 backup-url="https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL" tvg-logo="https://cdn.m3u.cl/logo/77_TVR.png" group-title="NACIONALES CHILE",3 TVR
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 backup-url="https://live.getcirca.run/3969875408/ts:abr.m3u8?PlaylistM3UCL" tvg-id="4" tvg-name="4 LA RED" tvg-logo="https://iptv-epg.org/images/-fj9SLlX9-HlWIE_f4xvGFc3sZDo4G4DECdxCvWSyRPTl9mavQcWnnsRRvux5ylYDqjmgFlZlC3zsj4cl1vz-zqQ_U1TCq90KxBrB90" group-title="NACIONALES CHILE",4 LA RED
-http://pirostv.lat:8080/live/Nestrive/Polopolo321%24/451027.m3u
+https://live.getcirca.run/3969875408/ts:abr.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="5" tvg-name="5 TV+" tvg-logo="" group-title="NACIONALES CHILE",5 TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/491_TV_Chile.png" group-title="NACIONALES CHILE",6 TV CHILE
