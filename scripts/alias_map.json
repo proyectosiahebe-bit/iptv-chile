@@ -1,0 +1,58 @@
+{
+  "http://stkip.ddns.me:2082": [
+    "http://promas.lat:25461",
+    "http://directo.ddns.me:33200"
+  ],
+  "http://promas.lat:25461": [
+    "http://stkip.ddns.me:2082",
+    "http://directo.ddns.me:33200"
+  ],
+  "http://directo.ddns.me:33200": [
+    "http://stkip.ddns.me:2082",
+    "http://promas.lat:25461"
+  ],
+  "http://sp.kiwi:80": [
+    "http://up.kiwi"
+  ],
+  "http://up.kiwi": [
+    "http://sp.kiwi:80"
+  ],
+  "http://miotv.cc:8080": [
+    "http://flexlive.lat:8080",
+    "http://wplatino.live:2095"
+  ],
+  "http://flexlive.lat:8080": [
+    "http://miotv.cc:8080",
+    "http://wplatino.live:2095"
+  ],
+  "http://wplatino.live:2095": [
+    "http://miotv.cc:8080",
+    "http://flexlive.lat:8080"
+  ],
+  "http://sonymax.org:8080": [
+    "http://sonymax.org:80"
+  ],
+  "http://31.43.191.125:8080": [
+    "http://31.43.191.125:80"
+  ],
+  "http://l1iptv.xyz:80": [
+    "http://l1iptv.xyz:8080"
+  ],
+  "http://portal.exabytetv.net:8080": [
+    "http://portal.exabytetv.net:80",
+    "http://portal.exabytetv.net:2052"
+  ],
+  "http://tv.challenge.tn:2052": [
+    "http://tv.challenge.tn:80",
+    "http://tv.challenge.tn:8080"
+  ],
+  "http://skynetdigital.us:80": [
+    "http://skynetdigital.us:8080"
+  ],
+  "http://kazan-tv.com:8091": [
+    "http://kazan-tv.com:80"
+  ],
+  "http://neosfpoo.top:8080": [
+    "http://neosfpoo.top:80"
+  ]
+}

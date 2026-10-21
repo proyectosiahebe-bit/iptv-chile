@@ -475,7 +475,7 @@ https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
 #EXTINF:-1 tvg-id="237" tvg-name="237 LA CLAVE" tvg-logo="" group-title="RADIOS",237 LA CLAVE
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="238" tvg-name="238 LA METRO" tvg-logo="" group-title="RADIOS",238 LA METRO
+#EXTINF:-1 backup-url="http://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8" tvg-id="238" tvg-name="238 LA METRO" tvg-logo="" group-title="RADIOS",238 LA METRO
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
 # ===== REPLICA SD 239-357 =====
 #EXTINF:-1 tvg-id="239" tvg-name="239 ADN TV" tvg-logo="" group-title="NACIONALES CHILE",239 ADN TV
@@ -714,7 +714,7 @@ https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
 #EXTINF:-1 tvg-id="356" tvg-name="356 LA CLAVE" tvg-logo="" group-title="RADIOS",356 LA CLAVE
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="357" tvg-name="357 LA METRO" tvg-logo="" group-title="RADIOS",357 LA METRO
+#EXTINF:-1 backup-url="http://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8" tvg-id="357" tvg-name="357 LA METRO" tvg-logo="" group-title="RADIOS",357 LA METRO
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
 # ===== SECCIONES DE TRABAJO (renumeradas 358+) =====
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/Ms84Ru_VzLny-ptXM3c6NEY_iZFQylOkqQgHl2u8O8JhuRj80r_QJhPdox6j6Vn5PIglGl-1yzK5WEy_QA2dLQvCbuOLknWSntXK" group-title="PARA VERIFICAR",362 PARA VERIFICAR AMC HD (ALT) [canal39]
@@ -2739,7 +2739,7 @@ https://tv.arkeo.cl:1936/interactivafm/interactivafm/playlist.m3u8?PlaylistM3UCL
 https://tv.digitalstreaming.cl/live/interradiotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1270_La_Clave.png" group-title="M3U.CL RADIOS",3024 La Clave
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1534_La_Metro.png" group-title="M3U.CL RADIOS",3025 La Metro
+#EXTINF:-1 backup-url="http://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8?PlaylistM3UCL" tvg-logo="https://cdn.m3u.cl/logo/1534_La_Metro.png" group-title="M3U.CL RADIOS",3025 La Metro
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1472_La_Nuestra.png" group-title="M3U.CL RADIOS",3026 La Nuestra
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8?PlaylistM3UCL
@@ -4366,8 +4366,8 @@ http://srv.cldplay.in:80/lelezago/lelezago@2021/83576
 http://srv.cldplay.in:80/lelezago/lelezago@2021/33457
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="https://i.ibb.co/yFWQjGt/descarga.png" backup-url="http://srv.cldplay.in:80/lelezago/lelezago@2021/83197" group-title="NUEVAS VARIEDOS",6725 HGTV
 http://directo.ddns.me:2082/Edithherrera/5588446688/30822
-#EXTINF:-1 tvg-name="HISTORY2" tvg-logo="https://raphmx00.com/history2.png" backup-url="http://srv.cldplay.in:80/lelezago/lelezago@2021/83577" group-title="NUEVAS DOCUMENTALES",6726 History2 HD [Alt]
-http://srv.cldplay.in:80/lelezago/lelezago@2021/147581
+#EXTINF:-1 tvg-name="HISTORY2" tvg-logo="https://raphmx00.com/history2.png" backup-url="http://srv.cldplay.in:80/lelezago/lelezago@2021/147581" group-title="NUEVAS DOCUMENTALES",6726 History2 HD [Alt]
+http://srv.cldplay.in:80/lelezago/lelezago@2021/83577
 #EXTINF:-1 tvg-name="IGREJA MUNDIAL PODER DE DEUS" tvg-logo="https://raphmx00.com/Religioso/igreja_mundial_poder_de_deus_hd.png" group-title="NUEVAS VARIEDOS",6727 Igreja Mundial Poder de Deus HD
 http://srv.cldplay.in:80/lelezago/lelezago@2021/169524
 #EXTINF:-1 tvg-name="JOHN WICK TRILOGIA" tvg-logo="https://i.imgur.com/5PGuphP.png" group-title="NUEVAS INFANTILES",6728 John Wick - Trilogia
@@ -4392,8 +4392,8 @@ http://srv.cldplay.in:80/lelezago/lelezago@2021/164623
 http://srv.cldplay.in:80/lelezago/lelezago@2021/147608
 #EXTINF:-1 tvg-name="MODO VIAGEM" tvg-logo="https://raphmx00.com/Variedades/modo_viagem_fhd.png" backup-url="http://srv.cldplay.in:80/lelezago/lelezago@2021/83220" group-title="NUEVAS VARIEDOS",6738 Modo Viagem FHD [Alt]
 http://srv.cldplay.in:80/lelezago/lelezago@2021/147605
-#EXTINF:-1 tvg-name="MULTISHOW" tvg-logo="https://raphmx00.com/multishow.png" backup-url="http://srv.cldplay.in:80/lelezago/lelezago@2021/83237" group-title="NUEVAS VARIEDOS",6739 Multishow FHD [H265]
-http://srv.cldplay.in:80/lelezago/lelezago@2021/83358
+#EXTINF:-1 tvg-name="MULTISHOW" tvg-logo="https://raphmx00.com/multishow.png" backup-url="http://srv.cldplay.in:80/lelezago/lelezago@2021/83358" group-title="NUEVAS VARIEDOS",6739 Multishow FHD [H265]
+http://srv.cldplay.in:80/lelezago/lelezago@2021/83237
 #EXTINF:-1 tvg-name="MUSIC BOX BRAZIL" tvg-logo="https://raphmx00.com/Variedades/music_box_brazil_fhd.png" backup-url="http://srv.cldplay.in:80/lelezago/lelezago@2021/83588" group-title="NUEVAS MUSICA",6740 Music Box Brazil FHD
 http://srv.cldplay.in:80/lelezago/lelezago@2021/162735
 #EXTINF:-1 tvg-name="NBA LEAGUE PASS 02" tvg-logo="https://raphmx00.com/NBA/nba_2.png" group-title="NUEVAS VARIEDOS",6741 NBA League Pass 02
@@ -4514,8 +4514,8 @@ http://srv.cldplay.in:80/lelezago/lelezago@2021/147731
 http://srv.cldplay.in:80/lelezago/lelezago@2021/83716
 #EXTINF:-1 tvg-name="TV PAI ETERNO" tvg-logo="https://raphmx00.com/Religioso/tv_pai_eterno_fhd.png" group-title="NUEVAS VARIEDOS",6799 TV Pai Eterno FHD [H265]
 http://srv.cldplay.in:80/lelezago/lelezago@2021/163290
-#EXTINF:-1 tvg-name="TV RA TIM BUM" tvg-logo="https://i.imgur.com/owbJW6i.png" backup-url="http://up.kiwi:80/351921603109/34939156/1505" group-title="NUEVAS INFANTILES",6800 TV Ra Tim Bum HD
-http://srv.cldplay.in:80/lelezago/lelezago@2021/83272
+#EXTINF:-1 tvg-name="TV RA TIM BUM" tvg-logo="https://i.imgur.com/owbJW6i.png" backup-url="http://srv.cldplay.in:80/lelezago/lelezago@2021/83272" group-title="NUEVAS INFANTILES",6800 TV Ra Tim Bum HD
+http://up.kiwi:80/351921603109/34939156/1505
 #EXTINF:-1 tvg-name="UNIVERSAL CHANNEL TV" tvg-logo="https://raphmx00.com/universalchannel.png" backup-url="http://srv.cldplay.in:80/lelezago/lelezago@2021/147740" group-title="NUEVAS PELICULAS",6801 Universal Channel TV FHD
 http://srv.cldplay.in:80/lelezago/lelezago@2021/136805
 #EXTINF:-1 tvg-name="USA" tvg-logo="https://static.wikia.nocookie.net/world-of-media/images/3/36/USA_Network_logo.png" backup-url="http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/30628" group-title="NUEVAS PELICULAS",6802 USA HD

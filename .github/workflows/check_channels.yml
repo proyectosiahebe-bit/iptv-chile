@@ -33,7 +33,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain todos_tus_canales_live.m3u channel_status.json)" ]; then
             git add todos_tus_canales_live.m3u channel_status.json
-            git commit -m "cron: reemplaza canales 1-119 caidos y actualiza estado"
+            git commit -m "cron: repara canales caidos, rota alias saturados y actualiza estado"
             git pull --rebase origin "${GITHUB_REF_NAME}" || true
             git push
           else

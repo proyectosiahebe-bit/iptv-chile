@@ -1,18 +1,29 @@
 #!/usr/bin/env python3
-"""Prueba los canales de la grilla (1-119) de todos_tus_canales_live.m3u,
-reemplaza las URLs *realmente* caidas por un respaldo funcional de la misma
-lista (bloques replica 120-357 y secciones M3U.CL / FUENTES) y ademas inyecta
-el atributo `backup-url="..."` en cada canal de la grilla para que la app haga
-failover instantaneo si la senal principal falla.
+"""Prueba los canales de todos_tus_canales_live.m3u, repara los caidos y
+sustituye los SATURADOS por un alias vivo del mismo panel.
 
-Genera `channel_status.json` con el estado de todos los canales numerados, para
-que la app muestre un punto verde/rojo en la grilla.
+Tres estados (el tercero es el que faltaba):
+  ALIVE     -> respondio y entrega playlist/TS  -> punto VERDE
+  SATURADO  -> respondio 401/429/456/458         -> punto NARANJA
+               (la linea existe pero su cupo de conexiones esta lleno;
+                NO es un link roto, asi que NO se marca rojo)
+  BLOCKED   -> fallo de red no concluyente      -> sin punto
+  DEAD      -> fallo concluyente (404/410)       -> punto ROJO
 
-Anti-"falsos rojos": el runner de GitHub corre en EE.UU. y varios CDN chilenos
-(p. ej. mdstrm) DESCARTAN conexiones de fuera de Chile -> timeouts / resets.
-Ese fallo es de RED, no concluyente, asi que NO se pinta rojo. Solo se marca
-rojo cuando el problema es concluyente: HTTP 404/410, DNS inexistente, pagina
-HTML de bloqueo/error, o acceso denegado (401/403/429) persistente.
+Ademas rota alias: cuando un canal da SATURADO se prueban
+  (a) los alias del mismo panel (mismo path en otro host/puerto) y
+  (b) el `backup-url` declarado y otros canales con el mismo nombre,
+y si alguno responde ALIVE se usa como URL principal (quedando el anterior
+como backup). Eso es la "multiconexion" real: varias lineas independientes.
+
+Genera `channel_status.json` con el estado de todos los canales numerados,
+para que la app muestre un punto verde/naranja/rojo en la grilla.
+
+Anti-"falsos rojos": el runner de GitHub corre en EE.UU. y varios CDN
+chilenos (p. ej. mdstrm) DESCARTAN conexiones de fuera de Chile -> timeouts /
+resets. Ese fallo es de RED, no concluyente, asi que NO se pinta rojo. Solo
+se marca rojo cuando el problema es concluyente: HTTP 404/410, DNS
+inexistente, pagina HTML de bloqueo/error.
 
 Uso:
   python scripts/check_channels.py            # aplica cambios y escribe
@@ -36,6 +47,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
 M3U = os.path.join(REPO, "todos_tus_canales_live.m3u")
 STATUS = os.path.join(REPO, "channel_status.json")
+ALIAS_MAP = os.path.join(HERE, "alias_map.json")
 
 UA = (
     "Mozilla/5.0 (Linux; Android 11; SM-A125M) AppleWebKit/537.36 "
@@ -48,21 +60,27 @@ HEADERS = {
 }
 TIMEOUT = 12
 ATTEMPTS = 2
-WORKERS = 32
+WORKERS = 40
 MAX_DEAD_RATIO = 0.6
 CANDIDATES_PER_CHANNEL = 5
 
 # Estados de un sondeo.
-ALIVE = "alive"      # responde y entrega una playlist valida -> verde
-BLOCKED = "blocked"  # fallo de RED no concluyente (geo-bloqueo del runner) -> no rojo
-DEAD = "dead"        # fallo concluyente -> rojo
+ALIVE = "alive"        # responde y entrega una playlist valida -> verde
+SATURADO = "saturado"  # 401/429/456/458 -> cupo lleno -> NARANJA (no rojo)
+BLOCKED = "blocked"    # fallo de RED no concluyente (geo-bloqueo del runner)
+DEAD = "dead"          # fallo concluyente -> rojo
 
 _PLAYLIST_HINTS = (b"#extm3u", b"#extinf", b"#ext-x-")
 _HTML_HINTS = (b"<!doctype", b"<html", b"<head", b"<body", b"<script", b"<meta")
-_RANK = {ALIVE: 2, BLOCKED: 1, DEAD: 0}
+_RANK = {ALIVE: 3, SATURADO: 2, BLOCKED: 1, DEAD: 0}
 
 _BACKUP_RE = re.compile(r'backup-url="[^"]*"')
 _DUR_RE = re.compile(r"^(#EXTINF:\S+\s)")
+_URL_RE = re.compile(r"^(?P<scheme>https?)://(?P<host>[^/]+)(?P<path>/.*)$")
+# firma del canal DENTRO de un panel: /live/usuario/clave/id.ts
+_LIVE_RE = re.compile(r"^/live/([^/]+)/([^/]+)/([^/?#]+)")
+# panel con token en el path: /Mmt5Yz...  (base64 del canal)
+_TOKEN_RE = re.compile(r"^/([A-Za-z0-9+/=_-]{16,})(/.*)?$")
 
 _cache = {}
 _cache_lock = threading.Lock()
@@ -91,19 +109,53 @@ def _is_html(body: bytes) -> bool:
     return any(hint in head for hint in _HTML_HINTS)
 
 
+def _is_video(body: bytes, ctype: str) -> bool:
+    """TS crudo (sync 0x47) o video/mp2t: senal real aunque no sea HLS."""
+    if ctype and ctype.startswith("video/"):
+        return True
+    return body[:1] == b"\x47"
+
+
+def _classify(code: int, body: bytes, ctype: str):
+    """Clasifica un codigo HTTP. Devuelve (estado, detalle)."""
+    if code in (200, 206):
+        if _is_html(body):
+            return DEAD, "http %d html" % code
+        if _is_playlist(body, ctype) or _is_video(body, ctype):
+            return ALIVE, "http %d" % code
+        return BLOCKED, "http %d sin playlist" % code
+    # 401/429/456/458: la linea existe pero el cupo de conexiones esta lleno
+    # (o la IP fue limitada). NO es un link roto -> no se pinta rojo.
+    if code in (401, 429, 456, 458):
+        return SATURADO, "http %d saturado" % code
+    # 403: puede ser bloqueo por region/IP u otro servicio en ese puerto.
+    if code == 403:
+        return BLOCKED, "http %d" % code
+    if code in (404, 410):
+        return DEAD, "http %d" % code
+    if code >= 500:
+        return BLOCKED, "http %d" % code
+    return DEAD, "http %d" % code
+
+
 def _probe_once(url, timeout):
     req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        code = r.getcode()
-        body = r.read(4096)
-        ctype = (r.headers.get("Content-Type") or "").lower()
-        if code in (200, 206):
-            if _is_playlist(body, ctype):
-                return ALIVE, "http %d" % code
-            if _is_html(body):
-                return DEAD, "http %d html" % code
-            return BLOCKED, "http %d sin playlist" % code
-        return DEAD, "http %d" % code
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            code = r.getcode()
+            body = r.read(4096)
+            ctype = (r.headers.get("Content-Type") or "").lower()
+            return _classify(code, body, ctype)
+    except urllib.error.HTTPError as e:
+        body = b""
+        try:
+            body = e.read(4096)
+        except Exception:  # noqa: BLE001
+            pass
+        ctype = ""
+        if e.headers is not None:
+            ctype = (e.headers.get("Content-Type") or "").lower()
+        return _classify(e.code, body, ctype)
 
 
 def probe(url, timeout=TIMEOUT, attempts=ATTEMPTS):
@@ -119,16 +171,8 @@ def probe(url, timeout=TIMEOUT, attempts=ATTEMPTS):
     for _ in range(attempts):
         try:
             state, detail = _probe_once(url, timeout)
-            if state == ALIVE:
+            if state in (ALIVE, SATURADO, DEAD):
                 break
-        except urllib.error.HTTPError as e:
-            code = e.code
-            if code in (404, 410):
-                state, detail = DEAD, "http %d" % code
-                break
-            # 401/403/429: puede ser bloqueo del runner o acceso real denegado.
-            # Si persiste tras los reintentos se considera caido (concluyente).
-            state, detail = DEAD, "http %d" % code
         except socket.timeout:
             state, detail = BLOCKED, "timeout"
         except urllib.error.URLError as e:
@@ -162,11 +206,14 @@ def parse(lines):
             ):
                 j += 1
             url = lines[j].strip() if j < len(lines) else ""
+            bm = _BACKUP_RE.search(line)
+            backup = bm.group(0)[len('backup-url="'):-1] if bm else ""
             entries.append(
                 {
                     "num": num,
                     "name": name,
                     "url": url,
+                    "backup": backup,
                     "extinf_line": i,
                     "url_line": j,
                 }
@@ -177,10 +224,92 @@ def parse(lines):
     return entries
 
 
-def _is_grilla(num):
-    return num is not None and 1 <= num <= 119
+# --------------------------------------------------------------- alias
+def _split_url(url):
+    m = _URL_RE.match(url or "")
+    if not m:
+        return None
+    return m.group("host"), m.group("path")
 
 
+def _alias_key(url):
+    """Firma del canal dentro de su panel.
+
+    Si dos URLs de paneles distintos comparten firma, son el MISMO canal
+    servido por alias distintos: probarlos en el otro host es la via para
+    esquivar el cupo de conexiones.
+    """
+    parts = _split_url(url)
+    if not parts:
+        return None
+    _host, path = parts
+    m = _LIVE_RE.match(path)
+    if m:
+        return "live|%s|%s|%s" % m.groups()
+    m = _TOKEN_RE.match(path)
+    if m:
+        return "tok|%s" % m.group(1)
+    return None
+
+
+def build_alias_groups(entries):
+    """{firma: {host, ...}} con los hosts que sirven el mismo canal."""
+    groups = {}
+    for e in entries:
+        key = _alias_key(e["url"])
+        if not key:
+            continue
+        parts = _split_url(e["url"])
+        if not parts:
+            continue
+        groups.setdefault(key, set()).add(parts[0])
+    return {k: v for k, v in groups.items() if len(v) > 1}
+
+
+def load_alias_map():
+    """Alias explicitos (panel -> lista de bases alternativas)."""
+    if not os.path.exists(ALIAS_MAP):
+        return {}
+    try:
+        with open(ALIAS_MAP, encoding="utf-8") as fh:
+            data = json.load(fh)
+    except Exception:  # noqa: BLE001
+        return {}
+    out = {}
+    for base, alts in (data or {}).items():
+        if isinstance(alts, list):
+            out[base.rstrip("/")] = [a.rstrip("/") for a in alts]
+    return out
+
+
+def alias_candidates(url, groups, alias_map):
+    """URLs alternativas del mismo canal: mismo path en otro host/panel."""
+    parts = _split_url(url)
+    if not parts:
+        return []
+    host, path = parts
+    out = []
+    key = _alias_key(url)
+    if key:
+        for h in sorted(groups.get(key, ())):
+            if h == host:
+                continue
+            out.append("http://%s%s" % (h, path))
+            out.append("https://%s%s" % (h, path))
+    base = "http://%s" % host
+    for alt_base in alias_map.get(base, ()):
+        out.append("%s%s" % (alt_base, path))
+        out.append("%s%s" % (alt_base.replace("http://", "https://"), path))
+    seen = set()
+    uniq = []
+    for u in out:
+        if u != url and u not in seen:
+            seen.add(u)
+            uniq.append(u)
+    return uniq
+
+
+# --------------------------------------------------------------- repair
 def _pool_by_name(entries):
     pool = {}
     for e in entries:
@@ -200,50 +329,87 @@ def _unique(seq):
     return out
 
 
-def replace_dead(entries):
-    """Devuelve {url_line: nueva_url} reemplazando solo las caidas concluyentes."""
-    grilla = [e for e in entries if _is_grilla(e["num"])]
-    if not grilla:
-        return {}
+def _candidates_for(e, pool, groups, alias_map):
+    """Candidatos a reemplazar la URL de un canal, en orden de preferencia."""
+    cands = []
+    # 1) alias del mismo panel (mismo path, otro host) -> esquivan el cupo
+    for u in alias_candidates(e["url"], groups, alias_map):
+        cands.append(u)
+    # 2) el backup-url declarado en la propia linea
+    if e.get("backup"):
+        cands.append(e["backup"])
+    # 3) otros canales con el mismo nombre (otra linea / otro panel)
+    for c in pool.get(norm(e["name"]), []):
+        if c["url"] and c["url"] != e["url"]:
+            cands.append(c["url"])
+        if c.get("backup") and c["backup"] != e["url"]:
+            cands.append(c["backup"])
+    return _unique(cands)[:CANDIDATES_PER_CHANNEL * 3]
+
+
+def repair_channels(entries, lines):
+    """Reemplaza URLs caidas o saturadas por una alternativa viva.
+
+    Devuelve (reemplazos {url_line: nueva_url}, {url_line: backup_viejo}).
+    """
+    numbered = [e for e in entries if e["num"] is not None]
+    if not numbered:
+        return {}, {}
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as ex:
-        states = list(ex.map(lambda e: probe(e["url"])[0], grilla))
-    dead = [e for e, st in zip(grilla, states) if st == DEAD]
+        states = list(ex.map(lambda e: probe(e["url"])[0], numbered))
+    to_fix = []
+    for e, st in zip(numbered, states):
+        if st in (DEAD, SATURADO):
+            to_fix.append(e)
 
-    if len(dead) > MAX_DEAD_RATIO * len(grilla):
+    dead = [e for e in to_fix]
+    if not dead:
+        return {}, {}
+
+    # cota de seguridad: demasiados caidos concluyentes = red del runner
+    concluyentes = [e for e in dead if probe(e["url"])[0] == DEAD]
+    if len(concluyentes) > MAX_DEAD_RATIO * len(numbered):
         print(
             "ABORTADO: demasiados caidos concluyentes (%d/%d), "
-            "posible bloqueo de red en CI." % (len(dead), len(grilla))
+            "posible bloqueo de red en CI." % (len(concluyentes), len(numbered))
         )
-        return None
+        return None, None
 
-    pool = _pool_by_name([e for e in entries if not _is_grilla(e["num"])])
+    pool = _pool_by_name([e for e in entries if e["num"] is None])
+    groups = build_alias_groups(entries)
+    alias_map = load_alias_map()
+    if groups:
+        print("grupos de alias detectados: %d" % len(groups))
 
-    cands = {}
+    cand_map = {}
+    all_cands = set()
     for e in dead:
-        cands[e["url_line"]] = [
-            c
-            for c in pool.get(norm(e["name"]), [])
-            if c["url"] and c["url"] != e["url"]
-        ][:CANDIDATES_PER_CHANNEL]
+        cs = _candidates_for(e, pool, groups, alias_map)
+        cand_map[e["url_line"]] = cs
+        all_cands.update(cs)
+    all_cands = sorted(all_cands)
 
-    cand_urls = sorted(
-        {c["url"] for lst in cands.values() for c in lst}
-    )
     with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as ex:
-        ok_flags = list(ex.map(lambda u: probe(u)[0] == ALIVE, cand_urls))
-    ok_urls = {u for u, ok in zip(cand_urls, ok_flags) if ok}
+        cand_states = list(ex.map(lambda u: probe(u)[0], all_cands))
+    cand_state = dict(zip(all_cands, cand_states))
 
     replacements = {}
+    backups = {}
     for e in dead:
-        for c in cands[e["url_line"]]:
-            if c["url"] in ok_urls and c["url"] != e["url"]:
-                replacements[e["url_line"]] = c["url"]
-                print("  %s %s -> respaldo" % (e["num"], e["name"]))
+        for c in cand_map[e["url_line"]]:
+            if cand_state.get(c) == ALIVE:
+                replacements[e["url_line"]] = c
+                backups[e["url_line"]] = e["url"]
+                etiqueta = ("alias/linea viva" if probe(e["url"])[0] == SATURADO
+                            else "respaldo")
+                print("  %s %s -> %s" % (e["num"], e["name"], etiqueta))
                 break
         else:
-            print("  %s %s -> SIN respaldo funcional" % (e["num"], e["name"]))
-    return replacements
+            st = probe(e["url"])[0]
+            etiqueta = "saturado sin cupo" if st == SATURADO else "SIN respaldo"
+            print("  %s %s -> %s" % (e["num"], e["name"], etiqueta))
+    return replacements, backups
 
 
 def _set_backup_url(line, url):
@@ -254,15 +420,19 @@ def _set_backup_url(line, url):
 
 
 def add_backups(lines, entries):
-    """Inyecta/refresca backup-url en cada canal de la grilla con respaldo vivo.
+    """Inyecta/refresca backup-url en cada canal numerado con respaldo vivo.
 
-    Devuelve cuantas lineas cambiaron.
+    Elige como respaldo una fuente de OTRO host (si existe), porque un
+    respaldo del mismo panel comparte el cupo de conexiones y no sirve de
+    nada cuando la linea esta saturada.
     """
-    grilla = [e for e in entries if _is_grilla(e["num"])]
-    pool = _pool_by_name([e for e in entries if not _is_grilla(e["num"])])
+    numbered = [e for e in entries if e["num"] is not None]
+    pool = _pool_by_name([e for e in entries if e["num"] is None])
+    groups = build_alias_groups(entries)
+    alias_map = load_alias_map()
 
     todo = []
-    for e in grilla:
+    for e in numbered:
         line = lines[e["extinf_line"]]
         m = _BACKUP_RE.search(line)
         current = m.group(0)[len('backup-url="'):-1] if m else None
@@ -272,7 +442,8 @@ def add_backups(lines, entries):
                 for c in pool.get(norm(e["name"]), [])
                 if c["url"] and c["url"] != e["url"]
             ]
-        )[:CANDIDATES_PER_CHANNEL]
+            + alias_candidates(e["url"], groups, alias_map)
+        )[:CANDIDATES_PER_CHANNEL * 2]
         todo.append((e, current, cands))
 
     urls = set()
@@ -290,10 +461,19 @@ def add_backups(lines, entries):
     for e, current, cands in todo:
         if current and current in ok_urls:
             continue  # el respaldo actual sigue vivo
-        chosen = next((u for u in cands if u in ok_urls), None)
-        if chosen is None:
+        host = (_split_url(e["url"]) or ("", ""))[0]
+        elegido = None
+        for u in cands:
+            if u in ok_urls:
+                h = (_split_url(u) or ("", ""))[0]
+                if h != host:
+                    elegido = u
+                    break
+        if elegido is None:
+            elegido = next((u for u in cands if u in ok_urls), None)
+        if elegido is None:
             continue  # no hay respaldo vivo: se deja lo que ya hubiera
-        new_line = _set_backup_url(lines[e["extinf_line"]], chosen)
+        new_line = _set_backup_url(lines[e["extinf_line"]], elegido)
         if new_line != lines[e["extinf_line"]]:
             lines[e["extinf_line"]] = new_line
             if current:
@@ -305,7 +485,12 @@ def add_backups(lines, entries):
 
 
 def write_status(entries, dry_run=False):
-    """Escribe channel_status.json: true = usable, false = caido concluyente."""
+    """Escribe channel_status.json.
+
+    status: true = usable (vivo o saturado, el link existe)
+    saturado: numeros con cupo de conexiones lleno -> punto NARANJA
+    blocked: fallo de red no concluyente -> sin punto
+    """
     numbered = [e for e in entries if e["num"] is not None]
     if not numbered:
         return
@@ -320,6 +505,7 @@ def write_status(entries, dry_run=False):
             best[num] = st
 
     status = {num: (st != DEAD) for num, st in best.items()}
+    saturado = sorted(num for num, st in best.items() if st == SATURADO)
     blocked = sorted(num for num, st in best.items() if st == BLOCKED)
     payload = {
         "updated": datetime.datetime.now(datetime.timezone.utc).isoformat(
@@ -327,19 +513,20 @@ def write_status(entries, dry_run=False):
         ),
         "count": len(status),
         "status": {str(k): v for k, v in sorted(status.items())},
+        "saturado": saturado,
         "blocked": blocked,
     }
     if dry_run:
         print(
-            "[dry-run] estado: %d canales (%d vivos, %d bloqueados sin verificar)"
-            % (len(status), sum(status.values()), len(blocked))
+            "[dry-run] estado: %d canales (%d vivos, %d saturados, %d sin verificar)"
+            % (len(status), sum(status.values()), len(saturado), len(blocked))
         )
         return
     with open(STATUS, "w", encoding="utf-8", newline="\n") as fh:
         json.dump(payload, fh, ensure_ascii=False)
     print(
-        "estado escrito: %d canales (%d vivos, %d bloqueados sin verificar)"
-        % (len(status), sum(status.values()), len(blocked))
+        "estado escrito: %d canales (%d vivos, %d saturados, %d sin verificar)"
+        % (len(status), sum(status.values()), len(saturado), len(blocked))
     )
 
 
@@ -348,7 +535,7 @@ def main():
     lines = open(M3U, encoding="utf-8").read().splitlines()
     entries = parse(lines)
 
-    replacements = replace_dead(entries)
+    replacements, backups = repair_channels(entries, lines)
     if replacements is None:
         return 1
 
@@ -357,6 +544,13 @@ def main():
         if lines[line_no] != url:
             lines[line_no] = url
             url_changes += 1
+
+    # la URL que era principal pasa a quedar como backup del canal
+    for line_no, old in backups.items():
+        ent = next((e for e in parse(lines) if e["url_line"] == line_no), None)
+        if ent is None:
+            continue
+        lines[ent["extinf_line"]] = _set_backup_url(lines[ent["extinf_line"]], old)
 
     backup_changes = add_backups(lines, parse(lines))
 
@@ -369,7 +563,8 @@ def main():
     else:
         print("sin cambios en la grilla")
 
-    # Estado para los puntos verde/rojo de la app (sobre la lista ya corregida).
+    # Estado para los puntos verde/naranja/rojo de la app (sobre la lista ya
+    # corregida).
     write_status(parse(lines), dry_run=dry)
     return 0
 
