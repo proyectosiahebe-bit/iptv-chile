@@ -3042,8 +3042,8 @@ http://tv.mapfibra.com.br:8555/live/hugo/123456/333.m3u8
 http://tv.mapfibra.com.br:8555/live/hugo/123456/301.m3u8
 #EXTINF:-1 tvg-name="WOOHOO" backup-url="http://srv.cldplay.in:80/lelezago/lelezago@2021/83429" group-title="NUEVAS VARIEDOS",6063 WOOHOO
 http://tv.mapfibra.com.br:8555/live/hugo/123456/298.m3u8
-#EXTINF:-1 tvg-name="ZOOMOO" tvg-logo="https://www.zoomookids.com.br/wp-content/uploads/2022/11/cropped-shadow-zoomoo-kids-logo.png" backup-url="http://tv.mapfibra.com.br:8555/live/hugo/123456/309.m3u8" group-title="NUEVAS INFANTILES",6064 Zoomoo
-http://directo.ddns.me:2082/Edithherrera/5588446688/76242
+#EXTINF:-1 tvg-name="ZOOMOO" tvg-logo="https://www.zoomookids.com.br/wp-content/uploads/2022/11/cropped-shadow-zoomoo-kids-logo.png" backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/76242" group-title="NUEVAS INFANTILES",6064 Zoomoo
+http://tv.mapfibra.com.br:8555/live/hugo/123456/309.m3u8
 #EXTINF:-1 tvg-name="NEUSPJELA PRIJAVA PROVJERITE PODATKE" group-title="NUEVAS VARIEDOS",6065 ⚠️ NEUSPJELA PRIJAVA - Provjerite podatke
 https://eu2.contabostorage.com/e6e67f1e8625462b9353310cc2998cfc:g-smart-api/bulane/fxvideos/auth-error.ts
 #EXTINF:-1 tvg-name="ES DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/57344" group-title="NUEVAS DEPORTES",6066 ES: (HD) DAZN LALIGA
@@ -5252,8 +5252,8 @@ http://up.kiwi:80/351921603109/34939156/296205
 http://up.kiwi:80/351921603109/34939156/296209
 #EXTINF:-1 tvg-name="STUDIO UNIVERSAL H265" tvg-logo="https://d.l0.ms/studio-universal.png" group-title="NUEVAS PELICULAS",7168 STUDIO UNIVERSAL FHD H265
 http://up.kiwi:80/351921603109/34939156/1242
-#EXTINF:-1 tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" backup-url="http://up.kiwi:80/351921603109/34939156/1252" group-title="NUEVAS PELICULAS",7169 TCM
-http://directo.ddns.me:2082/Edithherrera/5588446688/2662
+#EXTINF:-1 tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/2662" group-title="NUEVAS PELICULAS",7169 TCM
+http://up.kiwi:80/351921603109/34939156/1252
 #EXTINF:-1 tvg-name="TELECINE FUN H265" tvg-logo="https://d.l0.ms/tele-cine-fun.png" group-title="NUEVAS PELICULAS",7170 TELECINE FUN FHD H265
 http://up.kiwi:80/351921603109/34939156/1268
 #EXTINF:-1 tvg-name="TELECINE FUN FHD" tvg-logo="https://d.l0.ms/tele-cine-fun.png" group-title="NUEVAS PELICULAS",7171 TELECINE FUN FHD²
@@ -5296,8 +5296,8 @@ http://up.kiwi:80/351921603109/34939156/1260680
 http://up.kiwi:80/351921603109/34939156/1260682
 #EXTINF:-1 tvg-name="ELEVEN SPORT 4" group-title="NUEVAS INTERNACIONALES PORTUGAL",7190 [PT] ELEVEN SPORT 4
 http://up.kiwi:80/351921603109/34939156/1260685
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/gzxhzPf/2560px-National-Geographic-Logo-svg.png" backup-url="http://up.kiwi:80/351921603109/34939156/1260707" group-title="NUEVAS VARIEDOS",7191 National Geographic
-http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2465
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/gzxhzPf/2560px-National-Geographic-Logo-svg.png" backup-url="http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/2465" group-title="NUEVAS VARIEDOS",7191 National Geographic
+http://up.kiwi:80/351921603109/34939156/1260707
 #EXTINF:-1 tvg-name="NHK WORLD" tvg-logo="https://pt.l0.ms/NHK WORLD.PNG" group-title="NUEVAS INTERNACIONALES PORTUGAL",7192 [PT] NHK WORLD
 http://up.kiwi:80/351921603109/34939156/1260708
 #EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://pt.l0.ms/nickelodeon.png" group-title="NUEVAS INTERNACIONALES PORTUGAL",7193 [PT] NICKELODEON
@@ -6302,8 +6302,8 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 https://edge.essastream.com/orbittv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="RED BULL TV" tvg-logo="https://i.imgur.com/BcN8B3D.png" backup-url="https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8" group-title="NUEVAS DEPORTES",7693 Red Bull TV
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="RADIO SOBERANIA" tvg-logo="https://www.profesionalreview.com/wp-content/uploads/2017/09/Image-17-9-17-14-20.jpeg" backup-url="https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8" group-title="NUEVAS MUSICA",7694 Radio Soberania (Chile)
-http://directo.ddns.me:2082/Edithherrera/5588446688/51002
+#EXTINF:-1 tvg-name="RADIO SOBERANIA" tvg-logo="https://www.profesionalreview.com/wp-content/uploads/2017/09/Image-17-9-17-14-20.jpeg" backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/51002" group-title="NUEVAS MUSICA",7694 Radio Soberania (Chile)
+https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8
 #EXTINF:-1 tvg-name="RETRO TV" tvg-logo="http://www.gustavorivas.com.ar/wp-content/uploads/2009/03/logo-canal-retro1.jpg" group-title="NUEVAS MUSICA",7695 Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-name="MEXIQUENSE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/Mexiquense_TV_%282012_Black_Variant%29.png/revision/latest?cb=20151111055336" group-title="NUEVAS INTERNACIONALES MEXICO",7696 Mexiquense
@@ -6346,8 +6346,8 @@ https://hse24.akamaized.net/hls/live/2006663/hse24/master_900p25.m3u8
 https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist480p.m3u8
 #EXTINF:-1 tvg-name="TV FRANCOPHONIE" tvg-logo="https://televisiongratuite.com/wp-content/uploads/2018/10/Francophonie-24.jpg" group-title="NUEVAS VARIEDOS",7715 TV Francophonie
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_w2113586473_b1000000_t64NDgwcA==.m3u8
-#EXTINF:-1 tvg-name="CANALE 7" backup-url="http://wms.shared.streamshow.it:1935/canale7/canale7/chunklist_w2119880980.m3u8" group-title="NUEVAS INTERNACIONALES ITALIA",7716 Canale 7
-http://directo.ddns.me:2082/Edithherrera/5588446688/27105
+#EXTINF:-1 tvg-name="CANALE 7" backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/27105" group-title="NUEVAS INTERNACIONALES ITALIA",7716 Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/chunklist_w2119880980.m3u8
 #EXTINF:-1 tvg-name="SUPER TV" tvg-logo="https://vapefrog.ca/images/IPTV/super.png" group-title="NUEVAS INTERNACIONALES ITALIA",7717 Super TV
 http://wms.shared.streamshow.it:1935/supertv/supertv/chunklist_w576569944.m3u8
 #EXTINF:-1 tvg-name="BETHEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png" group-title="NUEVAS VARIEDOS",7718 Bethel
@@ -6384,8 +6384,8 @@ http://sonando.us.digitalproserver.com/ucvradio
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-name="PUC TV GOIAS" tvg-logo="https://pbs.twimg.com/profile_images/2020937763/logo_twitter.jpg" group-title="NUEVAS INTERNACIONALES BRASIL",7734 PUC TV Goias
 https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1 tvg-name="TV REDE GOSPEL" backup-url="https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8" group-title="NUEVAS INTERNACIONALES BRASIL",7735 TV Rede Gospel
-http://directo.ddns.me:2082/Edithherrera/5588446688/27014
+#EXTINF:-1 tvg-name="TV REDE GOSPEL" backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/27014" group-title="NUEVAS INTERNACIONALES BRASIL",7735 TV Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1 tvg-name="MEGA" tvg-logo="https://i.postimg.cc/Hkb12bwr/Mega-2020.png" backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/14090" group-title="NUEVAS NACIONALES CHILE",7736 MEGA
 http://directo.ddns.me:2082/Edithherrera/5588446688/2355
 #EXTINF:-1 tvg-name="CHV" tvg-logo="https://i.postimg.cc/ZKKp1G9m/chv.png" backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/2356" group-title="NUEVAS NACIONALES CHILE",7737 CHV
