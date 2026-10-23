@@ -3058,10 +3058,10 @@ http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/57560
 http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/58115
 #EXTINF:-1 tvg-name="ES M LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5664" group-title="NUEVAS DEPORTES",6071 ES: (HD) M+ LIGA DE CAMPEONES 3
 http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/58116
-#EXTINF:-1 tvg-name="ES M DEPORTES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" backup-url="http://31.43.191.125:8080/restream/restream/289" group-title="NUEVAS DEPORTES",6072 ES: M+ DEPORTES 3
-http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5640
-#EXTINF:-1 tvg-name="ES M DEPORTES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" backup-url="http://31.43.191.125:8080/restream/restream/290" group-title="NUEVAS DEPORTES",6073 ES: M+ DEPORTES 4
-http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5641
+#EXTINF:-1 tvg-name="ES M DEPORTES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5640" group-title="NUEVAS DEPORTES",6072 ES: M+ DEPORTES 3
+http://31.43.191.125:8080/restream/restream/289
+#EXTINF:-1 tvg-name="ES M DEPORTES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5641" group-title="NUEVAS DEPORTES",6073 ES: M+ DEPORTES 4
+http://31.43.191.125:8080/restream/restream/290
 #EXTINF:-1 tvg-name="ES BARCA TV" tvg-logo="https://docdog.top/logo/countries/spain/barca-tv-es.png" group-title="NUEVAS DEPORTES",6074 ES: BARCA TV
 http://31.43.191.125:8080/restream/restream/721
 #EXTINF:-1 tvg-name="ES CLAN TVE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Clan_TVE.png" group-title="NUEVAS INFANTILES",6075 ES: CLAN TVE
@@ -3070,22 +3070,22 @@ http://31.43.191.125:8080/restream/restream/638
 http://31.43.191.125:8080/restream/restream/651
 #EXTINF:-1 tvg-name="ES TRECE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="NUEVAS VARIEDOS",6077 ES: TRECE
 http://31.43.191.125:8080/restream/restream/655
-#EXTINF:-1 tvg-name="ES M COMEDIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" backup-url="http://31.43.191.125:8080/restream/restream/657" group-title="NUEVAS PELICULAS",6078 ES: M+ COMEDIA
-http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5636
-#EXTINF:-1 tvg-name="ES M CL SICOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" backup-url="http://31.43.191.125:8080/restream/restream/659" group-title="NUEVAS PELICULAS",6079 ES: M+ CLÁSICOS
-http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5634
+#EXTINF:-1 tvg-name="ES M COMEDIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5636" group-title="NUEVAS PELICULAS",6078 ES: M+ COMEDIA
+http://31.43.191.125:8080/restream/restream/657
+#EXTINF:-1 tvg-name="ES M CL SICOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5634" group-title="NUEVAS PELICULAS",6079 ES: M+ CLÁSICOS
+http://31.43.191.125:8080/restream/restream/659
 #EXTINF:-1 tvg-name="ES M DRAMA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="NUEVAS PELICULAS",6080 ES: M+ DRAMA
 http://31.43.191.125:8080/restream/restream/660
 #EXTINF:-1 tvg-name="ES M INDIE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="NUEVAS PELICULAS",6081 ES: M+ INDIE
 http://31.43.191.125:8080/restream/restream/87106
-#EXTINF:-1 tvg-name="ES WARNER TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Warner_TV.png" backup-url="http://31.43.191.125:8080/restream/restream/668" group-title="NUEVAS PELICULAS",6082 ES: WARNER TV
-http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5739
-#EXTINF:-1 tvg-name="ES DARK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" backup-url="http://31.43.191.125:8080/restream/restream/782" group-title="NUEVAS PELICULAS",6083 ES: DARK
-http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/25930
-#EXTINF:-1 tvg-name="ES IBERALIA TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" backup-url="http://31.43.191.125:8080/restream/restream/714" group-title="NUEVAS VARIEDOS",6084 ES: IBERALIA TV
-http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5621
-#EXTINF:-1 tvg-name="ES DIVINITY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Divinity.png" backup-url="http://31.43.191.125:8080/restream/restream/747" group-title="NUEVAS VARIEDOS",6085 ES: DIVINITY
-http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5599
+#EXTINF:-1 tvg-name="ES WARNER TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Warner_TV.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5739" group-title="NUEVAS PELICULAS",6082 ES: WARNER TV
+http://31.43.191.125:8080/restream/restream/668
+#EXTINF:-1 tvg-name="ES DARK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/25930" group-title="NUEVAS PELICULAS",6083 ES: DARK
+http://31.43.191.125:8080/restream/restream/782
+#EXTINF:-1 tvg-name="ES IBERALIA TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5621" group-title="NUEVAS VARIEDOS",6084 ES: IBERALIA TV
+http://31.43.191.125:8080/restream/restream/714
+#EXTINF:-1 tvg-name="ES DIVINITY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Divinity.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5599" group-title="NUEVAS VARIEDOS",6085 ES: DIVINITY
+http://31.43.191.125:8080/restream/restream/747
 #EXTINF:-1 tvg-name="ES MEZZO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo.png" group-title="NUEVAS MUSICA",6086 ES: MEZZO
 http://31.43.191.125:8080/restream/restream/34145
 #EXTINF:-1 tvg-name="ES M BALONCESTO 3" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/M_BALONCESTO_3.png" group-title="NUEVAS VARIEDOS",6087 ES: M+ Baloncesto 3 FHD
@@ -3184,8 +3184,8 @@ http://31.43.191.125:8080/restream/restream/870
 http://31.43.191.125:8080/restream/restream/1021
 #EXTINF:-1 tvg-name="PL CANAL NOW" tvg-logo="https://docdog.top/logo/countries/poland/canal+now.png" group-title="NUEVAS PELICULAS",6134 PL: CANAL+ NOW
 http://31.43.191.125:8080/restream/restream/916
-#EXTINF:-1 tvg-name="PL FOX COMEDY" tvg-logo="https://docdog.top/logo/countries/poland/foxcomedy.png" backup-url="http://31.43.191.125:8080/restream/restream/952" group-title="NUEVAS PELICULAS",6135 PL: FOX COMEDY
-http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/10173
+#EXTINF:-1 tvg-name="PL FOX COMEDY" tvg-logo="https://docdog.top/logo/countries/poland/foxcomedy.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/10173" group-title="NUEVAS PELICULAS",6135 PL: FOX COMEDY
+http://31.43.191.125:8080/restream/restream/952
 #EXTINF:-1 tvg-name="PL AXN" tvg-logo="https://docdog.top/logo/countries/poland/axn.png" group-title="NUEVAS PELICULAS",6136 PL: AXN
 http://31.43.191.125:8080/restream/restream/900
 #EXTINF:-1 tvg-name="PL AXN WHITE" tvg-logo="https://docdog.top/logo/countries/poland/axnwhite.png" group-title="NUEVAS PELICULAS",6137 PL: AXN WHITE
@@ -3224,20 +3224,20 @@ http://31.43.191.125:8080/restream/restream/109
 http://31.43.191.125:8080/restream/restream/99477
 #EXTINF:-1 tvg-name="PT EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/portugal/eurosport-2.png" group-title="NUEVAS DEPORTES",6154 PT: EUROSPORT 2
 http://31.43.191.125:8080/restream/restream/99482
-#EXTINF:-1 tvg-name="PT ARTV" tvg-logo="https://docdog.top/logo/countries/portugal/artv.png" backup-url="http://31.43.191.125:8080/restream/restream/99495" group-title="NUEVAS INTERNACIONALES PORTUGAL",6155 PT: ARTV
-http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/24990
+#EXTINF:-1 tvg-name="PT ARTV" tvg-logo="https://docdog.top/logo/countries/portugal/artv.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/24990" group-title="NUEVAS INTERNACIONALES PORTUGAL",6155 PT: ARTV
+http://31.43.191.125:8080/restream/restream/99495
 #EXTINF:-1 tvg-name="PT RTP 2" tvg-logo="https://docdog.top/logo/countries/portugal/rtp2.png" group-title="NUEVAS VARIEDOS",6156 PT: RTP 2
 http://31.43.191.125:8080/restream/restream/99501
 #EXTINF:-1 tvg-name="PT AXN WHITE" tvg-logo="https://docdog.top/logo/countries/portugal/axnwhite.png" group-title="NUEVAS PELICULAS",6157 PT: AXN WHITE
 http://31.43.191.125:8080/restream/restream/99512
-#EXTINF:-1 tvg-name="PT FOX COMEDY" tvg-logo="https://docdog.top/logo/countries/portugal/foxcomedy.png" backup-url="http://31.43.191.125:8080/restream/restream/99521" group-title="NUEVAS INTERNACIONALES PORTUGAL",6158 PT: FOX COMEDY
-http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/25032
+#EXTINF:-1 tvg-name="PT FOX COMEDY" tvg-logo="https://docdog.top/logo/countries/portugal/foxcomedy.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/25032" group-title="NUEVAS INTERNACIONALES PORTUGAL",6158 PT: FOX COMEDY
+http://31.43.191.125:8080/restream/restream/99521
 #EXTINF:-1 tvg-name="PT 24 KITCHEN" tvg-logo="https://docdog.top/logo/countries/portugal/24kitchen.png" group-title="NUEVAS VARIEDOS",6159 PT: 24 KITCHEN
 http://31.43.191.125:8080/restream/restream/99523
 #EXTINF:-1 tvg-name="PT AMC CRIME" tvg-logo="https://docdog.top/logo/countries/portugal/amc.png" group-title="NUEVAS PELICULAS",6160 PT: AMC CRIME
 http://31.43.191.125:8080/restream/restream/99536
-#EXTINF:-1 tvg-name="PT CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/portugal/cartoonnetwork.png" backup-url="http://31.43.191.125:8080/restream/restream/99544" group-title="NUEVAS INTERNACIONALES PORTUGAL",6161 PT: CARTOON NETWORK
-http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/24985
+#EXTINF:-1 tvg-name="PT CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/portugal/cartoonnetwork.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/24985" group-title="NUEVAS INTERNACIONALES PORTUGAL",6161 PT: CARTOON NETWORK
+http://31.43.191.125:8080/restream/restream/99544
 #EXTINF:-1 tvg-name="PT BABY TV" tvg-logo="https://docdog.top/logo/countries/portugal/babytv.png" group-title="NUEVAS INFANTILES",6162 PT: BABY TV
 http://31.43.191.125:8080/restream/restream/99546
 #EXTINF:-1 tvg-name="PT CANAL PANDA" group-title="NUEVAS VARIEDOS",6163 PT: CANAL PANDA
