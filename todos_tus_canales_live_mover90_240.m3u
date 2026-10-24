@@ -1,0 +1,1830 @@
+#EXTM3U
+#EXTGRP:NACIONALES CHILE
+#EXTINF:-1 group-title="NACIONALES CHILE",1 ADN TV
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES CHILE",2 BIO BIO TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES CHILE",3 TVR
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES CHILE",4 LA RED
+http://pirostv.lat:8080/live/Nestrive/Polopolo321%24/451027.m3u
+#EXTINF:-1 group-title="NACIONALES CHILE",5 TV+
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts
+#EXTINF:-1 group-title="NACIONALES CHILE",6 TV CHILE
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 group-title="NACIONALES CHILE",7 TVN
+http://solutionspremium.net:80/channel/user2620/37428848293/87265.ts
+#EXTINF:-1 group-title="NACIONALES CHILE",8 NTV
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+#EXTINF:-1 group-title="NACIONALES CHILE",9 MEGA
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES CHILE",10 TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 group-title="NACIONALES CHILE",11 CHV
+http://solutionspremium.net:80/channel/user2620/37428848293/865.ts
+#EXTINF:-1 group-title="NACIONALES CHILE",12 UCV
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14893.ts
+#EXTINF:-1 group-title="NACIONALES CHILE",13 CANAL 13
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/451032.ts
+#EXTINF:-1 group-title="NACIONALES CHILE",14 CHV NOTICIAS
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES CHILE",15 TVN 24 HORAS
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+#EXTINF:-1 group-title="NACIONALES CHILE",16 T13
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts
+#EXTGRP:NOTICIAS
+#EXTINF:-1 group-title="NOTICIAS",17 CNN CHILE
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197031.ts
+#EXTGRP:NACIONALES CHILE
+#EXTINF:-1 group-title="NACIONALES CHILE",18 ZONA LATINA
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197053.ts
+#EXTGRP:PARA VERIFICAR
+#EXTINF:-1 group-title="PARA VERIFICAR",19 13REC
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197033.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",20 VIA X
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T0pPNFJ0czNxZSt6dmdOVkNYQm13TT0
+#EXTGRP:SERIES / REALITY
+#EXTINF:-1 group-title="SERIES / REALITY",21 13 REALITIES
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 group-title="SERIES / REALITY",22 13 TELESERIES
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 group-title="SERIES / REALITY",23 TNT NOVELAS
+http://solutionspremium.net:80/channel/user2620/37428848293/1225.ts
+#EXTINF:-1 group-title="SERIES / REALITY",24 SONY
+http://solutionspremium.net:80/channel/user2620/37428848293/1022.ts
+#EXTINF:-1 group-title="SERIES / REALITY",25 STUDIO UNIVERSAL
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/254.ts
+#EXTGRP:NACIONALES CHILE
+#EXTINF:-1 group-title="NACIONALES CHILE",26 RETRO PLUS PELICULAS
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+#EXTGRP:CINE
+#EXTINF:-1 group-title="CINE",27 CINEMAX
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13882.ts
+#EXTINF:-1 group-title="CINE",28 GOLDEN EDGE
+http://solutionspremium.net:80/channel/user2620/37428848293/1251.ts
+#EXTINF:-1 group-title="CINE",29 UNIVERSAL
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/239660.ts
+#EXTGRP:PARA VERIFICAR
+#EXTINF:-1 group-title="PARA VERIFICAR",30 CINECANAL
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/107.ts
+#EXTGRP:CINE
+#EXTINF:-1 group-title="CINE",31 STAR CHANNEL
+http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/970139.ts
+#EXTINF:-1 group-title="CINE",32 E!
+http://solutionspremium.net:80/channel/user2620/37428848293/1008.ts
+#EXTINF:-1 group-title="CINE",33 COMEDY CENTRAL
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/108.ts
+#EXTINF:-1 group-title="CINE",34 AXN
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/103.ts
+#EXTINF:-1 group-title="CINE",35 TNT SERIES
+http://solutionspremium.net:80/channel/user2620/37428848293/1078.ts
+#EXTINF:-1 group-title="CINE",36 WARNER CHANNEL
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3375.ts
+#EXTINF:-1 group-title="CINE",37 SPACE
+http://solutionspremium.net:80/channel/user2620/37428848293/1024.ts
+#EXTINF:-1 group-title="CINE",38 TNT
+http://solutionspremium.net:80/channel/user2620/37428848293/248839.ts
+#EXTGRP:PARA VERIFICAR
+#EXTINF:-1 group-title="PARA VERIFICAR",39 AMC
+http://pirostv.lat:25461/live/Armando12/Armando12/239632.ts
+#EXTGRP:DOCUMENTALES
+#EXTINF:-1 group-title="DOCUMENTALES",40 A&E
+http://solutionspremium.net:80/channel/user2620/37428848293/997.ts
+#EXTGRP:CINE
+#EXTINF:-1 group-title="CINE",41 HBO 2
+http://pirostv.lat:25461/live/Armando12/Armando12/240948.ts
+#EXTGRP:PARA VERIFICAR
+#EXTINF:-1 group-title="PARA VERIFICAR",42 HBO XTREME
+http://solutionspremium.net:80/channel/user2620/37428848293/41129.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",43 HBO PLUS
+http://solutionspremium.net:80/channel/user2620/37428848293/86760.ts
+#EXTGRP:CINE
+#EXTINF:-1 group-title="CINE",44 HBO FAMILY
+http://pirostv.lat:25461/live/Armando12/Armando12/239647.ts
+#EXTINF:-1 group-title="CINE",45 HBO
+http://solutionspremium.net:80/channel/user2620/37428848293/18722.ts
+#EXTINF:-1 group-title="CINE",46 HBO POP
+http://blushes.top:80/live/466634866/Y896v1908W/249248.m3u8
+#EXTINF:-1 group-title="CINE",47 HBO SIGNATURE
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/63.ts
+#EXTINF:-1 group-title="CINE",48 HBO MUNDI
+http://blushes.top:80/live/466634866/Y896v1908W/249249.m3u8
+#EXTINF:-1 group-title="CINE",49 STARZ
+http://solutionspremium.net:80/channel/user2620/37428848293/1195.ts
+#EXTINF:-1 group-title="CINE",50 ADULT SWIM
+http://solutionspremium.net:80/channel/user2620/37428848293/38480.ts
+#EXTGRP:DOCUMENTALES
+#EXTINF:-1 group-title="DOCUMENTALES",51 DISCOVERY CHANNEL
+http://solutionspremium.net:80/channel/user2620/37428848293/972.ts
+#EXTINF:-1 group-title="DOCUMENTALES",52 DISCOVERY TLC
+http://pirostv.lat:25461/live/Armando12/Armando12/107.ts
+#EXTINF:-1 group-title="DOCUMENTALES",53 DISCOVERY HOME AND HEALTH
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/109.ts
+#EXTINF:-1 group-title="DOCUMENTALES",54 DISCOVERY SCIENCE
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13622.ts
+#EXTINF:-1 group-title="DOCUMENTALES",55 DISCOVERY TURBO
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/268.ts
+#EXTINF:-1 group-title="DOCUMENTALES",56 ANIMAL PLANET
+http://solutionspremium.net:80/channel/user2620/37428848293/969.ts
+#EXTINF:-1 group-title="DOCUMENTALES",57 HISTORY
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5893.ts
+#EXTINF:-1 group-title="DOCUMENTALES",58 HISTORY 2
+http://solutionspremium.net:80/channel/user2620/37428848293/97416.ts
+#EXTINF:-1 group-title="DOCUMENTALES",59 FOOD NETWORK
+http://solutionspremium.net:80/channel/user2620/37428848293/164371.ts
+#EXTINF:-1 group-title="DOCUMENTALES",60 LOVE NATURE
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15835.ts
+#EXTINF:-1 group-title="DOCUMENTALES",61 INVESTIGATION DISCOVERY
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13031.ts
+#EXTINF:-1 group-title="DOCUMENTALES",62 NATIONAL GEOGRAPHIC
+http://solutionspremium.net:80/channel/user2620/37428848293/121352.ts
+#EXTGRP:NOTICIAS
+#EXTINF:-1 group-title="NOTICIAS",63 CNN HD
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/261288.ts
+#EXTINF:-1 group-title="NOTICIAS",64 CNN ESPAÑOL
+http://solutionspremium.net:80/channel/user2620/37428848293/129628.ts
+#EXTGRP:DEPORTES
+#EXTINF:-1 group-title="DEPORTES",65 TNT SPORTS PREMIUM
+http://solutionspremium.net:80/channel/user2620/37428848293/93010.ts
+#EXTINF:-1 group-title="DEPORTES",66 TNT SPORTS SD
+http://solutionspremium.net:80/channel/user2620/37428848293/93050.ts
+#EXTINF:-1 group-title="DEPORTES",67 ESPN
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/262271.ts
+#EXTINF:-1 group-title="DEPORTES",68 ESPN
+http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/12755
+#EXTINF:-1 group-title="DEPORTES",69 ESPN DEPORTES
+http://solutionspremium.net:80/channel/user2620/37428848293/1314.ts
+#EXTINF:-1 group-title="DEPORTES",70 ESPN 2
+http://solutionspremium.net:80/channel/user2620/37428848293/146797.ts
+#EXTINF:-1 group-title="DEPORTES",71 ESPN 3
+http://solutionspremium.net:80/channel/user2620/37428848293/146798.ts
+#EXTINF:-1 group-title="DEPORTES",72 ESPN 4
+http://solutionspremium.net:80/channel/user2620/37428848293/146799.ts
+#EXTINF:-1 group-title="DEPORTES",73 ESPN5
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11662.ts
+#EXTINF:-1 group-title="DEPORTES",74 ESPN6
+http://pirostv.lat:25461/live/Armando12/Armando12/528522.ts
+#EXTINF:-1 group-title="DEPORTES",75 CDO PREMIUM
+http://solutionspremium.net:80/channel/user2620/37428848293/122090.ts
+#EXTINF:-1 group-title="DEPORTES",76 DSPORTS +
+http://solutionspremium.net:80/channel/user2620/37428848293/146801.ts
+#EXTINF:-1 group-title="DEPORTES",77 DSPORTS
+http://pirostv.lat:25461/live/Armando12/Armando12/267391.ts
+#EXTINF:-1 group-title="DEPORTES",78 TNT SPORTS PREMIUM
+http://solutionspremium.net:80/channel/user2620/37428848293/93010.ts
+#EXTINF:-1 group-title="DEPORTES",79 TNT SPORTS BASICO
+http://solutionspremium.net:80/channel/user2620/37428848293/93050.ts
+#EXTGRP:NACIONALES CHILE
+#EXTINF:-1 group-title="NACIONALES CHILE",80 RETRO PLUS TV
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES CHILE",81 RETRO PLUS TV SEÑAL 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+#EXTGRP:MUSICA
+#EXTINF:-1 group-title="MUSICA",82 MTV LIVE
+http://pirostv.lat:25461/live/Armando12/Armando12/356.ts
+#EXTINF:-1 group-title="MUSICA",83 MTV
+http://solutionspremium.net:80/channel/user2620/37428848293/36823.ts
+#EXTINF:-1 group-title="MUSICA",84 13 FESTIVAL
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 group-title="MUSICA",85 PORTAL FOXMIX
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",86 RETROMUSICA TELEVISION
+https://vdochile.com:3864/stream/play.m3u8
+#EXTINF:-1 group-title="MUSICA",87 REWIND TV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",88 VCLASSICTV TROPICAL
+https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
+#EXTGRP:INFANTIL
+#EXTINF:-1 group-title="INFANTIL",89 CANAL CHILE
+https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="INFANTIL", 90 DISNEY JR HD (MX)
+http://solutionspremium.net:80/channel/user2620/37428848293/1086.ts
+#EXTINF:-1 group-title="INFANTIL",91 13 GO KIDS
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 group-title="INFANTIL",92 DISNEY CHANNEL
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:-1 group-title="INFANTIL",93 NICK JR
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13838.ts
+#EXTINF:-1 group-title="INFANTIL",94 DISCOVERY KIDS
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13493.ts
+#EXTGRP:INTERNACIONAL
+#EXTINF:-1 group-title="INTERNACIONAL",95 NICKELODEON
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3310.ts
+#EXTINF:-1 group-title="INTERNACIONAL",96 EUROPA EUROPA
+http://solutionspremium.net:80/channel/user2620/37428848293/1266.ts
+#EXTINF:-1 group-title="INTERNACIONAL",97 ANTENA 3
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8234.ts
+#EXTINF:-1 group-title="INTERNACIONAL",98 GLOBO HD
+http://solutionspremium.net:80/channel/user2620/37428848293/2065.ts
+#EXTINF:-1 group-title="INTERNACIONAL",99 TVE INTERNACIONAL
+http://solutionspremium.net:80/channel/user2620/37428848293/650.ts
+#EXTGRP:NOTICIAS
+#EXTINF:-1 group-title="NOTICIAS",100 TELEFE
+http://solutionspremium.net:80/channel/user2620/37428848293/1343.ts
+#EXTINF:-1 group-title="NOTICIAS",101 TELEMUNDO INTERNACIONAL
+http://solutionspremium.net:80/channel/user2620/37428848293/86794.ts
+#EXTINF:-1 group-title="NOTICIAS",102 DW ESPANOL
+http://solutionspremium.net:80/channel/user2620/37428848293/40075.ts
+#EXTGRP:NACIONALES CHILE
+#EXTINF:-1 group-title="NACIONALES CHILE",103 TV SENADO
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="NACIONALES CHILE",104 TELETRAK
+https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
+#EXTGRP:RADIOS
+#EXTINF:-1 group-title="RADIOS",105 FM PLUS
+https://v2.tustreaming.cl/fmplus/index.m3u8
+#EXTINF:-1 group-title="RADIOS",106 RADIO BIO BIO CONCEPCION
+https://redirector.dps.live/biobioconcepcion/audiohls/playlist.m3u8
+#EXTINF:-1 group-title="RADIOS",107 RADIO BIO BIO LOS ANGELES
+https://redirector.dps.live/biobiolosangeles/audiohls/playlist.m3u8
+#EXTINF:-1 group-title="RADIOS",108 RADIO BIO BIO OSORNO
+https://redirector.dps.live/biobioosorno/audiohls/playlist.m3u8
+#EXTINF:-1 group-title="RADIOS",109 RADIO BIO BIO PUERTO MONTT
+https://redirector.dps.live/biobiopuertomontt/audiohls/playlist.m3u8
+#EXTINF:-1 group-title="RADIOS",110 RADIO BIO BIO SANTIAGO
+https://redirector.dps.live/biobiosantiago/audiohls/playlist.m3u8
+#EXTINF:-1 group-title="RADIOS",111 RADIO BIO BIO TEMUCO
+https://redirector.dps.live/biobiotemuco/audiohls/playlist.m3u8
+#EXTINF:-1 group-title="RADIOS",112 RADIO BIO BIO VALPARAISO
+https://redirector.dps.live/biobiovalparaiso/audiohls/playlist.m3u8
+#EXTINF:-1 group-title="RADIOS",113 RADIO PUDAHUEL FM
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
+#EXTINF:-1 group-title="RADIOS",114 CAROLINA TV
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
+#EXTINF:-1 group-title="RADIOS",115 RADIO ROMANTICA
+https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8
+#EXTINF:-1 group-title="RADIOS",116 RADIO INFINITA
+https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8
+#EXTINF:-1 group-title="RADIOS",117 RADIO DUNA
+https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
+#EXTINF:-1 group-title="RADIOS",118 LA CLAVE
+https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="RADIOS",119 LA METRO
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ALTERNATIVAS SD",120 TVN SD (720p)
+http://neoyjpw.top:8080/1/1/18768.ts
+#EXTINF:-1 group-title="ALTERNATIVAS SD",121 CHV SD (576p)
+http://solutionspremium.net:80/channel/user2620/37428848293/864.ts
+#EXTINF:-1 group-title="ALTERNATIVAS SD",122 MEGA SD (576p)
+http://tv-275228.ifiesta.net:80/TV-14650030923070/116630916768/256675
+#EXTINF:-1 group-title="ALTERNATIVAS SD",123 CANAL 13 SD (576p)
+http://tv-275228.ifiesta.net:80/TV-14650030923070/116630916768/256679
+#EXTINF:-1 group-title="PARA VERIFICAR",198 PARA VERIFICAR AMC HD (ALT) [canal39]
+http://neoyjpw.top:8080/1/1/5553.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",199 PARA VERIFICAR A&E HD MX (ALT) [canal40]
+http://neoyjpw.top:8080/1/1/18503.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",200 PARA VERIFICAR CNN ESPANOL HD (ALT) [canal64]
+http://neoyjpw.top:8080/1/1/58835.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",229 PV CNN UHD
+http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/1028554.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",236 PV HBO FAMILY
+http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/30599.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",237 PV HBO FAMILY OPC 2
+http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/1279011.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",240 PV HBO OPC 2
+http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/69064.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",245 PV TNT SPORT CHILE
+http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/1028551.ts
+#EXTINF:-1 group-title="PARA VERIFICAR",249 PV ESPN 2 CHILE
+http://tv-275228.ifiesta.net:80/TV-14650030923070/116630916768/257655
+#EXTINF:-1 group-title="PARA VERIFICAR",250 PV ESPN PREMIUM LATAM
+http://neoyjpw.top:8080/1/1/52470.ts
+#EXTGRP:FUENTES
+#EXTINF:-1 group-title="FUENTES",269 FUENTE TVN (pirostv)
+http://neoyjpw.top:8080/1/1/18768.ts
+#EXTINF:-1 group-title="FUENTES",270 FUENTE TVN (emilyba)
+http://neoyjpw.top:8080/1/1/58878.ts
+#EXTINF:-1 group-title="FUENTES",274 FUENTE T13 (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/451032.ts
+#EXTINF:-1 group-title="FUENTES",275 FUENTE T13 (emilyba)
+http://neoyjpw.top:8080/1/1/58794.ts
+#EXTINF:-1 group-title="FUENTES",276 FUENTE T13 (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBIYBV7DnB8Iu2C3cBJoFcxD
+#EXTINF:-1 group-title="FUENTES",277 FUENTE T13 (planettvweb)
+http://neoyjpw.top:8080/1/1/58794.ts
+#EXTINF:-1 group-title="FUENTES",279 FUENTE CNN CHILE (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZhMUwZlQW7eqtcVgACQh427NwkWm4NzV-shNMA4cw0
+#EXTINF:-1 group-title="FUENTES",281 FUENTE ZONA LATINA (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBLcPGATUN_urJYmCR9QqyC0
+#EXTINF:-1 group-title="FUENTES",283 FUENTE VIA X (emilyba)
+http://superxlatino.com:8880/Jsoto121223/2y8RDRtuBDnf/298545.ts
+#EXTINF:-1 group-title="FUENTES",284 FUENTE VIA X (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6kt7H7_PIsCz9K6kKCOFFBIljZXbodtXmQpFO2Vyu4Fi
+#EXTINF:-1 group-title="FUENTES",286 FUENTE STUDIO UNIVERSAL (emilyba)
+http://my-king.net:7070/160145116653133/aO1ltsOFDzkWxPN/169470.ts
+#EXTINF:-1 group-title="FUENTES",287 FUENTE STUDIO UNIVERSAL (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6osFzleIYwos0b-GloVqQ4SUfEZbQfE3Cy53fCd9Pma5
+#EXTINF:-1 group-title="FUENTES",288 FUENTE STUDIO UNIVERSAL (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/21276.m3u8
+#EXTINF:-1 group-title="FUENTES",289 FUENTE STUDIO UNIVERSAL (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/136804
+#EXTINF:-1 group-title="FUENTES",291 FUENTE AMC (emilyba)
+http://neoyjpw.top:8080/1/1/5553.ts
+#EXTINF:-1 group-title="FUENTES",292 FUENTE AMC (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZwtIywL0RQpqx28h2qN7KOV-eoEE6B2mZqJvevl26e
+#EXTINF:-1 group-title="FUENTES",293 FUENTE AMC (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/111973.m3u8
+#EXTINF:-1 group-title="FUENTES",294 FUENTE AMC (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/136797
+#EXTINF:-1 group-title="FUENTES",295 FUENTE AMC (njftxw_u2)
+http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/24989
+#EXTINF:-1 group-title="FUENTES",296 FUENTE AMC (njftxw_u3)
+http://njftxw.top:8080/7661769250381/718219ab4142/24989
+#EXTINF:-1 group-title="FUENTES",298 FUENTE HBO 2 (emilyba)
+http://neoyjpw.top:8080/1/1/10177.ts
+#EXTINF:-1 group-title="FUENTES",299 FUENTE HBO 2 (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZwtIywL0RQpqx28h2qN7IXYgAy7pTOyCY2gjer9_QQ
+#EXTINF:-1 group-title="FUENTES",300 FUENTE HBO 2 (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/249245.m3u8
+#EXTINF:-1 group-title="FUENTES",301 FUENTE HBO 2 (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/140733
+#EXTINF:-1 group-title="FUENTES",302 FUENTE HBO 2 (njftxw_u2)
+http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/10177
+#EXTINF:-1 group-title="FUENTES",303 FUENTE HBO 2 (njftxw_u3)
+http://njftxw.top:8080/7661769250381/718219ab4142/10177
+#EXTINF:-1 group-title="FUENTES",304 FUENTE HBO PLUS (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/135.ts
+#EXTINF:-1 group-title="FUENTES",305 FUENTE HBO PLUS (emilyba)
+http://neoyjpw.top:8080/1/1/18423.ts
+#EXTINF:-1 group-title="FUENTES",306 FUENTE HBO PLUS (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/249246.m3u8
+#EXTINF:-1 group-title="FUENTES",308 FUENTE HBO FAMILY (emilyba)
+http://my-king.net:7070/160145116653133/aO1ltsOFDzkWxPN/169436.ts
+#EXTINF:-1 group-title="FUENTES",309 FUENTE HBO FAMILY (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6uY9j_jURgfqEQ8bcwuO-TNXS8jmSJJuITNnR_YsX-7i
+#EXTINF:-1 group-title="FUENTES",310 FUENTE HBO FAMILY (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/249258.m3u8
+#EXTINF:-1 group-title="FUENTES",311 FUENTE HBO FAMILY (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/140710
+#EXTINF:-1 group-title="FUENTES",312 FUENTE HBO (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/239648.ts
+#EXTINF:-1 group-title="FUENTES",313 FUENTE HBO (emilyba)
+http://neoyjpw.top:8080/1/1/18422.ts
+#EXTINF:-1 group-title="FUENTES",314 FUENTE HBO (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6osFzleIYwos0b-GloVqQ4S9jOWpyH-gbpnyJx6D9k4w
+#EXTINF:-1 group-title="FUENTES",316 FUENTE HBO (njftxw_u2)
+http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/10176
+#EXTINF:-1 group-title="FUENTES",317 FUENTE HBO (njftxw_u3)
+http://njftxw.top:8080/7661769250381/718219ab4142/10176
+#EXTINF:-1 group-title="FUENTES",318 FUENTE HBO POP (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/139.ts
+#EXTINF:-1 group-title="FUENTES",319 FUENTE HBO POP (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6osFzleIYwos0b-GloVqQ4SEJ7rldeeZCS_t89SNwH9H
+#EXTINF:-1 group-title="FUENTES",321 FUENTE HBO POP (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/140737
+#EXTINF:-1 group-title="FUENTES",322 FUENTE HBO SIGNATURE (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/136.ts
+#EXTINF:-1 group-title="FUENTES",323 FUENTE HBO SIGNATURE (emilyba)
+http://neoyjpw.top:8080/1/1/72031.ts
+#EXTINF:-1 group-title="FUENTES",324 FUENTE HBO SIGNATURE (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZwtIywL0RQpqx28h2qN7Lqi8JYGpJI47sYiJBLp3G9
+#EXTINF:-1 group-title="FUENTES",325 FUENTE HBO SIGNATURE (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/249247.m3u8
+#EXTINF:-1 group-title="FUENTES",326 FUENTE HBO SIGNATURE (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/140735
+#EXTINF:-1 group-title="FUENTES",327 FUENTE HBO MUNDI (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/137.ts
+#EXTINF:-1 group-title="FUENTES",328 FUENTE HBO MUNDI (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6osFzleIYwos0b-GloVqQ4Rn-jphf9E8naMiJMyD7Plz
+#EXTINF:-1 group-title="FUENTES",330 FUENTE HBO MUNDI (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/140736
+#EXTINF:-1 group-title="FUENTES",332 FUENTE DISCOVERY CHANNEL (emilyba)
+http://neoyjpw.top:8080/1/1/18398.ts
+#EXTINF:-1 group-title="FUENTES",333 FUENTE DISCOVERY CHANNEL (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6gAxSmFCMy2fFyI-EJ8PuKASIlGruRa98fTH7ggSWBjd
+#EXTINF:-1 group-title="FUENTES",334 FUENTE DISCOVERY CHANNEL (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/249257.m3u8
+#EXTINF:-1 group-title="FUENTES",335 FUENTE DISCOVERY CHANNEL (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/87316
+#EXTINF:-1 group-title="FUENTES",336 FUENTE DISCOVERY CHANNEL (njftxw_u2)
+http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/25019
+#EXTINF:-1 group-title="FUENTES",337 FUENTE DISCOVERY CHANNEL (njftxw_u3)
+http://njftxw.top:8080/7661769250381/718219ab4142/25019
+#EXTINF:-1 group-title="FUENTES",339 FUENTE DISCOVERY TLC (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6osFzleIYwos0b-GloVqQ4Rm6fGemnPVL9wv63-Y3JQ8
+#EXTINF:-1 group-title="FUENTES",340 FUENTE DISCOVERY TLC (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/249230.m3u8
+#EXTINF:-1 group-title="FUENTES",341 FUENTE DISCOVERY TLC (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/87317
+#EXTINF:-1 group-title="FUENTES",342 FUENTE DISCOVERY TLC (njftxw_u2)
+http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/25081
+#EXTINF:-1 group-title="FUENTES",343 FUENTE DISCOVERY TLC (njftxw_u3)
+http://njftxw.top:8080/7661769250381/718219ab4142/25081
+#EXTINF:-1 group-title="FUENTES",344 FUENTE CNN ESPAÑOL (pirostv)
+http://neoyjpw.top:8080/1/1/58835.ts
+#EXTINF:-1 group-title="FUENTES",345 FUENTE CNN ESPAÑOL (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nZhMUwZlQW7eqtcVgACQh74_38r9YRCaRGcocS92SN
+#EXTINF:-1 group-title="FUENTES",348 FUENTE TNT SPORTS (emilyba)
+http://neoyjpw.top:8080/1/1/58788.ts
+#EXTINF:-1 group-title="FUENTES",349 FUENTE TNT SPORTS (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nxKH1IN24yo8Dg3EFgsQpqH-2FHVMkdz2o_OQxWV3-2
+#EXTINF:-1 group-title="FUENTES",350 FUENTE ESPN (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/528530.ts
+#EXTINF:-1 group-title="FUENTES",351 FUENTE ESPN (emilyba)
+http://neoyjpw.top:8080/1/1/58823.ts
+#EXTINF:-1 group-title="FUENTES",352 FUENTE ESPN (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nxKH1IN24yo8Dg3EFgsQprQW6XEmJIpKBPmzKBWHiXR
+#EXTINF:-1 group-title="FUENTES",353 FUENTE ESPN (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/234273.m3u8
+#EXTINF:-1 group-title="FUENTES",354 FUENTE ESPN (blacktesters)
+http://blacktesters.com:8880/live/6166235163/9887507320/1801.m3u8
+#EXTINF:-1 group-title="FUENTES",355 FUENTE ESPN (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/155420
+#EXTINF:-1 group-title="FUENTES",357 FUENTE ESPN 5 (pirostv)
+http://pirostv.lat:25461/live/Armando12/Armando12/528523.ts
+#EXTINF:-1 group-title="FUENTES",359 FUENTE ESPN 5 (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/563030.m3u8
+#EXTINF:-1 group-title="FUENTES",360 FUENTE ESPN 5 (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/83812
+#EXTINF:-1 group-title="FUENTES",362 FUENTE ESPN 6 (emilyba)
+http://neoyjpw.top:8080/1/1/58822.ts
+#EXTINF:-1 group-title="FUENTES",363 FUENTE ESPN 6 (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6h9bdbxU99tTWUu4wg79lpe4CWrJea5NksYo-d4ipdZF
+#EXTINF:-1 group-title="FUENTES",364 FUENTE ESPN 6 (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/563035.m3u8
+#EXTINF:-1 group-title="FUENTES",365 FUENTE ESPN 6 (otrasbx)
+http://otrasbx.com:80/590894722980/043044018269/83810
+#EXTINF:-1 group-title="FUENTES",366 FUENTE DSPORTS+ (emilyba)
+http://tv-275228.ifiesta.net:80/TV-14650030923070/116630916768/256665
+#EXTINF:-1 group-title="FUENTES",367 FUENTE DSPORTS+ (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nxKH1IN24yo8Dg3EFgsQpo-fXqaXYc0R0Gh66q9fN8U
+#EXTINF:-1 group-title="FUENTES",368 FUENTE DSPORTS+ (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/234282.m3u8
+#EXTINF:-1 group-title="FUENTES",371 FUENTE DSPORTS (emilyba)
+http://tv-275228.ifiesta.net:80/TV-14650030923070/116630916768/256665
+#EXTINF:-1 group-title="FUENTES",372 FUENTE DSPORTS (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nxKH1IN24yo8Dg3EFgsQprg38dnLpRGNMeLWBTnBKe5
+#EXTINF:-1 group-title="FUENTES",373 FUENTE DSPORTS (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/561315.m3u8
+#EXTINF:-1 group-title="FUENTES",374 FUENTE DSPORTS (planettvweb)
+http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/12739
+#EXTINF:-1 group-title="FUENTES",376 FUENTE MTV LIVE (itocr)
+https://itocr.cc:8443/play/rtMo7SUkEqRPn3C4Qzud6nwq2ic5kK7QP-dp_GkCS2wz_conAJNIZ2Z9JDt7bWe
+#EXTINF:-1 group-title="FUENTES",377 FUENTE MTV LIVE (blushes)
+http://blushes.top:80/live/466634866/Y896v1908W/112096.m3u8
+#EXTINF:-1 group-title="FUENTES",378 FUENTE MTV LIVE (planettvweb)
+http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/11833
+#EXTINF:-1 group-title="FUENTES",379 FUENTE MTV LIVE (njftxw_u2)
+http://njftxw.top:8080/76176398937970/u4cmx5c5bkdb/10191
+#EXTINF:-1 group-title="FUENTES",380 FUENTE MTV LIVE (njftxw_u3)
+http://njftxw.top:8080/7661769250381/718219ab4142/10191
+#EXTINF:-1 group-title="VERIFICAR",381 LAT - CANAL 13 | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265151&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",382 LAT - CANAL 13 | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265205&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",383 LAT - T13 MOVIL | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265216&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",384 LAT - CANAL 13 | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=1283209&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",385 LAT - CANAL 13 | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265151&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",386 LAT - CANAL 13 | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265205&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",387 LAT - T13 MOVIL | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265216&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",388 LAT - CANAL 13 | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=1283209&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",389 T13 Teletrece CHL | ptv.is
+http://neoyjpw.top:8080/1/1/58794.ts
+#EXTINF:-1 group-title="VERIFICAR",390 Canal 13E CHL | ptv.is
+http://neoyjpw.top:8080/1/1/58794.ts
+#EXTINF:-1 group-title="VERIFICAR",391 T13 en vivo CHL | ptv.is
+http://neoyjpw.top:8080/1/1/58794.ts
+#EXTINF:-1 group-title="VERIFICAR",392 T13 Teletrece CHL | zzportals
+http://neoyjpw.top:8080/1/1/58794.ts
+#EXTINF:-1 group-title="VERIFICAR",393 Canal 13E CHL | zzportals
+http://neoyjpw.top:8080/1/1/58794.ts
+#EXTINF:-1 group-title="VERIFICAR",394 T13 en vivo CHL | zzportals
+http://neoyjpw.top:8080/1/1/58794.ts
+#EXTINF:-1 group-title="VERIFICAR",395 CL: Canal 13 | iptv.wtf
+http://neoyjpw.top:8080/1/1/18401.ts
+#EXTINF:-1 group-title="VERIFICAR",396 T13 HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts
+#EXTINF:-1 group-title="VERIFICAR",397 T13 Noticias | CL | solutionspremium
+http://neoyjpw.top:8080/1/1/58794.ts
+#EXTINF:-1 group-title="VERIFICAR",398 CL CANAL13 | vipsclient
+http://neoyjpw.top:8080/1/1/18401.ts
+#EXTINF:-1 group-title="VERIFICAR",399 Canal 13 | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/252877.ts
+#EXTINF:-1 group-title="VERIFICAR",401 T13 ✪ | CL | m3u.cl
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="VERIFICAR",402 T13 En Vivo (1080p) | iptv-org
+https://redirector.dps.live/hls/t13/playlist.m3u8
+#EXTINF:-1 group-title="VERIFICAR",403 LAT - CHILEVISION | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265210&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",404 LAT - CHILEVISION | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265210&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",405 ChileVision CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/818357
+#EXTINF:-1 group-title="VERIFICAR",406 14 ChileVision HD CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/818354
+#EXTINF:-1 group-title="VERIFICAR",407 CHV HD CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/72206
+#EXTINF:-1 group-title="VERIFICAR",408 ChileVision CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/818357
+#EXTINF:-1 group-title="VERIFICAR",409 14 ChileVision HD CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/818354
+#EXTINF:-1 group-title="VERIFICAR",410 CHV HD CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/72206
+#EXTINF:-1 group-title="VERIFICAR",411 CL: CHV | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9049.ts
+#EXTINF:-1 group-title="VERIFICAR",412 CL: CHV * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9753.ts
+#EXTINF:-1 group-title="VERIFICAR",413 CL: CHV Full HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5.ts
+#EXTINF:-1 group-title="VERIFICAR",414 CL: CHV HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6.ts
+#EXTINF:-1 group-title="VERIFICAR",415 Chilevision HD | CL | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/864.ts
+#EXTINF:-1 group-title="VERIFICAR",416 Chilevision FHD | CL | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/865.ts
+#EXTINF:-1 group-title="VERIFICAR",417 CL CHILEVISION | vipsclient
+http://mag.vipsclient.org:80/101340/665337662/3AFD47/101340.ts
+#EXTINF:-1 group-title="VERIFICAR",418 CHV | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/252876.ts
+#EXTINF:-1 group-title="VERIFICAR",419 CHV ✪ | CL | m3u.cl
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="VERIFICAR",420 ChileVision (1080p) | iptv-org
+http://15.204.246.24:8080/CHVHD/index.m3u8
+#EXTINF:-1 group-title="VERIFICAR",421 LAT - DIRECTV SPORTS 1 | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=628277&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",422 LAT - DIRECTV SPORTS 2 | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=628276&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",423 LAT - DIRECTV SPORTS UHD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265279&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",424 LAT - DIRECTV SPORTS UHD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265279&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",425 DIRECTV Sports + HD CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/99037
+#EXTINF:-1 group-title="VERIFICAR",426 DIRECTV Sports 1 CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/72204
+#EXTINF:-1 group-title="VERIFICAR",427 DIRECTV Sports 2 HD CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/99038
+#EXTINF:-1 group-title="VERIFICAR",428 DIRECTV Sports + HD CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/99037
+#EXTINF:-1 group-title="VERIFICAR",429 DIRECTV Sports 1 CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/72204
+#EXTINF:-1 group-title="VERIFICAR",430 DIRECTV Sports 2 HD CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/99038
+#EXTINF:-1 group-title="VERIFICAR",431 DirecTV Sports 2 Full HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/41.ts
+#EXTINF:-1 group-title="VERIFICAR",432 DirecTV Sports 2 HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/42.ts
+#EXTINF:-1 group-title="VERIFICAR",433 Directv Sports Fight | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13955.ts
+#EXTINF:-1 group-title="VERIFICAR",434 DirecTv Sports HD ** | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15298.ts
+#EXTINF:-1 group-title="VERIFICAR",435 DirecTV Sports HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15807.ts
+#EXTINF:-1 group-title="VERIFICAR",436 DirecTV Sports Full HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15808.ts
+#EXTINF:-1 group-title="VERIFICAR",437 DirecTV Sports | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15809.ts
+#EXTINF:-1 group-title="VERIFICAR",438 DirecTV Sports 2 | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15810.ts
+#EXTINF:-1 group-title="VERIFICAR",439 DirecTv Sports HD * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15811.ts
+#EXTINF:-1 group-title="VERIFICAR",440 DirecTv Sports * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15830.ts
+#EXTINF:-1 group-title="VERIFICAR",441 DirecTV Sports Full HD * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15831.ts
+#EXTINF:-1 group-title="VERIFICAR",442 DSports Premium Uruguay (AUF) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/322165.ts
+#EXTINF:-1 group-title="VERIFICAR",443 DIRECTV SPORTS FHD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1313.ts
+#EXTINF:-1 group-title="VERIFICAR",444 DIRECTV SPORTS FHD (L) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/96259.ts
+#EXTINF:-1 group-title="VERIFICAR",445 DIRECTV SPORTS 2 SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1524.ts
+#EXTINF:-1 group-title="VERIFICAR",446 DIRECTV SPORTS 2 | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1312.ts
+#EXTINF:-1 group-title="VERIFICAR",447 DIRECTV SPORTS FIGHT | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1523.ts
+#EXTINF:-1 group-title="VERIFICAR",448 DIRECTV SPORTS 1 (CHILE) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/105605.ts
+#EXTINF:-1 group-title="VERIFICAR",449 DIRECTV SPORTS 1 (CHILE)(FHD) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/105604.ts
+#EXTINF:-1 group-title="VERIFICAR",450 DIRECTV SPORTS 1 SD | CL | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/105632.ts
+#EXTINF:-1 group-title="VERIFICAR",451 DIRECTV SPORTS SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1525.ts
+#EXTINF:-1 group-title="VERIFICAR",452 DIRECTV SPORTS 1 HD | CL | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/105631.ts
+#EXTINF:-1 group-title="VERIFICAR",453 DIRECTV SPORTS 1 FHD | CL | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/105630.ts
+#EXTINF:-1 group-title="VERIFICAR",454 DIRECTV SPORTS 2 (CHILE) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/146800.ts
+#EXTINF:-1 group-title="VERIFICAR",456 ARG | DIRECTV SPORTS (ARGENTINA) (EXCLUSIVO) UHD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/211590.ts
+#EXTINF:-1 group-title="VERIFICAR",457 DIRECTV SPORTS (CHILE)(EXCLUSIVO) UHD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/211592.ts
+#EXTINF:-1 group-title="VERIFICAR",458 DIRECTV SPORTS 2 (EXCLUSIVO) UHD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/211593.ts
+#EXTINF:-1 group-title="VERIFICAR",459 PER: DIRECTV SPORTS + (PERU) (1280) (EXCLUSIVO) UHD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/211596.ts
+#EXTINF:-1 group-title="VERIFICAR",460 DIRECTV SPORTS (ECUADOR) (EXCLUSIVO) UHD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/211602.ts
+#EXTINF:-1 group-title="VERIFICAR",461 DSports Motor | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/188089.ts
+#EXTINF:-1 group-title="VERIFICAR",462 DIRECTV SPORTS FIGHT (L) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/96260.ts
+#EXTINF:-1 group-title="VERIFICAR",463 DIRECTV SPORTS SD | EC | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1397.ts
+#EXTINF:-1 group-title="VERIFICAR",464 DIRECTV SPORTS HD | EC | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1398.ts
+#EXTINF:-1 group-title="VERIFICAR",465 DIRECTV SPORTS FHD | EC | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1399.ts
+#EXTINF:-1 group-title="VERIFICAR",466 Directv Sports Peru (C-HD) | PERU | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/87052.ts
+#EXTINF:-1 group-title="VERIFICAR",467 Directv Sports 2 (C-1080) | PERU | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/87053.ts
+#EXTINF:-1 group-title="VERIFICAR",468 DIRECTV SPORTS EXCLUSIVO| EC (1280) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/121348.ts
+#EXTINF:-1 group-title="VERIFICAR",469 DIRECTV SPORTS EXCLUSIVO| EC (720) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/121349.ts
+#EXTINF:-1 group-title="VERIFICAR",470 DIRECTV SPORTS 2 EXCLUSIVO| EC (1280) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/121350.ts
+#EXTINF:-1 group-title="VERIFICAR",471 DIRECTV SPORTS + EXCLUSIVO| EC FHD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/121351.ts
+#EXTINF:-1 group-title="VERIFICAR",472 Directv Sports Uruguay | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/301207.ts
+#EXTINF:-1 group-title="VERIFICAR",473 Directv Sports | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/321270.ts
+#EXTINF:-1 group-title="VERIFICAR",474 Directv Sports + | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/321271.ts
+#EXTINF:-1 group-title="VERIFICAR",475 Directv Sports + HD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/321272.ts
+#EXTINF:-1 group-title="VERIFICAR",476 Directv Sports + ᵁᴴᴰ | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/321273.ts
+#EXTINF:-1 group-title="VERIFICAR",477 Directv Sports HD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/321274.ts
+#EXTINF:-1 group-title="VERIFICAR",478 Directv Sports FHD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/321275.ts
+#EXTINF:-1 group-title="VERIFICAR",479 Directv Sports 2 | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/321276.ts
+#EXTINF:-1 group-title="VERIFICAR",480 Directv Sports 2 ᵁᴴᴰ | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/321277.ts
+#EXTINF:-1 group-title="VERIFICAR",481 Directv Sports 2 FHD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/321278.ts
+#EXTINF:-1 group-title="VERIFICAR",482 Directv Sports CL | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/321279.ts
+#EXTINF:-1 group-title="VERIFICAR",483 Directv Sports Fight | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/321280.ts
+#EXTINF:-1 group-title="VERIFICAR",484 Directv Sports Fight HD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/321281.ts
+#EXTINF:-1 group-title="VERIFICAR",485 Directv Sports Uruguay Premium ᵁᴴᴰ | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/321282.ts
+#EXTINF:-1 group-title="VERIFICAR",486 Directv Sports (PERU) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/321284.ts
+#EXTINF:-1 group-title="VERIFICAR",487 Directv Sports HD (PERU) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/321285.ts
+#EXTINF:-1 group-title="VERIFICAR",488 Directv Sports ᵁᴴᴰ (PERU) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/321286.ts
+#EXTINF:-1 group-title="VERIFICAR",489 CO DIRECTV SPORTS 1 | vipsclient
+http://mag.vipsclient.org:80/117665/665337662/3AFD47/117665.ts
+#EXTINF:-1 group-title="VERIFICAR",490 CO DIRECTV SPORTS 2 | vipsclient
+http://mag.vipsclient.org:80/117666/665337662/3AFD47/117666.ts
+#EXTINF:-1 group-title="VERIFICAR",491 EC | DIRECTV SPORTS HD | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/267391.ts
+#EXTINF:-1 group-title="VERIFICAR",492 AR | DirectV Sports SD | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/294584.ts
+#EXTINF:-1 group-title="VERIFICAR",493 SP: PE: Directv Sports 2 | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/528533.ts
+#EXTINF:-1 group-title="VERIFICAR",494 SP: PE: Directv Sports HD | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/528532.ts
+#EXTINF:-1 group-title="VERIFICAR",495 SP: PE: Directv Sports HD+ | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/528531.ts
+#EXTINF:-1 group-title="VERIFICAR",496 LAT - ESPN U | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264914&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",497 LAT - ESPN U UHD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264915&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",498 LAT - CLARO-ESPN3 | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=628269&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",499 LAT - ESPN | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264905&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",500 LAT - ESPN UHD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264906&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",501 LAT - ESPN 3 | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264909&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",502 LAT - ESPN 3 UHD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264910&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",503 LAT - ESPN PREMIUM | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=824571&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",504 LAT - ESPN ARGENTINA | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265167&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",505 LAT - ESPN 2 | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=994368&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",506 LAT - ESPN | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=645478&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",507 LAT - MXC| ESPN DEPORTES UHD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264911&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",508 LAT - MXC| ESPN HD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=1142980&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",509 LAT - MXC| ESPN 2 HD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=1142979&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",510 LAT - MXC| ESPN 3 HD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=1142978&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",511 LAT - ESPN U | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264914&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",512 LAT - ESPN U UHD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264915&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",513 LAT - ESPN | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264905&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",514 LAT - ESPN UHD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264906&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",515 LAT - ESPN 3 | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264909&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",516 LAT - ESPN 3 UHD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264910&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",517 LAT - ESPN PREMIUM | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=824571&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",518 LAT - ESPN ARGENTINA | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265167&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",519 LAT - ESPN 2 | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=994368&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",520 LAT - ESPN | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=645478&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",521 LAT - MXC| ESPN DEPORTES UHD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264911&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",522 LAT - MXC| ESPN HD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=1142980&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",523 LAT - MXC| ESPN 2 HD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=1142979&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",524 LAT - MXC| ESPN 3 HD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=1142978&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",525 CL: ESPN 2 HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/32.ts
+#EXTINF:-1 group-title="VERIFICAR",526 CL: ESPN 3 HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/33.ts
+#EXTINF:-1 group-title="VERIFICAR",527 CL: ESPN Extra | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13891.ts
+#EXTINF:-1 group-title="VERIFICAR",528 CL: ESPN HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/31.ts
+#EXTINF:-1 group-title="VERIFICAR",529 ESPN 2 Argentina | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11649.ts
+#EXTINF:-1 group-title="VERIFICAR",530 ESPN 2 Full HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13568.ts
+#EXTINF:-1 group-title="VERIFICAR",531 ESPN 2 HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3477.ts
+#EXTINF:-1 group-title="VERIFICAR",532 ESPN 2 Perú | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11702.ts
+#EXTINF:-1 group-title="VERIFICAR",534 ESPN 3 Argentina | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11604.ts
+#EXTINF:-1 group-title="VERIFICAR",535 ESPN 3 Full HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13569.ts
+#EXTINF:-1 group-title="VERIFICAR",536 ESPN 3 HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3480.ts
+#EXTINF:-1 group-title="VERIFICAR",538 ESPN 3 Sur HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13507.ts
+#EXTINF:-1 group-title="VERIFICAR",539 ESPN Full HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13567.ts
+#EXTINF:-1 group-title="VERIFICAR",540 ESPN HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3474.ts
+#EXTINF:-1 group-title="VERIFICAR",541 ESPN Premium ARG HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/9678.ts
+#EXTINF:-1 group-title="VERIFICAR",542 ESPN Sur HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13505.ts
+#EXTINF:-1 group-title="VERIFICAR",543 ESPN SEC+ | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/201174.ts
+#EXTINF:-1 group-title="VERIFICAR",544 ESPN NETWORK (MEXICO) SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1513.ts
+#EXTINF:-1 group-title="VERIFICAR",545 ARGENTINA - LS | ESPN PREMIUM HD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/94204.ts
+#EXTINF:-1 group-title="VERIFICAR",546 ARGENTINA - LS | ESPN PREMIUM | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/94205.ts
+#EXTINF:-1 group-title="VERIFICAR",547 ESPN 3 FHD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1321.ts
+#EXTINF:-1 group-title="VERIFICAR",548 ESPN 3 (MEXICO) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1317.ts
+#EXTINF:-1 group-title="VERIFICAR",549 ESPN (ARGENTINA) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/92871.ts
+#EXTINF:-1 group-title="VERIFICAR",550 ESPN U FHD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1318.ts
+#EXTINF:-1 group-title="VERIFICAR",551 ESPN 1 FHD (COLOMBIA) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/98741.ts
+#EXTINF:-1 group-title="VERIFICAR",552 ESPN DEPORTES FHD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1314.ts
+#EXTINF:-1 group-title="VERIFICAR",553 ESPN 3 HD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/98261.ts
+#EXTINF:-1 group-title="VERIFICAR",554 ESPN 1 (MEXICO) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1315.ts
+#EXTINF:-1 group-title="VERIFICAR",555 ESPN 2 (MEXICO) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1316.ts
+#EXTINF:-1 group-title="VERIFICAR",556 ESPN 4 NORTE | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1327.ts
+#EXTINF:-1 group-title="VERIFICAR",557 CL | ESPN SUR | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/82375.ts
+#EXTINF:-1 group-title="VERIFICAR",558 ESPN SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/86822.ts
+#EXTINF:-1 group-title="VERIFICAR",559 ESPN 2 SUR SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1533.ts
+#EXTINF:-1 group-title="VERIFICAR",560 ESPN SUR SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1532.ts
+#EXTINF:-1 group-title="VERIFICAR",561 ESPN 2 (MEXICO) SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1521.ts
+#EXTINF:-1 group-title="VERIFICAR",562 ESPN 3 (MEXICO) SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1520.ts
+#EXTINF:-1 group-title="VERIFICAR",563 ESPN PLUS (MEXICO) SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1512.ts
+#EXTINF:-1 group-title="VERIFICAR",564 ESPN U (MEXICO) SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1511.ts
+#EXTINF:-1 group-title="VERIFICAR",565 ESPN (MEXICO) SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1522.ts
+#EXTINF:-1 group-title="VERIFICAR",566 ESPN 3 SUR SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1534.ts
+#EXTINF:-1 group-title="VERIFICAR",567 ESPN PREMIUM (LATAM) HD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/111401.ts
+#EXTINF:-1 group-title="VERIFICAR",568 ESPN 2 FHD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1320.ts
+#EXTINF:-1 group-title="VERIFICAR",569 ESPN 4 (LATAM) HD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/117640.ts
+#EXTINF:-1 group-title="VERIFICAR",570 ESPN 1 FHD | PERU | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/125385.ts
+#EXTINF:-1 group-title="VERIFICAR",571 ESPN (CHILE) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/146796.ts
+#EXTINF:-1 group-title="VERIFICAR",572 ESPN 2 (CHILE) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/146797.ts
+#EXTINF:-1 group-title="VERIFICAR",573 ESPN 3 (CHILE) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/146798.ts
+#EXTINF:-1 group-title="VERIFICAR",574 ESPN 4 (CHILE) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/146799.ts
+#EXTINF:-1 group-title="VERIFICAR",575 ESPN 6 (COLOMBIA) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/260743.ts
+#EXTINF:-1 group-title="VERIFICAR",576 ESPN 7 (COLOMBIA) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/261045.ts
+#EXTINF:-1 group-title="VERIFICAR",577 (ESPN) Liga MX | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/265986.ts
+#EXTINF:-1 group-title="VERIFICAR",578 (ESPN Deportes) Liga MX | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/265987.ts
+#EXTINF:-1 group-title="VERIFICAR",579 Liga Portugal: ESPN 2 (LATAM) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/334295.ts
+#EXTINF:-1 group-title="VERIFICAR",580 ESPN + Disney | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/345397.ts
+#EXTINF:-1 group-title="VERIFICAR",581 ESPN 2 | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/96262.ts
+#EXTINF:-1 group-title="VERIFICAR",582 ESPN 2 PERU HD (E) | PERU | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/7910.ts
+#EXTINF:-1 group-title="VERIFICAR",583 ESPN EXTRA HD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/96264.ts
+#EXTINF:-1 group-title="VERIFICAR",584 ESPN 3 FHD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/96263.ts
+#EXTINF:-1 group-title="VERIFICAR",585 ESPN PREMIUM | AR | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/3484.ts
+#EXTINF:-1 group-title="VERIFICAR",586 ESPN PREMIUM HD | AR | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/3485.ts
+#EXTINF:-1 group-title="VERIFICAR",587 ESPN SUR | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/96261.ts
+#EXTINF:-1 group-title="VERIFICAR",588 ESPN (MEXICO) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/86823.ts
+#EXTINF:-1 group-title="VERIFICAR",589 BRASIL | ESPN 2 HD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/2112.ts
+#EXTINF:-1 group-title="VERIFICAR",590 ESPN BRASIL HD | ESPAÑA | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/2111.ts
+#EXTINF:-1 group-title="VERIFICAR",591 BRASIL | ESPN HD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/2110.ts
+#EXTINF:-1 group-title="VERIFICAR",592 ESPN 3 SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/86825.ts
+#EXTINF:-1 group-title="VERIFICAR",593 ESPN 2 SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/86824.ts
+#EXTINF:-1 group-title="VERIFICAR",594 BRASIL | ESPN 4 | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/2119.ts
+#EXTINF:-1 group-title="VERIFICAR",595 ESPN 2 (FHD) | CL | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/101906.ts
+#EXTINF:-1 group-title="VERIFICAR",596 Espn Peru (C-1080) | PERU | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/87049.ts
+#EXTINF:-1 group-title="VERIFICAR",597 Espn 2 Peru (C-1080) | PERU | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/87050.ts
+#EXTINF:-1 group-title="VERIFICAR",598 Espn 3 Peru (C-1080) | PERU | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/87051.ts
+#EXTINF:-1 group-title="VERIFICAR",599 ESPN 5 (MEXICO) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/247003.ts
+#EXTINF:-1 group-title="VERIFICAR",600 ESPN DISNEY2 (L) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/248845.ts
+#EXTINF:-1 group-title="VERIFICAR",601 ESPN 2 (COLOMBIA) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/254069.ts
+#EXTINF:-1 group-title="VERIFICAR",602 ESPN 2 (L)| COL | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/253046.ts
+#EXTINF:-1 group-title="VERIFICAR",603 ESPN (L) (COLOMBIA) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/248835.ts
+#EXTINF:-1 group-title="VERIFICAR",604 ESPN 3 (L) (COLOMBIA) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/248774.ts
+#EXTINF:-1 group-title="VERIFICAR",605 ESPN 1 COLOMBIA | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/175197.ts
+#EXTINF:-1 group-title="VERIFICAR",606 LATIN ESPN | vipsclient
+http://mag.vipsclient.org:80/101202/665337662/3AFD47/101202.ts
+#EXTINF:-1 group-title="VERIFICAR",607 LATIN ESPN 2. | vipsclient
+http://mag.vipsclient.org:80/101203/665337662/3AFD47/101203.ts
+#EXTINF:-1 group-title="VERIFICAR",608 LATIN ESPN 3 | vipsclient
+http://mag.vipsclient.org:80/101204/665337662/3AFD47/101204.ts
+#EXTINF:-1 group-title="VERIFICAR",609 ARG ESPN PREMIUM | vipsclient
+http://mag.vipsclient.org:80/101309/665337662/3AFD47/101309.ts
+#EXTINF:-1 group-title="VERIFICAR",610 ARG ESPN | vipsclient
+http://mag.vipsclient.org:80/101314/665337662/3AFD47/101314.ts
+#EXTINF:-1 group-title="VERIFICAR",611 ARG ESPN 2 | vipsclient
+http://mag.vipsclient.org:80/101315/665337662/3AFD47/101315.ts
+#EXTINF:-1 group-title="VERIFICAR",612 ARG ESPN 3 | vipsclient
+http://mag.vipsclient.org:80/101316/665337662/3AFD47/101316.ts
+#EXTINF:-1 group-title="VERIFICAR",613 ARG ESPN 4 | vipsclient
+http://mag.vipsclient.org:80/101317/665337662/3AFD47/101317.ts
+#EXTINF:-1 group-title="VERIFICAR",614 ARG ESPN 5 | vipsclient
+http://mag.vipsclient.org:80/1508360/665337662/3AFD47/1508360.ts
+#EXTINF:-1 group-title="VERIFICAR",615 AR | ESPN 2 | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/262403.ts
+#EXTINF:-1 group-title="VERIFICAR",616 AR | ESPN 3 Arg | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/1250.ts
+#EXTINF:-1 group-title="VERIFICAR",617 AR | ESPN 4 | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/296664.ts
+#EXTINF:-1 group-title="VERIFICAR",618 AR | ESPN 2 HD | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/262176.ts
+#EXTINF:-1 group-title="VERIFICAR",620 LAT - HBO PLUS | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264969&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",621 LAT - HBO PLUS UHD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264970&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",622 LAT - HBO UHD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264964&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",623 LAT - HBO 2 | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264965&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",624 LAT - HBO FAMILY | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264967&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",625 LAT - HBO FAMILY UHD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264968&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",626 LAT - HBO SIGNATURE UHD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264972&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",627 LAT - HBO PLUS | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264969&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",628 LAT - HBO PLUS UHD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264970&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",629 LAT - HBO UHD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264964&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",630 LAT - HBO 2 | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264965&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",631 LAT - HBO FAMILY | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264967&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",632 LAT - HBO FAMILY UHD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264968&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",633 LAT - HBO SIGNATURE UHD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264972&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",634 CL: HBO HD SUB | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13503.ts
+#EXTINF:-1 group-title="VERIFICAR",635 HBO | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5890.ts
+#EXTINF:-1 group-title="VERIFICAR",636 HBO * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13862.ts
+#EXTINF:-1 group-title="VERIFICAR",637 HBO 2 | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5888.ts
+#EXTINF:-1 group-title="VERIFICAR",638 HBO 2 Full HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/60.ts
+#EXTINF:-1 group-title="VERIFICAR",639 HBO Family | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13865.ts
+#EXTINF:-1 group-title="VERIFICAR",640 HBO Family Full HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/62.ts
+#EXTINF:-1 group-title="VERIFICAR",641 HBO Family Full HD * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13864.ts
+#EXTINF:-1 group-title="VERIFICAR",642 HBO Family Full HD * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13867.ts
+#EXTINF:-1 group-title="VERIFICAR",643 HBO Family HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/67.ts
+#EXTINF:-1 group-title="VERIFICAR",644 HBO Family HD * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13866.ts
+#EXTINF:-1 group-title="VERIFICAR",645 HBO Full HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/59.ts
+#EXTINF:-1 group-title="VERIFICAR",646 HBO Full HD * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13860.ts
+#EXTINF:-1 group-title="VERIFICAR",647 HBO HD Inglés + Sub ES | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13861.ts
+#EXTINF:-1 group-title="VERIFICAR",648 HBO Inglés + Sub | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13863.ts
+#EXTINF:-1 group-title="VERIFICAR",649 HBO Mundi | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6011.ts
+#EXTINF:-1 group-title="VERIFICAR",650 HBO Mundi * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8151.ts
+#EXTINF:-1 group-title="VERIFICAR",651 HBO Mundi ** | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13869.ts
+#EXTINF:-1 group-title="VERIFICAR",652 HBO Mundi HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13868.ts
+#EXTINF:-1 group-title="VERIFICAR",653 HBO Plus | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13871.ts
+#EXTINF:-1 group-title="VERIFICAR",654 HBO Plus * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13872.ts
+#EXTINF:-1 group-title="VERIFICAR",655 HBO Plus ** | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13873.ts
+#EXTINF:-1 group-title="VERIFICAR",656 HBO Plus Full HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/61.ts
+#EXTINF:-1 group-title="VERIFICAR",657 HBO Plus Full HD * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13870.ts
+#EXTINF:-1 group-title="VERIFICAR",659 HBO Pop | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13874.ts
+#EXTINF:-1 group-title="VERIFICAR",660 HBO Pop * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13875.ts
+#EXTINF:-1 group-title="VERIFICAR",661 HBO Pop Full HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/6110.ts
+#EXTINF:-1 group-title="VERIFICAR",662 HBO Pop HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8141.ts
+#EXTINF:-1 group-title="VERIFICAR",663 HBO Signature | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13876.ts
+#EXTINF:-1 group-title="VERIFICAR",665 HBO Signature HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5892.ts
+#EXTINF:-1 group-title="VERIFICAR",666 HBO Signature HD * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13877.ts
+#EXTINF:-1 group-title="VERIFICAR",667 HBO Xtreme | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13879.ts
+#EXTINF:-1 group-title="VERIFICAR",668 HBO Xtreme * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13880.ts
+#EXTINF:-1 group-title="VERIFICAR",669 HBO Xtreme Full HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13878.ts
+#EXTINF:-1 group-title="VERIFICAR",670 HBO Xtreme HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5900.ts
+#EXTINF:-1 group-title="VERIFICAR",672 HBO FAMILY HD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1219.ts
+#EXTINF:-1 group-title="VERIFICAR",673 HBO Plus HD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1218.ts
+#EXTINF:-1 group-title="VERIFICAR",674 HBO SIGNATURE HD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1217.ts
+#EXTINF:-1 group-title="VERIFICAR",677 HBO Pop HD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1223.ts
+#EXTINF:-1 group-title="VERIFICAR",678 HBO PLUS SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1256.ts
+#EXTINF:-1 group-title="VERIFICAR",679 HBO FAMILY SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1255.ts
+#EXTINF:-1 group-title="VERIFICAR",680 HBO 2 SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1253.ts
+#EXTINF:-1 group-title="VERIFICAR",681 HBO SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1252.ts
+#EXTINF:-1 group-title="VERIFICAR",682 HBO | SD LAT | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/86758.ts
+#EXTINF:-1 group-title="VERIFICAR",683 HBO 2 | SD LAT | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/86759.ts
+#EXTINF:-1 group-title="VERIFICAR",684 HBO Family | SD LAT | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/86761.ts
+#EXTINF:-1 group-title="VERIFICAR",685 HBO MUNDI SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1257.ts
+#EXTINF:-1 group-title="VERIFICAR",686 HBO Xtreme | SD LAT | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/86781.ts
+#EXTINF:-1 group-title="VERIFICAR",687 HBO | SD LAT | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/86757.ts
+#EXTINF:-1 group-title="VERIFICAR",688 HBO 2 HD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1065.ts
+#EXTINF:-1 group-title="VERIFICAR",689 HBO Xtreme SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1070.ts
+#EXTINF:-1 group-title="VERIFICAR",690 HBO HD (LAT) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1064.ts
+#EXTINF:-1 group-title="VERIFICAR",691 HBO SIGNATURE SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1212.ts
+#EXTINF:-1 group-title="VERIFICAR",692 LATIN HBO | vipsclient
+http://mag.vipsclient.org:80/101152/665337662/3AFD47/101152.ts
+#EXTINF:-1 group-title="VERIFICAR",693 LATIN HBO 2 | vipsclient
+http://mag.vipsclient.org:80/101153/665337662/3AFD47/101153.ts
+#EXTINF:-1 group-title="VERIFICAR",694 LATIN HBO PLUS | vipsclient
+http://mag.vipsclient.org:80/101154/665337662/3AFD47/101154.ts
+#EXTINF:-1 group-title="VERIFICAR",695 LATIN HBO FAMILY | vipsclient
+http://mag.vipsclient.org:80/101155/665337662/3AFD47/101155.ts
+#EXTINF:-1 group-title="VERIFICAR",696 LATIN HBO SIGNATURE | vipsclient
+http://mag.vipsclient.org:80/101156/665337662/3AFD47/101156.ts
+#EXTINF:-1 group-title="VERIFICAR",697 ES - STUDIO UNIVERSAL FHD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=1207486&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",698 LAT - STUDIO UNIVERSAL | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265042&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",699 LAT - STUDIO UNIVERSAL UHD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265043&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",700 ES - STUDIO UNIVERSAL FHD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=1207486&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",701 LAT - STUDIO UNIVERSAL | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265042&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",702 LAT - STUDIO UNIVERSAL UHD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265043&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",703 Studio Universal | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/2358956
+#EXTINF:-1 group-title="VERIFICAR",704 Studio Universal FHD LAM | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/45873
+#EXTINF:-1 group-title="VERIFICAR",705 Studio Universal LAM | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/45872
+#EXTINF:-1 group-title="VERIFICAR",706 Studio Universal HD ARG | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/99507
+#EXTINF:-1 group-title="VERIFICAR",707 Studio Universal Premium HD ARG | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/1057350
+#EXTINF:-1 group-title="VERIFICAR",708 Studio Universal FHD CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/37556
+#EXTINF:-1 group-title="VERIFICAR",709 Studio Universal HD CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/99110
+#EXTINF:-1 group-title="VERIFICAR",710 Studio Universal | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/2358956
+#EXTINF:-1 group-title="VERIFICAR",711 Studio Universal FHD LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45873
+#EXTINF:-1 group-title="VERIFICAR",712 Studio Universal LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45872
+#EXTINF:-1 group-title="VERIFICAR",713 Studio Universal HD ARG | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/99507
+#EXTINF:-1 group-title="VERIFICAR",714 Studio Universal Premium HD ARG | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/1057350
+#EXTINF:-1 group-title="VERIFICAR",715 Studio Universal FHD CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/37556
+#EXTINF:-1 group-title="VERIFICAR",716 Studio Universal HD CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/99110
+#EXTINF:-1 group-title="VERIFICAR",717 Studio Universal | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13376.ts
+#EXTINF:-1 group-title="VERIFICAR",719 Studio Universal HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5916.ts
+#EXTINF:-1 group-title="VERIFICAR",720 Studio Universal HD * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14861.ts
+#EXTINF:-1 group-title="VERIFICAR",721 Studio Universal HD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/2771.ts
+#EXTINF:-1 group-title="VERIFICAR",722 LATIN STUDIO UNIVERSAL | vipsclient
+http://mag.vipsclient.org:80/101233/665337662/3AFD47/101233.ts
+#EXTINF:-1 group-title="VERIFICAR",723 SD | Studio Universal | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/260612.ts
+#EXTINF:-1 group-title="VERIFICAR",724 HD | Studio Universal | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/39.ts
+#EXTINF:-1 group-title="VERIFICAR",725 FHD | Studio Universal | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/263284.ts
+#EXTINF:-1 group-title="VERIFICAR",726 MX | Studio Universal | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/109.ts
+#EXTINF:-1 group-title="VERIFICAR",727 LAT | Studio Universal | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/239655.ts
+#EXTINF:-1 group-title="VERIFICAR",728 LAT - TELEMUNDO INTERNATIONAL | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265063&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",729 LAT - TELEMUNDO INTERNATIONAL | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265063&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",730 Telemundo West FHD LAM | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/45900
+#EXTINF:-1 group-title="VERIFICAR",731 Telemundo Phoenix FHD LAM | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/45897
+#EXTINF:-1 group-title="VERIFICAR",732 Telemundo Philadelphia FHD LAM | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/45896
+#EXTINF:-1 group-title="VERIFICAR",733 Telemundo Los Angeles FHD LAM | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/45894
+#EXTINF:-1 group-title="VERIFICAR",734 Telemundo International LAM | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/45892
+#EXTINF:-1 group-title="VERIFICAR",735 Telemundo Fresno FHD LAM | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/45890
+#EXTINF:-1 group-title="VERIFICAR",736 Telemundo Dallas FHD LAM | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/45888
+#EXTINF:-1 group-title="VERIFICAR",737 Telemundo Chicago FHD LAM | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/45887
+#EXTINF:-1 group-title="VERIFICAR",738 Telemundo Atlanta FHD LAM | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/45885
+#EXTINF:-1 group-title="VERIFICAR",739 Telemundo FHD LAM | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/45884
+#EXTINF:-1 group-title="VERIFICAR",740 Telemundo HD CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/99120
+#EXTINF:-1 group-title="VERIFICAR",741 Telemundo West FHD LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45900
+#EXTINF:-1 group-title="VERIFICAR",742 Telemundo Phoenix FHD LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45897
+#EXTINF:-1 group-title="VERIFICAR",743 Telemundo Philadelphia FHD LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45896
+#EXTINF:-1 group-title="VERIFICAR",744 Telemundo Los Angeles FHD LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45894
+#EXTINF:-1 group-title="VERIFICAR",745 Telemundo International LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45892
+#EXTINF:-1 group-title="VERIFICAR",746 Telemundo Fresno FHD LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45890
+#EXTINF:-1 group-title="VERIFICAR",747 Telemundo Dallas FHD LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45888
+#EXTINF:-1 group-title="VERIFICAR",748 Telemundo Chicago FHD LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45887
+#EXTINF:-1 group-title="VERIFICAR",749 Telemundo Atlanta FHD LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45885
+#EXTINF:-1 group-title="VERIFICAR",750 Telemundo FHD LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45884
+#EXTINF:-1 group-title="VERIFICAR",751 Telemundo HD CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/99120
+#EXTINF:-1 group-title="VERIFICAR",752 Telemundo | SD LAT | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/86793.ts
+#EXTINF:-1 group-title="VERIFICAR",754 LATIN TELEMUNDO INTERNACIONAL | vipsclient
+http://mag.vipsclient.org:80/101262/665337662/3AFD47/101262.ts
+#EXTINF:-1 group-title="VERIFICAR",755 LATIN TELEMUNDO | vipsclient
+http://mag.vipsclient.org:80/101167/665337662/3AFD47/101167.ts
+#EXTINF:-1 group-title="VERIFICAR",756 FHD | Telemundo Internacional | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/361623.ts
+#EXTINF:-1 group-title="VERIFICAR",757 MX | Telemundo Internacional | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/1504.ts
+#EXTINF:-1 group-title="VERIFICAR",758 MX | Telemundo New York | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/1507.ts
+#EXTINF:-1 group-title="VERIFICAR",759 LAT - UNIVERSAL CHANNEL | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265100&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",760 LAT - UNIVERSAL CHANNEL | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265100&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",761 Universal TV | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/2227021
+#EXTINF:-1 group-title="VERIFICAR",762 Universal Channel LAM | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/45925
+#EXTINF:-1 group-title="VERIFICAR",763 Universal Channel Premium HD ARG | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/1057295
+#EXTINF:-1 group-title="VERIFICAR",764 Universal Channel Premium HD ARG | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/1057352
+#EXTINF:-1 group-title="VERIFICAR",765 Universal Channel HD CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/99125
+#EXTINF:-1 group-title="VERIFICAR",766 Universal TV | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/2227021
+#EXTINF:-1 group-title="VERIFICAR",767 Universal Channel LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45925
+#EXTINF:-1 group-title="VERIFICAR",768 Universal Channel Premium HD ARG | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/1057295
+#EXTINF:-1 group-title="VERIFICAR",769 Universal Channel Premium HD ARG | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/1057352
+#EXTINF:-1 group-title="VERIFICAR",770 Universal Channel HD CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/99125
+#EXTINF:-1 group-title="VERIFICAR",771 Universal Channel | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13035.ts
+#EXTINF:-1 group-title="VERIFICAR",772 Universal Channel Full HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3335.ts
+#EXTINF:-1 group-title="VERIFICAR",773 Universal Channel HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5940.ts
+#EXTINF:-1 group-title="VERIFICAR",774 Universal Premiere HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14860.ts
+#EXTINF:-1 group-title="VERIFICAR",775 Universal Premiere HD * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14284.ts
+#EXTINF:-1 group-title="VERIFICAR",776 Universal Channel HD (MX) | PREMIUM | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/86424.ts
+#EXTINF:-1 group-title="VERIFICAR",777 UNIVERSAL CHANNEL HD (MX) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1080.ts
+#EXTINF:-1 group-title="VERIFICAR",778 Universal PREMIERE HD | PREMIUM | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/118289.ts
+#EXTINF:-1 group-title="VERIFICAR",779 UNIVERSAL PREMIERE | PREMIUM | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/121042.ts
+#EXTINF:-1 group-title="VERIFICAR",780 UNIVERSAL PREMIERE HD (Dual Audio) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/146804.ts
+#EXTINF:-1 group-title="VERIFICAR",781 LATIN UNIVERSAL CHANNEL | vipsclient
+http://mag.vipsclient.org:80/101166/665337662/3AFD47/101166.ts
+#EXTINF:-1 group-title="VERIFICAR",782 SD | Universal Channel | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/260524.ts
+#EXTINF:-1 group-title="VERIFICAR",783 FHD | Universal Channel | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/263283.ts
+#EXTINF:-1 group-title="VERIFICAR",784 MX | Universal Premiere | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/278171.ts
+#EXTINF:-1 group-title="VERIFICAR",785 MX | Universal Channel | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/87.ts
+#EXTINF:-1 group-title="VERIFICAR",786 LAT | UNIVERSAL PREMIERE | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/239643.ts
+#EXTINF:-1 group-title="VERIFICAR",788 Zona Latina CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/254297
+#EXTINF:-1 group-title="VERIFICAR",789 Zona Latina HD CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/818255
+#EXTINF:-1 group-title="VERIFICAR",790 Zona Latina CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/254297
+#EXTINF:-1 group-title="VERIFICAR",791 Zona Latina HD CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/818255
+#EXTINF:-1 group-title="VERIFICAR",792 ZONA LATINA | CL | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/167465.ts
+#EXTINF:-1 group-title="VERIFICAR",793 Zona Latina (720p) | iptv-org
+http://45.162.193.35/ZONALATINA/index.m3u8
+#EXTINF:-1 group-title="VERIFICAR",794 CL | TNT Sports HD | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/450909.ts
+#EXTINF:-1 group-title="VERIFICAR",795 CL | TNT Sports Premium 1 | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/450904.ts
+#EXTINF:-1 group-title="VERIFICAR",796 CL | TNT Sports Premium 2 | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/450905.ts
+#EXTINF:-1 group-title="VERIFICAR",797 Liga Chile: TNT Sports 2 | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/336146.ts
+#EXTINF:-1 group-title="VERIFICAR",798 Liga Chile: TNT Sports HD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/336145.ts
+#EXTINF:-1 group-title="VERIFICAR",801 TNT SPORTS HD OPC 2 | AR | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/32724.ts
+#EXTINF:-1 group-title="VERIFICAR",802 TNT SPORTS HD OPC 3 | AR | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/32725.ts
+#EXTINF:-1 group-title="VERIFICAR",803 TNT SPORTS PREMIUM HD| CL | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/858.ts
+#EXTINF:-1 group-title="VERIFICAR",804 TNT Sports * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/18.ts
+#EXTINF:-1 group-title="VERIFICAR",805 TNT Sports **** | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14883.ts
+#EXTINF:-1 group-title="VERIFICAR",806 TNT Sports 3 ** | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14887.ts
+#EXTINF:-1 group-title="VERIFICAR",807 TNT Sports Full HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/16.ts
+#EXTINF:-1 group-title="VERIFICAR",808 TNT Sports HD * | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/17.ts
+#EXTINF:-1 group-title="VERIFICAR",809 TNT Sports HD ** | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15174.ts
+#EXTINF:-1 group-title="VERIFICAR",810 TNT Sports HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15718.ts
+#EXTINF:-1 group-title="VERIFICAR",811 TNT Sports Premium HD | iptv.wtf
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14881.ts
+#EXTINF:-1 group-title="VERIFICAR",812 LAT - TNT SPORTS HD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=1198668&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",813 LAT - TNT SPORTS UHD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265085&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",814 LAT - TNT SPORTS HD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=1198668&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",815 LAT - TNT SPORTS UHD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265085&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",816 TNT Sports FHD LAM | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/45912
+#EXTINF:-1 group-title="VERIFICAR",817 TNT Sports FHD ARG | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/1057381
+#EXTINF:-1 group-title="VERIFICAR",818 TNT Sports HD ARG | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/99503
+#EXTINF:-1 group-title="VERIFICAR",819 TNT Sports HD ARG | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/1057340
+#EXTINF:-1 group-title="VERIFICAR",820 TNT Sports Primera HD ARG | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/1057382
+#EXTINF:-1 group-title="VERIFICAR",821 Estadio TNT Sports HD CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/818355
+#EXTINF:-1 group-title="VERIFICAR",822 TNT Sports HD CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/99116
+#EXTINF:-1 group-title="VERIFICAR",823 TNT Sports 3 HD CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/818356
+#EXTINF:-1 group-title="VERIFICAR",824 TNT Sports Premium 2 HD CL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/516354
+#EXTINF:-1 group-title="VERIFICAR",825 TNT Sports Premium FHD CL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/516353
+#EXTINF:-1 group-title="VERIFICAR",826 TNT Sports FHD LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45912
+#EXTINF:-1 group-title="VERIFICAR",827 TNT Sports FHD ARG | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/1057381
+#EXTINF:-1 group-title="VERIFICAR",828 TNT Sports HD ARG | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/99503
+#EXTINF:-1 group-title="VERIFICAR",829 TNT Sports HD ARG | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/1057340
+#EXTINF:-1 group-title="VERIFICAR",830 TNT Sports Primera HD ARG | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/1057382
+#EXTINF:-1 group-title="VERIFICAR",831 Estadio TNT Sports HD CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/818355
+#EXTINF:-1 group-title="VERIFICAR",832 TNT Sports HD CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/99116
+#EXTINF:-1 group-title="VERIFICAR",833 TNT Sports 3 HD CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/818356
+#EXTINF:-1 group-title="VERIFICAR",834 TNT Sports Premium 2 HD CL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/516354
+#EXTINF:-1 group-title="VERIFICAR",835 TNT Sports Premium FHD CL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/516353
+#EXTINF:-1 group-title="VERIFICAR",836 LAT - VIA X | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=1193972&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",837 LAT - VIA X | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=1193972&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",838 Via X CHL | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/254237
+#EXTINF:-1 group-title="VERIFICAR",839 Via X CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/254237
+#EXTINF:-1 group-title="VERIFICAR",840 CNN | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/1633200
+#EXTINF:-1 group-title="VERIFICAR",841 CNN | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/1804773
+#EXTINF:-1 group-title="VERIFICAR",842 CNN | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/1804773
+#EXTINF:-1 group-title="VERIFICAR",843 CNN HD | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/1841515
+#EXTINF:-1 group-title="VERIFICAR",844 CNN HD | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/1841515
+#EXTINF:-1 group-title="VERIFICAR",845 CNN US | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/2116090
+#EXTINF:-1 group-title="VERIFICAR",846 CNN US | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/2116090
+#EXTINF:-1 group-title="VERIFICAR",847 CNN USA | SD LAT | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/86807.ts
+#EXTINF:-1 group-title="VERIFICAR",848 CNN | USA SD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/86899.ts
+#EXTINF:-1 group-title="VERIFICAR",849 CAR - CNN | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=1371560&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",850 CAR - CNN | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=1371560&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",851 LAT - CNN UHD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265211&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",852 CNN NEWS | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/40832.ts
+#EXTINF:-1 group-title="VERIFICAR",855 USA - CNN HD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=552001&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",856 USA - CNN HD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=552001&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",857 USA - CNN UHD | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=552000&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",858 USA - CNN UHD | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=552000&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",859 USA - CNN UHD (BK) | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=551999&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",860 USA - CNN UHD (BK) | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=551999&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",861 CNN Espanol LAM | ptv.is
+http://ptv.is/dA7SR28H/l1a6t2jy/45695
+#EXTINF:-1 group-title="VERIFICAR",862 CNN Espanol LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45695
+#EXTINF:-1 group-title="VERIFICAR",863 LAT - CNN ESPANOL | dru4.xyz
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264862&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",864 LAT - CNN ESPANOL | meilleur/atlas
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264862&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",865 MX NEWS | CNN EN ESPANOL | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/960.ts
+#EXTINF:-1 group-title="VERIFICAR",866 CNN En español | pirostv
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/253.ts
+#EXTINF:-1 group-title="VERIFICAR",867 LAT - CARTOON NETWORK UHD | meilleur
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264853&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",868 LAT - CARTOON NETWORK UHD | dru4
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264853&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",869 LAT - DISNEY CHANNEL UHD | meilleur
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264894&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",870 LAT - DISNEY CHANNEL UHD | dru4
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264894&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",871 LAT - DISNEY JUNIOR UHD | meilleur
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264896&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",872 LAT - DISNEY JUNIOR UHD | dru4
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264896&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",873 LAT - DISNEY XD UHD | meilleur
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264898&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",874 LAT - DISNEY XD UHD | dru4
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264898&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",875 LAT - NICKELODEON UHD | meilleur
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265011&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",876 LAT - NICKELODEON UHD | dru4
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265011&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",877 LAT - NICK TOONS | meilleur
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265010&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",878 LAT - NICK TOONS | dru4
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265010&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",879 LAT - BOOMERANG UHD | meilleur
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264846&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",880 LAT - BOOMERANG UHD | dru4
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264846&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",881 LAT - BABY TV UHD | meilleur
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264839&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",882 LAT - BABY TV UHD | dru4
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264839&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",883 LAT - TOONCAST | meilleur
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265086&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",884 LAT - TOONCAST | dru4
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265086&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",885 LAT - MXC| CARTOON NETWORK | meilleur
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=872366&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",886 LAT - MXC| CARTOON NETWORK | dru4
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=872366&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",887 LAT - MXC| DISNEY CHANNEL | meilleur
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=872369&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",888 LAT - MXC| DISNEY CHANNEL | dru4
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=872369&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",889 LAT - MXC| NICK JR | meilleur
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=265009&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",890 LAT - MXC| NICK JR | dru4
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=265009&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",891 LAT - MXC| DISCOVERY KIDS | meilleur
+http://meilleuriptv8k.xyz:80/play/live.php?mac=00:1A:79:05:FE:D3&stream=264884&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",892 LAT - MXC| DISCOVERY KIDS | dru4
+http://dru4.xyz:80/play/live.php?mac=00:1A:79:64:32:A0&stream=264884&extension=ts
+#EXTINF:-1 group-title="VERIFICAR",893 13 Kids HD CHL | ptv_is
+http://ptv.is/dA7SR28H/l1a6t2jy/818468
+#EXTINF:-1 group-title="VERIFICAR",894 13 Kids HD CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/818468
+#EXTINF:-1 group-title="VERIFICAR",895 LatinoKids HD CHL | ptv_is
+http://ptv.is/dA7SR28H/l1a6t2jy/818492
+#EXTINF:-1 group-title="VERIFICAR",896 LatinoKids HD CHL | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/818492
+#EXTINF:-1 group-title="VERIFICAR",897 CARTOONITO (LAT) HD | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1589.ts
+#EXTINF:-1 group-title="VERIFICAR",898 DISNEY JR (LAT) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1597.ts
+#EXTINF:-1 group-title="VERIFICAR",899 NICK JR (LAT) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1092.ts
+#EXTINF:-1 group-title="VERIFICAR",900 CARTOON NETWORK HD (LAT) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1083.ts
+#EXTINF:-1 group-title="VERIFICAR",901 ZOOMOO | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/87313.ts
+#EXTINF:-1 group-title="VERIFICAR",902 BABY TV ESPAÑOL | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/129625.ts
+#EXTINF:-1 group-title="VERIFICAR",903 DISNEY JR HD (MX) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1086.ts
+#EXTINF:-1 group-title="VERIFICAR",904 DISCOVERY KIDS HD (MX) | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/1084.ts
+#EXTINF:-1 group-title="VERIFICAR",905 DREAMWORKS | solutionspremium
+http://solutionspremium.net:80/channel/user2620/37428848293/201373.ts
+#EXTINF:-1 group-title="VERIFICAR",906 Cartoon Network FHD LAM | ptv_is
+http://ptv.is/dA7SR28H/l1a6t2jy/45688
+#EXTINF:-1 group-title="VERIFICAR",907 Cartoon Network FHD LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45688
+#EXTINF:-1 group-title="VERIFICAR",908 Boomerang FHD LAM | ptv_is
+http://ptv.is/dA7SR28H/l1a6t2jy/45682
+#EXTINF:-1 group-title="VERIFICAR",909 Boomerang FHD LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45682
+#EXTINF:-1 group-title="VERIFICAR",910 Discovery Kids FHD LAM | ptv_is
+http://ptv.is/dA7SR28H/l1a6t2jy/45718
+#EXTINF:-1 group-title="VERIFICAR",911 Discovery Kids FHD LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45718
+#EXTINF:-1 group-title="VERIFICAR",912 Cartoonito FHD | ptv_is
+http://ptv.is/dA7SR28H/l1a6t2jy/11731
+#EXTINF:-1 group-title="VERIFICAR",913 Cartoonito FHD | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/11731
+#EXTINF:-1 group-title="VERIFICAR",914 Disney Channel LAM | ptv_is
+http://ptv.is/dA7SR28H/l1a6t2jy/45726
+#EXTINF:-1 group-title="VERIFICAR",915 Disney Channel LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45726
+#EXTINF:-1 group-title="VERIFICAR",916 Nick Jr LAM | ptv_is
+http://ptv.is/dA7SR28H/l1a6t2jy/45835
+#EXTINF:-1 group-title="VERIFICAR",917 Nick Jr LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45835
+#EXTINF:-1 group-title="VERIFICAR",918 Tooncast LAM | ptv_is
+http://ptv.is/dA7SR28H/l1a6t2jy/45913
+#EXTINF:-1 group-title="VERIFICAR",919 Tooncast LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45913
+#EXTINF:-1 group-title="VERIFICAR",920 Nickelodeon FHD LAM | ptv_is
+http://ptv.is/dA7SR28H/l1a6t2jy/45837
+#EXTINF:-1 group-title="VERIFICAR",921 Nickelodeon FHD LAM | zzportals
+http://zzportals.com/osZ3uC9YcA/dkdwffD3/45837
+#EXTINF:-1 group-title="VERIFICAR",922 NBC Universo (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86780.ts
+#EXTINF:-1 group-title="VERIFICAR",923 SUNDANCE HD | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/1075.ts
+#EXTINF:-1 group-title="VERIFICAR",924 TV+ | CL (CHILE)
+http://solutionspremium.net:80/channel/user2620/37428848293/55529.ts
+#EXTINF:-1 group-title="VERIFICAR",925 REC TV | CL (CHILE)
+http://solutionspremium.net:80/channel/user2620/37428848293/49279.ts
+#EXTINF:-1 group-title="VERIFICAR",926 CANAL 13 C HD | CL (CHILE)
+http://solutionspremium.net:80/channel/user2620/37428848293/38485.ts
+#EXTINF:-1 group-title="VERIFICAR",927 CANAL 13 HD | CL (CHILE)
+http://solutionspremium.net:80/channel/user2620/37428848293/2471.ts
+#EXTINF:-1 group-title="VERIFICAR",928 Teletrak | CL (CHILE)
+http://solutionspremium.net:80/channel/user2620/37428848293/878.ts
+#EXTINF:-1 group-title="VERIFICAR",929 Mega HD | CL (CHILE)
+http://solutionspremium.net:80/channel/user2620/37428848293/875.ts
+#EXTINF:-1 group-title="VERIFICAR",931 FX (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86733.ts
+#EXTINF:-1 group-title="VERIFICAR",932 Discovery Channel (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86737.ts
+#EXTINF:-1 group-title="VERIFICAR",933 Discovery TLC (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86740.ts
+#EXTINF:-1 group-title="VERIFICAR",934 Universal Crime (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86750.ts
+#EXTINF:-1 group-title="VERIFICAR",935 SD LAT (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86735.ts
+#EXTINF:-1 group-title="VERIFICAR",936 TBS (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86772.ts
+#EXTINF:-1 group-title="VERIFICAR",937 Space (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86775.ts
+#EXTINF:-1 group-title="VERIFICAR",938 Cinemax (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86782.ts
+#EXTINF:-1 group-title="VERIFICAR",939 CARTOONITO (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86803.ts
+#EXTINF:-1 group-title="VERIFICAR",940 MTV (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86809.ts
+#EXTINF:-1 group-title="VERIFICAR",941 A3S (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86850.ts
+#EXTINF:-1 group-title="VERIFICAR",942 STAR CHANNEL (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86746.ts
+#EXTINF:-1 group-title="VERIFICAR",943 TVU Concepcion | CL (CHILE)
+http://solutionspremium.net:80/channel/user2620/37428848293/38484.ts
+#EXTINF:-1 group-title="VERIFICAR",944 EUROPA EUROPA | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/82456.ts
+#EXTINF:-1 group-title="VERIFICAR",945 HGTV MX | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/973.ts
+#EXTINF:-1 group-title="VERIFICAR",946 DISTRITO COMEDIA | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/1007.ts
+#EXTINF:-1 group-title="VERIFICAR",947 A&E HD Latino | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/997.ts
+#EXTINF:-1 group-title="VERIFICAR",948 COMEDY CENTRAL MX HD | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/1004.ts
+#EXTINF:-1 group-title="VERIFICAR",949 LOVE NATURAL HD | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/7930.ts
+#EXTINF:-1 group-title="VERIFICAR",950 A&E (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86723.ts
+#EXTINF:-1 group-title="VERIFICAR",951 Unicable Latino HD | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/7932.ts
+#EXTINF:-1 group-title="VERIFICAR",952 Cinecanal (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86773.ts
+#EXTINF:-1 group-title="VERIFICAR",953 Studio (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86776.ts
+#EXTINF:-1 group-title="VERIFICAR",954 UNIVERSAL (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86734.ts
+#EXTINF:-1 group-title="VERIFICAR",955 Baby TV (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86804.ts
+#EXTINF:-1 group-title="VERIFICAR",956 Disney Jr (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86806.ts
+#EXTINF:-1 group-title="VERIFICAR",957 Cartoon Network (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86800.ts
+#EXTINF:-1 group-title="VERIFICAR",958 Nickelodeon (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86798.ts
+#EXTINF:-1 group-title="VERIFICAR",959 Discovery h&h (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86742.ts
+#EXTINF:-1 group-title="VERIFICAR",960 DISCOVERY CHANNEL | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/971.ts
+#EXTINF:-1 group-title="VERIFICAR",961 AXN LATINO | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/1002.ts
+#EXTINF:-1 group-title="VERIFICAR",962 Discovery Familia HD | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/43852.ts
+#EXTINF:-1 group-title="VERIFICAR",963 DISCOVERY TURBO HD | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/982.ts
+#EXTINF:-1 group-title="VERIFICAR",964 AXN HD (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86724.ts
+#EXTINF:-1 group-title="VERIFICAR",965 Discovery H&H (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86741.ts
+#EXTINF:-1 group-title="VERIFICAR",966 Discovery ID (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86738.ts
+#EXTINF:-1 group-title="VERIFICAR",967 HISTORY (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86786.ts
+#EXTINF:-1 group-title="VERIFICAR",968 Nick Jr (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86805.ts
+#EXTINF:-1 group-title="VERIFICAR",969 EL GOURMET LATINO | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/7922.ts
+#EXTINF:-1 group-title="VERIFICAR",971 EL GOURMET FHD | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/985.ts
+#EXTINF:-1 group-title="VERIFICAR",972 CNN (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86808.ts
+#EXTINF:-1 group-title="VERIFICAR",973 Comedy Central (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86726.ts
+#EXTINF:-1 group-title="VERIFICAR",974 WARNER (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86729.ts
+#EXTINF:-1 group-title="VERIFICAR",975 SHOWTIME (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86762.ts
+#EXTINF:-1 group-title="VERIFICAR",976 HGTV LATINO | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/7916.ts
+#EXTINF:-1 group-title="VERIFICAR",977 DISCOVERY SCIENCE LATINO FHD | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/7918.ts
+#EXTINF:-1 group-title="VERIFICAR",978 Galavision Usa (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86796.ts
+#EXTINF:-1 group-title="VERIFICAR",979 Unimas (PREMIUM SD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/86795.ts
+#EXTINF:-1 group-title="VERIFICAR",980 Universal CRIME DUAL AUDIO | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/118288.ts
+#EXTINF:-1 group-title="VERIFICAR",981 Universal REALITY HD | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/118290.ts
+#EXTINF:-1 group-title="VERIFICAR",982 UNIVERSAL CRIMEN OESTE | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/121041.ts
+#EXTINF:-1 group-title="VERIFICAR",983 UNIVERSAL PREMIER OESTE | PREMIUM (PREMIUM HD (SPA))
+http://solutionspremium.net:80/channel/user2620/37428848293/121043.ts
+#EXTINF:-1 group-title="VERIFICAR",984 CDO BASICO | CL (CHILE)
+http://solutionspremium.net:80/channel/user2620/37428848293/122091.ts
+#EXTINF:-1 group-title="VERIFICAR",985 Atacama Noticias™ | CL (CHILE)
+http://solutionspremium.net:80/channel/user2620/37428848293/291266.ts
+#EXTINF:-1 group-title="VERIFICAR",986 Canal 1 Nuble™ | CL (CHILE)
+http://solutionspremium.net:80/channel/user2620/37428848293/291285.ts
+#EXTINF:-1 group-title="VERIFICAR",987 Canal 2 Quellon™ | CL (CHILE)
+http://solutionspremium.net:80/channel/user2620/37428848293/291286.ts
+#EXTINF:-1 group-title="VERIFICAR",988 Canal ISB™ | CL (CHILE)
+http://solutionspremium.net:80/channel/user2620/37428848293/291288.ts
+#EXTINF:-1 group-title="VERIFICAR",989 Chile Channel™ | CL (CHILE)
+http://solutionspremium.net:80/channel/user2620/37428848293/291289.ts
+#EXTINF:-1 group-title="VERIFICAR",990 Contivision™ | CL (CHILE)
+http://solutionspremium.net:80/channel/user2620/37428848293/291292.ts
+#EXTINF:-1 group-title="VERIFICAR",991 Dance FM™ | CL (CHILE)
+http://solutionspremium.net:80/channel/user2620/37428848293/291293.ts
+#EXTINF:-1 group-title="VERIFICAR",992 Holvoet TV™ | CL (CHILE)
+http://solutionspremium.net:80/channel/user2620/37428848293/291300.ts
+#EXTINF:-1 group-title="VERIFICAR",993 ITV Patagonia™ | CL (CHILE)
+http://solutionspremium.net:80/channel/user2620/37428848293/291301.ts
+#EXTINF:-1 group-title="PELICULAS 24/7",994 Cinema 05
+http://solutionspremium.net:80/channel/user2620/37428848293/32677.ts
+#EXTINF:-1 group-title="PELICULAS 24/7",995 Cinema 11
+http://solutionspremium.net:80/channel/user2620/37428848293/32683.ts
+#EXTINF:-1 group-title="PELICULAS 24/7",996 Cinema 21
+http://solutionspremium.net:80/channel/user2620/37428848293/32693.ts
+#EXTINF:-1 group-title="PELICULAS 24/7",997 Cinema 24
+http://solutionspremium.net:80/channel/user2620/37428848293/32696.ts
+#EXTINF:-1 group-title="PELICULAS 24/7",998 Cinema 26
+http://solutionspremium.net:80/channel/user2620/37428848293/32698.ts
+#EXTINF:-1 group-title="PELICULAS 24/7",999 Cinema 31
+http://solutionspremium.net:80/channel/user2620/37428848293/32703.ts
+#EXTINF:-1 group-title="PELICULAS 24/7",1000 Cinema 01
+http://solutionspremium.net:80/channel/user2620/37428848293/32673.ts
+#EXTINF:-1 group-title="PELICULAS 24/7",1001 Cinema 03
+http://solutionspremium.net:80/channel/user2620/37428848293/32675.ts
+#EXTINF:-1 group-title="SERIES 24/7",1002 24/7 Dave el bárbaro
+http://solutionspremium.net:80/channel/user2620/37428848293/41197.ts
+#EXTINF:-1 group-title="SERIES 24/7",1003 24/7 La liga de la justicia
+http://solutionspremium.net:80/channel/user2620/37428848293/41208.ts
+#EXTINF:-1 group-title="SERIES 24/7",1004 24/7 CANTINFLAS (M)
+http://solutionspremium.net:80/channel/user2620/37428848293/3652.ts
+#EXTINF:-1 group-title="SERIES 24/7",1005 24/7 La Pequeña LuLu
+http://solutionspremium.net:80/channel/user2620/37428848293/35818.ts
+#EXTINF:-1 group-title="SERIES 24/7",1006 24/7 Looney Tunes
+http://solutionspremium.net:80/channel/user2620/37428848293/35843.ts
+#EXTINF:-1 group-title="SERIES 24/7",1007 24/7 Los Picapiedra
+http://solutionspremium.net:80/channel/user2620/37428848293/35844.ts
+#EXTINF:-1 group-title="SERIES 24/7",1008 24/7 Ranma 1/2
+http://solutionspremium.net:80/channel/user2620/37428848293/35849.ts
+#EXTINF:-1 group-title="SERIES 24/7",1009 24/7 Death Note
+http://solutionspremium.net:80/channel/user2620/37428848293/41333.ts
+#EXTINF:-1 group-title="SERIES 24/7",1010 24/7 Malcolm in the Middle
+http://solutionspremium.net:80/channel/user2620/37428848293/3786.ts
+#EXTINF:-1 group-title="SERIES 24/7",1011 24/7 Superman: La serie animada
+http://solutionspremium.net:80/channel/user2620/37428848293/41368.ts
+#EXTINF:-1 group-title="SERIES 24/7",1012 24/7 Spider-Man (ES)
+http://solutionspremium.net:80/channel/user2620/37428848293/42062.ts
+#EXTINF:-1 group-title="SERIES 24/7",1013 24/7 Saga Transformers (ES)
+http://solutionspremium.net:80/channel/user2620/37428848293/42070.ts
+#EXTINF:-1 group-title="SERIES 24/7",1014 24/7 La familia P. Luche
+http://solutionspremium.net:80/channel/user2620/37428848293/43370.ts
+#EXTINF:-1 group-title="SERIES 24/7",1015 24/7 chernobyl ( ES)
+http://solutionspremium.net:80/channel/user2620/37428848293/13396.ts
+#EXTINF:-1 group-title="SERIES 24/7",1016 24/7 ThunderCats (ES)
+http://solutionspremium.net:80/channel/user2620/37428848293/45219.ts
+#EXTINF:-1 group-title="SERIES 24/7",1017 24/7 Películas de acción
+http://solutionspremium.net:80/channel/user2620/37428848293/43369.ts
+#EXTINF:-1 group-title="SERIES 24/7",1018 24/7 El Principel del Rap
+http://solutionspremium.net:80/channel/user2620/37428848293/35839.ts
+#EXTINF:-1 group-title="SERIES 24/7",1019 24/7 Smallville
+http://solutionspremium.net:80/channel/user2620/37428848293/35851.ts
+#EXTINF:-1 group-title="SERIES 24/7",1020 24/7 Pokemon
+http://solutionspremium.net:80/channel/user2620/37428848293/3712.ts
+#EXTINF:-1 group-title="SERIES 24/7",1021 24/7 Los super campeones
+http://solutionspremium.net:80/channel/user2620/37428848293/35819.ts
+#EXTINF:-1 group-title="SERIES 24/7",1022 24/7 Teen Titans Go
+http://solutionspremium.net:80/channel/user2620/37428848293/13384.ts
+#EXTINF:-1 group-title="SERIES 24/7",1023 24/7 Los originales
+http://solutionspremium.net:80/channel/user2620/37428848293/29605.ts
+#EXTINF:-1 group-title="SERIES 24/7",1024 24/7 RAPIDOS Y FURIOSOS
+http://solutionspremium.net:80/channel/user2620/37428848293/13436.ts
+#EXTINF:-1 group-title="SERIES 24/7",1025 24/7 Hannah Montana
+http://solutionspremium.net:80/channel/user2620/37428848293/67563.ts
+#EXTINF:-1 group-title="SERIES 24/7",1026 24/7 Into the Badlands
+http://solutionspremium.net:80/channel/user2620/37428848293/67567.ts
+#EXTINF:-1 group-title="SERIES 24/7",1027 24/7 Los magos de Waverly Place
+http://solutionspremium.net:80/channel/user2620/37428848293/67556.ts
+#EXTINF:-1 group-title="SERIES 24/7",1028 24/7 Películas de animación
+http://solutionspremium.net:80/channel/user2620/37428848293/42879.ts
+#EXTINF:-1 group-title="SERIES 24/7",1029 24/7 Películas de Terror
+http://solutionspremium.net:80/channel/user2620/37428848293/43368.ts
+#EXTINF:-1 group-title="SERIES 24/7",1030 24/7 Star Trek: Picard
+http://solutionspremium.net:80/channel/user2620/37428848293/67558.ts
+#EXTINF:-1 group-title="SERIES 24/7",1031 24/7 Dora, la exploradora
+http://solutionspremium.net:80/channel/user2620/37428848293/67562.ts
+#EXTINF:-1 group-title="SERIES 24/7",1032 24/7 Garfield Y Amigos
+http://solutionspremium.net:80/channel/user2620/37428848293/67565.ts
+#EXTINF:-1 group-title="SERIES 24/7",1033 24/7 Los padrinos mágicos
+http://solutionspremium.net:80/channel/user2620/37428848293/67554.ts
+#EXTINF:-1 group-title="SERIES 24/7",1034 24/7 Dinosaurios (M)
+http://solutionspremium.net:80/channel/user2620/37428848293/3649.ts
+#EXTINF:-1 group-title="SERIES 24/7",1035 24/7 Family Guy
+http://solutionspremium.net:80/channel/user2620/37428848293/35822.ts
+#EXTINF:-1 group-title="SERIES 24/7",1036 24/7 Infantiles
+http://solutionspremium.net:80/channel/user2620/37428848293/35842.ts
+#EXTINF:-1 group-title="SERIES 24/7",1037 24/7 Doraemon
+http://solutionspremium.net:80/channel/user2620/37428848293/35834.ts
+#EXTINF:-1 group-title="SERIES 24/7",1038 24/7 Hey Arnold
+http://solutionspremium.net:80/channel/user2620/37428848293/35841.ts
+#EXTINF:-1 group-title="SERIES 24/7",1039 24/7 Scooby-Doo (p)(1080)
+http://solutionspremium.net:80/channel/user2620/37428848293/3797.ts
+#EXTINF:-1 group-title="SERIES 24/7",1040 24/7 El Chapulin Colorado Animado (p)(480)
+http://solutionspremium.net:80/channel/user2620/37428848293/82368.ts
+#EXTINF:-1 group-title="SERIES 24/7",1041 24/7 El Chavo del Ocho
+http://solutionspremium.net:80/channel/user2620/37428848293/42058.ts
+#EXTINF:-1 group-title="SERIES 24/7",1042 Los caballeros del zodiaco 24/7
+http://solutionspremium.net:80/channel/user2620/37428848293/13376.ts
+#EXTINF:-1 group-title="SERIES 24/7",1043 24/7 Dragon Ball
+http://solutionspremium.net:80/channel/user2620/37428848293/35837.ts
+#EXTINF:-1 group-title="SERIES 24/7",1044 24/7 Family Guy | SD
+http://solutionspremium.net:80/channel/user2620/37428848293/41689.ts
+#EXTINF:-1 group-title="SERIES 24/7",1045 24/7 Dexter | SD
+http://solutionspremium.net:80/channel/user2620/37428848293/41681.ts
+#EXTINF:-1 group-title="SERIES 24/7",1046 24/7 Vikings | HD
+http://solutionspremium.net:80/channel/user2620/37428848293/37849.ts
+#EXTINF:-1 group-title="SERIES 24/7",1047 24/7 Star Wars Rebels | HD
+http://solutionspremium.net:80/channel/user2620/37428848293/31078.ts
+#EXTINF:-1 group-title="SERIES 24/7",1048 24/7 Breaking Bad | SD
+http://solutionspremium.net:80/channel/user2620/37428848293/41673.ts
+#EXTINF:-1 group-title="SERIES 24/7",1049 24/7 LA PANTERA ROSA
+http://solutionspremium.net:80/channel/user2620/37428848293/13442.ts
+#EXTINF:-1 group-title="SERIES 24/7",1050 24/7 Transformers ( ES)
+http://solutionspremium.net:80/channel/user2620/37428848293/41366.ts
+#EXTINF:-1 group-title="SERIES 24/7",1051 24/7 Alf
+http://solutionspremium.net:80/channel/user2620/37428848293/42057.ts
+#EXTINF:-1 group-title="SERIES 24/7",1052 24/7 Breaking Bad
+http://solutionspremium.net:80/channel/user2620/37428848293/41216.ts
+#EXTINF:-1 group-title="SERIES 24/7",1053 24/7 La casa de papel
+http://solutionspremium.net:80/channel/user2620/37428848293/41215.ts
+#EXTINF:-1 group-title="SERIES 24/7",1054 24/7 Cantiflas
+http://solutionspremium.net:80/channel/user2620/37428848293/35825.ts
+#EXTINF:-1 group-title="SERIES 24/7",1055 24/7 Two and a Half Men
+http://solutionspremium.net:80/channel/user2620/37428848293/4624.ts
+#EXTINF:-1 group-title="SERIES 24/7",1056 24/7 PINKY Y CEREBRO
+http://solutionspremium.net:80/channel/user2620/37428848293/41214.ts
+#EXTINF:-1 group-title="SERIES 24/7",1057 24/7 Animaniacs
+http://solutionspremium.net:80/channel/user2620/37428848293/41201.ts
+#EXTINF:-1 group-title="SERIES 24/7",1058 24/7 Coraje
+http://solutionspremium.net:80/channel/user2620/37428848293/41200.ts
+#EXTINF:-1 group-title="SERIES 24/7",1059 24/7 Tom y Jerry
+http://solutionspremium.net:80/channel/user2620/37428848293/35855.ts
+#EXTINF:-1 group-title="SERIES 24/7",1060 24/7 Super Campeones
+http://solutionspremium.net:80/channel/user2620/37428848293/35853.ts
+#EXTINF:-1 group-title="SERIES 24/7",1061 24/7 Samurai X
+http://solutionspremium.net:80/channel/user2620/37428848293/35850.ts
+#EXTINF:-1 group-title="SERIES 24/7",1062 24/7 Naruto
+http://solutionspremium.net:80/channel/user2620/37428848293/35846.ts
+#EXTINF:-1 group-title="SERIES 24/7",1063 24/7 Dragon Ball GT
+http://solutionspremium.net:80/channel/user2620/37428848293/35835.ts
+#EXTINF:-1 group-title="SERIES 24/7",1064 24/7 Bob Esponja
+http://solutionspremium.net:80/channel/user2620/37428848293/35824.ts
+#EXTINF:-1 group-title="SERIES 24/7",1065 Super Campeones 24/7
+http://solutionspremium.net:80/channel/user2620/37428848293/5753.ts
+#EXTINF:-1 group-title="SERIES 24/7",1066 24/7 Dragon Ball (M)
+http://solutionspremium.net:80/channel/user2620/37428848293/3657.ts
+#EXTINF:-1 group-title="SERIES 24/7",1067 24/7 The Big Bang Theory
+http://solutionspremium.net:80/channel/user2620/37428848293/35854.ts
+#EXTINF:-1 group-title="SERIES 24/7",1068 24/7 Superstar Animation Movie
+http://solutionspremium.net:80/channel/user2620/37428848293/134044.ts
+#EXTINF:-1 group-title="SERIES 24/7",1069 24/7 Ncis
+http://solutionspremium.net:80/channel/user2620/37428848293/134766.ts
+#EXTINF:-1 group-title="PELICULAS 24/7",1070 Cinema 38
+http://solutionspremium.net:80/channel/user2620/37428848293/147083.ts
+#EXTINF:-1 group-title="PELICULAS 24/7",1071 Cinema 39
+http://solutionspremium.net:80/channel/user2620/37428848293/147084.ts
+#EXTINF:-1 group-title="PELICULAS 24/7",1072 Cinema 42
+http://solutionspremium.net:80/channel/user2620/37428848293/147087.ts
+#EXTINF:-1 group-title="PELICULAS 24/7",1073 Cinema 52
+http://solutionspremium.net:80/channel/user2620/37428848293/147097.ts
+#EXTINF:-1 group-title="PELICULAS 24/7",1074 Cinema 53
+http://solutionspremium.net:80/channel/user2620/37428848293/147098.ts
+#EXTINF:-1 group-title="PELICULAS 24/7",1075 Cinema 55
+http://solutionspremium.net:80/channel/user2620/37428848293/147100.ts
+#EXTINF:-1 group-title="SERIES 24/7",1076 24/7 Harry Potter ENG
+http://solutionspremium.net:80/channel/user2620/37428848293/189295.ts
+#EXTINF:-1 group-title="SERIES 24/7",1077 USA | MeTv Toons
+http://solutionspremium.net:80/channel/user2620/37428848293/289671.ts
+#EXTINF:-1 group-title="PELICULAS 24/7",1078 24/7 John Wick
+http://pirostv.lat:8080/live/Nestrive/Polopolo321%24/444946.m3u
+#EXTINF:-1 group-title="PELICULAS 24/7",1079 24/7 Indiana Jones
+http://pirostv.lat:8080/live/Nestrive/Polopolo321%24/493706.m3u

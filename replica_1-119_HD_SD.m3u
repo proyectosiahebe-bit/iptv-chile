@@ -1,0 +1,718 @@
+#EXTM3U
+# ===== BLOQUE ORIGINAL 1-119 =====
+#EXTINF:-1 tvg-id="1" tvg-name="1 ADN TV" tvg-logo="" group-title="NACIONALES CHILE",1 ADN TV
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="2 BIO BIO TV" tvg-logo="" group-title="NACIONALES CHILE",2 BIO BIO TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="3 TVR" tvg-logo="" group-title="NACIONALES CHILE",3 TVR
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="4 LA RED" tvg-logo="" group-title="NACIONALES CHILE",4 LA RED
+http://pirostv.lat:8080/live/Nestrive/Polopolo321%24/451027.m3u
+#EXTINF:-1 tvg-id="5" tvg-name="5 TV+" tvg-logo="" group-title="NACIONALES CHILE",5 TV+
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts
+#EXTINF:-1 tvg-id="6" tvg-name="6 TV CHILE" tvg-logo="" group-title="NACIONALES CHILE",6 TV CHILE
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="7 TVN" tvg-logo="" group-title="NACIONALES CHILE",7 TVN
+http://solutionspremium.net:80/channel/user2620/37428848293/87265.ts
+#EXTINF:-1 tvg-id="8" tvg-name="8 NTV" tvg-logo="" group-title="NACIONALES CHILE",8 NTV
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="9 MEGA" tvg-logo="" group-title="NACIONALES CHILE",9 MEGA
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="10 TVN3" tvg-logo="" group-title="NACIONALES CHILE",10 TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="11 CHV" tvg-logo="" group-title="NACIONALES CHILE",11 CHV
+http://solutionspremium.net:80/channel/user2620/37428848293/865.ts
+#EXTINF:-1 tvg-id="12" tvg-name="12 UCV" tvg-logo="" group-title="NACIONALES CHILE",12 UCV
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14893.ts
+#EXTINF:-1 tvg-id="13" tvg-name="13 CANAL 13" tvg-logo="" group-title="NACIONALES CHILE",13 CANAL 13
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/451032.ts
+#EXTINF:-1 tvg-id="14" tvg-name="14 CHV NOTICIAS" tvg-logo="" group-title="NACIONALES CHILE",14 CHV NOTICIAS
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="15 TVN 24 HORAS" tvg-logo="" group-title="NACIONALES CHILE",15 TVN 24 HORAS
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="16 T13" tvg-logo="" group-title="NACIONALES CHILE",16 T13
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts
+#EXTINF:-1 tvg-id="17" tvg-name="17 CNN CHILE" tvg-logo="" group-title="NOTICIAS",17 CNN CHILE
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197031.ts
+#EXTINF:-1 tvg-id="18" tvg-name="18 ZONA LATINA" tvg-logo="" group-title="NACIONALES CHILE",18 ZONA LATINA
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197053.ts
+#EXTINF:-1 tvg-id="19" tvg-name="19 13REC" tvg-logo="" group-title="PARA VERIFICAR",19 13REC
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197033.ts
+#EXTINF:-1 tvg-id="20" tvg-name="20 VIA X" tvg-logo="" group-title="PARA VERIFICAR",20 VIA X
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T0pPNFJ0czNxZSt6dmdOVkNYQm13TT0
+#EXTINF:-1 tvg-id="21" tvg-name="21 13 REALITIES" tvg-logo="" group-title="SERIES / REALITY",21 13 REALITIES
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="22 13 TELESERIES" tvg-logo="" group-title="SERIES / REALITY",22 13 TELESERIES
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="23 TNT NOVELAS" tvg-logo="" group-title="SERIES / REALITY",23 TNT NOVELAS
+http://solutionspremium.net:80/channel/user2620/37428848293/1225.ts
+#EXTINF:-1 tvg-id="24" tvg-name="24 SONY" tvg-logo="" group-title="SERIES / REALITY",24 SONY
+http://solutionspremium.net:80/channel/user2620/37428848293/1022.ts
+#EXTINF:-1 tvg-id="25" tvg-name="25 STUDIO UNIVERSAL" tvg-logo="" group-title="SERIES / REALITY",25 STUDIO UNIVERSAL
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/254.ts
+#EXTINF:-1 tvg-id="26" tvg-name="26 RETRO PLUS PELICULAS" tvg-logo="" group-title="NACIONALES CHILE",26 RETRO PLUS PELICULAS
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="27 CINEMAX" tvg-logo="" group-title="CINE",27 CINEMAX
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13882.ts
+#EXTINF:-1 tvg-id="28" tvg-name="28 GOLDEN EDGE" tvg-logo="" group-title="CINE",28 GOLDEN EDGE
+http://solutionspremium.net:80/channel/user2620/37428848293/1251.ts
+#EXTINF:-1 tvg-id="29" tvg-name="29 UNIVERSAL" tvg-logo="" group-title="CINE",29 UNIVERSAL
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/239660.ts
+#EXTINF:-1 tvg-id="30" tvg-name="30 CINECANAL" tvg-logo="" group-title="PARA VERIFICAR",30 CINECANAL
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/107.ts
+#EXTINF:-1 tvg-id="31" tvg-name="31 STAR CHANNEL" tvg-logo="" group-title="CINE",31 STAR CHANNEL
+http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/970139.ts
+#EXTINF:-1 tvg-id="32" tvg-name="32 E!" tvg-logo="" group-title="CINE",32 E!
+http://solutionspremium.net:80/channel/user2620/37428848293/1008.ts
+#EXTINF:-1 tvg-id="33" tvg-name="33 COMEDY CENTRAL" tvg-logo="" group-title="CINE",33 COMEDY CENTRAL
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/108.ts
+#EXTINF:-1 tvg-id="34" tvg-name="34 AXN" tvg-logo="" group-title="CINE",34 AXN
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/103.ts
+#EXTINF:-1 tvg-id="35" tvg-name="35 TNT SERIES" tvg-logo="" group-title="CINE",35 TNT SERIES
+http://solutionspremium.net:80/channel/user2620/37428848293/1078.ts
+#EXTINF:-1 tvg-id="36" tvg-name="36 WARNER CHANNEL" tvg-logo="" group-title="CINE",36 WARNER CHANNEL
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3375.ts
+#EXTINF:-1 tvg-id="37" tvg-name="37 SPACE" tvg-logo="" group-title="CINE",37 SPACE
+http://solutionspremium.net:80/channel/user2620/37428848293/1024.ts
+#EXTINF:-1 tvg-id="38" tvg-name="38 TNT" tvg-logo="" group-title="CINE",38 TNT
+http://solutionspremium.net:80/channel/user2620/37428848293/248839.ts
+#EXTINF:-1 tvg-id="39" tvg-name="39 AMC" tvg-logo="" group-title="PARA VERIFICAR",39 AMC
+http://pirostv.lat:25461/live/Armando12/Armando12/239632.ts
+#EXTINF:-1 tvg-id="40" tvg-name="40 A&E" tvg-logo="" group-title="DOCUMENTALES",40 A&E
+http://solutionspremium.net:80/channel/user2620/37428848293/997.ts
+#EXTINF:-1 tvg-id="41" tvg-name="41 HBO 2" tvg-logo="" group-title="CINE",41 HBO 2
+http://pirostv.lat:25461/live/Armando12/Armando12/240948.ts
+#EXTINF:-1 tvg-id="42" tvg-name="42 HBO XTREME" tvg-logo="" group-title="PARA VERIFICAR",42 HBO XTREME
+http://solutionspremium.net:80/channel/user2620/37428848293/41129.ts
+#EXTINF:-1 tvg-id="43" tvg-name="43 HBO PLUS" tvg-logo="" group-title="PARA VERIFICAR",43 HBO PLUS
+http://solutionspremium.net:80/channel/user2620/37428848293/86760.ts
+#EXTINF:-1 tvg-id="44" tvg-name="44 HBO FAMILY" tvg-logo="" group-title="CINE",44 HBO FAMILY
+http://pirostv.lat:25461/live/Armando12/Armando12/239647.ts
+#EXTINF:-1 tvg-id="45" tvg-name="45 HBO" tvg-logo="" group-title="CINE",45 HBO
+http://solutionspremium.net:80/channel/user2620/37428848293/18722.ts
+#EXTINF:-1 tvg-id="46" tvg-name="46 HBO POP" tvg-logo="" group-title="CINE",46 HBO POP
+http://blushes.top:80/live/466634866/Y896v1908W/249248.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="47 HBO SIGNATURE" tvg-logo="" group-title="CINE",47 HBO SIGNATURE
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/63.ts
+#EXTINF:-1 tvg-id="48" tvg-name="48 HBO MUNDI" tvg-logo="" group-title="CINE",48 HBO MUNDI
+http://blushes.top:80/live/466634866/Y896v1908W/249249.m3u8
+#EXTINF:-1 tvg-id="49" tvg-name="49 STARZ" tvg-logo="" group-title="CINE",49 STARZ
+http://solutionspremium.net:80/channel/user2620/37428848293/1195.ts
+#EXTINF:-1 tvg-id="50" tvg-name="50 ADULT SWIM" tvg-logo="" group-title="CINE",50 ADULT SWIM
+http://solutionspremium.net:80/channel/user2620/37428848293/38480.ts
+#EXTINF:-1 tvg-id="51" tvg-name="51 DISCOVERY CHANNEL" tvg-logo="" group-title="DOCUMENTALES",51 DISCOVERY CHANNEL
+http://solutionspremium.net:80/channel/user2620/37428848293/972.ts
+#EXTINF:-1 tvg-id="52" tvg-name="52 DISCOVERY TLC" tvg-logo="" group-title="DOCUMENTALES",52 DISCOVERY TLC
+http://pirostv.lat:25461/live/Armando12/Armando12/107.ts
+#EXTINF:-1 tvg-id="53" tvg-name="53 DISCOVERY HOME AND HEALTH" tvg-logo="" group-title="DOCUMENTALES",53 DISCOVERY HOME AND HEALTH
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/109.ts
+#EXTINF:-1 tvg-id="54" tvg-name="54 DISCOVERY SCIENCE" tvg-logo="" group-title="DOCUMENTALES",54 DISCOVERY SCIENCE
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13622.ts
+#EXTINF:-1 tvg-id="55" tvg-name="55 DISCOVERY TURBO" tvg-logo="" group-title="DOCUMENTALES",55 DISCOVERY TURBO
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/268.ts
+#EXTINF:-1 tvg-id="56" tvg-name="56 ANIMAL PLANET" tvg-logo="" group-title="DOCUMENTALES",56 ANIMAL PLANET
+http://solutionspremium.net:80/channel/user2620/37428848293/969.ts
+#EXTINF:-1 tvg-id="57" tvg-name="57 HISTORY" tvg-logo="" group-title="DOCUMENTALES",57 HISTORY
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5893.ts
+#EXTINF:-1 tvg-id="58" tvg-name="58 HISTORY 2" tvg-logo="" group-title="DOCUMENTALES",58 HISTORY 2
+http://solutionspremium.net:80/channel/user2620/37428848293/97416.ts
+#EXTINF:-1 tvg-id="59" tvg-name="59 FOOD NETWORK" tvg-logo="" group-title="DOCUMENTALES",59 FOOD NETWORK
+http://solutionspremium.net:80/channel/user2620/37428848293/164371.ts
+#EXTINF:-1 tvg-id="60" tvg-name="60 LOVE NATURE" tvg-logo="" group-title="DOCUMENTALES",60 LOVE NATURE
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15835.ts
+#EXTINF:-1 tvg-id="61" tvg-name="61 INVESTIGATION DISCOVERY" tvg-logo="" group-title="DOCUMENTALES",61 INVESTIGATION DISCOVERY
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13031.ts
+#EXTINF:-1 tvg-id="62" tvg-name="62 NATIONAL GEOGRAPHIC" tvg-logo="" group-title="DOCUMENTALES",62 NATIONAL GEOGRAPHIC
+http://solutionspremium.net:80/channel/user2620/37428848293/121352.ts
+#EXTINF:-1 tvg-id="63" tvg-name="63 CNN HD" tvg-logo="" group-title="NOTICIAS",63 CNN HD
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/261288.ts
+#EXTINF:-1 tvg-id="64" tvg-name="64 CNN ESPAÑOL" tvg-logo="" group-title="NOTICIAS",64 CNN ESPAÑOL
+http://solutionspremium.net:80/channel/user2620/37428848293/129628.ts
+#EXTINF:-1 tvg-id="65" tvg-name="65 TNT SPORTS PREMIUM" tvg-logo="" group-title="DEPORTES",65 TNT SPORTS PREMIUM
+http://solutionspremium.net:80/channel/user2620/37428848293/93010.ts
+#EXTINF:-1 tvg-id="66" tvg-name="66 TNT SPORTS SD" tvg-logo="" group-title="DEPORTES",66 TNT SPORTS SD
+http://solutionspremium.net:80/channel/user2620/37428848293/93050.ts
+#EXTINF:-1 tvg-id="67" tvg-name="67 ESPN" tvg-logo="" group-title="DEPORTES",67 ESPN
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/262271.ts
+#EXTINF:-1 tvg-id="68" tvg-name="68 ESPN" tvg-logo="" group-title="DEPORTES",68 ESPN
+http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/12755
+#EXTINF:-1 tvg-id="69" tvg-name="69 ESPN DEPORTES" tvg-logo="" group-title="DEPORTES",69 ESPN DEPORTES
+http://solutionspremium.net:80/channel/user2620/37428848293/1314.ts
+#EXTINF:-1 tvg-id="70" tvg-name="70 ESPN 2" tvg-logo="" group-title="DEPORTES",70 ESPN 2
+http://solutionspremium.net:80/channel/user2620/37428848293/146797.ts
+#EXTINF:-1 tvg-id="71" tvg-name="71 ESPN 3" tvg-logo="" group-title="DEPORTES",71 ESPN 3
+http://solutionspremium.net:80/channel/user2620/37428848293/146798.ts
+#EXTINF:-1 tvg-id="72" tvg-name="72 ESPN 4" tvg-logo="" group-title="DEPORTES",72 ESPN 4
+http://solutionspremium.net:80/channel/user2620/37428848293/146799.ts
+#EXTINF:-1 tvg-id="73" tvg-name="73 ESPN5" tvg-logo="" group-title="DEPORTES",73 ESPN5
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11662.ts
+#EXTINF:-1 tvg-id="74" tvg-name="74 ESPN6" tvg-logo="" group-title="DEPORTES",74 ESPN6
+http://pirostv.lat:25461/live/Armando12/Armando12/528522.ts
+#EXTINF:-1 tvg-id="75" tvg-name="75 CDO PREMIUM" tvg-logo="" group-title="DEPORTES",75 CDO PREMIUM
+http://solutionspremium.net:80/channel/user2620/37428848293/122090.ts
+#EXTINF:-1 tvg-id="76" tvg-name="76 DSPORTS +" tvg-logo="" group-title="DEPORTES",76 DSPORTS +
+http://solutionspremium.net:80/channel/user2620/37428848293/146801.ts
+#EXTINF:-1 tvg-id="77" tvg-name="77 DSPORTS" tvg-logo="" group-title="DEPORTES",77 DSPORTS
+http://pirostv.lat:25461/live/Armando12/Armando12/267391.ts
+#EXTINF:-1 tvg-id="78" tvg-name="78 TNT SPORTS PREMIUM" tvg-logo="" group-title="DEPORTES",78 TNT SPORTS PREMIUM
+http://solutionspremium.net:80/channel/user2620/37428848293/93010.ts
+#EXTINF:-1 tvg-id="79" tvg-name="79 TNT SPORTS BASICO" tvg-logo="" group-title="DEPORTES",79 TNT SPORTS BASICO
+http://solutionspremium.net:80/channel/user2620/37428848293/93050.ts
+#EXTINF:-1 tvg-id="80" tvg-name="80 RETRO PLUS TV" tvg-logo="" group-title="NACIONALES CHILE",80 RETRO PLUS TV
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="81 RETRO PLUS TV SEÑAL 2" tvg-logo="" group-title="NACIONALES CHILE",81 RETRO PLUS TV SEÑAL 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="82 MTV LIVE" tvg-logo="" group-title="MUSICA",82 MTV LIVE
+http://pirostv.lat:25461/live/Armando12/Armando12/356.ts
+#EXTINF:-1 tvg-id="83" tvg-name="83 MTV" tvg-logo="" group-title="MUSICA",83 MTV
+http://solutionspremium.net:80/channel/user2620/37428848293/36823.ts
+#EXTINF:-1 tvg-id="84" tvg-name="84 13 FESTIVAL" tvg-logo="" group-title="MUSICA",84 13 FESTIVAL
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="85 PORTAL FOXMIX" tvg-logo="" group-title="MUSICA",85 PORTAL FOXMIX
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 tvg-id="86" tvg-name="86 RETROMUSICA TELEVISION" tvg-logo="" group-title="MUSICA",86 RETROMUSICA TELEVISION
+https://vdochile.com:3864/stream/play.m3u8
+#EXTINF:-1 tvg-id="87" tvg-name="87 REWIND TV" tvg-logo="" group-title="MUSICA",87 REWIND TV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="88" tvg-name="88 VCLASSICTV TROPICAL" tvg-logo="" group-title="MUSICA",88 VCLASSICTV TROPICAL
+https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
+#EXTINF:-1 tvg-id="89" tvg-name="89 CANAL CHILE" tvg-logo="" group-title="INFANTIL",89 CANAL CHILE
+https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="90" tvg-name="90 DISNEY JR HD (MX)" tvg-logo="" group-title="INFANTIL",90 DISNEY JR HD (MX)
+http://solutionspremium.net:80/channel/user2620/37428848293/1086.ts
+#EXTINF:-1 tvg-id="91" tvg-name="91 13 GO KIDS" tvg-logo="" group-title="INFANTIL",91 13 GO KIDS
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 tvg-id="92" tvg-name="92 DISNEY CHANNEL" tvg-logo="" group-title="INFANTIL",92 DISNEY CHANNEL
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:-1 tvg-id="93" tvg-name="93 NICK JR" tvg-logo="" group-title="INFANTIL",93 NICK JR
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13838.ts
+#EXTINF:-1 tvg-id="94" tvg-name="94 DISCOVERY KIDS" tvg-logo="" group-title="INFANTIL",94 DISCOVERY KIDS
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13493.ts
+#EXTINF:-1 tvg-id="95" tvg-name="95 NICKELODEON" tvg-logo="" group-title="INTERNACIONAL",95 NICKELODEON
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3310.ts
+#EXTINF:-1 tvg-id="96" tvg-name="96 EUROPA EUROPA" tvg-logo="" group-title="INTERNACIONAL",96 EUROPA EUROPA
+http://solutionspremium.net:80/channel/user2620/37428848293/1266.ts
+#EXTINF:-1 tvg-id="97" tvg-name="97 ANTENA 3" tvg-logo="" group-title="INTERNACIONAL",97 ANTENA 3
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8234.ts
+#EXTINF:-1 tvg-id="98" tvg-name="98 GLOBO HD" tvg-logo="" group-title="INTERNACIONAL",98 GLOBO HD
+http://solutionspremium.net:80/channel/user2620/37428848293/2065.ts
+#EXTINF:-1 tvg-id="99" tvg-name="99 TVE INTERNACIONAL" tvg-logo="" group-title="INTERNACIONAL",99 TVE INTERNACIONAL
+http://solutionspremium.net:80/channel/user2620/37428848293/650.ts
+#EXTINF:-1 tvg-id="100" tvg-name="100 TELEFE" tvg-logo="" group-title="NOTICIAS",100 TELEFE
+http://solutionspremium.net:80/channel/user2620/37428848293/1343.ts
+#EXTINF:-1 tvg-id="101" tvg-name="101 TELEMUNDO INTERNACIONAL" tvg-logo="" group-title="NOTICIAS",101 TELEMUNDO INTERNACIONAL
+http://solutionspremium.net:80/channel/user2620/37428848293/86794.ts
+#EXTINF:-1 tvg-id="102" tvg-name="102 DW ESPANOL" tvg-logo="" group-title="NOTICIAS",102 DW ESPANOL
+http://solutionspremium.net:80/channel/user2620/37428848293/40075.ts
+#EXTINF:-1 tvg-id="103" tvg-name="103 TV SENADO" tvg-logo="" group-title="NACIONALES CHILE",103 TV SENADO
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="104" tvg-name="104 TELETRAK" tvg-logo="" group-title="NACIONALES CHILE",104 TELETRAK
+https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
+#EXTINF:-1 tvg-id="105" tvg-name="105 FM PLUS" tvg-logo="" group-title="RADIOS",105 FM PLUS
+https://v2.tustreaming.cl/fmplus/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="106 RADIO BIO BIO CONCEPCION" tvg-logo="" group-title="RADIOS",106 RADIO BIO BIO CONCEPCION
+https://redirector.dps.live/biobioconcepcion/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="107" tvg-name="107 RADIO BIO BIO LOS ANGELES" tvg-logo="" group-title="RADIOS",107 RADIO BIO BIO LOS ANGELES
+https://redirector.dps.live/biobiolosangeles/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="108 RADIO BIO BIO OSORNO" tvg-logo="" group-title="RADIOS",108 RADIO BIO BIO OSORNO
+https://redirector.dps.live/biobioosorno/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="109" tvg-name="109 RADIO BIO BIO PUERTO MONTT" tvg-logo="" group-title="RADIOS",109 RADIO BIO BIO PUERTO MONTT
+https://redirector.dps.live/biobiopuertomontt/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="110" tvg-name="110 RADIO BIO BIO SANTIAGO" tvg-logo="" group-title="RADIOS",110 RADIO BIO BIO SANTIAGO
+https://redirector.dps.live/biobiosantiago/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="111" tvg-name="111 RADIO BIO BIO TEMUCO" tvg-logo="" group-title="RADIOS",111 RADIO BIO BIO TEMUCO
+https://redirector.dps.live/biobiotemuco/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="112 RADIO BIO BIO VALPARAISO" tvg-logo="" group-title="RADIOS",112 RADIO BIO BIO VALPARAISO
+https://redirector.dps.live/biobiovalparaiso/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="113" tvg-name="113 RADIO PUDAHUEL FM" tvg-logo="" group-title="RADIOS",113 RADIO PUDAHUEL FM
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="114" tvg-name="114 CAROLINA TV" tvg-logo="" group-title="RADIOS",114 CAROLINA TV
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
+#EXTINF:-1 tvg-id="115" tvg-name="115 RADIO ROMANTICA" tvg-logo="" group-title="RADIOS",115 RADIO ROMANTICA
+https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8
+#EXTINF:-1 tvg-id="116" tvg-name="116 RADIO INFINITA" tvg-logo="" group-title="RADIOS",116 RADIO INFINITA
+https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8
+#EXTINF:-1 tvg-id="117" tvg-name="117 RADIO DUNA" tvg-logo="" group-title="RADIOS",117 RADIO DUNA
+https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
+#EXTINF:-1 tvg-id="118" tvg-name="118 LA CLAVE" tvg-logo="" group-title="RADIOS",118 LA CLAVE
+https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="119" tvg-name="119 LA METRO" tvg-logo="" group-title="RADIOS",119 LA METRO
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
+# ===== BLOQUE REPLICA HD 120-238 =====
+#EXTINF:-1 tvg-id="120" tvg-name="120 ADN TV" tvg-logo="" group-title="NACIONALES CHILE",120 ADN TV
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="121" tvg-name="121 BIO BIO TV" tvg-logo="" group-title="NACIONALES CHILE",121 BIO BIO TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="122" tvg-name="122 TVR" tvg-logo="" group-title="NACIONALES CHILE",122 TVR
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="123" tvg-name="123 LA RED" tvg-logo="" group-title="NACIONALES CHILE",123 LA RED
+http://pirostv.lat:8080/live/Nestrive/Polopolo321%24/451027.m3u
+#EXTINF:-1 tvg-id="124" tvg-name="124 TV+" tvg-logo="" group-title="NACIONALES CHILE",124 TV+
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts
+#EXTINF:-1 tvg-id="125" tvg-name="125 TV CHILE" tvg-logo="" group-title="NACIONALES CHILE",125 TV CHILE
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="126 TVN" tvg-logo="" group-title="NACIONALES CHILE",126 TVN
+http://solutionspremium.net:80/channel/user2620/37428848293/87265.ts
+#EXTINF:-1 tvg-id="127" tvg-name="127 NTV" tvg-logo="" group-title="NACIONALES CHILE",127 NTV
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+#EXTINF:-1 tvg-id="128" tvg-name="128 MEGA" tvg-logo="" group-title="NACIONALES CHILE",128 MEGA
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="129" tvg-name="129 TVN3" tvg-logo="" group-title="NACIONALES CHILE",129 TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="130 CHV" tvg-logo="" group-title="NACIONALES CHILE",130 CHV
+http://solutionspremium.net:80/channel/user2620/37428848293/865.ts
+#EXTINF:-1 tvg-id="131" tvg-name="131 UCV" tvg-logo="" group-title="NACIONALES CHILE",131 UCV
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14893.ts
+#EXTINF:-1 tvg-id="132" tvg-name="132 CANAL 13" tvg-logo="" group-title="NACIONALES CHILE",132 CANAL 13
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/451032.ts
+#EXTINF:-1 tvg-id="133" tvg-name="133 CHV NOTICIAS" tvg-logo="" group-title="NACIONALES CHILE",133 CHV NOTICIAS
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="134" tvg-name="134 TVN 24 HORAS" tvg-logo="" group-title="NACIONALES CHILE",134 TVN 24 HORAS
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+#EXTINF:-1 tvg-id="135" tvg-name="135 T13" tvg-logo="" group-title="NACIONALES CHILE",135 T13
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts
+#EXTINF:-1 tvg-id="136" tvg-name="136 CNN CHILE" tvg-logo="" group-title="NOTICIAS",136 CNN CHILE
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197031.ts
+#EXTINF:-1 tvg-id="137" tvg-name="137 ZONA LATINA" tvg-logo="" group-title="NACIONALES CHILE",137 ZONA LATINA
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197053.ts
+#EXTINF:-1 tvg-id="138" tvg-name="138 13REC" tvg-logo="" group-title="PARA VERIFICAR",138 13REC
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197033.ts
+#EXTINF:-1 tvg-id="139" tvg-name="139 VIA X" tvg-logo="" group-title="PARA VERIFICAR",139 VIA X
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T0pPNFJ0czNxZSt6dmdOVkNYQm13TT0
+#EXTINF:-1 tvg-id="140" tvg-name="140 13 REALITIES" tvg-logo="" group-title="SERIES / REALITY",140 13 REALITIES
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="141 13 TELESERIES" tvg-logo="" group-title="SERIES / REALITY",141 13 TELESERIES
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="142 TNT NOVELAS" tvg-logo="" group-title="SERIES / REALITY",142 TNT NOVELAS
+http://solutionspremium.net:80/channel/user2620/37428848293/1225.ts
+#EXTINF:-1 tvg-id="143" tvg-name="143 SONY" tvg-logo="" group-title="SERIES / REALITY",143 SONY
+http://solutionspremium.net:80/channel/user2620/37428848293/1022.ts
+#EXTINF:-1 tvg-id="144" tvg-name="144 STUDIO UNIVERSAL" tvg-logo="" group-title="SERIES / REALITY",144 STUDIO UNIVERSAL
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/254.ts
+#EXTINF:-1 tvg-id="145" tvg-name="145 RETRO PLUS PELICULAS" tvg-logo="" group-title="NACIONALES CHILE",145 RETRO PLUS PELICULAS
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+#EXTINF:-1 tvg-id="146" tvg-name="146 CINEMAX" tvg-logo="" group-title="CINE",146 CINEMAX
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13882.ts
+#EXTINF:-1 tvg-id="147" tvg-name="147 GOLDEN EDGE" tvg-logo="" group-title="CINE",147 GOLDEN EDGE
+http://solutionspremium.net:80/channel/user2620/37428848293/1251.ts
+#EXTINF:-1 tvg-id="148" tvg-name="148 UNIVERSAL" tvg-logo="" group-title="CINE",148 UNIVERSAL
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/239660.ts
+#EXTINF:-1 tvg-id="149" tvg-name="149 CINECANAL" tvg-logo="" group-title="PARA VERIFICAR",149 CINECANAL
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/107.ts
+#EXTINF:-1 tvg-id="150" tvg-name="150 STAR CHANNEL" tvg-logo="" group-title="CINE",150 STAR CHANNEL
+http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/970139.ts
+#EXTINF:-1 tvg-id="151" tvg-name="151 E!" tvg-logo="" group-title="CINE",151 E!
+http://solutionspremium.net:80/channel/user2620/37428848293/1008.ts
+#EXTINF:-1 tvg-id="152" tvg-name="152 COMEDY CENTRAL" tvg-logo="" group-title="CINE",152 COMEDY CENTRAL
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/108.ts
+#EXTINF:-1 tvg-id="153" tvg-name="153 AXN" tvg-logo="" group-title="CINE",153 AXN
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/103.ts
+#EXTINF:-1 tvg-id="154" tvg-name="154 TNT SERIES" tvg-logo="" group-title="CINE",154 TNT SERIES
+http://solutionspremium.net:80/channel/user2620/37428848293/1078.ts
+#EXTINF:-1 tvg-id="155" tvg-name="155 WARNER CHANNEL" tvg-logo="" group-title="CINE",155 WARNER CHANNEL
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3375.ts
+#EXTINF:-1 tvg-id="156" tvg-name="156 SPACE" tvg-logo="" group-title="CINE",156 SPACE
+http://solutionspremium.net:80/channel/user2620/37428848293/1024.ts
+#EXTINF:-1 tvg-id="157" tvg-name="157 TNT" tvg-logo="" group-title="CINE",157 TNT
+http://solutionspremium.net:80/channel/user2620/37428848293/248839.ts
+#EXTINF:-1 tvg-id="158" tvg-name="158 AMC" tvg-logo="" group-title="PARA VERIFICAR",158 AMC
+http://pirostv.lat:25461/live/Armando12/Armando12/239632.ts
+#EXTINF:-1 tvg-id="159" tvg-name="159 A&E" tvg-logo="" group-title="DOCUMENTALES",159 A&E
+http://solutionspremium.net:80/channel/user2620/37428848293/997.ts
+#EXTINF:-1 tvg-id="160" tvg-name="160 HBO 2" tvg-logo="" group-title="CINE",160 HBO 2
+http://pirostv.lat:25461/live/Armando12/Armando12/240948.ts
+#EXTINF:-1 tvg-id="161" tvg-name="161 HBO XTREME" tvg-logo="" group-title="PARA VERIFICAR",161 HBO XTREME
+http://solutionspremium.net:80/channel/user2620/37428848293/41129.ts
+#EXTINF:-1 tvg-id="162" tvg-name="162 HBO PLUS" tvg-logo="" group-title="PARA VERIFICAR",162 HBO PLUS
+http://solutionspremium.net:80/channel/user2620/37428848293/86760.ts
+#EXTINF:-1 tvg-id="163" tvg-name="163 HBO FAMILY" tvg-logo="" group-title="CINE",163 HBO FAMILY
+http://pirostv.lat:25461/live/Armando12/Armando12/239647.ts
+#EXTINF:-1 tvg-id="164" tvg-name="164 HBO" tvg-logo="" group-title="CINE",164 HBO
+http://solutionspremium.net:80/channel/user2620/37428848293/18722.ts
+#EXTINF:-1 tvg-id="165" tvg-name="165 HBO POP" tvg-logo="" group-title="CINE",165 HBO POP
+http://blushes.top:80/live/466634866/Y896v1908W/249248.m3u8
+#EXTINF:-1 tvg-id="166" tvg-name="166 HBO SIGNATURE" tvg-logo="" group-title="CINE",166 HBO SIGNATURE
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/63.ts
+#EXTINF:-1 tvg-id="167" tvg-name="167 HBO MUNDI" tvg-logo="" group-title="CINE",167 HBO MUNDI
+http://blushes.top:80/live/466634866/Y896v1908W/249249.m3u8
+#EXTINF:-1 tvg-id="168" tvg-name="168 STARZ" tvg-logo="" group-title="CINE",168 STARZ
+http://solutionspremium.net:80/channel/user2620/37428848293/1195.ts
+#EXTINF:-1 tvg-id="169" tvg-name="169 ADULT SWIM" tvg-logo="" group-title="CINE",169 ADULT SWIM
+http://solutionspremium.net:80/channel/user2620/37428848293/38480.ts
+#EXTINF:-1 tvg-id="170" tvg-name="170 DISCOVERY CHANNEL" tvg-logo="" group-title="DOCUMENTALES",170 DISCOVERY CHANNEL
+http://solutionspremium.net:80/channel/user2620/37428848293/972.ts
+#EXTINF:-1 tvg-id="171" tvg-name="171 DISCOVERY TLC" tvg-logo="" group-title="DOCUMENTALES",171 DISCOVERY TLC
+http://pirostv.lat:25461/live/Armando12/Armando12/107.ts
+#EXTINF:-1 tvg-id="172" tvg-name="172 DISCOVERY HOME AND HEALTH" tvg-logo="" group-title="DOCUMENTALES",172 DISCOVERY HOME AND HEALTH
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/109.ts
+#EXTINF:-1 tvg-id="173" tvg-name="173 DISCOVERY SCIENCE" tvg-logo="" group-title="DOCUMENTALES",173 DISCOVERY SCIENCE
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13622.ts
+#EXTINF:-1 tvg-id="174" tvg-name="174 DISCOVERY TURBO" tvg-logo="" group-title="DOCUMENTALES",174 DISCOVERY TURBO
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/268.ts
+#EXTINF:-1 tvg-id="175" tvg-name="175 ANIMAL PLANET" tvg-logo="" group-title="DOCUMENTALES",175 ANIMAL PLANET
+http://solutionspremium.net:80/channel/user2620/37428848293/969.ts
+#EXTINF:-1 tvg-id="176" tvg-name="176 HISTORY" tvg-logo="" group-title="DOCUMENTALES",176 HISTORY
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5893.ts
+#EXTINF:-1 tvg-id="177" tvg-name="177 HISTORY 2" tvg-logo="" group-title="DOCUMENTALES",177 HISTORY 2
+http://solutionspremium.net:80/channel/user2620/37428848293/97416.ts
+#EXTINF:-1 tvg-id="178" tvg-name="178 FOOD NETWORK" tvg-logo="" group-title="DOCUMENTALES",178 FOOD NETWORK
+http://solutionspremium.net:80/channel/user2620/37428848293/164371.ts
+#EXTINF:-1 tvg-id="179" tvg-name="179 LOVE NATURE" tvg-logo="" group-title="DOCUMENTALES",179 LOVE NATURE
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15835.ts
+#EXTINF:-1 tvg-id="180" tvg-name="180 INVESTIGATION DISCOVERY" tvg-logo="" group-title="DOCUMENTALES",180 INVESTIGATION DISCOVERY
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13031.ts
+#EXTINF:-1 tvg-id="181" tvg-name="181 NATIONAL GEOGRAPHIC" tvg-logo="" group-title="DOCUMENTALES",181 NATIONAL GEOGRAPHIC
+http://solutionspremium.net:80/channel/user2620/37428848293/121352.ts
+#EXTINF:-1 tvg-id="182" tvg-name="182 CNN HD" tvg-logo="" group-title="NOTICIAS",182 CNN HD
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/261288.ts
+#EXTINF:-1 tvg-id="183" tvg-name="183 CNN ESPAÑOL" tvg-logo="" group-title="NOTICIAS",183 CNN ESPAÑOL
+http://solutionspremium.net:80/channel/user2620/37428848293/129628.ts
+#EXTINF:-1 tvg-id="184" tvg-name="184 TNT SPORTS PREMIUM" tvg-logo="" group-title="DEPORTES",184 TNT SPORTS PREMIUM
+http://solutionspremium.net:80/channel/user2620/37428848293/93010.ts
+#EXTINF:-1 tvg-id="185" tvg-name="185 TNT SPORTS SD" tvg-logo="" group-title="DEPORTES",185 TNT SPORTS SD
+http://solutionspremium.net:80/channel/user2620/37428848293/93050.ts
+#EXTINF:-1 tvg-id="186" tvg-name="186 ESPN" tvg-logo="" group-title="DEPORTES",186 ESPN
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/262271.ts
+#EXTINF:-1 tvg-id="187" tvg-name="187 ESPN" tvg-logo="" group-title="DEPORTES",187 ESPN
+http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/12755
+#EXTINF:-1 tvg-id="188" tvg-name="188 ESPN DEPORTES" tvg-logo="" group-title="DEPORTES",188 ESPN DEPORTES
+http://solutionspremium.net:80/channel/user2620/37428848293/1314.ts
+#EXTINF:-1 tvg-id="189" tvg-name="189 ESPN 2" tvg-logo="" group-title="DEPORTES",189 ESPN 2
+http://solutionspremium.net:80/channel/user2620/37428848293/146797.ts
+#EXTINF:-1 tvg-id="190" tvg-name="190 ESPN 3" tvg-logo="" group-title="DEPORTES",190 ESPN 3
+http://solutionspremium.net:80/channel/user2620/37428848293/146798.ts
+#EXTINF:-1 tvg-id="191" tvg-name="191 ESPN 4" tvg-logo="" group-title="DEPORTES",191 ESPN 4
+http://solutionspremium.net:80/channel/user2620/37428848293/146799.ts
+#EXTINF:-1 tvg-id="192" tvg-name="192 ESPN5" tvg-logo="" group-title="DEPORTES",192 ESPN5
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11662.ts
+#EXTINF:-1 tvg-id="193" tvg-name="193 ESPN6" tvg-logo="" group-title="DEPORTES",193 ESPN6
+http://pirostv.lat:25461/live/Armando12/Armando12/528522.ts
+#EXTINF:-1 tvg-id="194" tvg-name="194 CDO PREMIUM" tvg-logo="" group-title="DEPORTES",194 CDO PREMIUM
+http://solutionspremium.net:80/channel/user2620/37428848293/122090.ts
+#EXTINF:-1 tvg-id="195" tvg-name="195 DSPORTS +" tvg-logo="" group-title="DEPORTES",195 DSPORTS +
+http://solutionspremium.net:80/channel/user2620/37428848293/146801.ts
+#EXTINF:-1 tvg-id="196" tvg-name="196 DSPORTS" tvg-logo="" group-title="DEPORTES",196 DSPORTS
+http://pirostv.lat:25461/live/Armando12/Armando12/267391.ts
+#EXTINF:-1 tvg-id="197" tvg-name="197 TNT SPORTS PREMIUM" tvg-logo="" group-title="DEPORTES",197 TNT SPORTS PREMIUM
+http://solutionspremium.net:80/channel/user2620/37428848293/93010.ts
+#EXTINF:-1 tvg-id="198" tvg-name="198 TNT SPORTS BASICO" tvg-logo="" group-title="DEPORTES",198 TNT SPORTS BASICO
+http://solutionspremium.net:80/channel/user2620/37428848293/93050.ts
+#EXTINF:-1 tvg-id="199" tvg-name="199 RETRO PLUS TV" tvg-logo="" group-title="NACIONALES CHILE",199 RETRO PLUS TV
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:-1 tvg-id="200" tvg-name="200 RETRO PLUS TV SEÑAL 2" tvg-logo="" group-title="NACIONALES CHILE",200 RETRO PLUS TV SEÑAL 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+#EXTINF:-1 tvg-id="201" tvg-name="201 MTV LIVE" tvg-logo="" group-title="MUSICA",201 MTV LIVE
+http://pirostv.lat:25461/live/Armando12/Armando12/356.ts
+#EXTINF:-1 tvg-id="202" tvg-name="202 MTV" tvg-logo="" group-title="MUSICA",202 MTV
+http://solutionspremium.net:80/channel/user2620/37428848293/36823.ts
+#EXTINF:-1 tvg-id="203" tvg-name="203 13 FESTIVAL" tvg-logo="" group-title="MUSICA",203 13 FESTIVAL
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-id="204" tvg-name="204 PORTAL FOXMIX" tvg-logo="" group-title="MUSICA",204 PORTAL FOXMIX
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 tvg-id="205" tvg-name="205 RETROMUSICA TELEVISION" tvg-logo="" group-title="MUSICA",205 RETROMUSICA TELEVISION
+https://vdochile.com:3864/stream/play.m3u8
+#EXTINF:-1 tvg-id="206" tvg-name="206 REWIND TV" tvg-logo="" group-title="MUSICA",206 REWIND TV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="207" tvg-name="207 VCLASSICTV TROPICAL" tvg-logo="" group-title="MUSICA",207 VCLASSICTV TROPICAL
+https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
+#EXTINF:-1 tvg-id="208" tvg-name="208 CANAL CHILE" tvg-logo="" group-title="INFANTIL",208 CANAL CHILE
+https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="209" tvg-name="209 DISNEY JR HD (MX)" tvg-logo="" group-title="INFANTIL",209 DISNEY JR HD (MX)
+http://solutionspremium.net:80/channel/user2620/37428848293/1086.ts
+#EXTINF:-1 tvg-id="210" tvg-name="210 13 GO KIDS" tvg-logo="" group-title="INFANTIL",210 13 GO KIDS
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 tvg-id="211" tvg-name="211 DISNEY CHANNEL" tvg-logo="" group-title="INFANTIL",211 DISNEY CHANNEL
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:-1 tvg-id="212" tvg-name="212 NICK JR" tvg-logo="" group-title="INFANTIL",212 NICK JR
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13838.ts
+#EXTINF:-1 tvg-id="213" tvg-name="213 DISCOVERY KIDS" tvg-logo="" group-title="INFANTIL",213 DISCOVERY KIDS
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13493.ts
+#EXTINF:-1 tvg-id="214" tvg-name="214 NICKELODEON" tvg-logo="" group-title="INTERNACIONAL",214 NICKELODEON
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3310.ts
+#EXTINF:-1 tvg-id="215" tvg-name="215 EUROPA EUROPA" tvg-logo="" group-title="INTERNACIONAL",215 EUROPA EUROPA
+http://solutionspremium.net:80/channel/user2620/37428848293/1266.ts
+#EXTINF:-1 tvg-id="216" tvg-name="216 ANTENA 3" tvg-logo="" group-title="INTERNACIONAL",216 ANTENA 3
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8234.ts
+#EXTINF:-1 tvg-id="217" tvg-name="217 GLOBO HD" tvg-logo="" group-title="INTERNACIONAL",217 GLOBO HD
+http://solutionspremium.net:80/channel/user2620/37428848293/2065.ts
+#EXTINF:-1 tvg-id="218" tvg-name="218 TVE INTERNACIONAL" tvg-logo="" group-title="INTERNACIONAL",218 TVE INTERNACIONAL
+http://solutionspremium.net:80/channel/user2620/37428848293/650.ts
+#EXTINF:-1 tvg-id="219" tvg-name="219 TELEFE" tvg-logo="" group-title="NOTICIAS",219 TELEFE
+http://solutionspremium.net:80/channel/user2620/37428848293/1343.ts
+#EXTINF:-1 tvg-id="220" tvg-name="220 TELEMUNDO INTERNACIONAL" tvg-logo="" group-title="NOTICIAS",220 TELEMUNDO INTERNACIONAL
+http://solutionspremium.net:80/channel/user2620/37428848293/86794.ts
+#EXTINF:-1 tvg-id="221" tvg-name="221 DW ESPANOL" tvg-logo="" group-title="NOTICIAS",221 DW ESPANOL
+http://solutionspremium.net:80/channel/user2620/37428848293/40075.ts
+#EXTINF:-1 tvg-id="222" tvg-name="222 TV SENADO" tvg-logo="" group-title="NACIONALES CHILE",222 TV SENADO
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="223" tvg-name="223 TELETRAK" tvg-logo="" group-title="NACIONALES CHILE",223 TELETRAK
+https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
+#EXTINF:-1 tvg-id="224" tvg-name="224 FM PLUS" tvg-logo="" group-title="RADIOS",224 FM PLUS
+https://v2.tustreaming.cl/fmplus/index.m3u8
+#EXTINF:-1 tvg-id="225" tvg-name="225 RADIO BIO BIO CONCEPCION" tvg-logo="" group-title="RADIOS",225 RADIO BIO BIO CONCEPCION
+https://redirector.dps.live/biobioconcepcion/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="226" tvg-name="226 RADIO BIO BIO LOS ANGELES" tvg-logo="" group-title="RADIOS",226 RADIO BIO BIO LOS ANGELES
+https://redirector.dps.live/biobiolosangeles/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="227" tvg-name="227 RADIO BIO BIO OSORNO" tvg-logo="" group-title="RADIOS",227 RADIO BIO BIO OSORNO
+https://redirector.dps.live/biobioosorno/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="228" tvg-name="228 RADIO BIO BIO PUERTO MONTT" tvg-logo="" group-title="RADIOS",228 RADIO BIO BIO PUERTO MONTT
+https://redirector.dps.live/biobiopuertomontt/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="229" tvg-name="229 RADIO BIO BIO SANTIAGO" tvg-logo="" group-title="RADIOS",229 RADIO BIO BIO SANTIAGO
+https://redirector.dps.live/biobiosantiago/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="230" tvg-name="230 RADIO BIO BIO TEMUCO" tvg-logo="" group-title="RADIOS",230 RADIO BIO BIO TEMUCO
+https://redirector.dps.live/biobiotemuco/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="231" tvg-name="231 RADIO BIO BIO VALPARAISO" tvg-logo="" group-title="RADIOS",231 RADIO BIO BIO VALPARAISO
+https://redirector.dps.live/biobiovalparaiso/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="232" tvg-name="232 RADIO PUDAHUEL FM" tvg-logo="" group-title="RADIOS",232 RADIO PUDAHUEL FM
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="233" tvg-name="233 CAROLINA TV" tvg-logo="" group-title="RADIOS",233 CAROLINA TV
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
+#EXTINF:-1 tvg-id="234" tvg-name="234 RADIO ROMANTICA" tvg-logo="" group-title="RADIOS",234 RADIO ROMANTICA
+https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8
+#EXTINF:-1 tvg-id="235" tvg-name="235 RADIO INFINITA" tvg-logo="" group-title="RADIOS",235 RADIO INFINITA
+https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8
+#EXTINF:-1 tvg-id="236" tvg-name="236 RADIO DUNA" tvg-logo="" group-title="RADIOS",236 RADIO DUNA
+https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
+#EXTINF:-1 tvg-id="237" tvg-name="237 LA CLAVE" tvg-logo="" group-title="RADIOS",237 LA CLAVE
+https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="238" tvg-name="238 LA METRO" tvg-logo="" group-title="RADIOS",238 LA METRO
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
+# ===== BLOQUE REPLICA SD 239-357 =====
+#EXTINF:-1 tvg-id="239" tvg-name="239 ADN TV" tvg-logo="" group-title="NACIONALES CHILE",239 ADN TV
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="240" tvg-name="240 BIO BIO TV" tvg-logo="" group-title="NACIONALES CHILE",240 BIO BIO TV
+http://neoyjpw.top:8080/live/551669619253587057/271669619253587/58844.ts
+#EXTINF:-1 tvg-id="241" tvg-name="241 TVR" tvg-logo="" group-title="NACIONALES CHILE",241 TVR
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="242" tvg-name="242 LA RED" tvg-logo="" group-title="NACIONALES CHILE",242 LA RED
+http://pirostv.lat:8080/live/Nestrive/Polopolo321%24/451027.m3u
+#EXTINF:-1 tvg-id="243" tvg-name="243 TV+" tvg-logo="" group-title="NACIONALES CHILE",243 TV+
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14874.ts
+#EXTINF:-1 tvg-id="244" tvg-name="244 TV CHILE" tvg-logo="" group-title="NACIONALES CHILE",244 TV CHILE
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 tvg-id="245" tvg-name="245 TVN" tvg-logo="" group-title="NACIONALES CHILE",245 TVN
+http://solutionspremium.net:80/channel/user2620/37428848293/87265.ts
+#EXTINF:-1 tvg-id="246" tvg-name="246 NTV" tvg-logo="" group-title="NACIONALES CHILE",246 NTV
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+#EXTINF:-1 tvg-id="247" tvg-name="247 MEGA" tvg-logo="" group-title="NACIONALES CHILE",247 MEGA
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="248" tvg-name="248 TVN3" tvg-logo="" group-title="NACIONALES CHILE",248 TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-id="249" tvg-name="249 CHV" tvg-logo="" group-title="NACIONALES CHILE",249 CHV
+http://solutionspremium.net:80/channel/user2620/37428848293/865.ts
+#EXTINF:-1 tvg-id="250" tvg-name="250 UCV" tvg-logo="" group-title="NACIONALES CHILE",250 UCV
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/14893.ts
+#EXTINF:-1 tvg-id="251" tvg-name="251 CANAL 13" tvg-logo="" group-title="NACIONALES CHILE",251 CANAL 13
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/451032.ts
+#EXTINF:-1 tvg-id="252" tvg-name="252 CHV NOTICIAS" tvg-logo="" group-title="NACIONALES CHILE",252 CHV NOTICIAS
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="253" tvg-name="253 TVN 24 HORAS" tvg-logo="" group-title="NACIONALES CHILE",253 TVN 24 HORAS
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+#EXTINF:-1 tvg-id="254" tvg-name="254 T13" tvg-logo="" group-title="NACIONALES CHILE",254 T13
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/2111.ts
+#EXTINF:-1 tvg-id="255" tvg-name="255 CNN CHILE" tvg-logo="" group-title="NOTICIAS",255 CNN CHILE
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197031.ts
+#EXTINF:-1 tvg-id="256" tvg-name="256 ZONA LATINA" tvg-logo="" group-title="NACIONALES CHILE",256 ZONA LATINA
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197053.ts
+#EXTINF:-1 tvg-id="257" tvg-name="257 13REC" tvg-logo="" group-title="PARA VERIFICAR",257 13REC
+https://emilyba.bid:443/live/victoria/sghfGcEbuLYq/197033.ts
+#EXTINF:-1 tvg-id="258" tvg-name="258 VIA X" tvg-logo="" group-title="PARA VERIFICAR",258 VIA X
+http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6T0pPNFJ0czNxZSt6dmdOVkNYQm13TT0
+#EXTINF:-1 tvg-id="259" tvg-name="259 13 REALITIES" tvg-logo="" group-title="SERIES / REALITY",259 13 REALITIES
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 tvg-id="260" tvg-name="260 13 TELESERIES" tvg-logo="" group-title="SERIES / REALITY",260 13 TELESERIES
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-id="261" tvg-name="261 TNT NOVELAS" tvg-logo="" group-title="SERIES / REALITY",261 TNT NOVELAS
+http://solutionspremium.net:80/channel/user2620/37428848293/1225.ts
+#EXTINF:-1 tvg-id="262" tvg-name="262 SONY" tvg-logo="" group-title="SERIES / REALITY",262 SONY
+http://solutionspremium.net:80/channel/user2620/37428848293/1022.ts
+#EXTINF:-1 tvg-id="263" tvg-name="263 STUDIO UNIVERSAL" tvg-logo="" group-title="SERIES / REALITY",263 STUDIO UNIVERSAL
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/254.ts
+#EXTINF:-1 tvg-id="264" tvg-name="264 RETRO PLUS PELICULAS" tvg-logo="" group-title="NACIONALES CHILE",264 RETRO PLUS PELICULAS
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+#EXTINF:-1 tvg-id="265" tvg-name="265 CINEMAX" tvg-logo="" group-title="CINE",265 CINEMAX
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13882.ts
+#EXTINF:-1 tvg-id="266" tvg-name="266 GOLDEN EDGE" tvg-logo="" group-title="CINE",266 GOLDEN EDGE
+http://solutionspremium.net:80/channel/user2620/37428848293/1251.ts
+#EXTINF:-1 tvg-id="267" tvg-name="267 UNIVERSAL" tvg-logo="" group-title="CINE",267 UNIVERSAL
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/239660.ts
+#EXTINF:-1 tvg-id="268" tvg-name="268 CINECANAL" tvg-logo="" group-title="PARA VERIFICAR",268 CINECANAL
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/107.ts
+#EXTINF:-1 tvg-id="269" tvg-name="269 STAR CHANNEL" tvg-logo="" group-title="CINE",269 STAR CHANNEL
+http://stream8k.store:80/live/6C3K49BY62T726F/tcZCTRa2ES/970139.ts
+#EXTINF:-1 tvg-id="270" tvg-name="270 E!" tvg-logo="" group-title="CINE",270 E!
+http://solutionspremium.net:80/channel/user2620/37428848293/1008.ts
+#EXTINF:-1 tvg-id="271" tvg-name="271 COMEDY CENTRAL" tvg-logo="" group-title="CINE",271 COMEDY CENTRAL
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/108.ts
+#EXTINF:-1 tvg-id="272" tvg-name="272 AXN" tvg-logo="" group-title="CINE",272 AXN
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/103.ts
+#EXTINF:-1 tvg-id="273" tvg-name="273 TNT SERIES" tvg-logo="" group-title="CINE",273 TNT SERIES
+http://solutionspremium.net:80/channel/user2620/37428848293/1078.ts
+#EXTINF:-1 tvg-id="274" tvg-name="274 WARNER CHANNEL" tvg-logo="" group-title="CINE",274 WARNER CHANNEL
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3375.ts
+#EXTINF:-1 tvg-id="275" tvg-name="275 SPACE" tvg-logo="" group-title="CINE",275 SPACE
+http://solutionspremium.net:80/channel/user2620/37428848293/1024.ts
+#EXTINF:-1 tvg-id="276" tvg-name="276 TNT" tvg-logo="" group-title="CINE",276 TNT
+http://solutionspremium.net:80/channel/user2620/37428848293/248839.ts
+#EXTINF:-1 tvg-id="277" tvg-name="277 AMC" tvg-logo="" group-title="PARA VERIFICAR",277 AMC
+http://pirostv.lat:25461/live/Armando12/Armando12/239632.ts
+#EXTINF:-1 tvg-id="278" tvg-name="278 A&E" tvg-logo="" group-title="DOCUMENTALES",278 A&E
+http://solutionspremium.net:80/channel/user2620/37428848293/997.ts
+#EXTINF:-1 tvg-id="279" tvg-name="279 HBO 2" tvg-logo="" group-title="CINE",279 HBO 2
+http://pirostv.lat:25461/live/Armando12/Armando12/240948.ts
+#EXTINF:-1 tvg-id="280" tvg-name="280 HBO XTREME" tvg-logo="" group-title="PARA VERIFICAR",280 HBO XTREME
+http://solutionspremium.net:80/channel/user2620/37428848293/41129.ts
+#EXTINF:-1 tvg-id="281" tvg-name="281 HBO PLUS" tvg-logo="" group-title="PARA VERIFICAR",281 HBO PLUS
+http://solutionspremium.net:80/channel/user2620/37428848293/86760.ts
+#EXTINF:-1 tvg-id="282" tvg-name="282 HBO FAMILY" tvg-logo="" group-title="CINE",282 HBO FAMILY
+http://pirostv.lat:25461/live/Armando12/Armando12/239647.ts
+#EXTINF:-1 tvg-id="283" tvg-name="283 HBO" tvg-logo="" group-title="CINE",283 HBO
+http://solutionspremium.net:80/channel/user2620/37428848293/18722.ts
+#EXTINF:-1 tvg-id="284" tvg-name="284 HBO POP" tvg-logo="" group-title="CINE",284 HBO POP
+http://blushes.top:80/live/466634866/Y896v1908W/249248.m3u8
+#EXTINF:-1 tvg-id="285" tvg-name="285 HBO SIGNATURE" tvg-logo="" group-title="CINE",285 HBO SIGNATURE
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/63.ts
+#EXTINF:-1 tvg-id="286" tvg-name="286 HBO MUNDI" tvg-logo="" group-title="CINE",286 HBO MUNDI
+http://blushes.top:80/live/466634866/Y896v1908W/249249.m3u8
+#EXTINF:-1 tvg-id="287" tvg-name="287 STARZ" tvg-logo="" group-title="CINE",287 STARZ
+http://solutionspremium.net:80/channel/user2620/37428848293/1195.ts
+#EXTINF:-1 tvg-id="288" tvg-name="288 ADULT SWIM" tvg-logo="" group-title="CINE",288 ADULT SWIM
+http://solutionspremium.net:80/channel/user2620/37428848293/38480.ts
+#EXTINF:-1 tvg-id="289" tvg-name="289 DISCOVERY CHANNEL" tvg-logo="" group-title="DOCUMENTALES",289 DISCOVERY CHANNEL
+http://solutionspremium.net:80/channel/user2620/37428848293/972.ts
+#EXTINF:-1 tvg-id="290" tvg-name="290 DISCOVERY TLC" tvg-logo="" group-title="DOCUMENTALES",290 DISCOVERY TLC
+http://pirostv.lat:25461/live/Armando12/Armando12/107.ts
+#EXTINF:-1 tvg-id="291" tvg-name="291 DISCOVERY HOME AND HEALTH" tvg-logo="" group-title="DOCUMENTALES",291 DISCOVERY HOME AND HEALTH
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/109.ts
+#EXTINF:-1 tvg-id="292" tvg-name="292 DISCOVERY SCIENCE" tvg-logo="" group-title="DOCUMENTALES",292 DISCOVERY SCIENCE
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13622.ts
+#EXTINF:-1 tvg-id="293" tvg-name="293 DISCOVERY TURBO" tvg-logo="" group-title="DOCUMENTALES",293 DISCOVERY TURBO
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/268.ts
+#EXTINF:-1 tvg-id="294" tvg-name="294 ANIMAL PLANET" tvg-logo="" group-title="DOCUMENTALES",294 ANIMAL PLANET
+http://solutionspremium.net:80/channel/user2620/37428848293/969.ts
+#EXTINF:-1 tvg-id="295" tvg-name="295 HISTORY" tvg-logo="" group-title="DOCUMENTALES",295 HISTORY
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/5893.ts
+#EXTINF:-1 tvg-id="296" tvg-name="296 HISTORY 2" tvg-logo="" group-title="DOCUMENTALES",296 HISTORY 2
+http://solutionspremium.net:80/channel/user2620/37428848293/97416.ts
+#EXTINF:-1 tvg-id="297" tvg-name="297 FOOD NETWORK" tvg-logo="" group-title="DOCUMENTALES",297 FOOD NETWORK
+http://solutionspremium.net:80/channel/user2620/37428848293/164371.ts
+#EXTINF:-1 tvg-id="298" tvg-name="298 LOVE NATURE" tvg-logo="" group-title="DOCUMENTALES",298 LOVE NATURE
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/15835.ts
+#EXTINF:-1 tvg-id="299" tvg-name="299 INVESTIGATION DISCOVERY" tvg-logo="" group-title="DOCUMENTALES",299 INVESTIGATION DISCOVERY
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13031.ts
+#EXTINF:-1 tvg-id="300" tvg-name="300 NATIONAL GEOGRAPHIC" tvg-logo="" group-title="DOCUMENTALES",300 NATIONAL GEOGRAPHIC
+http://solutionspremium.net:80/channel/user2620/37428848293/121352.ts
+#EXTINF:-1 tvg-id="301" tvg-name="301 CNN HD" tvg-logo="" group-title="NOTICIAS",301 CNN HD
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/261288.ts
+#EXTINF:-1 tvg-id="302" tvg-name="302 CNN ESPAÑOL" tvg-logo="" group-title="NOTICIAS",302 CNN ESPAÑOL
+http://solutionspremium.net:80/channel/user2620/37428848293/129628.ts
+#EXTINF:-1 tvg-id="303" tvg-name="303 TNT SPORTS PREMIUM" tvg-logo="" group-title="DEPORTES",303 TNT SPORTS PREMIUM
+http://solutionspremium.net:80/channel/user2620/37428848293/93010.ts
+#EXTINF:-1 tvg-id="304" tvg-name="304 TNT SPORTS SD" tvg-logo="" group-title="DEPORTES",304 TNT SPORTS SD
+http://solutionspremium.net:80/channel/user2620/37428848293/93050.ts
+#EXTINF:-1 tvg-id="305" tvg-name="305 ESPN" tvg-logo="" group-title="DEPORTES",305 ESPN
+http://pirostv.lat:8080/live/Nestrive/Polopolo321$/262271.ts
+#EXTINF:-1 tvg-id="306" tvg-name="306 ESPN" tvg-logo="" group-title="DEPORTES",306 ESPN
+http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/12755
+#EXTINF:-1 tvg-id="307" tvg-name="307 ESPN DEPORTES" tvg-logo="" group-title="DEPORTES",307 ESPN DEPORTES
+http://solutionspremium.net:80/channel/user2620/37428848293/1314.ts
+#EXTINF:-1 tvg-id="308" tvg-name="308 ESPN 2" tvg-logo="" group-title="DEPORTES",308 ESPN 2
+http://solutionspremium.net:80/channel/user2620/37428848293/146797.ts
+#EXTINF:-1 tvg-id="309" tvg-name="309 ESPN 3" tvg-logo="" group-title="DEPORTES",309 ESPN 3
+http://solutionspremium.net:80/channel/user2620/37428848293/146798.ts
+#EXTINF:-1 tvg-id="310" tvg-name="310 ESPN 4" tvg-logo="" group-title="DEPORTES",310 ESPN 4
+http://solutionspremium.net:80/channel/user2620/37428848293/146799.ts
+#EXTINF:-1 tvg-id="311" tvg-name="311 ESPN5" tvg-logo="" group-title="DEPORTES",311 ESPN5
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11662.ts
+#EXTINF:-1 tvg-id="312" tvg-name="312 ESPN6" tvg-logo="" group-title="DEPORTES",312 ESPN6
+http://pirostv.lat:25461/live/Armando12/Armando12/528522.ts
+#EXTINF:-1 tvg-id="313" tvg-name="313 CDO PREMIUM" tvg-logo="" group-title="DEPORTES",313 CDO PREMIUM
+http://solutionspremium.net:80/channel/user2620/37428848293/122090.ts
+#EXTINF:-1 tvg-id="314" tvg-name="314 DSPORTS +" tvg-logo="" group-title="DEPORTES",314 DSPORTS +
+http://solutionspremium.net:80/channel/user2620/37428848293/146801.ts
+#EXTINF:-1 tvg-id="315" tvg-name="315 DSPORTS" tvg-logo="" group-title="DEPORTES",315 DSPORTS
+http://pirostv.lat:25461/live/Armando12/Armando12/267391.ts
+#EXTINF:-1 tvg-id="316" tvg-name="316 TNT SPORTS PREMIUM" tvg-logo="" group-title="DEPORTES",316 TNT SPORTS PREMIUM
+http://solutionspremium.net:80/channel/user2620/37428848293/93010.ts
+#EXTINF:-1 tvg-id="317" tvg-name="317 TNT SPORTS BASICO" tvg-logo="" group-title="DEPORTES",317 TNT SPORTS BASICO
+http://solutionspremium.net:80/channel/user2620/37428848293/93050.ts
+#EXTINF:-1 tvg-id="318" tvg-name="318 RETRO PLUS TV" tvg-logo="" group-title="NACIONALES CHILE",318 RETRO PLUS TV
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:-1 tvg-id="319" tvg-name="319 RETRO PLUS TV SEÑAL 2" tvg-logo="" group-title="NACIONALES CHILE",319 RETRO PLUS TV SEÑAL 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+#EXTINF:-1 tvg-id="320" tvg-name="320 MTV LIVE" tvg-logo="" group-title="MUSICA",320 MTV LIVE
+http://pirostv.lat:25461/live/Armando12/Armando12/356.ts
+#EXTINF:-1 tvg-id="321" tvg-name="321 MTV" tvg-logo="" group-title="MUSICA",321 MTV
+http://solutionspremium.net:80/channel/user2620/37428848293/36823.ts
+#EXTINF:-1 tvg-id="322" tvg-name="322 13 FESTIVAL" tvg-logo="" group-title="MUSICA",322 13 FESTIVAL
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-id="323" tvg-name="323 PORTAL FOXMIX" tvg-logo="" group-title="MUSICA",323 PORTAL FOXMIX
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 tvg-id="324" tvg-name="324 RETROMUSICA TELEVISION" tvg-logo="" group-title="MUSICA",324 RETROMUSICA TELEVISION
+https://vdochile.com:3864/stream/play.m3u8
+#EXTINF:-1 tvg-id="325" tvg-name="325 REWIND TV" tvg-logo="" group-title="MUSICA",325 REWIND TV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="326" tvg-name="326 VCLASSICTV TROPICAL" tvg-logo="" group-title="MUSICA",326 VCLASSICTV TROPICAL
+https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
+#EXTINF:-1 tvg-id="327" tvg-name="327 CANAL CHILE" tvg-logo="" group-title="INFANTIL",327 CANAL CHILE
+https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328" tvg-name="328 DISNEY JR HD (MX)" tvg-logo="" group-title="INFANTIL",328 DISNEY JR HD (MX)
+http://solutionspremium.net:80/channel/user2620/37428848293/1086.ts
+#EXTINF:-1 tvg-id="329" tvg-name="329 13 GO KIDS" tvg-logo="" group-title="INFANTIL",329 13 GO KIDS
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 tvg-id="330" tvg-name="330 DISNEY CHANNEL" tvg-logo="" group-title="INFANTIL",330 DISNEY CHANNEL
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:-1 tvg-id="331" tvg-name="331 NICK JR" tvg-logo="" group-title="INFANTIL",331 NICK JR
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13838.ts
+#EXTINF:-1 tvg-id="332" tvg-name="332 DISCOVERY KIDS" tvg-logo="" group-title="INFANTIL",332 DISCOVERY KIDS
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/13493.ts
+#EXTINF:-1 tvg-id="333" tvg-name="333 NICKELODEON" tvg-logo="" group-title="INTERNACIONAL",333 NICKELODEON
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/3310.ts
+#EXTINF:-1 tvg-id="334" tvg-name="334 EUROPA EUROPA" tvg-logo="" group-title="INTERNACIONAL",334 EUROPA EUROPA
+http://solutionspremium.net:80/channel/user2620/37428848293/1266.ts
+#EXTINF:-1 tvg-id="335" tvg-name="335 ANTENA 3" tvg-logo="" group-title="INTERNACIONAL",335 ANTENA 3
+http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/8234.ts
+#EXTINF:-1 tvg-id="336" tvg-name="336 GLOBO HD" tvg-logo="" group-title="INTERNACIONAL",336 GLOBO HD
+http://solutionspremium.net:80/channel/user2620/37428848293/2065.ts
+#EXTINF:-1 tvg-id="337" tvg-name="337 TVE INTERNACIONAL" tvg-logo="" group-title="INTERNACIONAL",337 TVE INTERNACIONAL
+http://solutionspremium.net:80/channel/user2620/37428848293/650.ts
+#EXTINF:-1 tvg-id="338" tvg-name="338 TELEFE" tvg-logo="" group-title="NOTICIAS",338 TELEFE
+http://solutionspremium.net:80/channel/user2620/37428848293/1343.ts
+#EXTINF:-1 tvg-id="339" tvg-name="339 TELEMUNDO INTERNACIONAL" tvg-logo="" group-title="NOTICIAS",339 TELEMUNDO INTERNACIONAL
+http://solutionspremium.net:80/channel/user2620/37428848293/86794.ts
+#EXTINF:-1 tvg-id="340" tvg-name="340 DW ESPANOL" tvg-logo="" group-title="NOTICIAS",340 DW ESPANOL
+http://solutionspremium.net:80/channel/user2620/37428848293/40075.ts
+#EXTINF:-1 tvg-id="341" tvg-name="341 TV SENADO" tvg-logo="" group-title="NACIONALES CHILE",341 TV SENADO
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="342" tvg-name="342 TELETRAK" tvg-logo="" group-title="NACIONALES CHILE",342 TELETRAK
+https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
+#EXTINF:-1 tvg-id="343" tvg-name="343 FM PLUS" tvg-logo="" group-title="RADIOS",343 FM PLUS
+https://v2.tustreaming.cl/fmplus/index.m3u8
+#EXTINF:-1 tvg-id="344" tvg-name="344 RADIO BIO BIO CONCEPCION" tvg-logo="" group-title="RADIOS",344 RADIO BIO BIO CONCEPCION
+https://redirector.dps.live/biobioconcepcion/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="345" tvg-name="345 RADIO BIO BIO LOS ANGELES" tvg-logo="" group-title="RADIOS",345 RADIO BIO BIO LOS ANGELES
+https://redirector.dps.live/biobiolosangeles/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="346" tvg-name="346 RADIO BIO BIO OSORNO" tvg-logo="" group-title="RADIOS",346 RADIO BIO BIO OSORNO
+https://redirector.dps.live/biobioosorno/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="347" tvg-name="347 RADIO BIO BIO PUERTO MONTT" tvg-logo="" group-title="RADIOS",347 RADIO BIO BIO PUERTO MONTT
+https://redirector.dps.live/biobiopuertomontt/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="348" tvg-name="348 RADIO BIO BIO SANTIAGO" tvg-logo="" group-title="RADIOS",348 RADIO BIO BIO SANTIAGO
+https://redirector.dps.live/biobiosantiago/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="349" tvg-name="349 RADIO BIO BIO TEMUCO" tvg-logo="" group-title="RADIOS",349 RADIO BIO BIO TEMUCO
+https://redirector.dps.live/biobiotemuco/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="350" tvg-name="350 RADIO BIO BIO VALPARAISO" tvg-logo="" group-title="RADIOS",350 RADIO BIO BIO VALPARAISO
+https://redirector.dps.live/biobiovalparaiso/audiohls/playlist.m3u8
+#EXTINF:-1 tvg-id="351" tvg-name="351 RADIO PUDAHUEL FM" tvg-logo="" group-title="RADIOS",351 RADIO PUDAHUEL FM
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="352" tvg-name="352 CAROLINA TV" tvg-logo="" group-title="RADIOS",352 CAROLINA TV
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
+#EXTINF:-1 tvg-id="353" tvg-name="353 RADIO ROMANTICA" tvg-logo="" group-title="RADIOS",353 RADIO ROMANTICA
+https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8
+#EXTINF:-1 tvg-id="354" tvg-name="354 RADIO INFINITA" tvg-logo="" group-title="RADIOS",354 RADIO INFINITA
+https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8
+#EXTINF:-1 tvg-id="355" tvg-name="355 RADIO DUNA" tvg-logo="" group-title="RADIOS",355 RADIO DUNA
+https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
+#EXTINF:-1 tvg-id="356" tvg-name="356 LA CLAVE" tvg-logo="" group-title="RADIOS",356 LA CLAVE
+https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="357" tvg-name="357 LA METRO" tvg-logo="" group-title="RADIOS",357 LA METRO
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8

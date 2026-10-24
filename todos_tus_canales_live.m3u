@@ -1079,8 +1079,6 @@ http://solutionspremium.net:80/channel/user2620/37428848293/321271.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/321272.ts
 #EXTINF:-1 group-title="VERIFICAR",554 Directv Sports + ᵁᴴᴰ | solutionspremium
 http://solutionspremium.net:80/channel/user2620/37428848293/321273.ts
-#EXTINF:-1 group-title="VERIFICAR",555 Directv Sports HD | solutionspremium
-http://solutionspremium.net:80/channel/user2620/37428848293/321274.ts
 #EXTINF:-1 group-title="VERIFICAR",556 Directv Sports FHD | solutionspremium
 http://solutionspremium.net:80/channel/user2620/37428848293/321275.ts
 #EXTINF:-1 group-title="VERIFICAR",557 Directv Sports 2 | solutionspremium
@@ -7746,3 +7744,5 @@ http://directo.ddns.me:2082/Edithherrera/5588446688/52601
 http://directo.ddns.me:2082/Edithherrera/5588446688/2515
 #EXTINF:-1 tvg-name="ABP NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png" group-title="NUEVAS NOTICIAS",8415 ABP News (720p)
 http://directo.ddns.me:2082/Edithherrera/5588446688/66196
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J7I6F1Z.png" group-title="PPV",555 HBO MAX - PPV
+http://srv.cldplay.in:80/lelezago/lelezago@2021/164623
