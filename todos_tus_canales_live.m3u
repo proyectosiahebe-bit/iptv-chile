@@ -4390,8 +4390,7 @@ http://srv.cldplay.in:80/lelezago/lelezago@2021/83171
 #EXTINF:-1 tvg-name="HBO MAX 2" tvg-logo="https://raphmx00.com/HBOMax/hbo_max_2_hd.png" group-title="NUEVAS PELICULAS",6736 HBO Max 2 [Alt]
 http://srv.cldplay.in:80/lelezago/lelezago@2021/164623
 
-#EXTINF:-1 group-title="SOLUTIONS PREMIUM ALL",SOLUTIONS PREMIUM ALL
-http://solutionspremium.net:80/channel/user2620/37428848293/321270.ts
+
 
 #EXTINF:-1 tvg-id="barcatv.es_espana_xtream_ai" tvg-name="ES |Barca TV HD" tvg-logo="https://jordigracia.es/wp-content/uploads/2016/05/bar%C3%A7a-tv.png" group-title="SOLUTIONS PREMIUM ALL",ES |Barca TV HD
 http://solutionspremium.net:80/channel/user2620/37428848293/562.ts
