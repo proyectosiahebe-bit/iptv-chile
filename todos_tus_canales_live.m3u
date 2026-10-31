@@ -246,7 +246,7 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 #EXTINF:-1 tvg-id="122" tvg-name="122 TVR" tvg-logo="" group-title="NACIONALES CHILE",122 TVR
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="123" tvg-name="123 LA RED" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="NACIONALES CHILE", 4 La Red
-https://live.getcirca.run/3969875408/ts:abr.m3u8?PlaylistM3UCL
+http://pirostv.lat:8080/live/Nestrive/Polopolo321%24/451027.m3u
 #EXTINF:-1 tvg-id="124" tvg-name="124 TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="NACIONALES CHILE", 5 TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="125" tvg-name="125 TV CHILE" tvg-logo="" group-title="NACIONALES CHILE",125 TV CHILE
