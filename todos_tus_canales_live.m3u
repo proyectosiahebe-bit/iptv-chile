@@ -178,8 +178,9 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
 #EXTINF:-1 group-title="INFANTIL",89 CANAL CHILE
 https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="INFANTIL",90 PV JUMANGI PLIM PLIM TV [743]
-http://jumangis.cloud:2082/Mmt5YzNXVTlNclVRbEQ0K3pBakV6RThHcnlSUWptdDRhblp5eUlGc0ttbz0
+#EXTINF:-1 group-title="INFANTIL", 90 CARTOONITO
+
+http://srv.cldplay.in:80/lelezago/lelezago@2021/83372
 #EXTINF:-1 group-title="INFANTIL", 91 DREAMSWORKS
 
 http://solutionspremium.net:80/channel/user2620/37428848293/201373.ts
