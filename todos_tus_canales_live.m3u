@@ -2839,7 +2839,7 @@ https://eu2.contabostorage.com/e6e67f1e8625462b9353310cc2998cfc:g-smart-api/bula
 http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/25125
 #EXTINF:-1 tvg-name="ES M LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/54535" group-title="NUEVAS DEPORTES", 2296 ES: (HD) M+ LALIGA
 http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5758
-#EXTINF:-1 tvg-name="ES DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/57485" group-title="NUEVAS DEPORTES", 2297 ES: (HD) DAZN F1
+#EXTINF:-1 tvg-name="ES DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1819.ts" group-title="NUEVAS DEPORTES", 2297 ES: (HD) DAZN F1
 http://solutionspremium.net:80/channel/user2620/37428848293/72582.ts
 #EXTINF:-1 tvg-name="ES M LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/32892.ts" group-title="NUEVAS DEPORTES", 2298 ES: (HD) M+ LIGA DE CAMPEONES
 http://solutionspremium.net:80/channel/user2620/37428848293/564.ts
@@ -7043,10 +7043,10 @@ http://directo.ddns.me:2082/Edithherrera/5588446688/75775
 http://directo.ddns.me:2082/Edithherrera/5588446688/75850
 #EXTINF:-1 tvg-name="CORCUBIO TV CL" tvg-logo="https://cdn.m3u.cl/logo/1515_Corcubio_TV.png" group-title="NUEVAS NACIONALES CHILE", 4396 Corcubio TV ✪ | CL
 http://directo.ddns.me:2082/Edithherrera/5588446688/75685
-#EXTINF:-1 tvg-name="DANCE FM CL" tvg-logo="https://cdn.m3u.cl/logo/1166_Dance_FM.png" group-title="NUEVAS NACIONALES CHILE", 4397 Dance FM ✪ | CL
-http://directo.ddns.me:2082/Edithherrera/5588446688/75720
-#EXTINF:-1 tvg-name="DECIMA TV CL" tvg-logo="https://cdn.m3u.cl/logo/85_Decima_TV.png" group-title="NUEVAS NACIONALES CHILE", 4398 Decima TV | CL
-http://directo.ddns.me:2082/Edithherrera/5588446688/75890
+#EXTINF:-1 backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/75720" tvg-name="DANCE FM CL" tvg-logo="https://cdn.m3u.cl/logo/1166_Dance_FM.png" group-title="NUEVAS NACIONALES CHILE", 4397 Dance FM ✪ | CL
+http://solutionspremium.net:80/channel/user2620/37428848293/291293.ts
+#EXTINF:-1 backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/75890" tvg-name="DECIMA TV CL" tvg-logo="https://cdn.m3u.cl/logo/85_Decima_TV.png" group-title="NUEVAS NACIONALES CHILE", 4398 Decima TV | CL
+http://solutionspremium.net:80/channel/user2620/37428848293/291294.ts
 #EXTINF:-1 tvg-name="EL CONQUISTADOR SANTIAGO CL" tvg-logo="https://cdn.m3u.cl/logo/1478_El_Conquistador_Santiago.png" group-title="NUEVAS NACIONALES CHILE", 4399 El Conquistador Santiago | CL
 http://directo.ddns.me:2082/Edithherrera/5588446688/75989
 #EXTINF:-1 tvg-name="ENFOQUE DIGITAL TV CL" tvg-logo="https://cdn.m3u.cl/logo/322_Enfoque_Digital_TV.png" group-title="NUEVAS NACIONALES CHILE", 4400 Enfoque Digital TV | CL
