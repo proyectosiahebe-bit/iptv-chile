@@ -143,7 +143,7 @@ http://planettvweb.com:8091/AlvaroSpeker/DRay6418a/12755
 http://solutionspremium.net:80/channel/user2620/37428848293/1314.ts
 #EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1521.ts" tvg-logo="https://iptv-epg.org/images/_MQ6Al3kViJRsv4HOD3L-dmuLHCr1OA2F3Y1XVXIVUDhryfbVtjhdinumXrgqer-MsGkBT5hL2zWyoSz-Yw_kCPRo9PPWg_LTdTg6zk" group-title="DEPORTES", 70 ESPN 2
 http://solutionspremium.net:80/channel/user2620/37428848293/146797.ts
-#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/146798.ts" tvg-logo="https://iptv-epg.org/images/ZrC9TXbYDrVxgU7XcTb19lA91sqIb0Vxfcp4jX0DQd-dHsKe9JK-DF633IIMJMOCrKK9EKIB-4VXFlAqHNqTSgMu_USySeY-e3_eNNI" group-title="DEPORTES", 71 ESPN 3
+#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1520.ts" tvg-logo="https://iptv-epg.org/images/ZrC9TXbYDrVxgU7XcTb19lA91sqIb0Vxfcp4jX0DQd-dHsKe9JK-DF633IIMJMOCrKK9EKIB-4VXFlAqHNqTSgMu_USySeY-e3_eNNI" group-title="DEPORTES", 71 ESPN 3
 http://solutionspremium.net:80/channel/user2620/37428848293/1321.ts
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/W4NVPn8pmLro-mUY8WwKmbTELC1kvqcTkbR3NDXki8mchHCFolDQdMf0xiP57CB4BTPQOCJoh19CgHrHRDqyyDJvHi1Jw2ZuYuNnAww" group-title="DEPORTES", 72 ESPN 4
 http://solutionspremium.net:80/channel/user2620/37428848293/117640.ts
@@ -2606,7 +2606,7 @@ https://v1.tustreaming.cl:443/genialtv/index.m3u8?PlaylistM3UCL
 https://panel.tvstream.cl:1936/8066/8066/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/425_Radio_Infinita.png" group-title="M3U.CL RADIOS", 2181 Radio Infinita
 https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1571_Radio_La_Senal.png" group-title="M3U.CL RADIOS", 2182 Radio La Señal
+#EXTINF:-1 backup-url="https://5ff3d9babae13.streamlock.net/chrgkqgkyb/chrgkqgkyb/playlist.m3u8?PlaylistM3UCL" tvg-logo="https://cdn.m3u.cl/logo/1571_Radio_La_Senal.png" group-title="M3U.CL RADIOS", 2182 Radio La Señal
 https://5ff3d9babae13.streamlock.net:443/chrgkqgkyb/chrgkqgkyb/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1772_Radio_Labrar_Noticias.png" group-title="M3U.CL RADIOS", 2183 Radio Labrar Noticias
 https://183.bozztv.com/giatv/giatv-labrarnoticias/labrarnoticias/chunks.m3u8?PlaylistM3UCL
@@ -2843,8 +2843,8 @@ http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5758
 http://solutionspremium.net:80/channel/user2620/37428848293/72582.ts
 #EXTINF:-1 tvg-name="ES M LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/32892.ts" group-title="NUEVAS DEPORTES", 2298 ES: (HD) M+ LIGA DE CAMPEONES
 http://solutionspremium.net:80/channel/user2620/37428848293/564.ts
-#EXTINF:-1 tvg-name="ES M LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5663" group-title="NUEVAS DEPORTES", 2299 ES: (HD) M+ LIGA DE CAMPEONES 2
-http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/58115
+#EXTINF:-1 tvg-name="ES M LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/58115" group-title="NUEVAS DEPORTES", 2299 ES: (HD) M+ LIGA DE CAMPEONES 2
+http://solutionspremium.net:80/channel/user2620/37428848293/32891.ts
 #EXTINF:-1 tvg-name="ES M LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5664" group-title="NUEVAS DEPORTES", 2300 ES: (HD) M+ LIGA DE CAMPEONES 3
 http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/58116
 #EXTINF:-1 tvg-name="ES M DEPORTES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5640" group-title="NUEVAS DEPORTES", 2301 ES: M+ DEPORTES 3
@@ -4045,7 +4045,7 @@ http://srv.cldplay.in:80/lelezago/lelezago@2021/169497
 http://srv.cldplay.in:80/lelezago/lelezago@2021/147525
 #EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1316.ts" group-title="NUEVAS DEPORTES", 2899 ESPN 2 HD
 http://solutionspremium.net:80/channel/user2620/37428848293/1521.ts
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://raphmx00.com/ESPN/espn_3_fhd.png" backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/146798.ts" group-title="NUEVAS DEPORTES", 2900 ESPN 3 FHD [Alt]
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://raphmx00.com/ESPN/espn_3_fhd.png" backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1520.ts" group-title="NUEVAS DEPORTES", 2900 ESPN 3 FHD [Alt]
 http://srv.cldplay.in:80/lelezago/lelezago@2021/147539
 #EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://i.postimg.cc/Dfcvzc3w/61a4c896fc740bb1476f0225-LOGO-ESPN4-2.png" backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/50372" group-title="NUEVAS DEPORTES", 2901 ESPN 4
 http://directo.ddns.me:2082/Edithherrera/5588446688/50373
@@ -5791,7 +5791,7 @@ http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/25953
 http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/25954
 #EXTINF:-1 tvg-name="ES M LALIGA TV 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png" group-title="NUEVAS DEPORTES", 3770 ES: M+ LALIGA TV 4
 http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/57248
-#EXTINF:-1 backup-url="http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/5607" tvg-name="ES EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="NUEVAS DEPORTES", 3771 ES: EUROSPORT 1
+#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/106312.ts" tvg-name="ES EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="NUEVAS DEPORTES", 3771 ES: EUROSPORT 1
 http://solutionspremium.net:80/channel/user2620/37428848293/595.ts
 #EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/121091.ts" tvg-name="ES EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png" group-title="NUEVAS DEPORTES", 3772 ES: EUROSPORT 2
 http://solutionspremium.net:80/channel/user2620/37428848293/596.ts
@@ -6745,8 +6745,8 @@ http://directo.ddns.me:2082/Edithherrera/5588446688/74851
 http://directo.ddns.me:2082/Edithherrera/5588446688/74852
 #EXTINF:-1 tvg-name="RTQ QUERETARO MX" tvg-logo="https://cdn.m3u.cl/logo/676_RTQ_Queretaro.png" backup-url="http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/74859" group-title="NUEVAS VARIEDOS", 4247 RTQ Queretaro | MX
 http://directo.ddns.me:2082/Edithherrera/5588446688/74859
-#EXTINF:-1 tvg-name="SIZART CANAL 24 ZACATECAS MX" tvg-logo="https://cdn.m3u.cl/logo/646_SIZART_Canal_24_Zacatecas.png" backup-url="http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/74860" group-title="NUEVAS VARIEDOS", 4248 SIZART Canal 24 Zacatecas | MX
-http://directo.ddns.me:2082/Edithherrera/5588446688/74860
+#EXTINF:-1 tvg-name="SIZART CANAL 24 ZACATECAS MX" tvg-logo="https://cdn.m3u.cl/logo/646_SIZART_Canal_24_Zacatecas.png" backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/74860" group-title="NUEVAS VARIEDOS", 4248 SIZART Canal 24 Zacatecas | MX
+http://solutionspremium.net:80/channel/user2620/37428848293/201447.ts
 #EXTINF:-1 tvg-name="TELERITMO MX" tvg-logo="https://cdn.m3u.cl/logo/680_Teleritmo.png" backup-url="http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/74863" group-title="NUEVAS VARIEDOS", 4249 Teleritmo | MX
 http://directo.ddns.me:2082/Edithherrera/5588446688/74863
 #EXTINF:-1 tvg-name="TRANSMEDIA TV MORELIA MX" tvg-logo="https://cdn.m3u.cl/logo/681_Transmedia_TV_Morelia.png" backup-url="http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/74865" group-title="NUEVAS VARIEDOS", 4250 Transmedia TV Morelia | MX
@@ -6943,8 +6943,8 @@ http://directo.ddns.me:2082/Edithherrera/5588446688/75230
 http://directo.ddns.me:2082/Edithherrera/5588446688/75234
 #EXTINF:-1 tvg-name="TEATRIX CL" tvg-logo="https://cdn.m3u.cl/logo/1445_Teatrix.png" backup-url="http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75238" group-title="NUEVAS VARIEDOS", 4346 Teatrix | CL
 http://directo.ddns.me:2082/Edithherrera/5588446688/75238
-#EXTINF:-1 tvg-name="GARAGE TV AR" tvg-logo="https://cdn.m3u.cl/logo/282_Garage_TV.png" backup-url="http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75241" group-title="NUEVAS VARIEDOS", 4347 Garage TV | AR
-http://directo.ddns.me:2082/Edithherrera/5588446688/75241
+#EXTINF:-1 tvg-name="GARAGE TV AR" tvg-logo="https://cdn.m3u.cl/logo/282_Garage_TV.png" backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/75241" group-title="NUEVAS VARIEDOS", 4347 Garage TV | AR
+http://solutionspremium.net:80/channel/user2620/37428848293/2298.ts
 #EXTINF:-1 tvg-name="NET TV AR" tvg-logo="https://cdn.m3u.cl/logo/493_Net_TV.png" backup-url="http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/75242" group-title="NUEVAS VARIEDOS", 4348 Net TV | AR
 http://directo.ddns.me:2082/Edithherrera/5588446688/75242
 #EXTINF:-1 tvg-name="30A INVESTMENT PITCH" backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/66099" group-title="NUEVAS VARIEDOS", 4349 30A Investment Pitch
@@ -7329,12 +7329,12 @@ http://directo.ddns.me:2082/Edithherrera/5588446688/76709
 http://directo.ddns.me:2082/Edithherrera/5588446688/3089
 #EXTINF:-1 tvg-name="FOX SPORTS M XICO" tvg-logo="https://i.postimg.cc/g0VFfsf5/fsmx.png" group-title="NUEVAS DEPORTES", 4539 Fox Sports México HD
 http://directo.ddns.me:2082/Edithherrera/5588446688/5616
-#EXTINF:-1 backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/52561" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/G3jHnJkZ/f1ar.png" group-title="NUEVAS DEPORTES", 4540 Fox Sports Premium
+#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/3175.ts" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/G3jHnJkZ/f1ar.png" group-title="NUEVAS DEPORTES", 4540 Fox Sports Premium
 http://solutionspremium.net:80/channel/user2620/37428848293/131300.ts
 #EXTINF:-1 tvg-name="FORMULA 1" tvg-logo="https://soymotor.com/sites/default/files/styles/mega/public/imagenes/noticia/dazn-movistar-f1-television-2021-soymtoor-2.jpg" group-title="NUEVAS DEPORTES", 4541 Formula 1 HD
 http://directo.ddns.me:2082/Edithherrera/5588446688/38487
-#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1330.ts" tvg-name="GOLF CHANNEL LATINO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Golf_Channel_LA_2026.png" group-title="NUEVAS DEPORTES", 4542 Golf Channel Latino
-http://directo.ddns.me:2082/Edithherrera/5588446688/38903
+#EXTINF:-1 backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/38903" tvg-name="GOLF CHANNEL LATINO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Golf_Channel_LA_2026.png" group-title="NUEVAS DEPORTES", 4542 Golf Channel Latino
+http://solutionspremium.net:80/channel/user2620/37428848293/1330.ts
 #EXTINF:-1 tvg-name="LIGA 1 MAX PER" tvg-logo="https://tiermaker.com/images/templates/camisetas-liga1-per-2022-suplente-y-especiales--15374014/153740141665267601.png" group-title="NUEVAS DEPORTES", 4543 Liga 1 Max Perú
 http://directo.ddns.me:2082/Edithherrera/5588446688/56089
 #EXTINF:-1 tvg-name="LIGA HYPERMOTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="NUEVAS DEPORTES", 4544 Liga Hypermotion
@@ -9610,7 +9610,7 @@ https://v2.tustreaming.cl/americamovil/index.m3u8
 https://v2.tustreaming.cl/armoniamovil/index.m3u8
 #EXTINF:-1 group-title="LIBRES CHILE", 4680 Radio El Sembrador (720p)
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
-#EXTINF:-1 group-title="LIBRES CHILE", 4681 Radio La Serena TV (720p)
+#EXTINF:-1 backup-url="https://5ff3d9babae13.streamlock.net:443/chrgkqgkyb/chrgkqgkyb/playlist.m3u8" group-title="LIBRES CHILE", 4681 Radio La Serena TV (720p)
 https://5ff3d9babae13.streamlock.net/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
 #EXTINF:-1 group-title="LIBRES CHILE", 4682 Radio Panoramica (720p)
 https://v2.tustreaming.cl/alingeproducciones/index.m3u8
