@@ -387,7 +387,7 @@ http://solutionspremium.net:80/channel/user2620/37428848293/1314.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/146797.ts
 #EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1317.ts" tvg-id="190" tvg-name="190 ESPN 3" tvg-logo="https://iptv-epg.org/images/ZrC9TXbYDrVxgU7XcTb19lA91sqIb0Vxfcp4jX0DQd-dHsKe9JK-DF633IIMJMOCrKK9EKIB-4VXFlAqHNqTSgMu_USySeY-e3_eNNI" group-title="DEPORTES", 1076 ESPN 3
 http://solutionspremium.net:80/channel/user2620/37428848293/146798.ts
-#EXTINF:-1 tvg-id="191" tvg-name="191 ESPN 4" tvg-logo="https://iptv-epg.org/images/W4NVPn8pmLro-mUY8WwKmbTELC1kvqcTkbR3NDXki8mchHCFolDQdMf0xiP57CB4BTPQOCJoh19CgHrHRDqyyDJvHi1Jw2ZuYuNnAww" group-title="DEPORTES", 1077 ESPN 4
+#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/117640.ts" tvg-id="191" tvg-name="191 ESPN 4" tvg-logo="https://iptv-epg.org/images/W4NVPn8pmLro-mUY8WwKmbTELC1kvqcTkbR3NDXki8mchHCFolDQdMf0xiP57CB4BTPQOCJoh19CgHrHRDqyyDJvHi1Jw2ZuYuNnAww" group-title="DEPORTES", 1077 ESPN 4
 http://solutionspremium.net:80/channel/user2620/37428848293/146799.ts
 #EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/247003.ts" tvg-id="192" tvg-name="192 ESPN5" tvg-logo="https://iptv-epg.org/images/W3kBsM1Fe1NL-PqKDZkx7nsALfQM0q1LwQN6o8ZIuPEl000VlMglvuRjWekjGzFs8fZ4_nINPjMuwgmyhzWUzErgY0Qd-sgB89t7sw" group-title="DEPORTES", 1078 ESPN 5
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11662.ts
@@ -608,7 +608,7 @@ http://solutionspremium.net:80/channel/user2620/37428848293/1314.ts
 http://solutionspremium.net:80/channel/user2620/37428848293/146797.ts
 #EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1317.ts" tvg-id="309" tvg-name="309 ESPN 3" tvg-logo="https://iptv-epg.org/images/ZrC9TXbYDrVxgU7XcTb19lA91sqIb0Vxfcp4jX0DQd-dHsKe9JK-DF633IIMJMOCrKK9EKIB-4VXFlAqHNqTSgMu_USySeY-e3_eNNI" group-title="DEPORTES", 1186 ESPN 3
 http://solutionspremium.net:80/channel/user2620/37428848293/146798.ts
-#EXTINF:-1 tvg-id="310" tvg-name="310 ESPN 4" tvg-logo="https://iptv-epg.org/images/W4NVPn8pmLro-mUY8WwKmbTELC1kvqcTkbR3NDXki8mchHCFolDQdMf0xiP57CB4BTPQOCJoh19CgHrHRDqyyDJvHi1Jw2ZuYuNnAww" group-title="DEPORTES", 1187 ESPN 4
+#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/117640.ts" tvg-id="310" tvg-name="310 ESPN 4" tvg-logo="https://iptv-epg.org/images/W4NVPn8pmLro-mUY8WwKmbTELC1kvqcTkbR3NDXki8mchHCFolDQdMf0xiP57CB4BTPQOCJoh19CgHrHRDqyyDJvHi1Jw2ZuYuNnAww" group-title="DEPORTES", 1187 ESPN 4
 http://solutionspremium.net:80/channel/user2620/37428848293/146799.ts
 #EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/247003.ts" tvg-id="311" tvg-name="311 ESPN5" tvg-logo="https://iptv-epg.org/images/W3kBsM1Fe1NL-PqKDZkx7nsALfQM0q1LwQN6o8ZIuPEl000VlMglvuRjWekjGzFs8fZ4_nINPjMuwgmyhzWUzErgY0Qd-sgB89t7sw" group-title="DEPORTES", 1188 ESPN 5
 http://iptv.wtf:80/live/gxdcxnbf/1eZr21rf1D/11662.ts
@@ -4047,7 +4047,7 @@ http://srv.cldplay.in:80/lelezago/lelezago@2021/147525
 http://solutionspremium.net:80/channel/user2620/37428848293/1521.ts
 #EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://raphmx00.com/ESPN/espn_3_fhd.png" backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1520.ts" group-title="NUEVAS DEPORTES", 2900 ESPN 3 FHD [Alt]
 http://srv.cldplay.in:80/lelezago/lelezago@2021/147539
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://i.postimg.cc/Dfcvzc3w/61a4c896fc740bb1476f0225-LOGO-ESPN4-2.png" backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/50373" group-title="NUEVAS DEPORTES", 2901 ESPN 4
+#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://i.postimg.cc/Dfcvzc3w/61a4c896fc740bb1476f0225-LOGO-ESPN4-2.png" backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/117640.ts" group-title="NUEVAS DEPORTES", 2901 ESPN 4
 http://solutionspremium.net:80/channel/user2620/37428848293/146799.ts
 #EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/Proyecto-nuevo-1.png" backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/247003.ts" group-title="NUEVAS DEPORTES", 2902 ESPN 5 HD
 http://promas.lat:2082/RetamalClaudio22/aEeaajWuT4Fv/76707
