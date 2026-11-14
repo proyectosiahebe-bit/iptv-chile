@@ -4897,7 +4897,7 @@ http://up.kiwi:80/351921603109/34939156/1254685
 http://up.kiwi:80/351921603109/34939156/1254687
 #EXTINF:-1 tvg-name="DISNEY 05" tvg-logo="https://logos.l0.ms/fr/disney-jr.png" backup-url="http://up.kiwi:80/351921603109/34939156/297007" group-title="NUEVAS INFANTILES", 3323 DISNEY+ 05 FHD
 http://up.kiwi:80/351921603109/34939156/297002
-#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/92871.ts" tvg-name="ESPN" tvg-logo="https://d.l0.ms/espn.png" group-title="NUEVAS DEPORTES", 3324 ESPN 4K
+#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1522.ts" tvg-name="ESPN" tvg-logo="https://d.l0.ms/espn.png" group-title="NUEVAS DEPORTES", 3324 ESPN 4K
 http://solutionspremium.net:80/channel/user2620/37428848293/86822.ts
 #EXTINF:-1 tvg-name="ESPN 2 H265" tvg-logo="https://d.l0.ms/espn-2.png" group-title="NUEVAS DEPORTES", 3325 ESPN 2 FHD H265
 http://up.kiwi:80/351921603109/34939156/475
@@ -5223,31 +5223,31 @@ http://up.kiwi:80/351921603109/34939156/1293576
 http://up.kiwi:80/351921603109/34939156/1293583
 #EXTINF:-1 tvg-name="24H ARCHIVE 81" group-title="NUEVAS VARIEDOS", 3486 24H ARCHIVE 81
 http://up.kiwi:80/351921603109/34939156/1293588
-#EXTINF:-1 tvg-name="CH SUISSE SWITZERLAND" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ch.png" group-title="NUEVAS VARIEDOS", 3487 CH: ----- SUISSE / SWITZERLAND -----
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/135930" tvg-name="CH SUISSE SWITZERLAND" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ch.png" group-title="NUEVAS VARIEDOS", 3487 CH: ----- SUISSE / SWITZERLAND -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/135930
 #EXTINF:-1 tvg-name="CH RTS UN" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/rts_ch_un.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3656" group-title="NUEVAS VARIEDOS", 3488 CH: RTS UN HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/227434
-#EXTINF:-1 tvg-name="CH RTS DEUX" tvg-logo="http://sltv-icon.cms-s.com/logo/SWITZERLAND/RTSDEUX.png" group-title="NUEVAS VARIEDOS", 3489 CH: RTS DEUX HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/227432" tvg-name="CH RTS DEUX" tvg-logo="http://sltv-icon.cms-s.com/logo/SWITZERLAND/RTSDEUX.png" group-title="NUEVAS VARIEDOS", 3489 CH: RTS DEUX HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/227432
-#EXTINF:-1 tvg-name="CH SRF 1" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/srf_1_ch.png" group-title="NUEVAS VARIEDOS", 3490 CH: SRF 1 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/7447" tvg-name="CH SRF 1" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/srf_1_ch.png" group-title="NUEVAS VARIEDOS", 3490 CH: SRF 1 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/7447
-#EXTINF:-1 tvg-name="CH RSI LA 2" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/rsi_la2.png" group-title="NUEVAS VARIEDOS", 3491 CH: RSI LA 2 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/7870" tvg-name="CH RSI LA 2" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/rsi_la2.png" group-title="NUEVAS VARIEDOS", 3491 CH: RSI LA 2 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/7870
-#EXTINF:-1 tvg-name="CH W9 SUISSE" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/w9_suisse.png" group-title="NUEVAS VARIEDOS", 3492 CH: W9 SUISSE HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/235106" tvg-name="CH W9 SUISSE" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/w9_suisse.png" group-title="NUEVAS VARIEDOS", 3492 CH: W9 SUISSE HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/235106
-#EXTINF:-1 tvg-name="CH TVO" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/tvo_ch.png" group-title="NUEVAS VARIEDOS", 3493 CH: TVO HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/219618" tvg-name="CH TVO" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/tvo_ch.png" group-title="NUEVAS VARIEDOS", 3493 CH: TVO HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/219618
-#EXTINF:-1 tvg-name="CH TELE SWISS" tvg-logo="http://sltv-icon.cms-s.com/logo/SWITZERLAND/swiss1.png" group-title="NUEVAS VARIEDOS", 3494 CH: TELE SWISS HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/321040" tvg-name="CH TELE SWISS" tvg-logo="http://sltv-icon.cms-s.com/logo/SWITZERLAND/swiss1.png" group-title="NUEVAS VARIEDOS", 3494 CH: TELE SWISS HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/321040
-#EXTINF:-1 tvg-name="CH TELE M1" tvg-logo="http://sltv-icon.cms-s.com/logo/SWITZERLAND/teleM1.png" group-title="NUEVAS VARIEDOS", 3495 CH: TELE M1 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/295522" tvg-name="CH TELE M1" tvg-logo="http://sltv-icon.cms-s.com/logo/SWITZERLAND/teleM1.png" group-title="NUEVAS VARIEDOS", 3495 CH: TELE M1 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/295522
-#EXTINF:-1 tvg-name="CH BLUE ZOOM" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/teleclub_zoom.png" group-title="NUEVAS DEPORTES", 3496 CH: BLUE ZOOM FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/295523" tvg-name="CH BLUE ZOOM" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/teleclub_zoom.png" group-title="NUEVAS DEPORTES", 3496 CH: BLUE ZOOM FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/295523
-#EXTINF:-1 tvg-name="CH BLUE SPORT D 1" tvg-logo="http://sltv-icon.cms-s.com/logo/SWITZERLAND/blueSport1.png" group-title="NUEVAS DEPORTES", 3497 CH: BLUE SPORT D 1 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/290706" tvg-name="CH BLUE SPORT D 1" tvg-logo="http://sltv-icon.cms-s.com/logo/SWITZERLAND/blueSport1.png" group-title="NUEVAS DEPORTES", 3497 CH: BLUE SPORT D 1 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/290706
-#EXTINF:-1 tvg-name="CH MYSPORTS 2" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/my_sports_2.png" group-title="NUEVAS DEPORTES", 3498 CH: MYSPORTS 2 HD (EN FRANCAIS)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/227540" tvg-name="CH MYSPORTS 2" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/my_sports_2.png" group-title="NUEVAS DEPORTES", 3498 CH: MYSPORTS 2 HD (EN FRANCAIS)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/227540
-#EXTINF:-1 tvg-name="CH MYSPORTS 4" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/my_sports_4.png" group-title="NUEVAS DEPORTES", 3499 CH: MYSPORTS 4 HD (EN FRANCAIS)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/446194" tvg-name="CH MYSPORTS 4" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/my_sports_4.png" group-title="NUEVAS DEPORTES", 3499 CH: MYSPORTS 4 HD (EN FRANCAIS)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/446194
 #EXTINF:-1 tvg-name="CH MYSPORTS 5" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/my_sports_5.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/227542" group-title="NUEVAS DEPORTES", 3500 CH: MYSPORTS 5 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/339595
@@ -5255,267 +5255,267 @@ http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/339595
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/339594
 #EXTINF:-1 tvg-name="CH MYSPORTS 7" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/my_sports_7.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/227545" group-title="NUEVAS DEPORTES", 3502 CH: MYSPORTS 7 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/339593
-#EXTINF:-1 tvg-name="CH MYSPORTS 8" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/my_sports_8.png" group-title="NUEVAS DEPORTES", 3503 CH: MYSPORTS 8 HD (EN FRANCAIS)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/227546" tvg-name="CH MYSPORTS 8" tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/my_sports_8.png" group-title="NUEVAS DEPORTES", 3503 CH: MYSPORTS 8 HD (EN FRANCAIS)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/227546
 #EXTINF:-1 tvg-name="DE RTL 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtl_zwei.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/132817" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3504 DE: RTL 2 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3425
-#EXTINF:-1 tvg-name="DE VIP VOX" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/vox.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3505 DE: VIP VOX HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/377331" tvg-name="DE VIP VOX" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/vox.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3505 DE: VIP VOX HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/377331
-#EXTINF:-1 tvg-name="DE VIP KABEL EINS" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/kabel_eins.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3506 DE: VIP KABEL EINS HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/377328" tvg-name="DE VIP KABEL EINS" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/kabel_eins.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3506 DE: VIP KABEL EINS HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/377328
-#EXTINF:-1 tvg-name="DE VIP ARTE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/arte.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3507 DE: VIP ARTE
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/377335" tvg-name="DE VIP ARTE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/arte.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3507 DE: VIP ARTE
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/377335
-#EXTINF:-1 tvg-name="DE VIP VOXUP" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/vox_up.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3508 DE: VIP VOXUP
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/377330" tvg-name="DE VIP VOXUP" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/vox_up.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3508 DE: VIP VOXUP
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/377330
-#EXTINF:-1 tvg-name="DE VIP ARD ALPHA" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/ard-alpha.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3509 DE: VIP ARD ALPHA
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/377342" tvg-name="DE VIP ARD ALPHA" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/ard-alpha.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3509 DE: VIP ARD ALPHA
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/377342
-#EXTINF:-1 tvg-name="DE VIP BON GUSTO" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/bonGusto.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3510 DE: VIP BON GUSTO
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/377243" tvg-name="DE VIP BON GUSTO" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/bonGusto.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3510 DE: VIP BON GUSTO
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/377243
-#EXTINF:-1 tvg-name="DE VIP KABEL EINS DOKU" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/kabel_1_doku.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3511 DE: VIP KABEL EINS DOKU HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/377327" tvg-name="DE VIP KABEL EINS DOKU" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/kabel_1_doku.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3511 DE: VIP KABEL EINS DOKU HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/377327
-#EXTINF:-1 tvg-name="DE VIP SKY DOCUMENTARIES" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Sky_Documentaries_Logo_2020.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3512 DE: VIP SKY DOCUMENTARIES
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/378506" tvg-name="DE VIP SKY DOCUMENTARIES" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Sky_Documentaries_Logo_2020.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3512 DE: VIP SKY DOCUMENTARIES
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/378506
-#EXTINF:-1 tvg-name="DE VIP SPIEGEL GESCHICHTE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/spiegel_geschichte.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3513 DE: VIP SPIEGEL GESCHICHTE
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/377301" tvg-name="DE VIP SPIEGEL GESCHICHTE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/spiegel_geschichte.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3513 DE: VIP SPIEGEL GESCHICHTE
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/377301
-#EXTINF:-1 tvg-name="DE VIP DISNEY CHANNEL" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/disney_channel.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3514 DE: VIP DISNEY CHANNEL
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/377293" tvg-name="DE VIP DISNEY CHANNEL" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/disney_channel.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3514 DE: VIP DISNEY CHANNEL
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/377293
-#EXTINF:-1 tvg-name="DE VIP SKY ATLANTIC" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_atlantic.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3515 DE: VIP SKY ATLANTIC HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/377271" tvg-name="DE VIP SKY ATLANTIC" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_atlantic.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3515 DE: VIP SKY ATLANTIC HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/377271
-#EXTINF:-1 tvg-name="DE VIP AXN WHITE" tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/axnwhite.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3516 DE: VIP AXN WHITE
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/377309" tvg-name="DE VIP AXN WHITE" tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/axnwhite.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3516 DE: VIP AXN WHITE
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/377309
-#EXTINF:-1 tvg-name="DE VIP SAT 1 GOLD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sat_1_gold.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3517 DE: VIP SAT 1 GOLD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/377325" tvg-name="DE VIP SAT 1 GOLD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sat_1_gold.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3517 DE: VIP SAT 1 GOLD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/377325
-#EXTINF:-1 tvg-name="DE VIP WARNER TV COMEDY" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Warner_TV_Comedy.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3518 DE: VIP WARNER TV COMEDY
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/377310" tvg-name="DE VIP WARNER TV COMEDY" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Warner_TV_Comedy.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3518 DE: VIP WARNER TV COMEDY
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/377310
-#EXTINF:-1 tvg-name="DE AMZ NDR FERNSEHEN NDS" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/ndr.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3519 DE: |AMZ| NDR FERNSEHEN NDS
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/626960" tvg-name="DE AMZ NDR FERNSEHEN NDS" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/ndr.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3519 DE: |AMZ| NDR FERNSEHEN NDS
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/626960
-#EXTINF:-1 tvg-name="DE AMZ RBB BERLIN FERNSEHEN" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rbb.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3520 DE: |AMZ| RBB BERLIN FERNSEHEN
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/626957" tvg-name="DE AMZ RBB BERLIN FERNSEHEN" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rbb.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3520 DE: |AMZ| RBB BERLIN FERNSEHEN
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/626957
-#EXTINF:-1 tvg-name="DE AMZ MDR SACHSEN" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/mdr.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3521 DE: |AMZ| MDR SACHSEN
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/626956" tvg-name="DE AMZ MDR SACHSEN" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/mdr.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3521 DE: |AMZ| MDR SACHSEN
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/626956
-#EXTINF:-1 tvg-name="DE AMZ MDR SACHSEN ANHALT" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mdr.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3522 DE: |AMZ| MDR SACHSEN-ANHALT
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/669740" tvg-name="DE AMZ MDR SACHSEN ANHALT" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mdr.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3522 DE: |AMZ| MDR SACHSEN-ANHALT
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/669740
-#EXTINF:-1 tvg-name="DE AMZ 3SAT" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/3_sat.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3523 DE: |AMZ| 3SAT
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/626947" tvg-name="DE AMZ 3SAT" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/3_sat.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3523 DE: |AMZ| 3SAT
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/626947
 #EXTINF:-1 tvg-name="DE AMZ BLOOMBERG TV" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/BLOOMBERGTV+.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3524 DE: |AMZ| BLOOMBERG TV+
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/626886
 #EXTINF:-1 tvg-name="DE AMZ TENNIS CHANNEL" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/TENNISCHANNEL.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3525 DE: |AMZ| TENNIS CHANNEL
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/626913
-#EXTINF:-1 tvg-name="DE AMZ SPIEGEL TV KONFLIKTE" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/SPIEGELTVKONFLIKTE.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3526 DE: |AMZ| SPIEGEL TV KONFLIKTE
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/626925" tvg-name="DE AMZ SPIEGEL TV KONFLIKTE" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/SPIEGELTVKONFLIKTE.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3526 DE: |AMZ| SPIEGEL TV KONFLIKTE
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/626925
 #EXTINF:-1 tvg-name="DE AMZ TELENOVELA ZDF" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/TELENOVELA ZDF.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3527 DE: |AMZ| TELENOVELA ZDF
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/658658
 #EXTINF:-1 tvg-name="DE AMZ STROMBERG BY MYSPASS" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/STROMBERG BY MYSPASS.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3528 DE: |AMZ| STROMBERG BY MYSPASS
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/640741
-#EXTINF:-1 tvg-name="DE AMZ T TERJAGD" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/T%c3%84TERJAGD.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3529 DE: |AMZ| TÄTERJAGD (CRIME SCENE SOLVERS)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/626937" tvg-name="DE AMZ T TERJAGD" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/T%c3%84TERJAGD.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3529 DE: |AMZ| TÄTERJAGD (CRIME SCENE SOLVERS)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/626937
 #EXTINF:-1 tvg-name="DE AMZ ANDROMEDA" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/ANDROMEDA.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3530 DE: |AMZ| ANDROMEDA
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/668742
-#EXTINF:-1 tvg-name="DE AMZ WILL GRACE" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/WILL & GRACE.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3531 DE: |AMZ| WILL & GRACE
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/668732" tvg-name="DE AMZ WILL GRACE" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/WILL & GRACE.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3531 DE: |AMZ| WILL & GRACE
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/668732
-#EXTINF:-1 tvg-name="DE AMZ AMASIA" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/AMASIA.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3532 DE: |AMZ| AMASIA
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/626930" tvg-name="DE AMZ AMASIA" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/AMASIA.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3532 DE: |AMZ| AMASIA
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/626930
-#EXTINF:-1 tvg-name="DE AMZ BBC HISTORY" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/BBCHISTORY.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3533 DE: |AMZ| BBC HISTORY
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/626926" tvg-name="DE AMZ BBC HISTORY" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/BBCHISTORY.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3533 DE: |AMZ| BBC HISTORY
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/626926
 #EXTINF:-1 tvg-name="DE AMZ LOVE THE PLANET" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/LOVETHEPLANET.png" group-title="NUEVAS INTERNACIONALES ALEMANIA", 3534 DE: |AMZ| LOVE THE PLANET
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/626896
-#EXTINF:-1 tvg-name="DE WOW TV" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS VARIEDOS", 3535 DE: ----- WOW TV -----
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/633940" tvg-name="DE WOW TV" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS VARIEDOS", 3535 DE: ----- WOW TV -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/633940
-#EXTINF:-1 tvg-name="DE WOW SKY NATURE" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/skyNature.png" group-title="NUEVAS VARIEDOS", 3536 DE: |WOW| SKY NATURE
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/633887" tvg-name="DE WOW SKY NATURE" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/skyNature.png" group-title="NUEVAS VARIEDOS", 3536 DE: |WOW| SKY NATURE
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/633887
-#EXTINF:-1 tvg-name="DE WOW 13TH STREET" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/13th_street.png" group-title="NUEVAS VARIEDOS", 3537 DE: |WOW| 13TH STREET
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/633883" tvg-name="DE WOW 13TH STREET" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/13th_street.png" group-title="NUEVAS VARIEDOS", 3537 DE: |WOW| 13TH STREET
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/633883
-#EXTINF:-1 tvg-name="DE WOW UNIVERSAL TV" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/universal_tv.png" group-title="NUEVAS VARIEDOS", 3538 DE: |WOW| UNIVERSAL TV
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/633886" tvg-name="DE WOW UNIVERSAL TV" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/universal_tv.png" group-title="NUEVAS VARIEDOS", 3538 DE: |WOW| UNIVERSAL TV
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/633886
-#EXTINF:-1 tvg-name="DE WOW SKY SPORT F1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skySportF1.png" group-title="NUEVAS DEPORTES", 3539 DE: |WOW| SKY SPORT F1
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/633871" tvg-name="DE WOW SKY SPORT F1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skySportF1.png" group-title="NUEVAS DEPORTES", 3539 DE: |WOW| SKY SPORT F1
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/633871
-#EXTINF:-1 tvg-name="DE WOW SKY SPORT MIX" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/skySportMix.png" group-title="NUEVAS DEPORTES", 3540 DE: |WOW| SKY SPORT MIX
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/633869" tvg-name="DE WOW SKY SPORT MIX" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/skySportMix.png" group-title="NUEVAS DEPORTES", 3540 DE: |WOW| SKY SPORT MIX
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/633869
-#EXTINF:-1 tvg-name="DE WOW SKY SPORT BUNDESLIGA 7" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_7.png" group-title="NUEVAS DEPORTES", 3541 DE: |WOW| SKY SPORT BUNDESLIGA 7
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/633859" tvg-name="DE WOW SKY SPORT BUNDESLIGA 7" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_7.png" group-title="NUEVAS DEPORTES", 3541 DE: |WOW| SKY SPORT BUNDESLIGA 7
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/633859
-#EXTINF:-1 tvg-name="DE WOW SKY SPORT BUNDESLIGA 8" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_8.png" group-title="NUEVAS DEPORTES", 3542 DE: |WOW| SKY SPORT BUNDESLIGA 8
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/633858" tvg-name="DE WOW SKY SPORT BUNDESLIGA 8" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_8.png" group-title="NUEVAS DEPORTES", 3542 DE: |WOW| SKY SPORT BUNDESLIGA 8
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/633858
-#EXTINF:-1 tvg-name="DE WOW SKY SPORT 2" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/sky_sport_2.png" group-title="NUEVAS DEPORTES", 3543 DE: |WOW| SKY SPORT 2
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/633854" tvg-name="DE WOW SKY SPORT 2" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/sky_sport_2.png" group-title="NUEVAS DEPORTES", 3543 DE: |WOW| SKY SPORT 2
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/633854
-#EXTINF:-1 tvg-name="DE WOW SKY SPORT 5" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/sky_sport_5.png" group-title="NUEVAS DEPORTES", 3544 DE: |WOW| SKY SPORT 5
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/633851" tvg-name="DE WOW SKY SPORT 5" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/sky_sport_5.png" group-title="NUEVAS DEPORTES", 3544 DE: |WOW| SKY SPORT 5
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/633851
-#EXTINF:-1 tvg-name="DE WOW SKY SPORT 8" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/sky_sport_8.png" group-title="NUEVAS DEPORTES", 3545 DE: |WOW| SKY SPORT 8
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/633848" tvg-name="DE WOW SKY SPORT 8" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/sky_sport_8.png" group-title="NUEVAS DEPORTES", 3545 DE: |WOW| SKY SPORT 8
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/633848
-#EXTINF:-1 tvg-name="DE REGIONAL" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS VARIEDOS", 3546 DE: ----- REGIONAL -----
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/486822" tvg-name="DE REGIONAL" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS VARIEDOS", 3546 DE: ----- REGIONAL -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/486822
 #EXTINF:-1 tvg-name="DE SAT 1 BAYERN" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/SAT1-Bayern.png" group-title="NUEVAS VARIEDOS", 3547 DE: SAT 1 BAYERN
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/550880
-#EXTINF:-1 tvg-name="DE SWR BW" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/swr_bw.png" group-title="NUEVAS VARIEDOS", 3548 DE: SWR BW
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/3421" tvg-name="DE SWR BW" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/swr_bw.png" group-title="NUEVAS VARIEDOS", 3548 DE: SWR BW
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3421
-#EXTINF:-1 tvg-name="DE ALLG U TV" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Allg%c3%a4u_TV.png" group-title="NUEVAS VARIEDOS", 3549 DE: ALLGÄU.TV
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/486791" tvg-name="DE ALLG U TV" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Allg%c3%a4u_TV.png" group-title="NUEVAS VARIEDOS", 3549 DE: ALLGÄU.TV
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/486791
-#EXTINF:-1 tvg-name="DE DRESDEN FERNSEHEN" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dresdenFernsehen.png" group-title="NUEVAS VARIEDOS", 3550 DE: DRESDEN FERNSEHEN
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/486814" tvg-name="DE DRESDEN FERNSEHEN" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dresdenFernsehen.png" group-title="NUEVAS VARIEDOS", 3550 DE: DRESDEN FERNSEHEN
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/486814
-#EXTINF:-1 tvg-name="DE KIEL TV" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/KielTV.png" group-title="NUEVAS VARIEDOS", 3551 DE: KIEL TV
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/486803" tvg-name="DE KIEL TV" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/KielTV.png" group-title="NUEVAS VARIEDOS", 3551 DE: KIEL TV
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/486803
-#EXTINF:-1 tvg-name="DE LAUSITZWELLE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/lausitzwelle.png" group-title="NUEVAS VARIEDOS", 3552 DE: LAUSITZWELLE
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/486813" tvg-name="DE LAUSITZWELLE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/lausitzwelle.png" group-title="NUEVAS VARIEDOS", 3552 DE: LAUSITZWELLE
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/486813
-#EXTINF:-1 tvg-name="DE NAHE TV" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/NaheTV.png" group-title="NUEVAS VARIEDOS", 3553 DE: NAHE TV
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/486778" tvg-name="DE NAHE TV" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/NaheTV.png" group-title="NUEVAS VARIEDOS", 3553 DE: NAHE TV
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/486778
-#EXTINF:-1 tvg-name="DE OK S DWESTPFALZ" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/ok-s%c3%bcdwestpfalz.png" group-title="NUEVAS VARIEDOS", 3554 DE: OK SÜDWESTPFALZ
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/486776" tvg-name="DE OK S DWESTPFALZ" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/ok-s%c3%bcdwestpfalz.png" group-title="NUEVAS VARIEDOS", 3554 DE: OK SÜDWESTPFALZ
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/486776
-#EXTINF:-1 tvg-name="DE OK WEINSTRASSE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/ok-Weinstra%c3%9fe.png" group-title="NUEVAS VARIEDOS", 3555 DE: OK WEINSTRASSE
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/486775" tvg-name="DE OK WEINSTRASSE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/ok-Weinstra%c3%9fe.png" group-title="NUEVAS VARIEDOS", 3555 DE: OK WEINSTRASSE
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/486775
-#EXTINF:-1 tvg-name="DE REGIO TV STUTTGART" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/regiTVStuttgart.png" group-title="NUEVAS VARIEDOS", 3556 DE: REGIO TV STUTTGART
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/486818" tvg-name="DE REGIO TV STUTTGART" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/regiTVStuttgart.png" group-title="NUEVAS VARIEDOS", 3556 DE: REGIO TV STUTTGART
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/486818
-#EXTINF:-1 tvg-name="DE SACHSEN FERNSEHEN EINS" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sachsenFernsehenEins.png" group-title="NUEVAS VARIEDOS", 3557 DE: SACHSEN FERNSEHEN EINS
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/486812" tvg-name="DE SACHSEN FERNSEHEN EINS" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sachsenFernsehenEins.png" group-title="NUEVAS VARIEDOS", 3557 DE: SACHSEN FERNSEHEN EINS
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/486812
-#EXTINF:-1 tvg-name="DE SACHSEN FERNSEHEN LEIPZIG" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sahsenLeipzigFernsehen.png" group-title="NUEVAS VARIEDOS", 3558 DE: SACHSEN FERNSEHEN LEIPZIG
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/486809" tvg-name="DE SACHSEN FERNSEHEN LEIPZIG" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sahsenLeipzigFernsehen.png" group-title="NUEVAS VARIEDOS", 3558 DE: SACHSEN FERNSEHEN LEIPZIG
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/486809
 #EXTINF:-1 tvg-name="DE SACHSEN FERNSEHEN VOGTLAND" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sachsenFernsehenEins.png" group-title="NUEVAS VARIEDOS", 3559 DE: SACHSEN FERNSEHEN VOGTLAND
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/486808
 #EXTINF:-1 tvg-name="DE STUDIO 47" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/studio47.png" group-title="NUEVAS VARIEDOS", 3560 DE: STUDIO 47
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/486815
-#EXTINF:-1 tvg-name="DE TIDE TV" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/tide.png" group-title="NUEVAS VARIEDOS", 3561 DE: TIDE TV
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/487564" tvg-name="DE TIDE TV" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/tide.png" group-title="NUEVAS VARIEDOS", 3561 DE: TIDE TV
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/487564
-#EXTINF:-1 tvg-name="DE TVA OSTBAYERN" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/tvAktuel.png" group-title="NUEVAS VARIEDOS", 3562 DE: TVA OSTBAYERN
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/552226" tvg-name="DE TVA OSTBAYERN" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/tvAktuel.png" group-title="NUEVAS VARIEDOS", 3562 DE: TVA OSTBAYERN
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/552226
-#EXTINF:-1 tvg-name="DE RTL QHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtl.png" group-title="NUEVAS VARIEDOS", 3563 DE: RTL QHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/572009" tvg-name="DE RTL QHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtl.png" group-title="NUEVAS VARIEDOS", 3563 DE: RTL QHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/572009
-#EXTINF:-1 tvg-name="DE SAT 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sat_1.png" group-title="NUEVAS VARIEDOS", 3564 DE: SAT 1 HEVC
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/3385" tvg-name="DE SAT 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sat_1.png" group-title="NUEVAS VARIEDOS", 3564 DE: SAT 1 HEVC
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3385
-#EXTINF:-1 tvg-name="DE SAT 1 QHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sat_1.png" group-title="NUEVAS VARIEDOS", 3565 DE: SAT 1 QHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/572008" tvg-name="DE SAT 1 QHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sat_1.png" group-title="NUEVAS VARIEDOS", 3565 DE: SAT 1 QHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/572008
-#EXTINF:-1 tvg-name="DE PRO 7" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/pro_7.png" group-title="NUEVAS VARIEDOS", 3566 DE: PRO 7 HEVC
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/356353" tvg-name="DE PRO 7" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/pro_7.png" group-title="NUEVAS VARIEDOS", 3566 DE: PRO 7 HEVC
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/356353
-#EXTINF:-1 tvg-name="DE PRO 7 QHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/pro_7.png" group-title="NUEVAS VARIEDOS", 3567 DE: PRO 7 QHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/572006" tvg-name="DE PRO 7 QHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/pro_7.png" group-title="NUEVAS VARIEDOS", 3567 DE: PRO 7 QHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/572006
-#EXTINF:-1 tvg-name="DE PRO 7 MAXX" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/pro_7_maxx.png" group-title="NUEVAS VARIEDOS", 3568 DE: PRO 7 MAXX HEVC
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/356354" tvg-name="DE PRO 7 MAXX" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/pro_7_maxx.png" group-title="NUEVAS VARIEDOS", 3568 DE: PRO 7 MAXX HEVC
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/356354
-#EXTINF:-1 tvg-name="DE SIXX" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sixx.png" group-title="NUEVAS VARIEDOS", 3569 DE: SIXX HEVC
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/356352" tvg-name="DE SIXX" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sixx.png" group-title="NUEVAS VARIEDOS", 3569 DE: SIXX HEVC
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/356352
-#EXTINF:-1 tvg-name="DE NTV" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/ntv.png" group-title="NUEVAS VARIEDOS", 3570 DE: NTV HEVC
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/356351" tvg-name="DE NTV" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/ntv.png" group-title="NUEVAS VARIEDOS", 3570 DE: NTV HEVC
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/356351
-#EXTINF:-1 tvg-name="DE UHD1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/uhd1.png" group-title="NUEVAS VARIEDOS", 3571 DE: UHD1 UHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/453149" tvg-name="DE UHD1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/uhd1.png" group-title="NUEVAS VARIEDOS", 3571 DE: UHD1 UHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/453149
-#EXTINF:-1 tvg-name="DE QVC" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/qvc-Uhd.png" group-title="NUEVAS VARIEDOS", 3572 DE: QVC UHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/548957" tvg-name="DE QVC" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/qvc-Uhd.png" group-title="NUEVAS VARIEDOS", 3572 DE: QVC UHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/548957
-#EXTINF:-1 tvg-name="DE DAZN 1 QHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dazn_bar_1.png" group-title="NUEVAS DEPORTES", 3573 DE: DAZN 1 QHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/572014" tvg-name="DE DAZN 1 QHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dazn_bar_1.png" group-title="NUEVAS DEPORTES", 3573 DE: DAZN 1 QHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/572014
 #EXTINF:-1 tvg-name="DE EUROSPORT 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eurosport_1.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3440" group-title="NUEVAS DEPORTES", 3574 DE: EUROSPORT 1 HEVC
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/412608
-#EXTINF:-1 tvg-name="DE SKY SPORT AUSTRIA" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="NUEVAS DEPORTES", 3575 DE: SKY SPORT AUSTRIA HEVC
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/412605" tvg-name="DE SKY SPORT AUSTRIA" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="NUEVAS DEPORTES", 3575 DE: SKY SPORT AUSTRIA HEVC
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/412605
-#EXTINF:-1 tvg-name="DE BILD" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/bild.png" group-title="NUEVAS NOTICIAS", 3576 DE: BILD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/528342" tvg-name="DE BILD" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/bild.png" group-title="NUEVAS NOTICIAS", 3576 DE: BILD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/528342
-#EXTINF:-1 tvg-name="DE EURONEWS" tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/euronews.png" group-title="NUEVAS NOTICIAS", 3577 DE: EURONEWS
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/193913" tvg-name="DE EURONEWS" tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/euronews.png" group-title="NUEVAS NOTICIAS", 3577 DE: EURONEWS
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/193913
-#EXTINF:-1 tvg-name="DE HEALTH TV" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/healthTV.png" group-title="NUEVAS NOTICIAS", 3578 DE: HEALTH TV
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/322143" tvg-name="DE HEALTH TV" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/healthTV.png" group-title="NUEVAS NOTICIAS", 3578 DE: HEALTH TV
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/322143
-#EXTINF:-1 tvg-name="DE HSE TREND" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/hse24trend.png" group-title="NUEVAS NOTICIAS", 3579 DE: HSE TREND
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/443604" tvg-name="DE HSE TREND" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/hse24trend.png" group-title="NUEVAS NOTICIAS", 3579 DE: HSE TREND
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/443604
-#EXTINF:-1 tvg-name="DE QVC 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Qvczwei.png" group-title="NUEVAS NOTICIAS", 3580 DE: QVC 2
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/497461" tvg-name="DE QVC 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Qvczwei.png" group-title="NUEVAS NOTICIAS", 3580 DE: QVC 2
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/497461
-#EXTINF:-1 tvg-name="DE QVC 3" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/QVC 3.png" group-title="NUEVAS NOTICIAS", 3581 DE: QVC 3
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/497462" tvg-name="DE QVC 3" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/QVC 3.png" group-title="NUEVAS NOTICIAS", 3581 DE: QVC 3
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/497462
-#EXTINF:-1 tvg-name="DE EUROSPORT 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eurosport_2.png" group-title="NUEVAS DEPORTES", 3582 DE: EUROSPORT 2 FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/30049" tvg-name="DE EUROSPORT 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eurosport_2.png" group-title="NUEVAS DEPORTES", 3582 DE: EUROSPORT 2 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/30049
-#EXTINF:-1 tvg-name="DE ESPORTS1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/esports1.png" group-title="NUEVAS DEPORTES", 3583 DE: ESPORTS1
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/235606" tvg-name="DE ESPORTS1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/esports1.png" group-title="NUEVAS DEPORTES", 3583 DE: ESPORTS1
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/235606
-#EXTINF:-1 tvg-name="DE EXTREME SPORTS" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/extreme-sports-channel.png" group-title="NUEVAS DEPORTES", 3584 DE: EXTREME SPORTS
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/423263" tvg-name="DE EXTREME SPORTS" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/extreme-sports-channel.png" group-title="NUEVAS DEPORTES", 3584 DE: EXTREME SPORTS
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/423263
-#EXTINF:-1 tvg-name="DE FC BAYERN TV" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/fc_bayern_tv.png" group-title="NUEVAS DEPORTES", 3585 DE: FC BAYERN TV (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/552760" tvg-name="DE FC BAYERN TV" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/fc_bayern_tv.png" group-title="NUEVAS DEPORTES", 3585 DE: FC BAYERN TV (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/552760
-#EXTINF:-1 tvg-name="DE RED BULL TV MOTORSPORT" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/servusTvMotorsport.png" group-title="NUEVAS DEPORTES", 3586 DE: RED BULL TV MOTORSPORT
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/487679" tvg-name="DE RED BULL TV MOTORSPORT" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/servusTvMotorsport.png" group-title="NUEVAS DEPORTES", 3586 DE: RED BULL TV MOTORSPORT
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/487679
-#EXTINF:-1 tvg-name="DE UFC FIGHT PASS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/UFCFIGHTPASS.png" group-title="NUEVAS DEPORTES", 3587 DE: UFC FIGHT PASS
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/423897" tvg-name="DE UFC FIGHT PASS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/UFCFIGHTPASS.png" group-title="NUEVAS DEPORTES", 3587 DE: UFC FIGHT PASS
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/423897
 #EXTINF:-1 tvg-name="DE CHAMPIONS LEAGUE" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS DEPORTES", 3588 DE: ----- CHAMPIONS LEAGUE -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/552702
-#EXTINF:-1 tvg-name="DE SKY SPORT NEWS" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_news.png" group-title="NUEVAS DEPORTES", 3589 DE: SKY SPORT NEWS HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/3374" tvg-name="DE SKY SPORT NEWS" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_news.png" group-title="NUEVAS DEPORTES", 3589 DE: SKY SPORT NEWS HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3374
-#EXTINF:-1 tvg-name="DE SKY SPORT PREMIER LEAGUE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skySportPremLeag.png" group-title="NUEVAS DEPORTES", 3590 DE: SKY SPORT PREMIER LEAGUE HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/426452" tvg-name="DE SKY SPORT PREMIER LEAGUE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skySportPremLeag.png" group-title="NUEVAS DEPORTES", 3590 DE: SKY SPORT PREMIER LEAGUE HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/426452
-#EXTINF:-1 tvg-name="DE SKY SPORT NFL" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/vipdaznnflnetworkhd.png" group-title="NUEVAS DEPORTES", 3591 DE: SKY SPORT NFL FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/749247" tvg-name="DE SKY SPORT NFL" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/vipdaznnflnetworkhd.png" group-title="NUEVAS DEPORTES", 3591 DE: SKY SPORT NFL FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/749247
-#EXTINF:-1 tvg-name="DE SKY SPORT GOLF" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skySportGolf.png" group-title="NUEVAS DEPORTES", 3592 DE: SKY SPORT GOLF FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/426458" tvg-name="DE SKY SPORT GOLF" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skySportGolf.png" group-title="NUEVAS DEPORTES", 3592 DE: SKY SPORT GOLF FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/426458
-#EXTINF:-1 tvg-name="DE SKY SPORT BUNDESLIGA 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_1.png" group-title="NUEVAS DEPORTES", 3593 DE: SKY SPORT BUNDESLIGA 1 FHD+
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/624894" tvg-name="DE SKY SPORT BUNDESLIGA 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_1.png" group-title="NUEVAS DEPORTES", 3593 DE: SKY SPORT BUNDESLIGA 1 FHD+
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/624894
-#EXTINF:-1 tvg-name="DE SKY SPORT BUNDESLIGA 9" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_9.png" group-title="NUEVAS DEPORTES", 3594 DE: SKY SPORT BUNDESLIGA 9 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/3406" tvg-name="DE SKY SPORT BUNDESLIGA 9" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_9.png" group-title="NUEVAS DEPORTES", 3594 DE: SKY SPORT BUNDESLIGA 9 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3406
-#EXTINF:-1 tvg-name="DE SKY SPORT 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_2.png" group-title="NUEVAS DEPORTES", 3595 DE: SKY SPORT 2 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/30039" tvg-name="DE SKY SPORT 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_2.png" group-title="NUEVAS DEPORTES", 3595 DE: SKY SPORT 2 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/30039
-#EXTINF:-1 tvg-name="DE MAGENTA SPORT PROGRAMM BERSICHT" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3596 DE: MAGENTA SPORT PROGRAMMÜBERSICHT HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/339255" tvg-name="DE MAGENTA SPORT PROGRAMM BERSICHT" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3596 DE: MAGENTA SPORT PROGRAMMÜBERSICHT HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/339255
-#EXTINF:-1 tvg-name="DE MAGENTA SPORT 3" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3597 DE: MAGENTA SPORT 3 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/176358" tvg-name="DE MAGENTA SPORT 3" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3597 DE: MAGENTA SPORT 3 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/176358
-#EXTINF:-1 tvg-name="DE MAGENTA SPORT 7" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3598 DE: MAGENTA SPORT 7 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/309263" tvg-name="DE MAGENTA SPORT 7" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3598 DE: MAGENTA SPORT 7 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/309263
-#EXTINF:-1 tvg-name="DE MAGENTA SPORT 13" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3599 DE: MAGENTA SPORT 13 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/176361" tvg-name="DE MAGENTA SPORT 13" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3599 DE: MAGENTA SPORT 13 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/176361
-#EXTINF:-1 tvg-name="DE MAGENTA SPORT 14" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3600 DE: MAGENTA SPORT 14 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/227660" tvg-name="DE MAGENTA SPORT 14" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3600 DE: MAGENTA SPORT 14 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/227660
-#EXTINF:-1 tvg-name="DE MAGENTA SPORT 15" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3601 DE: MAGENTA SPORT 15 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/227661" tvg-name="DE MAGENTA SPORT 15" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3601 DE: MAGENTA SPORT 15 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/227661
-#EXTINF:-1 tvg-name="DE MAGENTA SPORT 16" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3602 DE: MAGENTA SPORT 16 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/227662" tvg-name="DE MAGENTA SPORT 16" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3602 DE: MAGENTA SPORT 16 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/227662
-#EXTINF:-1 tvg-name="DE MAGENTA SPORT 17" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3603 DE: MAGENTA SPORT 17 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/227663" tvg-name="DE MAGENTA SPORT 17" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3603 DE: MAGENTA SPORT 17 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/227663
 #EXTINF:-1 tvg-name="DE VIP SKY SPORT BUNDESLIGA 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_1.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/624897" group-title="NUEVAS DEPORTES", 3604 DE: VIP SKY SPORT BUNDESLIGA 1 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/378163
-#EXTINF:-1 tvg-name="DE VIP SKY SPORT BUNDESLIGA 5" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_5.png" group-title="NUEVAS DEPORTES", 3605 DE: VIP SKY SPORT BUNDESLIGA 5 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/378159" tvg-name="DE VIP SKY SPORT BUNDESLIGA 5" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_5.png" group-title="NUEVAS DEPORTES", 3605 DE: VIP SKY SPORT BUNDESLIGA 5 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/378159
-#EXTINF:-1 tvg-name="DE VIP SKY SPORT BUNDESLIGA 6" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_6.png" group-title="NUEVAS DEPORTES", 3606 DE: VIP SKY SPORT BUNDESLIGA 6 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/378158" tvg-name="DE VIP SKY SPORT BUNDESLIGA 6" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_bundesliga_hd_6.png" group-title="NUEVAS DEPORTES", 3606 DE: VIP SKY SPORT BUNDESLIGA 6 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/378158
-#EXTINF:-1 tvg-name="DE VIP SKY SPORT 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_1.png" group-title="NUEVAS DEPORTES", 3607 DE: VIP SKY SPORT 1 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/378153" tvg-name="DE VIP SKY SPORT 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_1.png" group-title="NUEVAS DEPORTES", 3607 DE: VIP SKY SPORT 1 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/378153
-#EXTINF:-1 tvg-name="DE VIP SKY SPORT 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_2.png" group-title="NUEVAS DEPORTES", 3608 DE: VIP SKY SPORT 2 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/378152" tvg-name="DE VIP SKY SPORT 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_2.png" group-title="NUEVAS DEPORTES", 3608 DE: VIP SKY SPORT 2 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/378152
-#EXTINF:-1 tvg-name="DE VIP SKY SPORT 5" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_5.png" group-title="NUEVAS DEPORTES", 3609 DE: VIP SKY SPORT 5 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/378148" tvg-name="DE VIP SKY SPORT 5" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_5.png" group-title="NUEVAS DEPORTES", 3609 DE: VIP SKY SPORT 5 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/378148
-#EXTINF:-1 tvg-name="DE VIP SKY SPORT 7" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_7.png" group-title="NUEVAS DEPORTES", 3610 DE: VIP SKY SPORT 7 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/378146" tvg-name="DE VIP SKY SPORT 7" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/sky_sport_hd_7.png" group-title="NUEVAS DEPORTES", 3610 DE: VIP SKY SPORT 7 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/378146
-#EXTINF:-1 tvg-name="DE VIP SKY SPORT AUSTRIA 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="NUEVAS DEPORTES", 3611 DE: VIP SKY SPORT AUSTRIA 2 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/378140" tvg-name="DE VIP SKY SPORT AUSTRIA 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="NUEVAS DEPORTES", 3611 DE: VIP SKY SPORT AUSTRIA 2 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/378140
-#EXTINF:-1 tvg-name="DE VIP SKY SPORT AUSTRIA 5" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="NUEVAS DEPORTES", 3612 DE: VIP SKY SPORT AUSTRIA 5 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/380722" tvg-name="DE VIP SKY SPORT AUSTRIA 5" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="NUEVAS DEPORTES", 3612 DE: VIP SKY SPORT AUSTRIA 5 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/380722
-#EXTINF:-1 tvg-name="DE VIP SKY SPORT AUSTRIA 7" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="NUEVAS DEPORTES", 3613 DE: VIP SKY SPORT AUSTRIA 7 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/380720" tvg-name="DE VIP SKY SPORT AUSTRIA 7" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="NUEVAS DEPORTES", 3613 DE: VIP SKY SPORT AUSTRIA 7 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/380720
-#EXTINF:-1 tvg-name="DE VIP SKY SPORT AUSTRIA 8" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="NUEVAS DEPORTES", 3614 DE: VIP SKY SPORT AUSTRIA 8 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/547026" tvg-name="DE VIP SKY SPORT AUSTRIA 8" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="NUEVAS DEPORTES", 3614 DE: VIP SKY SPORT AUSTRIA 8 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/547026
-#EXTINF:-1 tvg-name="DE VIP MAGENTA SPORT PROGRAMM BERSICHT" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3615 DE: VIP MAGENTA SPORT PROGRAMMÜBERSICHT HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/390470" tvg-name="DE VIP MAGENTA SPORT PROGRAMM BERSICHT" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3615 DE: VIP MAGENTA SPORT PROGRAMMÜBERSICHT HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/390470
-#EXTINF:-1 tvg-name="DE VIP MAGENTA SPORT 4" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3616 DE: VIP MAGENTA SPORT 4 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/390486" tvg-name="DE VIP MAGENTA SPORT 4" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3616 DE: VIP MAGENTA SPORT 4 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/390486
 #EXTINF:-1 tvg-name="DE VIP MAGENTA SPORT 8" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3617 DE: VIP MAGENTA SPORT 8 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/390482
 #EXTINF:-1 tvg-name="DE VIP MAGENTA SPORT 10" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3618 DE: VIP MAGENTA SPORT 10 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/390480
-#EXTINF:-1 tvg-name="DE VIP MAGENTA SPORT 13" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3619 DE: VIP MAGENTA SPORT 13 HD
-http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/390477
-#EXTINF:-1 tvg-name="DE DAZN" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS DEPORTES", 3620 DE: ----- DAZN -----
+#EXTINF:-1 backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/390477" tvg-name="DE VIP MAGENTA SPORT 13" tvg-logo="http://sltv-icon.cms-s.com/logo/germany/telekomsport.png" group-title="NUEVAS DEPORTES", 3619 DE: VIP MAGENTA SPORT 13 HD
+http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/390477
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/552353" tvg-name="DE DAZN" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS DEPORTES", 3620 DE: ----- DAZN -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/552353
 #EXTINF:-1 tvg-name="DE DAZN 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dazn_bar_1.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/161313" group-title="NUEVAS DEPORTES", 3621 DE: DAZN 1 SD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/623281
-#EXTINF:-1 tvg-name="DE VIP DAZN 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dazn_bar_1.png" group-title="NUEVAS DEPORTES", 3622 DE: VIP DAZN 1 HD+
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/583148" tvg-name="DE VIP DAZN 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dazn_bar_1.png" group-title="NUEVAS DEPORTES", 3622 DE: VIP DAZN 1 HD+
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/583148
 #EXTINF:-1 tvg-name="DE DAZN 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dazn_bar_2.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/161314" group-title="NUEVAS DEPORTES", 3623 DE: DAZN 2 SD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/623283
-#EXTINF:-1 tvg-name="DE VIP DAZN 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dazn_bar_2.png" group-title="NUEVAS DEPORTES", 3624 DE: VIP DAZN 2 SD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/623284" tvg-name="DE VIP DAZN 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dazn_bar_2.png" group-title="NUEVAS DEPORTES", 3624 DE: VIP DAZN 2 SD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/623284
-#EXTINF:-1 tvg-name="DE VIP DAZN DFB TV" tvg-logo="https://www.sky.de/hilfe/servlet/rtaImage?eid=ka0cz000000TGar&feoid=00N3V00000100KY&refid=0EMcz00000GrRIb" group-title="NUEVAS DEPORTES", 3625 DE: VIP DAZN DFB.TV
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/744078" tvg-name="DE VIP DAZN DFB TV" tvg-logo="https://www.sky.de/hilfe/servlet/rtaImage?eid=ka0cz000000TGar&feoid=00N3V00000100KY&refid=0EMcz00000GrRIb" group-title="NUEVAS DEPORTES", 3625 DE: VIP DAZN DFB.TV
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/744078
-#EXTINF:-1 tvg-name="DE VIP DAZN NHL FAST CHANNEL" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NHLNETWORK.png" group-title="NUEVAS DEPORTES", 3626 DE: VIP DAZN NHL FAST CHANNEL
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/635475" tvg-name="DE VIP DAZN NHL FAST CHANNEL" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/NHLNETWORK.png" group-title="NUEVAS DEPORTES", 3626 DE: VIP DAZN NHL FAST CHANNEL
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/635475
-#EXTINF:-1 tvg-name="DE VIP DAZN SPORTDIGITAL FUSSBALL" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sportdigital_fb.png" group-title="NUEVAS DEPORTES", 3627 DE: VIP DAZN SPORTDIGITAL FUSSBALL
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/744084" tvg-name="DE VIP DAZN SPORTDIGITAL FUSSBALL" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sportdigital_fb.png" group-title="NUEVAS DEPORTES", 3627 DE: VIP DAZN SPORTDIGITAL FUSSBALL
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/744084
-#EXTINF:-1 tvg-name="DE VIP DAZN UNBEATEN" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/vipdaznunbeatenhd.png" group-title="NUEVAS DEPORTES", 3628 DE: VIP DAZN UNBEATEN
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/445412" tvg-name="DE VIP DAZN UNBEATEN" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/vipdaznunbeatenhd.png" group-title="NUEVAS DEPORTES", 3628 DE: VIP DAZN UNBEATEN
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/445412
-#EXTINF:-1 tvg-name="DE VIP DYN SPORT" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS DEPORTES", 3629 DE: ----- VIP DYN SPORT -----
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/378164" tvg-name="DE VIP DYN SPORT" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS DEPORTES", 3629 DE: ----- VIP DYN SPORT -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/378164
-#EXTINF:-1 tvg-name="DE VIP DYN SPORT MIX" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="NUEVAS DEPORTES", 3630 DE: VIP DYN SPORT MIX HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/623917" tvg-name="DE VIP DYN SPORT MIX" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="NUEVAS DEPORTES", 3630 DE: VIP DYN SPORT MIX HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/623917
-#EXTINF:-1 tvg-name="DE VIP DYN SPORT 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="NUEVAS DEPORTES", 3631 DE: VIP DYN SPORT 1 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/486118" tvg-name="DE VIP DYN SPORT 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="NUEVAS DEPORTES", 3631 DE: VIP DYN SPORT 1 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/486118
 #EXTINF:-1 tvg-name="DE VIP DYN SPORT 3" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="NUEVAS DEPORTES", 3632 DE: VIP DYN SPORT 3 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/486116
-#EXTINF:-1 tvg-name="DE VIP DYN SPORT 9" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="NUEVAS DEPORTES", 3633 DE: VIP DYN SPORT 9 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/486527" tvg-name="DE VIP DYN SPORT 9" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="NUEVAS DEPORTES", 3633 DE: VIP DYN SPORT 9 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/486527
 #EXTINF:-1 tvg-name="DE VIP DYN SPORT 12" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="NUEVAS DEPORTES", 3634 DE: VIP DYN SPORT 12 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/557781
@@ -5529,11 +5529,11 @@ http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/557775
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/557774
 #EXTINF:-1 tvg-name="DE VIP DYN SPORT 20" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="NUEVAS DEPORTES", 3639 DE: VIP DYN SPORT 20 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/557773
-#EXTINF:-1 tvg-name="DE VIP RTL SPORT" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS DEPORTES", 3640 DE: ----- VIP RTL+ SPORT -----
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/225445" tvg-name="DE VIP RTL SPORT" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS DEPORTES", 3640 DE: ----- VIP RTL+ SPORT -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/225445
 #EXTINF:-1 tvg-name="DE VIP RTL SPORT EVENT 4" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="NUEVAS DEPORTES", 3641 DE: VIP RTL+ SPORT EVENT 4 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/395278
-#EXTINF:-1 tvg-name="DE VIP RTL SPORT EVENT 7" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="NUEVAS DEPORTES", 3642 DE: VIP RTL+ SPORT EVENT 7 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/521968" tvg-name="DE VIP RTL SPORT EVENT 7" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="NUEVAS DEPORTES", 3642 DE: VIP RTL+ SPORT EVENT 7 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/521968
 #EXTINF:-1 tvg-name="DE VIP RTL SPORT EVENT 8" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="NUEVAS DEPORTES", 3643 DE: VIP RTL+ SPORT EVENT 8 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/522375
@@ -5541,131 +5541,131 @@ http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/522375
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/580016
 #EXTINF:-1 tvg-name="DE VIP RTL SPORT EVENT 13" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="NUEVAS DEPORTES", 3645 DE: VIP RTL+ SPORT EVENT 13 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/633970
-#EXTINF:-1 tvg-name="DE DYN SPORT EVENT" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS DEPORTES", 3646 DE: ----- DYN SPORT EVENT -----
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/670872" tvg-name="DE DYN SPORT EVENT" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS DEPORTES", 3646 DE: ----- DYN SPORT EVENT -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/670872
 #EXTINF:-1 tvg-name="DE VIP DISCOVERY" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS DEPORTES", 3647 DE: ----- VIP DISCOVERY+ -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/556380
 #EXTINF:-1 tvg-name="DE VIP DISCOVERY PPV 4" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/discovery+.png" group-title="NUEVAS DEPORTES", 3648 DE: VIP DISCOVERY+ PPV 4 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/556376
-#EXTINF:-1 tvg-name="DE VIP EUROSPORT EXTRA" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS DEPORTES", 3649 DE: ----- VIP EUROSPORT EXTRA -----
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/552701" tvg-name="DE VIP EUROSPORT EXTRA" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS DEPORTES", 3649 DE: ----- VIP EUROSPORT EXTRA -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/552701
-#EXTINF:-1 tvg-name="DE VIP EUROSPORT EXTRA 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3650 DE: VIP EUROSPORT EXTRA 1 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/515451" tvg-name="DE VIP EUROSPORT EXTRA 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3650 DE: VIP EUROSPORT EXTRA 1 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/515451
 #EXTINF:-1 tvg-name="DE VIP EUROSPORT EXTRA 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3651 DE: VIP EUROSPORT EXTRA 2 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/515450
-#EXTINF:-1 tvg-name="DE VIP EUROSPORT EXTRA 3" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3652 DE: VIP EUROSPORT EXTRA 3 HD (SPIELZEIT)
-http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/515449
+#EXTINF:-1 backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/515449" tvg-name="DE VIP EUROSPORT EXTRA 3" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3652 DE: VIP EUROSPORT EXTRA 3 HD (SPIELZEIT)
+http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/515449
 #EXTINF:-1 tvg-name="DE VIP EUROSPORT EXTRA 4" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3653 DE: VIP EUROSPORT EXTRA 4 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/515448
-#EXTINF:-1 tvg-name="DE VIP EUROSPORT EXTRA 5" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3654 DE: VIP EUROSPORT EXTRA 5 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/515447" tvg-name="DE VIP EUROSPORT EXTRA 5" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3654 DE: VIP EUROSPORT EXTRA 5 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/515447
-#EXTINF:-1 tvg-name="DE VIP EUROSPORT EXTRA 6" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3655 DE: VIP EUROSPORT EXTRA 6 HD (SPIELZEIT)
-http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/515446
+#EXTINF:-1 backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/515446" tvg-name="DE VIP EUROSPORT EXTRA 6" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3655 DE: VIP EUROSPORT EXTRA 6 HD (SPIELZEIT)
+http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/515446
 #EXTINF:-1 tvg-name="DE VIP EUROSPORT EXTRA 7" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3656 DE: VIP EUROSPORT EXTRA 7 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/515445
-#EXTINF:-1 tvg-name="DE VIP EUROSPORT EXTRA 8" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3657 DE: VIP EUROSPORT EXTRA 8 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/515444" tvg-name="DE VIP EUROSPORT EXTRA 8" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3657 DE: VIP EUROSPORT EXTRA 8 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/515444
-#EXTINF:-1 tvg-name="DE VIP EUROSPORT EXTRA 9" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3658 DE: VIP EUROSPORT EXTRA 9 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/515443" tvg-name="DE VIP EUROSPORT EXTRA 9" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3658 DE: VIP EUROSPORT EXTRA 9 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/515443
 #EXTINF:-1 tvg-name="DE VIP EUROSPORT EXTRA 10" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3659 DE: VIP EUROSPORT EXTRA 10 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/515442
-#EXTINF:-1 tvg-name="DE VIP EUROSPORT EXTRA 11" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3660 DE: VIP EUROSPORT EXTRA 11 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/515441" tvg-name="DE VIP EUROSPORT EXTRA 11" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3660 DE: VIP EUROSPORT EXTRA 11 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/515441
-#EXTINF:-1 tvg-name="DE VIP EUROSPORT EXTRA 13" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3661 DE: VIP EUROSPORT EXTRA 13 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/515439" tvg-name="DE VIP EUROSPORT EXTRA 13" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3661 DE: VIP EUROSPORT EXTRA 13 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/515439
-#EXTINF:-1 tvg-name="DE VIP EUROSPORT EXTRA 14" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3662 DE: VIP EUROSPORT EXTRA 14 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/515438" tvg-name="DE VIP EUROSPORT EXTRA 14" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3662 DE: VIP EUROSPORT EXTRA 14 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/515438
 #EXTINF:-1 tvg-name="DE VIP EUROSPORT EXTRA 15" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="NUEVAS DEPORTES", 3663 DE: VIP EUROSPORT EXTRA 15 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/515437
-#EXTINF:-1 tvg-name="DE FORMEL 1" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS VARIEDOS", 3664 DE: ----- FORMEL 1 -----
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/553492" tvg-name="DE FORMEL 1" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS VARIEDOS", 3664 DE: ----- FORMEL 1 -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/553492
-#EXTINF:-1 tvg-name="DE F1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skySportF1.png" group-title="NUEVAS DEPORTES", 3665 DE: F1 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/609937" tvg-name="DE F1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skySportF1.png" group-title="NUEVAS DEPORTES", 3665 DE: F1 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/609937
-#EXTINF:-1 tvg-name="DE NBA" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS VARIEDOS", 3666 DE: ----- NBA -----
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/637937" tvg-name="DE NBA" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS VARIEDOS", 3666 DE: ----- NBA -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/637937
-#EXTINF:-1 tvg-name="DE HBO MAX EVENT" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS PELICULAS", 3667 DE: ----- HBO MAX EVENT -----
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/668861" tvg-name="DE HBO MAX EVENT" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS PELICULAS", 3667 DE: ----- HBO MAX EVENT -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/668861
 #EXTINF:-1 tvg-name="DE HBO MAX EVENT 43" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="NUEVAS PELICULAS", 3668 DE: HBO MAX EVENT 43 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/668819
 #EXTINF:-1 tvg-name="DE HBO MAX EVENT 50" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="NUEVAS PELICULAS", 3669 DE: HBO MAX EVENT 50 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/668812
-#EXTINF:-1 tvg-name="DE SPORTEUROPE TV" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS DEPORTES", 3670 DE: ----- SPORTEUROPE.TV -----
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/552362" tvg-name="DE SPORTEUROPE TV" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS DEPORTES", 3670 DE: ----- SPORTEUROPE.TV -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/552362
 #EXTINF:-1 tvg-name="DE SPORTEUROPE TV PPV 15" tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="NUEVAS DEPORTES", 3671 DE: SPORTEUROPE.TV PPV 15 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/635761
 #EXTINF:-1 tvg-name="DE SPORTEUROPE TV PPV 32" tvg-logo="https://img-cdn.do.sporteurope.tv/images/9/f/9/b/7/d/d/b/cd92/4894/9c9f/03996a031fbd/300x300.webp" group-title="NUEVAS DEPORTES", 3672 DE: SPORTEUROPE.TV PPV 32 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/635744
-#EXTINF:-1 tvg-name="DE DOKU" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS VARIEDOS", 3673 DE: ----- DOKU -----
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/135928" tvg-name="DE DOKU" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS VARIEDOS", 3673 DE: ----- DOKU -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/135928
-#EXTINF:-1 tvg-name="DE BON GUSTO" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/bonGusto.png" group-title="NUEVAS VARIEDOS", 3674 DE: BON GUSTO
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/321044" tvg-name="DE BON GUSTO" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/bonGusto.png" group-title="NUEVAS VARIEDOS", 3674 DE: BON GUSTO
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/321044
-#EXTINF:-1 tvg-name="DE CURIOSITY CHANNEL" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/CuriosityChannel.png" group-title="NUEVAS VARIEDOS", 3675 DE: CURIOSITY CHANNEL
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/429558" tvg-name="DE CURIOSITY CHANNEL" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/CuriosityChannel.png" group-title="NUEVAS VARIEDOS", 3675 DE: CURIOSITY CHANNEL
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/429558
-#EXTINF:-1 tvg-name="DE MOMENTS" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/DabeiTV.png" group-title="NUEVAS VARIEDOS", 3676 DE: MOMENTS
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/598146" tvg-name="DE MOMENTS" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/DabeiTV.png" group-title="NUEVAS VARIEDOS", 3676 DE: MOMENTS
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/598146
 #EXTINF:-1 tvg-name="DE DISCOVERY CHANNEL" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/discovery_channel.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/173671" group-title="NUEVAS DOCUMENTALES", 3677 DE: DISCOVERY CHANNEL HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3446
-#EXTINF:-1 tvg-name="DE GEO TV" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/GEO_Television.png" group-title="NUEVAS VARIEDOS", 3678 DE: GEO TV
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/415591" tvg-name="DE GEO TV" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/GEO_Television.png" group-title="NUEVAS VARIEDOS", 3678 DE: GEO TV
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/415591
-#EXTINF:-1 tvg-name="DE HISTORY" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/history.png" group-title="NUEVAS DOCUMENTALES", 3679 DE: HISTORY HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/3439" tvg-name="DE HISTORY" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/history.png" group-title="NUEVAS DOCUMENTALES", 3679 DE: HISTORY HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3439
-#EXTINF:-1 tvg-name="DE HUNDKATZEMAUS" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtl+hundKatzmaus.png" group-title="NUEVAS VARIEDOS", 3680 DE: HUNDKATZEMAUS
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/549453" tvg-name="DE HUNDKATZEMAUS" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtl+hundKatzmaus.png" group-title="NUEVAS VARIEDOS", 3680 DE: HUNDKATZEMAUS
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/549453
-#EXTINF:-1 tvg-name="DE JUST FISHING" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/justfishing.png" group-title="NUEVAS VARIEDOS", 3681 DE: JUST FISHING
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/497455" tvg-name="DE JUST FISHING" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/justfishing.png" group-title="NUEVAS VARIEDOS", 3681 DE: JUST FISHING
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/497455
-#EXTINF:-1 tvg-name="DE KABEL EINS DOKU" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/kabel_1_doku.png" group-title="NUEVAS VARIEDOS", 3682 DE: KABEL EINS DOKU FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/30388" tvg-name="DE KABEL EINS DOKU" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/kabel_1_doku.png" group-title="NUEVAS VARIEDOS", 3682 DE: KABEL EINS DOKU FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/30388
-#EXTINF:-1 tvg-name="DE N24 DOKU" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/n24_doku.png" group-title="NUEVAS VARIEDOS", 3683 DE: N24 DOKU
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/30391" tvg-name="DE N24 DOKU" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/n24_doku.png" group-title="NUEVAS VARIEDOS", 3683 DE: N24 DOKU
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/30391
 #EXTINF:-1 tvg-name="DE NATIONAL GEOGRAPHIC" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/national_geographic.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3455" group-title="NUEVAS VARIEDOS", 3684 DE: NATIONAL GEOGRAPHIC HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/173734
 #EXTINF:-1 tvg-name="DE NAT GEO WILD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/national_geo_wild.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/173736" group-title="NUEVAS VARIEDOS", 3685 DE: NAT GEO WILD HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3454
-#EXTINF:-1 tvg-name="DE SKY DOCUMENTARIES" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Sky_Documentaries_Logo_2020.png" group-title="NUEVAS VARIEDOS", 3686 DE: SKY DOCUMENTARIES
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/377955" tvg-name="DE SKY DOCUMENTARIES" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Sky_Documentaries_Logo_2020.png" group-title="NUEVAS VARIEDOS", 3686 DE: SKY DOCUMENTARIES
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/377955
-#EXTINF:-1 tvg-name="DE SKY NATURE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skyNature.png" group-title="NUEVAS VARIEDOS", 3687 DE: SKY NATURE
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/377956" tvg-name="DE SKY NATURE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skyNature.png" group-title="NUEVAS VARIEDOS", 3687 DE: SKY NATURE
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/377956
-#EXTINF:-1 tvg-name="DE SPIEGEL GESCHICHTE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/spiegel_geschichte.png" group-title="NUEVAS VARIEDOS", 3688 DE: SPIEGEL GESCHICHTE
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/3485" tvg-name="DE SPIEGEL GESCHICHTE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/spiegel_geschichte.png" group-title="NUEVAS VARIEDOS", 3688 DE: SPIEGEL GESCHICHTE
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3485
-#EXTINF:-1 tvg-name="DE ZDF NEO" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/ZDFNEO.png" group-title="NUEVAS VARIEDOS", 3689 DE: ZDF NEO HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/3489" tvg-name="DE ZDF NEO" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/ZDFNEO.png" group-title="NUEVAS VARIEDOS", 3689 DE: ZDF NEO HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3489
-#EXTINF:-1 tvg-name="DE KINO SERIEN" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS SERIES", 3690 DE: ----- KINO / SERIEN -----
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/135925" tvg-name="DE KINO SERIEN" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS SERIES", 3690 DE: ----- KINO / SERIEN -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/135925
 #EXTINF:-1 tvg-name="DE SKY CINEMA ACTION" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_cinema_action.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/132812" group-title="NUEVAS SERIES", 3691 DE: SKY CINEMA ACTION HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3417
-#EXTINF:-1 tvg-name="DE SKY CINEMA FEELGOOD" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/skyCinemaFeelgood.png" group-title="NUEVAS SERIES", 3692 DE: SKY CINEMA FEELGOOD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/30390" tvg-name="DE SKY CINEMA FEELGOOD" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/skyCinemaFeelgood.png" group-title="NUEVAS SERIES", 3692 DE: SKY CINEMA FEELGOOD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/30390
 #EXTINF:-1 tvg-name="DE SKY CINEMA BLOCKBUSTER" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/skyCinemaBlockbuster.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/311996" group-title="NUEVAS SERIES", 3693 DE: SKY CINEMA BLOCKBUSTER HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/232471
-#EXTINF:-1 tvg-name="DE SKY CRIME" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skyCrime.png" group-title="NUEVAS SERIES", 3694 DE: SKY CRIME
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/332872" tvg-name="DE SKY CRIME" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skyCrime.png" group-title="NUEVAS SERIES", 3694 DE: SKY CRIME
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/332872
-#EXTINF:-1 tvg-name="DE SKY KRIMI" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_krimi.png" group-title="NUEVAS SERIES", 3695 DE: SKY KRIMI
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/3397" tvg-name="DE SKY KRIMI" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_krimi.png" group-title="NUEVAS SERIES", 3695 DE: SKY KRIMI
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3397
-#EXTINF:-1 tvg-name="DE SKY SHOWCASE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skyShowase.png" group-title="NUEVAS SERIES", 3696 DE: SKY SHOWCASE
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/429559" tvg-name="DE SKY SHOWCASE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skyShowase.png" group-title="NUEVAS SERIES", 3696 DE: SKY SHOWCASE
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/429559
-#EXTINF:-1 tvg-name="DE SKY SYFY" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_syfy.png" group-title="NUEVAS SERIES", 3697 DE: SKY SYFY
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/3367" tvg-name="DE SKY SYFY" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_syfy.png" group-title="NUEVAS SERIES", 3697 DE: SKY SYFY
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3367
 #EXTINF:-1 tvg-name="DE 13TH STREET" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/13th_street.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/173450" group-title="NUEVAS SERIES", 3698 DE: 13TH STREET HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/8195
-#EXTINF:-1 tvg-name="DE ALARM FUR COBRA 11" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtl+alarmF%c3%bcrCobra11.png" group-title="NUEVAS SERIES", 3699 DE: ALARM FUR COBRA 11
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/549448" tvg-name="DE ALARM FUR COBRA 11" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtl+alarmF%c3%bcrCobra11.png" group-title="NUEVAS SERIES", 3699 DE: ALARM FUR COBRA 11
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/549448
-#EXTINF:-1 tvg-name="DE ALLES WAS ZAEHLT CLASSICS" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtl+allesWasZ%c3%a4hlt.png" group-title="NUEVAS SERIES", 3700 DE: ALLES WAS ZAEHLT CLASSICS
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/549451" tvg-name="DE ALLES WAS ZAEHLT CLASSICS" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/rtl+allesWasZ%c3%a4hlt.png" group-title="NUEVAS SERIES", 3700 DE: ALLES WAS ZAEHLT CLASSICS
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/549451
-#EXTINF:-1 tvg-name="DE AXN BLACK" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/AXN_BLACK.png" group-title="NUEVAS SERIES", 3701 DE: AXN BLACK
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/3460" tvg-name="DE AXN BLACK" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/AXN_BLACK.png" group-title="NUEVAS SERIES", 3701 DE: AXN BLACK
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3460
-#EXTINF:-1 tvg-name="DE PRIME VIDEO" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/amazonPrimeVideo.png" group-title="NUEVAS SERIES", 3702 DE: PRIME VIDEO
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/623918" tvg-name="DE PRIME VIDEO" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/amazonPrimeVideo.png" group-title="NUEVAS SERIES", 3702 DE: PRIME VIDEO
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/623918
-#EXTINF:-1 tvg-name="DE STREAMING PLATTFORM" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS SERIES", 3703 DE: ----- STREAMING PLATTFORM -----
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/476090" tvg-name="DE STREAMING PLATTFORM" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS SERIES", 3703 DE: ----- STREAMING PLATTFORM -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/476090
-#EXTINF:-1 tvg-name="DE DISNEY PLUS FILME" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/disney+.png" group-title="NUEVAS SERIES", 3704 DE: DISNEY PLUS FILME HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/300776" tvg-name="DE DISNEY PLUS FILME" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/disney+.png" group-title="NUEVAS SERIES", 3704 DE: DISNEY PLUS FILME HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/300776
-#EXTINF:-1 tvg-name="DE JOYN FILME" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/joyn.png" group-title="NUEVAS SERIES", 3705 DE: JOYN FILME HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/476098" tvg-name="DE JOYN FILME" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/joyn.png" group-title="NUEVAS SERIES", 3705 DE: JOYN FILME HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/476098
-#EXTINF:-1 tvg-name="DE MUBI FILME" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mubi.png" group-title="NUEVAS SERIES", 3706 DE: MUBI FILME HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/476094" tvg-name="DE MUBI FILME" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mubi.png" group-title="NUEVAS SERIES", 3706 DE: MUBI FILME HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/476094
-#EXTINF:-1 tvg-name="DE RTL PLUS FILME" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/RTL+.png" group-title="NUEVAS SERIES", 3707 DE: RTL PLUS FILME HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/476092" tvg-name="DE RTL PLUS FILME" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/RTL+.png" group-title="NUEVAS SERIES", 3707 DE: RTL PLUS FILME HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/476092
-#EXTINF:-1 tvg-name="DE SKY SELECT" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS SERIES", 3708 DE: ----- SKY SELECT -----
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/225442" tvg-name="DE SKY SELECT" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS SERIES", 3708 DE: ----- SKY SELECT -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/225442
 #EXTINF:-1 tvg-name="DE SKY SELECT PREMIERE 4" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/414689" group-title="NUEVAS SERIES", 3709 DE: SKY SELECT PREMIERE 4 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3392
@@ -5673,87 +5673,87 @@ http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3392
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3388
 #EXTINF:-1 tvg-name="DE SKY SELECT PREMIERE 9" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/414684" group-title="NUEVAS SERIES", 3711 DE: SKY SELECT PREMIERE 9 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/135785
-#EXTINF:-1 tvg-name="DE SKY SELECT PREMIERE 10" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3712 DE: SKY SELECT PREMIERE 10 FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/135784" tvg-name="DE SKY SELECT PREMIERE 10" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3712 DE: SKY SELECT PREMIERE 10 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/135784
-#EXTINF:-1 tvg-name="DE SKY SELECT PREMIERE 12" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3713 DE: SKY SELECT PREMIERE 12 FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/135782" tvg-name="DE SKY SELECT PREMIERE 12" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3713 DE: SKY SELECT PREMIERE 12 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/135782
-#EXTINF:-1 tvg-name="DE SKY SELECT PREMIERE 14" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3714 DE: SKY SELECT PREMIERE 14 FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/135780" tvg-name="DE SKY SELECT PREMIERE 14" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3714 DE: SKY SELECT PREMIERE 14 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/135780
-#EXTINF:-1 tvg-name="DE SKY SELECT PREMIERE 17" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3715 DE: SKY SELECT PREMIERE 17 FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/135777" tvg-name="DE SKY SELECT PREMIERE 17" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3715 DE: SKY SELECT PREMIERE 17 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/135777
-#EXTINF:-1 tvg-name="DE SKY SELECT PREMIERE 20" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3716 DE: SKY SELECT PREMIERE 20 FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/550718" tvg-name="DE SKY SELECT PREMIERE 20" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3716 DE: SKY SELECT PREMIERE 20 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/550718
-#EXTINF:-1 tvg-name="DE SKY SELECT PREMIERE 2" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3717 DE: SKY SELECT PREMIERE 2 UHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/414691" tvg-name="DE SKY SELECT PREMIERE 2" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3717 DE: SKY SELECT PREMIERE 2 UHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/414691
-#EXTINF:-1 tvg-name="DE SKY SELECT PREMIERE 6" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3718 DE: SKY SELECT PREMIERE 6 UHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/414687" tvg-name="DE SKY SELECT PREMIERE 6" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3718 DE: SKY SELECT PREMIERE 6 UHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/414687
-#EXTINF:-1 tvg-name="DE SKY SELECT PREMIERE 7" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3719 DE: SKY SELECT PREMIERE 7 UHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/414686" tvg-name="DE SKY SELECT PREMIERE 7" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3719 DE: SKY SELECT PREMIERE 7 UHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/414686
-#EXTINF:-1 tvg-name="DE SKY SELECT 1" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3720 DE: SKY SELECT 1 FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/462385" tvg-name="DE SKY SELECT 1" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3720 DE: SKY SELECT 1 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/462385
-#EXTINF:-1 tvg-name="DE SKY SELECT 3" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3721 DE: SKY SELECT 3 FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/462383" tvg-name="DE SKY SELECT 3" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3721 DE: SKY SELECT 3 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/462383
-#EXTINF:-1 tvg-name="DE SKY SELECT 5" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3722 DE: SKY SELECT 5 FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/462381" tvg-name="DE SKY SELECT 5" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3722 DE: SKY SELECT 5 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/462381
-#EXTINF:-1 tvg-name="DE SKY SELECT 6" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3723 DE: SKY SELECT 6 FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/462380" tvg-name="DE SKY SELECT 6" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3723 DE: SKY SELECT 6 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/462380
-#EXTINF:-1 tvg-name="DE SKY SELECT 10" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3724 DE: SKY SELECT 10 FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/462376" tvg-name="DE SKY SELECT 10" tvg-logo="https://sltv-icon.cms-s.com/logo/2022mix/Sky%20Select%20UK.png" group-title="NUEVAS SERIES", 3724 DE: SKY SELECT 10 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/462376
 #EXTINF:-1 tvg-name="DE SKY STORE" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS SERIES", 3725 DE: ----- SKY STORE -----
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/444767
-#EXTINF:-1 tvg-name="DE SKY STORE 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skystore1.png" group-title="NUEVAS SERIES", 3726 DE: SKY STORE 1 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/444765" tvg-name="DE SKY STORE 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skystore1.png" group-title="NUEVAS SERIES", 3726 DE: SKY STORE 1 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/444765
-#EXTINF:-1 tvg-name="DE SKY STORE 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skystore2.png" group-title="NUEVAS SERIES", 3727 DE: SKY STORE 2 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/444764" tvg-name="DE SKY STORE 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skystore2.png" group-title="NUEVAS SERIES", 3727 DE: SKY STORE 2 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/444764
-#EXTINF:-1 tvg-name="DE SKY STORE 3" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skystore3.png" group-title="NUEVAS SERIES", 3728 DE: SKY STORE 3 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/444762" tvg-name="DE SKY STORE 3" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skystore3.png" group-title="NUEVAS SERIES", 3728 DE: SKY STORE 3 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/444762
-#EXTINF:-1 tvg-name="DE SKY STORE 5" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skystore5.png" group-title="NUEVAS SERIES", 3729 DE: SKY STORE 5 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/444759" tvg-name="DE SKY STORE 5" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skystore5.png" group-title="NUEVAS SERIES", 3729 DE: SKY STORE 5 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/444759
-#EXTINF:-1 tvg-name="DE SKY STORE 10" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skystore10.png" group-title="NUEVAS SERIES", 3730 DE: SKY STORE 10 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/444753" tvg-name="DE SKY STORE 10" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skystore10.png" group-title="NUEVAS SERIES", 3730 DE: SKY STORE 10 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/444753
-#EXTINF:-1 tvg-name="DE SKY STORE 11" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skystore11.png" group-title="NUEVAS SERIES", 3731 DE: SKY STORE 11 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/446955" tvg-name="DE SKY STORE 11" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skystore11.png" group-title="NUEVAS SERIES", 3731 DE: SKY STORE 11 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/446955
-#EXTINF:-1 tvg-name="DE SKY STORE 13" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skystore13.png" group-title="NUEVAS SERIES", 3732 DE: SKY STORE 13 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/449783" tvg-name="DE SKY STORE 13" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skystore13.png" group-title="NUEVAS SERIES", 3732 DE: SKY STORE 13 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/449783
-#EXTINF:-1 tvg-name="DE SKY STORE 15" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skystore15.png" group-title="NUEVAS SERIES", 3733 DE: SKY STORE 15 HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/451363" tvg-name="DE SKY STORE 15" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skystore15.png" group-title="NUEVAS SERIES", 3733 DE: SKY STORE 15 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/451363
-#EXTINF:-1 tvg-name="DE MAX KINO" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/max_kino.png" group-title="NUEVAS SERIES", 3734 DE: MAX KINO
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/775461" tvg-name="DE MAX KINO" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/max_kino.png" group-title="NUEVAS SERIES", 3734 DE: MAX KINO
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/775461
 #EXTINF:-1 tvg-name="DE MAX SELECT MIX" group-title="NUEVAS SERIES", 3735 DE: MAX SELECT MIX 4K UHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/775464
-#EXTINF:-1 tvg-name="DE MAX SELECT 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/maxselect2hd.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/444933" group-title="NUEVAS SERIES", 3736 DE: MAX SELECT 2 FHD
+#EXTINF:-1 tvg-name="DE MAX SELECT 2" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/maxselect2hd.png" backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/209352" group-title="NUEVAS SERIES", 3736 DE: MAX SELECT 2 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/209352
-#EXTINF:-1 tvg-name="DE MAX SELECT 3" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/maxselect3hd.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/444932" group-title="NUEVAS SERIES", 3737 DE: MAX SELECT 3 FHD
+#EXTINF:-1 tvg-name="DE MAX SELECT 3" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/maxselect3hd.png" backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/209353" group-title="NUEVAS SERIES", 3737 DE: MAX SELECT 3 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/209353
-#EXTINF:-1 tvg-name="DE MAX SELECT 4" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/maxselect4hd.png" group-title="NUEVAS SERIES", 3738 DE: MAX SELECT 4 FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/209354" tvg-name="DE MAX SELECT 4" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/maxselect4hd.png" group-title="NUEVAS SERIES", 3738 DE: MAX SELECT 4 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/209354
-#EXTINF:-1 tvg-name="DE MAX SELECT 5" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/maxselect5hd.png" group-title="NUEVAS SERIES", 3739 DE: MAX SELECT 5 FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/209355" tvg-name="DE MAX SELECT 5" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/maxselect5hd.png" group-title="NUEVAS SERIES", 3739 DE: MAX SELECT 5 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/209355
-#EXTINF:-1 tvg-name="DE MAX SELECT 6" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/maxselect6hd.png" group-title="NUEVAS SERIES", 3740 DE: MAX SELECT 6 FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/209356" tvg-name="DE MAX SELECT 6" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/maxselect6hd.png" group-title="NUEVAS SERIES", 3740 DE: MAX SELECT 6 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/209356
-#EXTINF:-1 tvg-name="DE MAX KINO 3" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/maxkino3fhd.png" group-title="NUEVAS SERIES", 3741 DE: MAX KINO 3 FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/209360" tvg-name="DE MAX KINO 3" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/maxkino3fhd.png" group-title="NUEVAS SERIES", 3741 DE: MAX KINO 3 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/209360
-#EXTINF:-1 tvg-name="DE MAX KINO 4" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/maxkino4fhd.png" group-title="NUEVAS SERIES", 3742 DE: MAX KINO 4 FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/296046" tvg-name="DE MAX KINO 4" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/maxkino4fhd.png" group-title="NUEVAS SERIES", 3742 DE: MAX KINO 4 FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/296046
 #EXTINF:-1 tvg-name="DE MAX SELECT 1" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/maxselect1uhd.png" group-title="NUEVAS SERIES", 3743 DE: MAX SELECT 1 UHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/444934
-#EXTINF:-1 tvg-name="DE MAX KINO COLLECTION" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/maxkinocollectionfhd.png" group-title="NUEVAS SERIES", 3744 DE: MAX KINO COLLECTION FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/209361" tvg-name="DE MAX KINO COLLECTION" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/maxkinocollectionfhd.png" group-title="NUEVAS SERIES", 3744 DE: MAX KINO COLLECTION FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/209361
-#EXTINF:-1 tvg-name="DE MAX STAR WARS" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/max_star_wars.png" group-title="NUEVAS SERIES", 3745 DE: MAX STAR WARS FHD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/209363" tvg-name="DE MAX STAR WARS" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/max_star_wars.png" group-title="NUEVAS SERIES", 3745 DE: MAX STAR WARS FHD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/209363
-#EXTINF:-1 tvg-name="DE EAGLE CINEMA ANIMATION" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eagleCinema.png" group-title="NUEVAS SERIES", 3746 DE: EAGLE CINEMA ANIMATION HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/598129" tvg-name="DE EAGLE CINEMA ANIMATION" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eagleCinema.png" group-title="NUEVAS SERIES", 3746 DE: EAGLE CINEMA ANIMATION HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/598129
-#EXTINF:-1 tvg-name="DE EAGLE CINEMA THRILLER" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eagleCinema.png" group-title="NUEVAS SERIES", 3747 DE: EAGLE CINEMA THRILLER HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/598128" tvg-name="DE EAGLE CINEMA THRILLER" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eagleCinema.png" group-title="NUEVAS SERIES", 3747 DE: EAGLE CINEMA THRILLER HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/598128
-#EXTINF:-1 tvg-name="DE EAGLE CINEMA GESCHICHTE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eagleCinema.png" group-title="NUEVAS SERIES", 3748 DE: EAGLE CINEMA GESCHICHTE HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/598125" tvg-name="DE EAGLE CINEMA GESCHICHTE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eagleCinema.png" group-title="NUEVAS SERIES", 3748 DE: EAGLE CINEMA GESCHICHTE HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/598125
-#EXTINF:-1 tvg-name="DE EAGLE CINEMA SPIDER MAN" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eagleCinema.png" group-title="NUEVAS SERIES", 3749 DE: EAGLE CINEMA SPIDER-MAN HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/598114" tvg-name="DE EAGLE CINEMA SPIDER MAN" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eagleCinema.png" group-title="NUEVAS SERIES", 3749 DE: EAGLE CINEMA SPIDER-MAN HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/598114
-#EXTINF:-1 tvg-name="DE EAGLE CINEMA MARVEL CINEMATIC UNIVERSE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eagleCinema.png" group-title="NUEVAS SERIES", 3750 DE: EAGLE CINEMA MARVEL CINEMATIC UNIVERSE HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/598113" tvg-name="DE EAGLE CINEMA MARVEL CINEMATIC UNIVERSE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eagleCinema.png" group-title="NUEVAS SERIES", 3750 DE: EAGLE CINEMA MARVEL CINEMATIC UNIVERSE HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/598113
-#EXTINF:-1 tvg-name="DE EAGLE CINEMA THE MATRIX" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eagleCinema.png" group-title="NUEVAS SERIES", 3751 DE: EAGLE CINEMA THE MATRIX HD
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/598107" tvg-name="DE EAGLE CINEMA THE MATRIX" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eagleCinema.png" group-title="NUEVAS SERIES", 3751 DE: EAGLE CINEMA THE MATRIX HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/598107
-#EXTINF:-1 tvg-name="TR NICKTOONS" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/nick_toons.png" group-title="NUEVAS INTERNACIONALES REINO UNIDO", 3752 TR: NICKTOONS
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/469470" tvg-name="TR NICKTOONS" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/nick_toons.png" group-title="NUEVAS INTERNACIONALES REINO UNIDO", 3752 TR: NICKTOONS
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/469470
 #EXTINF:-1 tvg-name="ES DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="NUEVAS DEPORTES", 3753 ES: DAZN LALIGA 2
 http://vivaelbetis.neospaxy.top:8080/8711730321404202/49ad45ec9190/57476
