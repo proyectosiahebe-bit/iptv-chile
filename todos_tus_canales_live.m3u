@@ -4901,8 +4901,8 @@ http://up.kiwi:80/351921603109/34939156/297002
 http://solutionspremium.net:80/channel/user2620/37428848293/86822.ts
 #EXTINF:-1 tvg-name="ESPN 2 H265" tvg-logo="https://d.l0.ms/espn-2.png" group-title="NUEVAS DEPORTES", 3325 ESPN 2 FHD H265
 http://up.kiwi:80/351921603109/34939156/475
-#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/260743.ts" tvg-name="ESPN 6" tvg-logo="https://d.l0.ms/espn-6.png" group-title="NUEVAS DEPORTES", 3326 ESPN 6 SD
-http://up.kiwi:80/351921603109/34939156/296559
+#EXTINF:-1 backup-url="http://up.kiwi:80/351921603109/34939156/296559" tvg-name="ESPN 6" tvg-logo="https://d.l0.ms/espn-6.png" group-title="NUEVAS DEPORTES", 3326 ESPN 6 SD
+http://solutionspremium.net:80/channel/user2620/37428848293/260743.ts
 #EXTINF:-1 tvg-name="FOOD NETWORK SD" tvg-logo="https://d.l0.ms/food-network.png" group-title="NUEVAS VARIEDOS", 3327 FOOD NETWORK SD²
 http://up.kiwi:80/351921603109/34939156/296134
 #EXTINF:-1 tvg-name="GLOBO SP HD" tvg-logo="https://d.l0.ms/globo.png" group-title="NUEVAS VARIEDOS", 3328 GLOBO SP HD²
@@ -7061,8 +7061,8 @@ http://directo.ddns.me:2082/Edithherrera/5588446688/76027
 http://directo.ddns.me:2082/Edithherrera/5588446688/76015
 #EXTINF:-1 tvg-name="HOLVOET TV ATACAMA" tvg-logo="http://i.imgur.com/k4Vi3qb.png" group-title="NUEVAS NACIONALES CHILE", 4405 Holvoet TV - Atacama
 http://directo.ddns.me:2082/Edithherrera/5588446688/75
-#EXTINF:-1 tvg-name="HOLVOET TV CL" tvg-logo="https://cdn.m3u.cl/logo/72_Holvoet_TV.png" group-title="NUEVAS NACIONALES CHILE", 4406 Holvoet TV | CL
-http://directo.ddns.me:2082/Edithherrera/5588446688/75799
+#EXTINF:-1 backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/75799" tvg-name="HOLVOET TV CL" tvg-logo="https://cdn.m3u.cl/logo/72_Holvoet_TV.png" group-title="NUEVAS NACIONALES CHILE", 4406 Holvoet TV | CL
+http://solutionspremium.net:80/channel/user2620/37428848293/291300.ts
 #EXTINF:-1 tvg-name="INET TV OSORNO" tvg-logo="http://www.tvinet.cl/template/images/logosn.png" group-title="NUEVAS NACIONALES CHILE", 4407 Inet TV - Osorno
 http://directo.ddns.me:2082/Edithherrera/5588446688/67
 #EXTINF:-1 tvg-name="INFINITA TV PREMIUM US" tvg-logo="https://cdn.m3u.cl/logo/484_Infinita_TV_Premium.png" group-title="NUEVAS NACIONALES CHILE", 4408 Infinita TV Premium | US
