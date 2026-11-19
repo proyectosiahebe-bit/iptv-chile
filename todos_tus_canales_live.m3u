@@ -16,8 +16,8 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 http://solutionspremium.net:80/channel/user2620/37428848293/869.ts
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="NACIONALES CHILE",8 NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
-#EXTINF:-1 backup-url="https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="NACIONALES CHILE",9 MEGA
-https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 backup-url="https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="NACIONALES CHILE",9 MEGA
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 backup-url="https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="NACIONALES CHILE",10 TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" backup-url="https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL" group-title="NACIONALES CHILE",11 CHV
@@ -5425,8 +5425,8 @@ http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/552760
 http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/487679
 #EXTINF:-1 backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/423897" tvg-name="DE UFC FIGHT PASS" tvg-logo="http://sltv-icon.cms-s.com/logo/USA/UFCFIGHTPASS.png" group-title="NUEVAS DEPORTES", 3587 DE: UFC FIGHT PASS
 http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/423897
-#EXTINF:-1 backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/552702" tvg-name="DE CHAMPIONS LEAGUE" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS DEPORTES", 3588 DE: ----- CHAMPIONS LEAGUE -----
-http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/552702
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/552702" tvg-name="DE CHAMPIONS LEAGUE" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS DEPORTES", 3588 DE: ----- CHAMPIONS LEAGUE -----
+http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/552702
 #EXTINF:-1 backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3374" tvg-name="DE SKY SPORT NEWS" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_news.png" group-title="NUEVAS DEPORTES", 3589 DE: SKY SPORT NEWS HD
 http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/3374
 #EXTINF:-1 backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/426452" tvg-name="DE SKY SPORT PREMIER LEAGUE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skySportPremLeag.png" group-title="NUEVAS DEPORTES", 3590 DE: SKY SPORT PREMIER LEAGUE HD
@@ -5521,8 +5521,8 @@ http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/486527
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/557781
 #EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/557779" tvg-name="DE VIP DYN SPORT 14" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="NUEVAS DEPORTES", 3635 DE: VIP DYN SPORT 14 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/557779
-#EXTINF:-1 tvg-name="DE VIP DYN SPORT 16" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="NUEVAS DEPORTES", 3636 DE: VIP DYN SPORT 16 HD (SPIELZEIT)
-http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/557777
+#EXTINF:-1 backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/557777" tvg-name="DE VIP DYN SPORT 16" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="NUEVAS DEPORTES", 3636 DE: VIP DYN SPORT 16 HD (SPIELZEIT)
+http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/557777
 #EXTINF:-1 tvg-name="DE VIP DYN SPORT 18" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="NUEVAS DEPORTES", 3637 DE: VIP DYN SPORT 18 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/557775
 #EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/557774" tvg-name="DE VIP DYN SPORT 19" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="NUEVAS DEPORTES", 3638 DE: VIP DYN SPORT 19 HD (SPIELZEIT)
@@ -5537,9 +5537,9 @@ http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/395278
 http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/521968
 #EXTINF:-1 backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/522375" tvg-name="DE VIP RTL SPORT EVENT 8" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="NUEVAS DEPORTES", 3643 DE: VIP RTL+ SPORT EVENT 8 HD (SPIELZEIT)
 http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/522375
-#EXTINF:-1 tvg-name="DE VIP RTL SPORT EVENT 11" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="NUEVAS DEPORTES", 3644 DE: VIP RTL+ SPORT EVENT 11 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/580016" tvg-name="DE VIP RTL SPORT EVENT 11" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="NUEVAS DEPORTES", 3644 DE: VIP RTL+ SPORT EVENT 11 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/580016
-#EXTINF:-1 tvg-name="DE VIP RTL SPORT EVENT 13" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="NUEVAS DEPORTES", 3645 DE: VIP RTL+ SPORT EVENT 13 HD (SPIELZEIT)
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/633970" tvg-name="DE VIP RTL SPORT EVENT 13" tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="NUEVAS DEPORTES", 3645 DE: VIP RTL+ SPORT EVENT 13 HD (SPIELZEIT)
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/633970
 #EXTINF:-1 backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/670872" tvg-name="DE DYN SPORT EVENT" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS DEPORTES", 3646 DE: ----- DYN SPORT EVENT -----
 http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/670872
@@ -5583,8 +5583,8 @@ http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/553492
 http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/609937
 #EXTINF:-1 backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/637937" tvg-name="DE NBA" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS VARIEDOS", 3666 DE: ----- NBA -----
 http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/637937
-#EXTINF:-1 backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/668861" tvg-name="DE HBO MAX EVENT" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS PELICULAS", 3667 DE: ----- HBO MAX EVENT -----
-http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/668861
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/668861" tvg-name="DE HBO MAX EVENT" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="NUEVAS PELICULAS", 3667 DE: ----- HBO MAX EVENT -----
+http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/668861
 #EXTINF:-1 tvg-name="DE HBO MAX EVENT 43" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="NUEVAS PELICULAS", 3668 DE: HBO MAX EVENT 43 HD
 http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/668819
 #EXTINF:-1 tvg-name="DE HBO MAX EVENT 50" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/HBO-Max.png" group-title="NUEVAS PELICULAS", 3669 DE: HBO MAX EVENT 50 HD
@@ -5641,8 +5641,8 @@ http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/232471
 http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/332872
 #EXTINF:-1 backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3397" tvg-name="DE SKY KRIMI" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_krimi.png" group-title="NUEVAS SERIES", 3695 DE: SKY KRIMI
 http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/3397
-#EXTINF:-1 backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/429559" tvg-name="DE SKY SHOWCASE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skyShowase.png" group-title="NUEVAS SERIES", 3696 DE: SKY SHOWCASE
-http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/429559
+#EXTINF:-1 backup-url="http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/429559" tvg-name="DE SKY SHOWCASE" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/skyShowase.png" group-title="NUEVAS SERIES", 3696 DE: SKY SHOWCASE
+http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/429559
 #EXTINF:-1 backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/3367" tvg-name="DE SKY SYFY" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_syfy.png" group-title="NUEVAS SERIES", 3697 DE: SKY SYFY
 http://sonymax.org:80/86tqjjnosq/CrVcp33PMx/3367
 #EXTINF:-1 tvg-name="DE 13TH STREET" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/13th_street.png" backup-url="http://sonymax.org:8080/86tqjjnosq/CrVcp33PMx/8195" group-title="NUEVAS SERIES", 3698 DE: 13TH STREET HD
