@@ -244,6 +244,24 @@ https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
 #EXTINF:-1 backup-url="https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8?PlaylistM3UCL" group-title="RADIOS",119 LA METRO
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="600 XXX: HUSTLER HD" tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX | VIP 18+", 600 XXX: HUSTLER HD
+http://31.43.191.125:8080/restream/restream/158501
+#EXTINF:-1 tvg-id="" tvg-name="601 XXX: VIVID RED HD" tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX | VIP 18+", 601 XXX: VIVID RED HD
+http://31.43.191.125:8080/restream/restream/158503
+#EXTINF:-1 tvg-id="" tvg-name="602 XXX: DORCEL TV" tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX | VIP 18+", 602 XXX: DORCEL TV
+http://31.43.191.125:8080/restream/restream/158504
+#EXTINF:-1 tvg-id="" tvg-name="603 XXX: DORCEL XXX" tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX | VIP 18+", 603 XXX: DORCEL XXX
+http://31.43.191.125:8080/restream/restream/158505
+#EXTINF:-1 tvg-id="" tvg-name="604 XXX: BABES TV" tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX | VIP 18+", 604 XXX: BABES TV
+http://31.43.191.125:8080/restream/restream/158506
+#EXTINF:-1 tvg-id="" tvg-name="605 XXX: PLAYBOY" tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX | VIP 18+", 605 XXX: PLAYBOY
+http://31.43.191.125:8080/restream/restream/158684
+#EXTINF:-1 tvg-id="" tvg-name="606 XXX: VENUS" tvg-logo="https://docdog.top/logo/countries/xxx/adult.png" group-title="XXX | VIP 18+", 606 XXX: VENUS
+http://31.43.191.125:8080/restream/restream/158686
+#EXTINF:-1 tvg-id="" tvg-name="607 XXX: PLAYBOY TV FHD" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/XXX.png" group-title="FOR ADULTS", 607 XXX: PLAYBOY TV FHD
+http://line.netrolive.com:80/26457b4f/26bc0793/629329
+#EXTINF:-1 tvg-id="" tvg-name="608 XXX: PLAYBOY ALT" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/XXX.png" group-title="FOR ADULTS", 608 XXX: PLAYBOY ALT
+http://line.netrolive.com:80/26457b4f/26bc0793/629248
 # ===== REPLICA HD 120-238 =====
 #EXTINF:-1 tvg-id="120" tvg-name="120 ADN TV" tvg-logo="" group-title="NACIONALES CHILE", 1006 ADN TV
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
