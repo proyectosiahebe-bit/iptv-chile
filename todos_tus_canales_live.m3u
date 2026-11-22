@@ -7061,8 +7061,8 @@ http://directo.ddns.me:2082/Edithherrera/5588446688/75775
 http://solutionspremium.net:80/channel/user2620/37428848293/291292.ts
 #EXTINF:-1 tvg-name="CORCUBIO TV CL" tvg-logo="https://cdn.m3u.cl/logo/1515_Corcubio_TV.png" group-title="NUEVAS NACIONALES CHILE", 4396 Corcubio TV ✪ | CL
 http://directo.ddns.me:2082/Edithherrera/5588446688/75685
-#EXTINF:-1 tvg-name="DANCE FM CL" tvg-logo="https://cdn.m3u.cl/logo/1166_Dance_FM.png" group-title="NUEVAS NACIONALES CHILE", 4397 Dance FM ✪ | CL
-http://directo.ddns.me:2082/Edithherrera/5588446688/75720
+#EXTINF:-1 backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/75720" tvg-name="DANCE FM CL" tvg-logo="https://cdn.m3u.cl/logo/1166_Dance_FM.png" group-title="NUEVAS NACIONALES CHILE", 4397 Dance FM ✪ | CL
+http://solutionspremium.net:80/channel/user2620/37428848293/291293.ts
 #EXTINF:-1 backup-url="http://directo.ddns.me:2082/Edithherrera/5588446688/75890" tvg-name="DECIMA TV CL" tvg-logo="https://cdn.m3u.cl/logo/85_Decima_TV.png" group-title="NUEVAS NACIONALES CHILE", 4398 Decima TV | CL
 http://solutionspremium.net:80/channel/user2620/37428848293/291294.ts
 #EXTINF:-1 tvg-name="EL CONQUISTADOR SANTIAGO CL" tvg-logo="https://cdn.m3u.cl/logo/1478_El_Conquistador_Santiago.png" group-title="NUEVAS NACIONALES CHILE", 4399 El Conquistador Santiago | CL
