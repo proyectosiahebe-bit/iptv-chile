@@ -10188,3 +10188,99 @@ http://31.43.191.125:8080/restream/restream/134026
 http://31.43.191.125:8080/restream/restream/134030
 #EXTINF:-1 tvg-id="F070-C7810" tvg-name="CL: ATACAMA TV" tvg-logo="" group-title="LAME | CHILE VIP", 4960 CL: ATACAMA TV
 http://31.43.191.125:8080/restream/restream/134037
+#EXTINF:-1 tvg-id="F550-C1404" tvg-name="Mega Ficcion" tvg-logo="" group-title="🎬 | ASTRA CHILE", 4961 Mega Ficcion
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/486946
+#EXTINF:-1 tvg-id="F550-C2361" tvg-name="CL | MEGA OPC 1" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="🇨🇱 | CHILE", 4962 CL | MEGA OPC 1
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/1219
+#EXTINF:-1 tvg-id="F550-C2362" tvg-name="CL | MEGA OPC 2" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="🇨🇱 | CHILE", 4963 CL | MEGA OPC 2
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/1220
+#EXTINF:-1 tvg-id="F550-C2363" tvg-name="CL | MEGA OPC 3" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="🇨🇱 | CHILE", 4964 CL | MEGA OPC 3
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/118318
+#EXTINF:-1 tvg-id="F550-C2366" tvg-name="MEGA 2" tvg-logo="https://images2-mega.cdn.mdstrm.com/meganoticias/2023/09/08/como-sintonizar-la-senal-2-de-mega-en-tu-television_424990_1_64fb76134268f.jpg" group-title="🇨🇱 | CHILE", 4965 MEGA 2
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/289376
+#EXTINF:-1 tvg-id="F550-C2367" tvg-name="MEGA TIEMPO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Hqe2dW-QNbtIE_KiKk41mknatN4BWgjf7w&s" group-title="🇨🇱 | CHILE", 4966 MEGA TIEMPO
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/152516
+#EXTINF:-1 tvg-id="F550-C2368" tvg-name="MEGA  NOTICIAS" tvg-logo="https://pbs.twimg.com/profile_images/1551995585091084288/O-eU6CLx_400x400.jpg" group-title="🇨🇱 | CHILE", 4967 MEGA  NOTICIAS
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/177860
+#EXTINF:-1 tvg-id="F550-C2369" tvg-name="CL | CANAL 13  OPC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png" group-title="🇨🇱 | CHILE", 4968 CL | CANAL 13  OPC 1
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/1213
+#EXTINF:-1 tvg-id="F550-C2370" tvg-name="CL | CANAL 13  OPC 2." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png" group-title="🇨🇱 | CHILE", 4969 CL | CANAL 13  OPC 2.
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/1214
+#EXTINF:-1 tvg-id="F550-C2371" tvg-name="CL | CANAL 13  OPC 3." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png" group-title="🇨🇱 | CHILE", 4970 CL | CANAL 13  OPC 3.
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/1212
+#EXTINF:-1 tvg-id="F550-C2372" tvg-name="CL | CANAL 13 OPC 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png" group-title="🇨🇱 | CHILE", 4971 CL | CANAL 13 OPC 4
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/292126
+#EXTINF:-1 tvg-id="F550-C2375" tvg-name="CL | 24 PLAY" tvg-logo="https://www.tvn.cl/tvn/site/artic/20230522/imag/foto_0000001020230522150156/logo1024x1024.png" group-title="🇨🇱 | CHILE", 4972 CL | 24 PLAY
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/302897
+#EXTINF:-1 tvg-id="F550-C2376" tvg-name="13 REC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/13i_2018.png/800px-13i_2018.png" group-title="🇨🇱 | CHILE", 4973 13 REC
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/184073
+#EXTINF:-1 tvg-id="F550-C2377" tvg-name="C.L CHILEVISION OPC 1" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="🇨🇱 | CHILE", 4974 C.L CHILEVISION OPC 1
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/104303
+#EXTINF:-1 tvg-id="F550-C2378" tvg-name="C.L CHILEVISION OPC 2." tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="🇨🇱 | CHILE", 4975 C.L CHILEVISION OPC 2.
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/104304
+#EXTINF:-1 tvg-id="F550-C2379" tvg-name="C.L CHILEVISION OPC 3." tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="🇨🇱 | CHILE", 4976 C.L CHILEVISION OPC 3.
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/104305
+#EXTINF:-1 tvg-id="F550-C2380" tvg-name="C.L CHILEVISION OPC 4" tvg-logo="https://brandemia.org/sites/default/files/inline/images/logo_chilevision.jpg" group-title="🇨🇱 | CHILE", 4977 C.L CHILEVISION OPC 4
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/292127
+#EXTINF:-1 tvg-id="F550-C2381" tvg-name="CL | TVN OPC 1" tvg-logo="https://cdn.m3u.cl/logo/454_TVN___Reuters.png" group-title="🇨🇱 | CHILE", 4978 CL | TVN OPC 1
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/1222
+#EXTINF:-1 tvg-id="F550-C2382" tvg-name="CL | TVN OPC 2" tvg-logo="https://cdn.m3u.cl/logo/454_TVN___Reuters.png" group-title="🇨🇱 | CHILE", 4979 CL | TVN OPC 2
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/1223
+#EXTINF:-1 tvg-id="F550-C2385" tvg-name="TVN 3" tvg-logo="https://www.tvn.cl/tvn/site/artic/20230724/imag/foto_0000001820230724110258/Screenshot_15.jpg" group-title="🇨🇱 | CHILE", 4980 TVN 3
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/292124
+#EXTINF:-1 tvg-id="F550-C2388" tvg-name="CL | REC TV  SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Rec_TV_%282014-Julio_2015%29.png/revision/latest?cb=20170712210509&path-prefix=es" group-title="🇨🇱 | CHILE", 4981 CL | REC TV  SD
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/1215
+#EXTINF:-1 tvg-id="F550-C2389" tvg-name="CL | TV CHILE OPC 2" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lLVuaX58it0JjK88-7C1QfcIuwYr0yGCPDGT1rCfR5Og=s900-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 | CHILE", 4982 CL | TV CHILE OPC 2
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/141600
+#EXTINF:-1 tvg-id="F550-C2390" tvg-name="CL | TV CHILE OPC 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lLVuaX58it0JjK88-7C1QfcIuwYr0yGCPDGT1rCfR5Og=s900-c-k-c0x00ffffff-no-rj" group-title="🇨🇱 | CHILE", 4983 CL | TV CHILE OPC 1
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/277066
+#EXTINF:-1 tvg-id="F550-C2391" tvg-name="CL |  CNN OPC 1" tvg-logo="https://i.ibb.co/gD4z03y/kmc-20241203-004914.png" group-title="🇨🇱 | CHILE", 4984 CL |  CNN OPC 1
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/277068
+#EXTINF:-1 tvg-id="F550-C2395" tvg-name="CL | TV + OPC 1" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%252B_%25282018%2529.png/640px-TV%252B_%25282018%2529.png&w=640&q=50" group-title="🇨🇱 | CHILE", 4985 CL | TV + OPC 1
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/277070
+#EXTINF:-1 tvg-id="F550-C2396" tvg-name="CL | TV + OPC 2" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%252B_%25282018%2529.png/640px-TV%252B_%25282018%2529.png&w=640&q=50" group-title="🇨🇱 | CHILE", 4986 CL | TV + OPC 2
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/277071
+#EXTINF:-1 tvg-id="F550-C2397" tvg-name="CL | ETC TV OPC 1" tvg-logo="https://images2-megamedia.cdn.mdstrm.com/etcetera/2020/02/25/10043_4_5e5531f40cf27.jpg?d=500x500" group-title="🇨🇱 | CHILE", 4987 CL | ETC TV OPC 1
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/1238
+#EXTINF:-1 tvg-id="F550-C2398" tvg-name="CL | VIA X OPC 1" tvg-logo="https://pbs.twimg.com/profile_images/1635423578651852802/dwa1KZ_o_400x400.jpg" group-title="🇨🇱 | CHILE", 4988 CL | VIA X OPC 1
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/133677
+#EXTINF:-1 tvg-id="F550-C2399" tvg-name="CL | VIA X OPC 2." tvg-logo="https://pbs.twimg.com/profile_images/1635423578651852802/dwa1KZ_o_400x400.jpg" group-title="🇨🇱 | CHILE", 4989 CL | VIA X OPC 2.
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/277064
+#EXTINF:-1 tvg-id="F550-C2400" tvg-name="CL | ZONA LATINA OPC 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6TpmeLVvfRgRt57eEnafP7rViLBeNIElAtQ&s" group-title="🇨🇱 | CHILE", 4990 CL | ZONA LATINA OPC 1
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/138773
+#EXTINF:-1 tvg-id="F550-C2401" tvg-name="CL | ZONA LATINA OPC 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6TpmeLVvfRgRt57eEnafP7rViLBeNIElAtQ&s" group-title="🇨🇱 | CHILE", 4991 CL | ZONA LATINA OPC 2
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/277073
+#EXTINF:-1 tvg-id="F550-C2414" tvg-name="⚽ ▶️ TNT PREMIUM HD OPC 1" tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", 4992 ⚽ ▶️ TNT PREMIUM HD OPC 1
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/1229
+#EXTINF:-1 tvg-id="F550-C2415" tvg-name="⚽ ▶️ TNT PREMIUM HD OPC 2" tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", 4993 ⚽ ▶️ TNT PREMIUM HD OPC 2
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/1230
+#EXTINF:-1 tvg-id="F550-C2416" tvg-name="⚽ ▶️ TNT PREMIUM HD OPC 3" tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", 4994 ⚽ ▶️ TNT PREMIUM HD OPC 3
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/1231
+#EXTINF:-1 tvg-id="F550-C2417" tvg-name="⚽ ▶️ TNT PREMIUM HD OPC 4" tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", 4995 ⚽ ▶️ TNT PREMIUM HD OPC 4
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/1233
+#EXTINF:-1 tvg-id="F550-C2418" tvg-name="⚽ ▶️ TNT BASICO # 1" tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", 4996 ⚽ ▶️ TNT BASICO # 1
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/86176
+#EXTINF:-1 tvg-id="F550-C2419" tvg-name="⚽ ▶️ TNT BASICO # 2" tvg-logo="https://i.postimg.cc/R0RxNkPC/file-00000000c68461f793db4ffaa00cbf60.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", 4997 ⚽ ▶️ TNT BASICO # 2
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/86357
+#EXTINF:-1 tvg-id="F550-C2422" tvg-name="⚽ CDO BASICO" tvg-logo="https://pbs.twimg.com/media/DeDECJkXUAE7xxL.jpg" group-title="⚽ | DEPORTE CHILE 🇨🇱", 4998 ⚽ CDO BASICO
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/135810
+#EXTINF:-1 tvg-id="F550-C2423" tvg-name="⚽ CDO 2" tvg-logo="https://assets.nunchee.com/out/65302e3626d20e001c7afa91/original/backdrop/75.jpeg" group-title="⚽ | DEPORTE CHILE 🇨🇱", 4999 ⚽ CDO 2
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/142367
+#EXTINF:-1 tvg-id="F550-C2424" tvg-name="CL | FOX SPORTS 2" tvg-logo="https://e7.pngegg.com/pngimages/9/148/png-clipart-fox-sports-radio-fox-sports-networks-sportsouth-television-others-television-emblem.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", 5000 CL | FOX SPORTS 2
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/152057
+#EXTINF:-1 tvg-id="F550-C2426" tvg-name="CL | FOX SPORT CHILE" tvg-logo="https://i.ibb.co/NKHsSBX/kmc-20240503-052233.jpg" group-title="⚽ | DEPORTE CHILE 🇨🇱", 5001 CL | FOX SPORT CHILE
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/152122
+#EXTINF:-1 tvg-id="F550-C2429" tvg-name="CL | ESPN." tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", 5002 CL | ESPN.
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/152303
+#EXTINF:-1 tvg-id="F550-C2430" tvg-name="CL | ESPN 2" tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", 5003 CL | ESPN 2
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/152304
+#EXTINF:-1 tvg-id="F550-C2432" tvg-name="ESPN PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDcvcjzjn2GWIfhC1z3_620MPgVaLRcPnlwA&usqp=CAU" group-title="⚽ | DEPORTE CHILE 🇨🇱", 5004 ESPN PREMIUM
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/152306
+#EXTINF:-1 tvg-id="F550-C2433" tvg-name="▶️ TELETRAK HD" tvg-logo="" group-title="⚽ | DEPORTE CHILE 🇨🇱", 5005 ▶️ TELETRAK HD
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/277310
+#EXTINF:-1 tvg-id="F550-C2434" tvg-name="CHI | TELETRACK SD" tvg-logo="http://cpi4u.com:45862/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", 5006 CHI | TELETRACK SD
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/119693
+#EXTINF:-1 tvg-id="F550-C2436" tvg-name="CL: Chilevision Deportes" tvg-logo="https://i.ibb.co/6RJKH8s/CHVD.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", 5007 CL: Chilevision Deportes
+http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/280366
+#EXTINF:-1 tvg-id="F620-C0398" tvg-name="CDO" tvg-logo="http://s0lc.net:8080/images/cl_cdo.png" group-title="CHILE", 5008 CDO
+http://portal.exabytetv.net:8080/mike/OoRxmUyFJ7/3387.ts
