@@ -4915,7 +4915,7 @@ http://up.kiwi:80/351921603109/34939156/1254685
 http://up.kiwi:80/351921603109/34939156/1254687
 #EXTINF:-1 tvg-name="DISNEY 05" tvg-logo="https://logos.l0.ms/fr/disney-jr.png" backup-url="http://up.kiwi:80/351921603109/34939156/297007" group-title="NUEVAS INFANTILES", 3323 DISNEY+ 05 FHD
 http://up.kiwi:80/351921603109/34939156/297002
-#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/92871.ts" tvg-name="ESPN" tvg-logo="https://d.l0.ms/espn.png" group-title="NUEVAS DEPORTES", 3324 ESPN 4K
+#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1522.ts" tvg-name="ESPN" tvg-logo="https://d.l0.ms/espn.png" group-title="NUEVAS DEPORTES", 3324 ESPN 4K
 http://solutionspremium.net:80/channel/user2620/37428848293/86822.ts
 #EXTINF:-1 tvg-name="ESPN 2 H265" tvg-logo="https://d.l0.ms/espn-2.png" group-title="NUEVAS DEPORTES", 3325 ESPN 2 FHD H265
 http://up.kiwi:80/351921603109/34939156/475
@@ -10274,8 +10274,8 @@ http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/152122
 http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/152303
 #EXTINF:-1 tvg-id="F550-C2430" tvg-name="CL | ESPN 2" tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", 5003 CL | ESPN 2
 http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/152304
-#EXTINF:-1 tvg-id="F550-C2432" tvg-name="ESPN PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDcvcjzjn2GWIfhC1z3_620MPgVaLRcPnlwA&usqp=CAU" group-title="⚽ | DEPORTE CHILE 🇨🇱", 5004 ESPN PREMIUM
-http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/152306
+#EXTINF:-1 backup-url="http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/152306" tvg-id="F550-C2432" tvg-name="ESPN PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDcvcjzjn2GWIfhC1z3_620MPgVaLRcPnlwA&usqp=CAU" group-title="⚽ | DEPORTE CHILE 🇨🇱", 5004 ESPN PREMIUM
+http://solutionspremium.net:80/channel/user2620/37428848293/111401.ts
 #EXTINF:-1 tvg-id="F550-C2433" tvg-name="▶️ TELETRAK HD" tvg-logo="" group-title="⚽ | DEPORTE CHILE 🇨🇱", 5005 ▶️ TELETRAK HD
 http://miotv.cc:8080/tanogrijalva/MfBQu2PVwt/277310
 #EXTINF:-1 tvg-id="F550-C2434" tvg-name="CHI | TELETRACK SD" tvg-logo="http://cpi4u.com:45862/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="⚽ | DEPORTE CHILE 🇨🇱", 5006 CHI | TELETRACK SD
@@ -10290,11 +10290,11 @@ http://181.118.155.254:8080/1054995456/Albert/4932
 http://181.118.155.254:8080/1054995456/Albert/5399
 #EXTINF:-1 tvg-id="F014-C0026" tvg-name="WARNER" tvg-logo="https://wallpaperaccess.com/full/7134142.jpg" group-title="Nacionales", 5011 WARNER
 http://181.118.155.254:8080/1054995456/Albert/5412
-#EXTINF:-1 tvg-id="F014-C0015" tvg-name="ESPN 1" tvg-logo="https://th.bing.com/th/id/OIP.zXl2FutBcDxOpgdD_x9QFwHaEK?w=298&h=180&c=7&r=0&o=7&pid=1.7&rm=3" group-title="Nacionales", 5012 ESPN 1
+#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1315.ts" tvg-id="F014-C0015" tvg-name="ESPN 1" tvg-logo="https://th.bing.com/th/id/OIP.zXl2FutBcDxOpgdD_x9QFwHaEK?w=298&h=180&c=7&r=0&o=7&pid=1.7&rm=3" group-title="Nacionales", 5012 ESPN 1
 http://181.118.155.254:8080/1054995456/Albert/5390
-#EXTINF:-1 tvg-id="F014-C0016" tvg-name="ESPN 2" tvg-logo="" group-title="Nacionales", 5013 ESPN 2
+#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1521.ts" tvg-id="F014-C0016" tvg-name="ESPN 2" tvg-logo="" group-title="Nacionales", 5013 ESPN 2
 http://181.118.155.254:8080/1054995456/Albert/5391
-#EXTINF:-1 tvg-id="F014-C0017" tvg-name="ESPN 3" tvg-logo="" group-title="Nacionales", 5014 ESPN 3
+#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1520.ts" tvg-id="F014-C0017" tvg-name="ESPN 3" tvg-logo="" group-title="Nacionales", 5014 ESPN 3
 http://181.118.155.254:8080/1054995456/Albert/5392
 #EXTINF:-1 tvg-id="F128-C0041" tvg-name="18 Golden Destroyers (1985)" tvg-logo="" group-title="", 5015 18 Golden Destroyers (1985)
 http://hostengine.live/movie/A12345/A12345/58791.mp4
@@ -10306,7 +10306,7 @@ http://hostengine.live/movie/A12345/A12345/47674.mp4
 http://hostengine.live/movie/A12345/A12345/48333.mp4
 #EXTINF:-1 tvg-id="F128-C288633" tvg-name="24/7: ESPN 30 For 30" tvg-logo="" group-title="", 5019 24/7: ESPN 30 For 30
 http://hostengine.live/live/A12345/A12345/224099.m3u
-#EXTINF:-1 tvg-id="F128-C290320" tvg-name="4K : ESPN" tvg-logo="" group-title="", 5020 4K : ESPN
+#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1522.ts" tvg-id="F128-C290320" tvg-name="4K : ESPN" tvg-logo="" group-title="", 5020 4K : ESPN
 http://hostengine.live/live/A12345/A12345/317099.m3u
 #EXTINF:-1 tvg-id="F128-C0394" tvg-name="A Brief History of Time (1991)" tvg-logo="" group-title="", 5021 A Brief History of Time (1991)
 http://hostengine.live/movie/A12345/A12345/47690.mp4
@@ -10320,11 +10320,11 @@ http://go.iptvhn.net:25461/5366/53662022/1285
 http://go.iptvhn.net:25461/5366/53662022/1286
 #EXTINF:-1 tvg-id="F319-C0047" tvg-name="HBO FAMILY  HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20200119225232&path-prefix=es" group-title="PELICULAS", 5026 HBO FAMILY  HD
 http://go.iptvhn.net:25461/5366/53662022/1287
-#EXTINF:-1 tvg-id="F319-C0015" tvg-name="ESPN 1  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnofDrZvBfFJKehHE8_SZNl_J6GYPrS0Vt5Q&s" group-title="DEPORTES HD", 5027 ESPN 1  HD
+#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1315.ts" tvg-id="F319-C0015" tvg-name="ESPN 1  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnofDrZvBfFJKehHE8_SZNl_J6GYPrS0Vt5Q&s" group-title="DEPORTES HD", 5027 ESPN 1  HD
 http://go.iptvhn.net:25461/5366/53662022/836
-#EXTINF:-1 tvg-id="F319-C0016" tvg-name="ESPN 2 HD" tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest/scale-to-width-down/300?cb=20130819193813" group-title="DEPORTES HD", 5028 ESPN 2 HD
+#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1521.ts" tvg-id="F319-C0016" tvg-name="ESPN 2 HD" tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest/scale-to-width-down/300?cb=20130819193813" group-title="DEPORTES HD", 5028 ESPN 2 HD
 http://go.iptvhn.net:25461/5366/53662022/837
-#EXTINF:-1 tvg-id="F319-C0017" tvg-name="ESPN 3  HD" tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg" group-title="DEPORTES HD", 5029 ESPN 3  HD
+#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1520.ts" tvg-id="F319-C0017" tvg-name="ESPN 3  HD" tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg" group-title="DEPORTES HD", 5029 ESPN 3  HD
 http://go.iptvhn.net:25461/5366/53662022/838
 #EXTINF:-1 tvg-id="F319-C0010" tvg-name="HISTORY HD" tvg-logo="http://iptvposter.xperfil.shop/poster/history.png" group-title="CULTURA", 5030 HISTORY HD
 http://go.iptvhn.net:25461/5366/53662022/802
@@ -10386,39 +10386,39 @@ http://ssignal.fun/live/MarcoCorona/dcad8392f85/417208.ts
 http://ssignal.fun/live/MarcoCorona/dcad8392f85/415642.ts
 #EXTINF:-1 tvg-id="F690-C0038" tvg-name="Discovery Familia HD" tvg-logo="https://static.epg.best/us/DiscoveryFamilia.us.png" group-title="✈   C U L T U R A   ✈", 5059 Discovery Familia HD
 http://ssignal.fun/live/MarcoCorona/dcad8392f85/415641.ts
-#EXTINF:-1 tvg-id="F694-C0273" tvg-name="Tr: Cinemax6 TV HD" tvg-logo="https://www.cinemax6.com/uploads/logo/dd.png" group-title="TR | SINEMA VIP", 5060 Tr: Cinemax6 TV HD
+#EXTINF:-1 backup-url="http://vipmax.site:8080/live/vns171/cMynxFnug3bG/360105.ts" tvg-id="F694-C0273" tvg-name="Tr: Cinemax6 TV HD" tvg-logo="https://www.cinemax6.com/uploads/logo/dd.png" group-title="TR | SINEMA VIP", 5060 Tr: Cinemax6 TV HD
 http://sunucu.info:8080/live/vns171/cMynxFnug3bG/360105.ts
-#EXTINF:-1 tvg-id="F694-C0283" tvg-name="Tr: B**n Series 1 HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/beIN-SERIES-DIGITAL-mono-color-1-250x150.png" group-title="TR | SINEMA DIGITURK", 5061 Tr: B**n Series 1 HD
+#EXTINF:-1 backup-url="http://vipmax.site:8080/live/vns171/cMynxFnug3bG/95229.ts" tvg-id="F694-C0283" tvg-name="Tr: B**n Series 1 HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/beIN-SERIES-DIGITAL-mono-color-1-250x150.png" group-title="TR | SINEMA DIGITURK", 5061 Tr: B**n Series 1 HD
 http://sunucu.info:8080/live/vns171/cMynxFnug3bG/95229.ts
-#EXTINF:-1 tvg-id="F694-C0284" tvg-name="Tr: B**n Series 2 HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/beIN-SERIES-DIGITAL-mono-color-2-250x150.png" group-title="TR | SINEMA DIGITURK", 5062 Tr: B**n Series 2 HD
+#EXTINF:-1 backup-url="http://vipmax.site:8080/live/vns171/cMynxFnug3bG/21458.ts" tvg-id="F694-C0284" tvg-name="Tr: B**n Series 2 HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/beIN-SERIES-DIGITAL-mono-color-2-250x150.png" group-title="TR | SINEMA DIGITURK", 5062 Tr: B**n Series 2 HD
 http://sunucu.info:8080/live/vns171/cMynxFnug3bG/21458.ts
-#EXTINF:-1 tvg-id="F694-C1436" tvg-name="NL: ESPN 1 HD" tvg-logo="" group-title="NL | HOLLAND", 5063 NL: ESPN 1 HD
+#EXTINF:-1 backup-url="http://vipmax.site:8080/live/vns171/cMynxFnug3bG/523017.ts" tvg-id="F694-C1436" tvg-name="NL: ESPN 1 HD" tvg-logo="" group-title="NL | HOLLAND", 5063 NL: ESPN 1 HD
 http://sunucu.info:8080/live/vns171/cMynxFnug3bG/523017.ts
-#EXTINF:-1 tvg-id="F694-C1437" tvg-name="NL: ESPN 2 HD" tvg-logo="" group-title="NL | HOLLAND", 5064 NL: ESPN 2 HD
+#EXTINF:-1 backup-url="http://vipmax.site:8080/live/vns171/cMynxFnug3bG/523018.ts" tvg-id="F694-C1437" tvg-name="NL: ESPN 2 HD" tvg-logo="" group-title="NL | HOLLAND", 5064 NL: ESPN 2 HD
 http://sunucu.info:8080/live/vns171/cMynxFnug3bG/523018.ts
-#EXTINF:-1 tvg-id="F694-C1438" tvg-name="NL: ESPN 3 HD" tvg-logo="" group-title="NL | HOLLAND", 5065 NL: ESPN 3 HD
+#EXTINF:-1 backup-url="http://vipmax.site:8080/live/vns171/cMynxFnug3bG/523019.ts" tvg-id="F694-C1438" tvg-name="NL: ESPN 3 HD" tvg-logo="" group-title="NL | HOLLAND", 5065 NL: ESPN 3 HD
 http://sunucu.info:8080/live/vns171/cMynxFnug3bG/523019.ts
-#EXTINF:-1 tvg-id="F694-C0050" tvg-name="Tr: CNN TURK HD" tvg-logo="https://imagizer.imageshack.com/img921/3818/OV2fJ5.png" group-title="TR | HABER", 5066 Tr: CNN TURK HD
+#EXTINF:-1 backup-url="http://vipmax.site:8080/live/vns171/cMynxFnug3bG/17729.ts" tvg-id="F694-C0050" tvg-name="Tr: CNN TURK HD" tvg-logo="https://imagizer.imageshack.com/img921/3818/OV2fJ5.png" group-title="TR | HABER", 5066 Tr: CNN TURK HD
 http://sunucu.info:8080/live/vns171/cMynxFnug3bG/17729.ts
-#EXTINF:-1 tvg-id="F694-C0051" tvg-name="Tr: CNN TURK FHD" tvg-logo="https://imagizer.imageshack.com/img921/3818/OV2fJ5.png" group-title="TR | HABER", 5067 Tr: CNN TURK FHD
+#EXTINF:-1 backup-url="http://vipmax.site:8080/live/vns171/cMynxFnug3bG/74009.ts" tvg-id="F694-C0051" tvg-name="Tr: CNN TURK FHD" tvg-logo="https://imagizer.imageshack.com/img921/3818/OV2fJ5.png" group-title="TR | HABER", 5067 Tr: CNN TURK FHD
 http://sunucu.info:8080/live/vns171/cMynxFnug3bG/74009.ts
-#EXTINF:-1 tvg-id="F694-C0058" tvg-name="Tr: CNN Int. HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/cnn_int.png" group-title="TR | HABER", 5068 Tr: CNN Int. HD
+#EXTINF:-1 backup-url="http://vipmax.site:8080/live/vns171/cMynxFnug3bG/102707.ts" tvg-id="F694-C0058" tvg-name="Tr: CNN Int. HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/cnn_int.png" group-title="TR | HABER", 5068 Tr: CNN Int. HD
 http://sunucu.info:8080/live/vns171/cMynxFnug3bG/102707.ts
-#EXTINF:-1 tvg-id="F764-C0273" tvg-name="Tr: Cinemax6 TV HD" tvg-logo="https://www.cinemax6.com/uploads/logo/dd.png" group-title="TR | SINEMA VIP", 5069 Tr: Cinemax6 TV HD
+#EXTINF:-1 backup-url="http://sunucu.info:8080/live/vns171/cMynxFnug3bG/360105.ts" tvg-id="F764-C0273" tvg-name="Tr: Cinemax6 TV HD" tvg-logo="https://www.cinemax6.com/uploads/logo/dd.png" group-title="TR | SINEMA VIP", 5069 Tr: Cinemax6 TV HD
 http://vipmax.site:8080/live/vns171/cMynxFnug3bG/360105.ts
-#EXTINF:-1 tvg-id="F764-C0283" tvg-name="Tr: B**n Series 1 HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/beIN-SERIES-DIGITAL-mono-color-1-250x150.png" group-title="TR | SINEMA DIGITURK", 5070 Tr: B**n Series 1 HD
+#EXTINF:-1 backup-url="http://sunucu.info:8080/live/vns171/cMynxFnug3bG/95229.ts" tvg-id="F764-C0283" tvg-name="Tr: B**n Series 1 HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/beIN-SERIES-DIGITAL-mono-color-1-250x150.png" group-title="TR | SINEMA DIGITURK", 5070 Tr: B**n Series 1 HD
 http://vipmax.site:8080/live/vns171/cMynxFnug3bG/95229.ts
-#EXTINF:-1 tvg-id="F764-C0284" tvg-name="Tr: B**n Series 2 HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/beIN-SERIES-DIGITAL-mono-color-2-250x150.png" group-title="TR | SINEMA DIGITURK", 5071 Tr: B**n Series 2 HD
+#EXTINF:-1 backup-url="http://sunucu.info:8080/live/vns171/cMynxFnug3bG/21458.ts" tvg-id="F764-C0284" tvg-name="Tr: B**n Series 2 HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/beIN-SERIES-DIGITAL-mono-color-2-250x150.png" group-title="TR | SINEMA DIGITURK", 5071 Tr: B**n Series 2 HD
 http://vipmax.site:8080/live/vns171/cMynxFnug3bG/21458.ts
-#EXTINF:-1 tvg-id="F764-C1436" tvg-name="NL: ESPN 1 HD" tvg-logo="" group-title="NL | HOLLAND", 5072 NL: ESPN 1 HD
+#EXTINF:-1 backup-url="http://sunucu.info:8080/live/vns171/cMynxFnug3bG/523017.ts" tvg-id="F764-C1436" tvg-name="NL: ESPN 1 HD" tvg-logo="" group-title="NL | HOLLAND", 5072 NL: ESPN 1 HD
 http://vipmax.site:8080/live/vns171/cMynxFnug3bG/523017.ts
-#EXTINF:-1 tvg-id="F764-C1437" tvg-name="NL: ESPN 2 HD" tvg-logo="" group-title="NL | HOLLAND", 5073 NL: ESPN 2 HD
+#EXTINF:-1 backup-url="http://sunucu.info:8080/live/vns171/cMynxFnug3bG/523018.ts" tvg-id="F764-C1437" tvg-name="NL: ESPN 2 HD" tvg-logo="" group-title="NL | HOLLAND", 5073 NL: ESPN 2 HD
 http://vipmax.site:8080/live/vns171/cMynxFnug3bG/523018.ts
-#EXTINF:-1 tvg-id="F764-C1438" tvg-name="NL: ESPN 3 HD" tvg-logo="" group-title="NL | HOLLAND", 5074 NL: ESPN 3 HD
+#EXTINF:-1 backup-url="http://sunucu.info:8080/live/vns171/cMynxFnug3bG/523019.ts" tvg-id="F764-C1438" tvg-name="NL: ESPN 3 HD" tvg-logo="" group-title="NL | HOLLAND", 5074 NL: ESPN 3 HD
 http://vipmax.site:8080/live/vns171/cMynxFnug3bG/523019.ts
-#EXTINF:-1 tvg-id="F764-C0050" tvg-name="Tr: CNN TURK HD" tvg-logo="https://imagizer.imageshack.com/img921/3818/OV2fJ5.png" group-title="TR | HABER", 5075 Tr: CNN TURK HD
+#EXTINF:-1 backup-url="http://sunucu.info:8080/live/vns171/cMynxFnug3bG/17729.ts" tvg-id="F764-C0050" tvg-name="Tr: CNN TURK HD" tvg-logo="https://imagizer.imageshack.com/img921/3818/OV2fJ5.png" group-title="TR | HABER", 5075 Tr: CNN TURK HD
 http://vipmax.site:8080/live/vns171/cMynxFnug3bG/17729.ts
-#EXTINF:-1 tvg-id="F764-C0051" tvg-name="Tr: CNN TURK FHD" tvg-logo="https://imagizer.imageshack.com/img921/3818/OV2fJ5.png" group-title="TR | HABER", 5076 Tr: CNN TURK FHD
+#EXTINF:-1 backup-url="http://sunucu.info:8080/live/vns171/cMynxFnug3bG/74009.ts" tvg-id="F764-C0051" tvg-name="Tr: CNN TURK FHD" tvg-logo="https://imagizer.imageshack.com/img921/3818/OV2fJ5.png" group-title="TR | HABER", 5076 Tr: CNN TURK FHD
 http://vipmax.site:8080/live/vns171/cMynxFnug3bG/74009.ts
-#EXTINF:-1 tvg-id="F764-C0058" tvg-name="Tr: CNN Int. HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/cnn_int.png" group-title="TR | HABER", 5077 Tr: CNN Int. HD
+#EXTINF:-1 backup-url="http://sunucu.info:8080/live/vns171/cMynxFnug3bG/102707.ts" tvg-id="F764-C0058" tvg-name="Tr: CNN Int. HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/cnn_int.png" group-title="TR | HABER", 5077 Tr: CNN Int. HD
 http://vipmax.site:8080/live/vns171/cMynxFnug3bG/102707.ts
