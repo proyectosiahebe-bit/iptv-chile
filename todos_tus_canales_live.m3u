@@ -7367,7 +7367,7 @@ http://directo.ddns.me:2082/Edithherrera/5588446688/50481
 http://directo.ddns.me:2082/Edithherrera/5588446688/3124
 #EXTINF:-1 tvg-name="DEPORTES TVC" group-title="NUEVAS DEPORTES", 4549 Deportes TVC
 http://directo.ddns.me:2082/Edithherrera/5588446688/77400
-#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/9462.ts" tvg-name="TUDN" tvg-logo="https://i.ibb.co/T1ymgkP/1200x630wa.png" group-title="NUEVAS DEPORTES", 4550 TUDN
+#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/110293.ts" tvg-name="TUDN" tvg-logo="https://i.ibb.co/T1ymgkP/1200x630wa.png" group-title="NUEVAS DEPORTES", 4550 TUDN
 http://solutionspremium.net:80/channel/user2620/37428848293/1310.ts
 #EXTINF:-1 tvg-name="SPORTV 3" tvg-logo="https://i.ibb.co/T4674Kw/1200px-Spor-TV-2017-logo-svg.png" group-title="NUEVAS DEPORTES", 4551 SporTV 3
 http://directo.ddns.me:2082/Edithherrera/5588446688/127252
@@ -10294,7 +10294,7 @@ http://181.118.155.254:8080/1054995456/Albert/5412
 http://181.118.155.254:8080/1054995456/Albert/5390
 #EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1521.ts" tvg-id="F014-C0016" tvg-name="ESPN 2" tvg-logo="" group-title="Nacionales", 5013 ESPN 2
 http://181.118.155.254:8080/1054995456/Albert/5391
-#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/146798.ts" tvg-id="F014-C0017" tvg-name="ESPN 3" tvg-logo="" group-title="Nacionales", 5014 ESPN 3
+#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1317.ts" tvg-id="F014-C0017" tvg-name="ESPN 3" tvg-logo="" group-title="Nacionales", 5014 ESPN 3
 http://181.118.155.254:8080/1054995456/Albert/5392
 #EXTINF:-1 tvg-id="F128-C0041" tvg-name="18 Golden Destroyers (1985)" tvg-logo="" group-title="", 5015 18 Golden Destroyers (1985)
 http://hostengine.live/movie/A12345/A12345/58791.mp4
@@ -10324,7 +10324,7 @@ http://go.iptvhn.net:25461/5366/53662022/1287
 http://go.iptvhn.net:25461/5366/53662022/836
 #EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1521.ts" tvg-id="F319-C0016" tvg-name="ESPN 2 HD" tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest/scale-to-width-down/300?cb=20130819193813" group-title="DEPORTES HD", 5028 ESPN 2 HD
 http://go.iptvhn.net:25461/5366/53662022/837
-#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/146798.ts" tvg-id="F319-C0017" tvg-name="ESPN 3  HD" tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg" group-title="DEPORTES HD", 5029 ESPN 3  HD
+#EXTINF:-1 backup-url="http://solutionspremium.net:80/channel/user2620/37428848293/1317.ts" tvg-id="F319-C0017" tvg-name="ESPN 3  HD" tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg" group-title="DEPORTES HD", 5029 ESPN 3  HD
 http://go.iptvhn.net:25461/5366/53662022/838
 #EXTINF:-1 tvg-id="F319-C0010" tvg-name="HISTORY HD" tvg-logo="http://iptvposter.xperfil.shop/poster/history.png" group-title="CULTURA", 5030 HISTORY HD
 http://go.iptvhn.net:25461/5366/53662022/802
